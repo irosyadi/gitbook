@@ -1,0 +1,44 @@
+{
+    "attachment_folder": "_v_attachments",
+    "created_time": "2020-06-15T22:47:37Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-06-15T22:48:28Z",
+            "modified_time": "2020-06-15T22:51:53Z",
+            "name": "markdown.md",
+            "tags": [
+            ]
+        }
+    ],
+    "image_folder": "",
+    "recycle_bin_folder": "_v_recycle_bin",
+    "sub_directories": [
+        {
+            "name": "blog"
+        },
+        {
+            "name": "note"
+        },
+        {
+            "name": "app"
+        },
+        {
+            "name": "book"
+        },
+        {
+            "name": "research"
+        },
+        {
+            "name": "programming"
+        },
+        {
+            "name": "buku"
+        }
+    ],
+    "tags": [
+    ],
+    "version": "1"
+}
