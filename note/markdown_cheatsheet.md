@@ -1,10 +1,24 @@
 # Complete Markdown Cheatsheet
 
+>> this is a quick guide [^1] for Markdown
+[^1]: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+
 # 1. Basic Markdown
 ---
 ## 1.1. Heading
 
-**Example**
+***Syntaxes***
+
+```md
+# h1 Heading
+## h2 Heading
+### h3 Heading
+#### h4 Heading
+##### h5 Heading
+###### h6 Heading
+```
+
+***Showcases***
 
 # h1 Heading
 ## h2 Heading
@@ -12,22 +26,43 @@
 #### h4 Heading
 ##### h5 Heading
 ###### h6 Heading
-h1 Heading
-==========
-h2 Heading
-----------
 
-*Note:*
+***Alternative Syntaxes***
+
+```md
+h1 Heading
+===================
+h2 Heading
+-------------------
+```
+
+***Showcases***
+
+h1 Heading
+========
+h2 Heading
+-------------
+
+*Notes:*
 - Always put a space between `#` and the heading name
-- not recommended: Heading with  `===` or `---` 
+- Heading with  `===` or `---` are not recommended
 
 ---
 ## 1.2. Paragraphs
-*Note:*
-- To create paragraphs, use a blank line to separate one or more lines of text.
-- Don't: ident paragraphs with spaces or tabs
 
-**Example**
+*Notes:*
+- To create paragraphs, use a blank line to separate one or more lines of text.
+- Don't ident paragraphs with spaces or tabs
+
+***Syntaxes***
+
+```md
+This is the first paragraph.
+
+This is the second paragraph
+```
+
+***Showcases***
 
 This is the first paragraph.
 
@@ -35,16 +70,31 @@ This is the second paragraph
 
 ---
 ## 1.3 Line Break
-*Note:*
-- To create a line break, end a line with two or more spaces, and then type return
-- *Or*, the `<br>` HTML tag
 
-**Example**
+*Notes:*
+- To create a line break, end a line with two or more spaces, and then type return
+- *Or* use the `<br>` HTML tag
+
+***Syntaxes***
+
+```md
+This is the first line.  
+And this is the second line.
+```
+
+***Showcases***
 
 This is the first line.  
 And this is the second line.
 
-*or*
+***Alternative Syntaxes***
+
+```md
+First line with the HTML tag after.<br>
+And the next line.
+```
+
+***Showcases***
 
 First line with the HTML tag after.<br>
 And the next line.
@@ -52,38 +102,82 @@ And the next line.
 ---
 ## 1.4. Emphasis
 
-**Example**
+***Syntaxes***
+
+```md
+**This is bold text**
+__This is bold text__
+*This is italic text*
+_This is italic text_
+We have **bold***italic*
+This text is ***really important***
+This text is ___really important___
+This text is __*really important*__
+This text is **_really important_**
+```
+
+***Showcases***
 
 **This is bold text**
 __This is bold text__
 *This is italic text*
 _This is italic text_
 We have **bold***italic*
-This text is ***really important***.
-This text is ___really important___.
-This text is __*really important*__.
-This text is **_really important_**.
+This text is ***really important***
+This text is ___really important___
+This text is __*really important*__
+This text is **_really important_**
 
 ---
 ## 1.5. Blockquotes
-*Note:*
+
+*Notes:*
+- Space is needed after the marker `>`;
+- You could just add only one `>` at the first line;
 - Blockquotes can be nested
 - Blockquotes can contain multiple paragraphs. Add a >  between the paragraphs.
 - Blockquotes can contain other Markdown formatted elements. But not all elements can be used.
 
-**Example**
+***Syntaxes***
+
+```md
+> Blockquotes can also be nested...
+>> ...by using additional greater-than signs right next to each other...
+> > > ...or with spaces between arrows.
+```
+
+***Showcases***
 
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 
-*Or*
+***Syntaxes***
+
+```md
+> Dorothy followed her through many of the beautiful rooms in her castle.
+>
+> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+```
+
+***Showcases***
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-*Or*
+***Syntaxes***
+
+```md
+> #### The quarterly results look great!
+>
+> - Revenue was off the chart.
+> - Profits were higher than ever.
+>
+>  *Everything* is going according to **plan**.
+```
+
+***Showcases***
 
 > #### The quarterly results look great!
 >
@@ -96,42 +190,102 @@ This text is **_really important_**.
 ## 1.6. Lists
 ### 1.6.1. Unordered
 
-**Example**
+***Syntaxes***
 
+```md
+
++ To start a list, there should be an empty line above
 + Create a list by starting a line with `+`, `-`, or `*`
-+ Sub-lists are made by indenting 2 spaces:
-  - Marker character change forces new list start:
-    * Ac tristique libero volutpat at
-    + Facilisis in pretium nisl aliquet
-    - Nulla volutpat aliquam velit
-+ Very easy!
+- Changing the sign will add a linespace
++ Add text under an item  
+This is a text under an item. Notice that there are two spaces at the end above.
+- Sub-lists are made by indenting 2 spaces:
+  * Item 2a
+  * Item 2b
+* Item 3
+
+To end a list, there should be one empty line above.
+```
+
+***Showcases***
+
++ To start a list, there should be an empty line above
++ Create a list by starting a line with `+`, `-`, or `*`
+- Changing the sign will add a linespace
++ Add text under an item  
+This is a text under an item. Notice that there are two spaces at the end above.
+- Sub-lists are made by indenting 2 spaces:
+  * Item 2a
+  * Item 2b
+* Item 3
+
+To end a list, there should be one empty line above.
 
 ### 1.6.2. Ordered
 
-**Example**
+***Syntaxes***
 
-1. Lorem ipsum dolor sit amet
-2. Consectetur adipiscing elit
-3. Integer molestie lorem at massa
+```md
+1. Item 1
+1. Item 2  
+Notice that the sequence number is irrelevant. 
+Markdown will change the sequence automatically when renderring. 
+Notice that there are two spaces at the end above to make a new text under item.
+3. Sub-lists are made by indenting 4 spaces
+    1. Item 3a
+    2. Item 3b
+8. Any number for item 4
+```
 
-*Or*
+***Showcases***
 
-1. You can use sequential numbers...
-1. ...or keep all the numbers as `1.`
-8. or any  number 
+1. Item 1
+1. Item 2  
+Notice that the sequence number is irrelevant.  
+Markdown will change the sequence automatically when renderring.  
+Notice that there are two spaces at the end above to make a new text under item.
+3. Sub-lists are made by indenting 4 spaces
+    1. Item 3a
+    2. Item 3b
+8. Any number for item 4
 
-*But, if you want start numbering with offset:*
+***Syntaxes***
 
-57. foo
-1. bar
+```md
+57. will started with offset 57
+1. so it will be 58
+```
+
+***Showcases***
+
+57. will started with offset 57
+1. so it will be 58
 
 ---
 
 ## 1.7. Elements in Lists
-*Note:*
+
+*Notes:*
 - To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab
 
-**Example**
+***Syntaxes***
+
+```md
+* This is the first list item.
+* Here's the second list item.
+    I need to add another paragraph below the second list item.
+* And here's the third list item.
+```
+
+***Showcases***
+
+* This is the first list item.
+* Here's the second list item.
+ I need to add another paragraph below the second list item.
+* And here's the third list item.
+
+
+***Showcases***
 
 *   This is the first list item.
 *   Here's the second list item.
@@ -140,7 +294,7 @@ This text is **_really important_**.
 
 *   And here's the third list item.
 
-*Or*
+***Showcases***
 
 *   This is the first list item.
 *   Here's the second list item.
@@ -149,14 +303,22 @@ This text is **_really important_**.
 
 *   And here's the third list item.
 
-*Or, for image in the list*
+
+***Syntaxes***
+
+```md
+1.  Open the file containing the Linux mascot.
+2.  Linux mascot called Tux.
+    ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+3.  Tux is cool.
+```
+
+***Showcases***
 
 1.  Open the file containing the Linux mascot.
-2.  Marvel at its beauty.
-
+2.  Linux mascot called Tux.
     ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
-	
-3.  Close the file.
+3.  Tux is cool.
 
 
 *But, for text element in ordered list, add five spaces*
@@ -193,18 +355,46 @@ This text is **_really important_**.
 ---
 ## 1.8. Code
 
-**Example**
+*Notes:*
+- Inline codes is written inside \` \`
+- or idented by add four spaces or one tab before
 
-This isi inline `code`
+***Syntaxes***
 
-*Or for indented code, add four spaces or one tab*
+```md
+This is inline `code`.
+```
+
+***Showcases***
+
+This is inline `code`.
+
+***Syntaxes***
+
+```md
+    // Some comments
+    line 1 of code
+    line 2 of code
+    line 3 of code
+```
+
+***Showcases***
 
     // Some comments
     line 1 of code
     line 2 of code
     line 3 of code
-	
-*or like this*
+
+***Syntaxes***
+
+```md
+    <html>
+      <head>
+        <title>Test</title>
+      </head>
+```
+
+***Showcases***
 
     <html>
       <head>
@@ -267,18 +457,41 @@ It was a [hobbit-hole][hh], and that means comfort.
 ---
 ## 1.10. Images
 
-**Example**
+*Notes:*
+- It is not recommended to use image links in reference format. Some apps will not preview those images.
+- Specifying size of image is supported only in some extended markdown (such as *markdown-it*).
 
-![Minion](https://octodex.github.com/images/minion.png)
-![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
+***Syntaxes***
 
-*Or, use footnote style*
+```md
+![Image Alt Text](/url/to/image.png "Optional Text")
+![Image Alt Text](/url/to/image.png "Image specified with width and height" =800x600)
+![Image Alt Text](/url/to/image.png =800x600)
+![Image Alt Text](/url/to/image.png "Image specified with width" =800x)
+![Image Alt Text](/url/to/image.png "Image specified with height" =x600)
+```
 
-![Alt text][id1]
-![Borobudur][id2]
+***Showcases***
 
-[id1]: https://octodex.github.com/images/dojocat.jpg  "The Dojocat"
-[id2]: https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Borobudur_ship.JPG/220px-Borobudur_ship.JPG
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Wikipedia logo with specific size" =120x120)
+
+***Syntaxes***
+```md
+![Image Alt Text][id1]
+![Image Alt Text][id2]
+
+[id1]: /url/to/image.png "Optional Text"
+[id2]: /url/to/image.png
+```
+
+***Showcases***
+
+![Wikipedia][id1]
+![Wikipedia Logo][id2]
+
+[id1]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png  "Wikipedia Logo"
+[id2]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png
 
 ---
 ## 1.11. Escaping Characters
@@ -326,22 +539,48 @@ Link to [Heading IDs](#heading-ids) or
 
 ----
 ## 2.2. Code Fencing and Highlighting
-**Example, block code "fences", without idented**
+*Notes:*
+- We can make block code fences without need to be idented
+- `lang` is optional to specify the language of the code; if not specified, the app won't highlight the code;
+- We need one empty line before
+
+***Syntaxes***
+
 ```
-Sample text here...
+    ```
+    This is a fenced code block.
+    ```
 ```
 
-*Or*
+***Syntaxes***
+
+```
+    ~~~
+    This is another fenced code block.
+    ~~~
+```
+
+***Showcases***
+
+```
+This is a fenced code block.
+```
+
 ~~~
-Sample text here...
+No language indicated, so no syntax highlighting.
+s = "There is no highlighting for this."
+But let's throw in a <b>tag</b>.
 ~~~
 
-**Or with syntax highlighting**
+
+***Showcases*** (`javascript`)
 
 ```javascript
 var s = "JavaScript syntax highlighting";
 alert(s);
 ```
+
+***Showcases*** (`python`)
 
 ```python
 def function():
@@ -350,21 +589,32 @@ def function():
     print s
 ```
 
+***Showcases*** (`ruby`)
+
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
-```
-No language indicated, so no syntax highlighting.
-s = "There is no highlighting for this."
-But let's throw in a <b>tag</b>.
-```
-
 ---
 ## 2.3. Tables
-**Example**
+
+*Notes:*
+- we can set alignment in table with a colon (:)
+- we can add formatting text, links, code and HTML character code, but not: heading, headings, blockquotes, lists, horizontal rules, images, HTML tags, or fenced code
+
+***Syntaxes***
+
+```md
+| Option | Description |
+| ------ | ----------- |
+| data   | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext    | extension to be used for dest files. |
+```
+
+***Showcases***
 
 | Option | Description |
 | ------ | ----------- |
@@ -372,16 +622,32 @@ But let's throw in a <b>tag</b>.
 | engine | engine to be used for processing templates. Handlebars is the default. |
 | ext    | extension to be used for dest files. |
 
-*Or use [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)*
+***Syntaxes***
 
-*Or add alignment with a colon (:)*
+```md
+| Syntax      | Description | Test Text is long    |
+| :---        |    :----:   |          ---: |
+| Header from      | Title       | Here's this  is |
+| Paragraph   | Text        | And more   |
+```
+
+***Showcases***
 
 | Syntax      | Description | Test Text is long    |
 | :---        |    :----:   |          ---: |
 | Header from      | Title       | Here's this  is |
 | Paragraph   | Text        | And more   |
 
- *Or add formatting text, links, code and HTML character code, but not: heading, headings, blockquotes, lists, horizontal rules, images, HTML tags, or fenced code*
+***Syntaxes***
+
+```md
+| Syntax      | Description | Test Text is long    |
+| :---        |    :----:   |          ---: |
+| [Example](https://www.example.com/)      | **Title**       | `Here's this  is` |
+| Paragraph   | Text        | And more   |
+```
+
+***Showcases***
 
 | Syntax      | Description | Test Text is long    |
 | :---        |    :----:   |          ---: |
@@ -575,39 +841,505 @@ This is  <del>tags</del>
 This is font awesome :fa-star: 
 
 ---
-## 2.16. Chart and Diagram
+## 2.16. Diagram
 
-**Example Flow Chart**
+*Notes:*
+- Your app should support the specific library or engine to draw the diagram
+- You should specify particular language of the fenced code block and write the definition of your diagram within it.
 
-```flow
-st=>start: Login
-op=>operation: Login operation
-cond=>condition: Successful Yes or No?
-e=>end: To admin
+### 2.16.1 Mermaid
+*Notes:*
+- It's implemented in showdown-mermaid.js
+- Rendering diagrams of Flowchart or Sequence or Gantt
+- Using [mermaid](https://github.com/knsv/mermaid)
+- Check [mermaid doc](https://mermaidjs.github.io) for more information.
+- Code inside `{ }` is optional
 
-st->op->cond
-cond(yes)->e
-cond(no)->op
+***Syntaxes***
+- Flowchart syntax:
+
+        ```mermaid {"align": "left | center | right", "codeblock": true | false}
+        graph TD;
+        <code content>
+        ```
+
+- Sequence diagram syntax:
+
+        ```mermaid {"align": "left | center | right", "codeblock": true | false}
+        sequenceDiagram
+        <code content>
+        ```
+
+- Gantt diagram syntax:
+
+        ```mermaid {"align": "left | center | right", "codeblock": true | false}
+        gantt
+        <code content>
+        ```
+
+***Showcases***
+
+- Flowchart
+
+```mermaid {"align":"center", "codeblock": true}
+graph TD;
+           A-->B;
+           A-->C;
+           B-->D;
+           C-->D;
 ```
 
-**Example Sequence Diagram**
-
-```seq
-Andrew->China: Says Hello 
-Note right of China: China thinks\nabout it 
-China-->Andrew: How are you? 
-Andrew->>China: I am good thanks!
+```mermaid {"align":"center"}
+graph TD;
+           A-->B;
+           A-->C;
+           B-->D;
+           C-->D;
 ```
 
-**Example Mermaid**
+- Sequence diagram
+
+```mermaid {"align":"right"}
+sequenceDiagram
+           participant Alice
+           participant Bob
+           Alice->>John: Hello John, how are you?
+           loop Healthcheck
+               John->>John: Fight against hypochondria
+           end
+           Note right of John: Rational thoughts <br/>prevail!
+           John-->>Alice: Great!
+           John->>Bob: How about you?
+           Bob-->>John: Jolly good!
+```
+
+- Gantt diagram
 
 ```mermaid
-graph TD;
-  A-->B;
-  A-->C;
-  B-->D;
-  C-->D;
+       gantt
+       dateFormat  YYYY-MM-DD
+       title Adding GANTT diagram to mermaid
+       excludes weekdays 2014-01-10
+
+       section A section
+       Completed task            :done,    des1, 2014-01-06,2014-01-08
+       Active task               :active,  des2, 2014-01-09, 3d
+       Future task               :         des3, after des2, 5d
+       Future task2               :         des4, after des3, 5d
 ```
+
+### 2.16.2 Plantuml
+*Notes:*
+- It's implemented in showdown-plantuml.js, 
+- Render diagrams of uml,
+- Using [plantuml](http://plantuml.com),
+- Check [plantuml website](http://plantuml.com/) fpr more information.
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+    ```plantuml {"align": "left | center | right", "codeblock": true | false}
+    @startuml
+    <code content>
+    @enduml
+    ```
+
+***Showcases***
+
+```plantuml  {"align":"right"}
+      @startuml
+      participant User
+
+      User -> A: DoWork
+      activate A
+
+      A -> B: << createRequest >>
+      activate B
+
+      B -> C: DoWork
+      activate C
+      C --> B: WorkDone
+      destroy C
+
+      B --> A: RequestCreated
+      deactivate B
+
+      A -> User: Done
+      deactivate A
+
+      @enduml
+```
+
+### 2.16.3 Flowchart
+*Notes:*
+- It's implemented in showdown-flowchart.js
+- Render diagrams of flowchart
+- Using [flowchart.js](https://github.com/adrai/flowchart.js)
+- Check [flowchart website](http://flowchart.js.org/) for more information.
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+    ```flow {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Syntaxes***
+
+    ```flowchart {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Showcases***
+
+```flow  {"align":"center"}
+st=>start: Start:>http://www.google.com[blank]
+e=>end:>http://www.google.com
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes
+or No?:>http://www.google.com
+io=>inputoutput: catch something...
+para=>parallel: parallel tasks
+
+st->op1->cond
+cond(yes)->io->e
+cond(no)->para
+para(path1, bottom)->sub1(right)->op1
+para(path2, top)->op1
+```
+***Showcases***
+
+```flowchart {"align":"right"}
+st=>start: Start
+e=>end
+op1=>operation: My Operation
+sub1=>subroutine: My Subroutine
+cond=>condition: Yes
+or No?:>http://www.google.com
+io=>inputoutput: catch something
+st->op1->cond
+cond(yes)->io->e
+cond(no)->sub1(right)->op1
+```
+
+### 2.16.4 Graphviz's dot
+*Notes:*
+- It's implemented in showdown-viz.js
+- Render diagrams of graphviz's dot 
+- Using [viz.js](https://github.com/mdaines/viz.js).
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+The \<engine name> of json's "engine" field value is 'circo', 'dot', 'neato', 'osage', 'twopi' in syntax language attribute.
+
+    ```dot {"engine": "<engine name>", "align": "<align>"}
+    <code content>
+    ```
+
+***Showcases***
+- Dot example with dot engine:
+
+```dot {"engine":"dot", "align":"center"}
+digraph G {
+    main -> parse -> execute;
+    main -> init;
+    main -> cleanup;
+    execute -> make_string;
+    execute -> printf
+    init -> make_string;
+    main -> printf;
+    execute -> compare;
+}
+```
+
+<br>
+
+- Dot example with circo engine:
+
+```dot {"engine":"circo", "align":"right"}
+digraph G {
+    main -> parse -> execute;
+    main -> init;
+    main -> cleanup;
+    execute -> make_string;
+    execute -> printf
+    init -> make_string;
+    main -> printf;
+    execute -> compare;
+}
+```
+
+### 2.16.5 Railroad diagrams
+*Notes:*
+- It's implemented in showdown-viz.js, 
+- Render diagrams of railroad 
+- Using [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams).
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+    ```railroad {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Showcases***
+
+```railroad {"align":"center"}
+Diagram(
+  Optional('+', 'skip'),
+    Choice(0,
+      NonTerminal('name-start char'),
+      NonTerminal('escape')),
+      ZeroOrMore(
+        Choice(0,
+          NonTerminal('name char'),
+          NonTerminal('escape'))))
+```
+
+### 2.16.6 WaveDrom
+*Notes:*
+- It's implemented in showdown-viz.js, 
+- Render diagrams of wavedrom 
+- Using [wavedrom](https://github.com/wavedrom/wavedrom)
+- Check [wavedrom website](https://wavedrom.com) for more information.
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+    ```wavedrom {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Showcases***
+
+```wavedrom {"align":"center"}
+{signal: [
+  {name: 'clk', wave: 'p.....|...'},
+  {name: 'dat', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
+  {name: 'req', wave: '0.1..0|1.0'},
+  {},
+  {name: 'ack', wave: '1.....|01.'}
+]}
+```
+
+***Showcases***
+
+```wavedrom {"align":"right"}
+{ signal: [
+  { name: "pclk", wave: 'p.......' },
+  { name: "Pclk", wave: 'P.......' },
+  { name: "nclk", wave: 'n.......' },
+  { name: "Nclk", wave: 'N.......' },
+  {},
+  { name: 'clk0', wave: 'phnlPHNL' },
+  { name: 'clk1', wave: 'xhlhLHl.' },
+  { name: 'clk2', wave: 'hpHplnLn' },
+  { name: 'clk3', wave: 'nhNhplPl' },
+  { name: 'clk4', wave: 'xlh.L.Hx' },
+]}
+```
+
+### 2.16.7 Vega and Vega-Lite
+*Notes:*
+- It's implemented in showdown-vega.js,
+- Render diagrams of [Vega](https://github.com/vega/vega) and [Vega-Lite](https://github.com/vega/vega-lite)
+- Using [vega-embed](https://github.com/vega/vega-embed),
+- Check [vega website](https://vega.github.io/vega/) and [vega-lite website](https://vega.github.io/vega-lite) for more information.
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+    ```vega {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Syntaxes***
+
+    ```vega-lite {"align": "left | center | right", "codeblock": true | false}
+    <code content>
+    ```
+
+***Showcases***
+
+- Vega example:
+
+```vega {"align":"center"}
+{
+  "$schema": "https://vega.github.io/schema/vega/v5.json",
+  "width": 200,
+  "height": 200,
+  "autosize": "none",
+
+  "signals": [
+    {
+      "name": "startAngle", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
+    },
+    {
+      "name": "endAngle", "value": 6.29,
+      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
+    },
+    {
+      "name": "padAngle", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 0.1}
+    },
+    {
+      "name": "innerRadius", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 90, "step": 1}
+    },
+    {
+      "name": "cornerRadius", "value": 0,
+      "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5}
+    },
+    {
+      "name": "sort", "value": false,
+      "bind": {"input": "checkbox"}
+    }
+  ],
+
+  "data": [
+    {
+      "name": "table",
+      "values": [
+        {"id": 1, "field": 4},
+        {"id": 2, "field": 6},
+        {"id": 3, "field": 10},
+        {"id": 4, "field": 3},
+        {"id": 5, "field": 7},
+        {"id": 6, "field": 8}
+      ],
+      "transform": [
+        {
+          "type": "pie",
+          "field": "field",
+          "startAngle": {"signal": "startAngle"},
+          "endAngle": {"signal": "endAngle"},
+          "sort": {"signal": "sort"}
+        }
+      ]
+    }
+  ],
+
+  "scales": [
+    {
+      "name": "color",
+      "type": "ordinal",
+      "domain": {"data": "table", "field": "id"},
+      "range": {"scheme": "category20"}
+    }
+  ],
+
+  "marks": [
+    {
+      "type": "arc",
+      "from": {"data": "table"},
+      "encode": {
+        "enter": {
+          "fill": {"scale": "color", "field": "id"},
+          "x": {"signal": "width / 2"},
+          "y": {"signal": "height / 2"}
+        },
+        "update": {
+          "startAngle": {"field": "startAngle"},
+          "endAngle": {"field": "endAngle"},
+          "padAngle": {"signal": "padAngle"},
+          "innerRadius": {"signal": "innerRadius"},
+          "outerRadius": {"signal": "width / 2"},
+          "cornerRadius": {"signal": "cornerRadius"}
+        }
+      }
+    }
+  ]
+}
+```
+
+<br>
+
+- Vega-Lite example:
+
+```vega-lite {"align":"right"}
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "description": "Plots two functions using a generated sequence.",
+  "width": 300,
+  "height": 150,
+  "data": {
+    "sequence": {
+      "start": 0,
+      "stop": 12.7,
+      "step": 0.1,
+      "as": "x"
+    }
+  },
+  "transform": [
+    {
+      "calculate": "sin(datum.x)",
+      "as": "sin(x)"
+    },
+    {
+      "calculate": "cos(datum.x)",
+      "as": "cos(x)"
+    },
+    {
+      "fold": ["sin(x)", "cos(x)"]
+    }
+  ],
+  "mark": "line",
+  "encoding": {
+    "x": {
+      "type": "quantitative",
+      "field": "x"
+    },
+    "y": {
+      "field": "value",
+      "type": "quantitative"
+    },
+    "color": {
+      "field": "key",
+      "type": "nominal",
+      "title": null
+    }
+  }
+}
+```
+
+### 2.16.8 Network Sequence
+*Notes:*
+- It's implemented in showdown-sequence.js, 
+- Render diagrams of sequence 
+- Using [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams).
+- Code inside `{ }` is optional
+
+***Syntaxes***
+
+The \<theme name> of json's "theme" field value is "hand" or "simple" in syntax language attribute;
+
+    ```sequence {"theme": "<theme name>", "align": "<align>"}
+    <code content>
+    ```
+
+***Showcases***
+
+- Sequence example with hand theme:
+
+```sequence {"theme":"hand", "align":"center"}
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
+<br>
+
+- Sequence example with simple theme:
+
+```sequence {"theme":"simple", "align":"right"}
+Alice->Bob: Hello Bob, how are you?
+Note right of Bob: Bob thinks
+Bob-->Alice: I am good thanks!
+```
+
 ---
 
 ## 2.17. Table of Content Generation
@@ -646,16 +1378,46 @@ item **bold red**{style="color:red"}
 in HTML: item <strong style="color:red;">bold red</strong>
 
 ---
-## 2.13. Custom containers
+## 2.13. Custom Containers or Alerts
+*Notes:*
+- Some engine such as `Markdown-it`, you can add some alert text.
+- Available variants:
 
-**Example**
+```
+alert-primary
+alert-secondary
+alert-success
+alert-info
+alert-warning
+alert-danger
+alert-light
+alert-dark
+```
 
-::: warning
+***Syntaxes***
+
+```md
+::: alert-info
+
+This is an info text.
+
+:::
+
+::: alert-danger
+
+This is a danger text.
+
+:::
+```
+
+***Showcases***
+
+::: alert-warning
 *here be dragons*
 :::
 
 in  HTML
-<div class="warning">
+<div class="alert-warning">
 <p><em>here be dragons</em></p>
 </div>
 
