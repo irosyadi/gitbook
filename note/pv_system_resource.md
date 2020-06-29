@@ -1,4 +1,4 @@
-# pv_system_design
+# PV System Resources
 
 ## Link of PV Learning
 - [PV Education](https://www.pveducation.org/pvcdrom/introduction/introduction)

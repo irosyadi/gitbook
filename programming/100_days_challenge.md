@@ -1,4 +1,4 @@
-# 100_days_challenge
+# 100 Days Challenge
 
 1. [100 days of X](https://www.100daysofx.com/)
 2. [100 days of Code](https://www.100daysofcode.com/resources/)

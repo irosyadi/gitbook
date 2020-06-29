@@ -1,10 +1,8 @@
-# Welcome to My Blog
+# About Blog
 
+This blog will contain my weekly notes for everything I found and thought.
+It will be messed notes since my approach is *just write*.
+Sometimes I will write in English, in the other times it will in Indonesian.
+The notes work as a starting point to more deep and through notes in another repo.
 
-## this is a markdown
-
-Welcome to my Blog.
-I'm tryng to daily writing to note all of my snippet knowledge.
-I'm starting  with [this][1].
-
-[1]: /blog/20200516.md
+So just left it if you didn't like it.

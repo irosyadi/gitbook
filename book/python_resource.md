@@ -1,4 +1,4 @@
-# python_resource
+# List of Python Resources
 
 ## Awesome Lists of Python
 1. [feiskyer](https://github.com/feiskyer/python-tutorials)

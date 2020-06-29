@@ -1,4 +1,5 @@
-## PV System
+## PV System Design
+
 Differences of [system](https://energyinformative.org/grid-tied-off-grid-and-hybrid-solar-systems/)
 - Off Grid 
     - Only need SCC (with MPPT) for storage in battery

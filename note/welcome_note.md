@@ -1,3 +1,3 @@
-## Welcome to my Notes
+## About Note
 
-It will contain daily link I share with you.
+This repo will contain more deep and detiled explanation from what I wrote in blog.
