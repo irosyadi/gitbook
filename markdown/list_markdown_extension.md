@@ -1,7 +1,13 @@
 # List of Extension in Markdown
 
+## Commonmark
+
+Tries to implement all possible elements, while being unambiguous. Notably, CommonMark not yet includes a specification for footnotes.
+
 ## 1. GFM
 [Github Flavored Markdown](https://github.github.com/gfm/)
+
+This is a variety of Markdown invented by the hosting platform GitHub and is today one of the most common dialects.
 
 ### Tables (extension)
 
@@ -490,7 +496,7 @@ HTML code:
 
 ## 6. Pandoc
 [Pandoc Manual](https://pandoc.org/MANUAL.html)
-
+Pandoc Markdown is a superset of GitHub flavoured Markdown and adds support for even more elements.
 
 ## 7. Kramdown
 [Kramdown](https://kramdown.gettalong.org/quickref.html)

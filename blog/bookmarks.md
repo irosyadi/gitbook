@@ -17,3 +17,5 @@
   - A database of paper airplanes with easy to follow folding instructions, video tutorials and printable folding plans. Find the best paper airplanes that fly the furthest and stay aloft the longest.
 - [Data Journalism](https://datajournalism.com/)
   - Data Journalism menyediakan buku berlisensi CC-BY-SA yang berisi tentang bagaimana jurnalisme berbasis data. Ia juga menyediakan tools untuk melatih jurnalis bekerja dengan data.
+- [Kinopio](https://kinopio.club/), menggambar peta pikiran dengan fun
+- [Tao of Mac](https://taoofmac.com/space) a blog, not only for Mac, but mainly reached from HN

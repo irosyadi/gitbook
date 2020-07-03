@@ -87,6 +87,11 @@
 - [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
 
+## Social Humanity
+- [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
+- [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
+- 
+
 ## Extraterrestrial
 
 ### Nightsky
@@ -115,3 +120,10 @@
 - [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - Interactive 3D map of the universe.
 
 
+## Tools for Open Street Map
+- [Open Layers](https://openlayers.org/) -  App to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source
+- [Switch2OSM](https://switch2osm.org/) - Campaign and help docs for using OSM
+- [Maptiler](http://maptiler.com/maps)
+- [Open Route Service](https://maps.openrouteservice.org/directions)
+- [Leaflet JS](https://leafletjs.com/)
+- [Umap](https://umap.openstreetmap.fr/en/)

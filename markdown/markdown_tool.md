@@ -64,6 +64,8 @@ List at [wiki](https://www.wikiwand.com/en/Lightweight_markup_language)
 ### Offline
 - [Mindforger](https://github.com/dvorka/mindforger/releases)
 - Ghostwriter
+- [Stackedit](https://stackedit.io)
+- [Editor.md](https://pandao.github.io/editor.md/en.html)
 
 
 
