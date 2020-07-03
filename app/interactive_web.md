@@ -1,4 +1,4 @@
-# interactive_web
+# Interactive Website
 
 ## List of interactive Webs
 1. [NCase](https://ncase.me/)

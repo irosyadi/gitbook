@@ -1,4 +1,4 @@
-# rss_tool
+# RSS Tools
 
 ## App to get RSS from Non-RSS Web
 1. [RSS Box](https://rssbox.herokuapp.com/) [Github ](https://github.com/stefansundin/rssbox) Open Source
@@ -11,9 +11,6 @@
 6. [Fraidy Cat](https://fraidyc.at/)
 7. [Fivefilters](https://createfeed.fivefilters.org/)
 8. [Feedblur](https://github.com/dewey/feedbridge)
-
-
-
 
 ## Discussion
 1. [Hacker News](https://news.ycombinator.com/item?id=23583629)

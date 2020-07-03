@@ -1,18 +1,8 @@
-# Extended Markdown
+# Extended for Commonmark
 
 ## Markdown-it Extension
-1. 
-
-
-
 
 ## Newline as hardbreak <br>
-
-
-
-
-
-
 
 ## Linkify
 

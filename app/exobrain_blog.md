@@ -1,4 +1,4 @@
-# exobrain_blog
+# List of Exobrain Blogs
 
 > list of interesting exobrain, second brain, zettelkasten or evergreen blogs
 

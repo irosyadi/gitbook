@@ -1,4 +1,4 @@
-# gif
+# GIF Tools
 
 ## How to pronounce gif?
 *jif* (period).

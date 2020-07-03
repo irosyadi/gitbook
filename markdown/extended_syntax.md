@@ -1,3 +1,5 @@
+# Extended Syntax of Markdown
+
 ## Overview
 
 The [basic syntax](/basic-syntax) outlined in John Gruber's original design document added many of the elements needed on a day-to-day basis, but it wasn't enough for some people. That's where extended syntax comes in.

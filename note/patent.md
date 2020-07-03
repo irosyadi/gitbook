@@ -1,6 +1,5 @@
 # Paten
 
-
 ## Apa itu Invensi?
 Temuan vs Invensi
 Invensi melibatkan rekayasa manusia, bukan sekedar menemukan (temuan) sesuatu di alam.

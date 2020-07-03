@@ -1,4 +1,4 @@
-# image_editor
+# Image Editor
 
 ## Online
 1. [Photopea](https://www.photopea.com/)

@@ -1,4 +1,4 @@
-# notetaking_tool
+# List of Notetaking Tools
 
 ## Web-based
 1. [Collected Notes](https://collectednotes.com/)
