@@ -1,12 +1,12 @@
 # Complete Markdown Cheatsheet
 
->> this is a quick guide [^1] for Markdown
-[^1]: [Mastering Markdown](https://guides.github.com/features/mastering-markdown/).
+Common Mark Implementation
 
 # 1. Basic Markdown
 ---
 ## 1.1. Heading
 
+*Support: all markdown flavour*
 ***Syntaxes***
 
 ```md
@@ -27,7 +27,7 @@
 ##### h5 Heading
 ###### h6 Heading
 
-***Alternative Syntaxes***
+***Syntaxes***
 
 ```md
 h1 Heading
@@ -431,13 +431,10 @@ See the section on [`code`](#code).
 
 ## 1.11. Reference-style Links
 
-**Example: The First Part**
 
 I know [Indonesia][1]
-I also know [etymology of Indonesia] [2]
+I also know [etymology of Indonesia][2]
 I knew [History of Indonesia][3]
-
-**Example: The Second Part**
 
 [1]: <https://en.wikipedia.org/wiki/Indonesia>
 [2]: https://en.wikipedia.org/wiki/Indonesia#Etymology "Etymology of Indonesia"
@@ -474,7 +471,7 @@ It was a [hobbit-hole][hh], and that means comfort.
 ***Showcases***
 
 ![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png)
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Wikipedia logo with specific size" =120x120)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Wikipedia logo with specific size" =60x60)
 
 ***Syntaxes***
 ```md
@@ -529,13 +526,20 @@ ___
 ---
 
 ## 2.1. Heading ID
+Support: Markdown Extra , Maruku, kramdown 
+
+Markdown:
+```md
+### My Great Heading {#heading-ids}
+```
+
+Markdown
 ### My Great Heading {#heading-ids}
 
 In HTML:
-<h3 id="custom-id">My Great Heading</h3>
+<h3 id="heading-ids">My Great Heading</h3>
 
-Link to [Heading IDs](#heading-ids) or
-[Heading IDs](https://www.markdownguide.org/extended-syntax#heading-ids)
+Link to [Heading IDs](#heading-ids) 
 
 ----
 ## 2.2. Code Fencing and Highlighting
@@ -1422,3 +1426,6 @@ in  HTML
 </div>
 
 ---
+
+## 2.14. Comments
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.
