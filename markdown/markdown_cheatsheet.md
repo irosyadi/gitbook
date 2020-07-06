@@ -1402,27 +1402,65 @@ alert-dark
 
 ```md
 ::: alert-info
-
 This is an info text.
-
 :::
 
 ::: alert-danger
-
 This is a danger text.
-
 :::
 ```
 
 ***Showcases***
 
-::: alert-warning
-*here be dragons*
+::: alert-primary
+alert-primary
 :::
+
+::: alert-secondary
+alert-secondary
+:::
+
+::: alert-success
+alert-success
+:::
+
+::: alert-info
+**alert-info**
+:::
+
+::: alert-warning
+alert-warning
+::: 
+
+::: alert-danger
+alert-danger
+::: 
+
+::: alert-light
+alert-light
+::: 
+
+::: alert-dark
+alert-dark
+::: 
+
+
 
 in  HTML
 <div class="alert-warning">
-<p><em>here be dragons</em></p>
+<p><em>alert-warning</em></p>
+</div>
+
+or
+
+<div class="alert alert-info">
+  <i class="fas fa-info-circle"></i> <strong>alert-info</strong> 
+</div>
+
+or
+
+<div class="alert alert-warning">
+  <i class="fas fa-warning-circle"></i> <strong>alert-warning</strong> 
 </div>
 
 ---

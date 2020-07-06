@@ -13,6 +13,7 @@
 6. [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
 7. [MD Tutorial](https://agea.github.io/tutorial.md/)
 8. [List Markdown Flavors](https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors)
+9. [Arctic Studio](https://arcticicestudio.github.io/styleguide-markdown/)
 
 ## Markdown Parsing Comparisons
 3. [Babelmark](https://johnmacfarlane.net/babelmark2/) for Markdown Guide Comparison, [FAQ](https://johnmacfarlane.net/babelmark2/faq.html)

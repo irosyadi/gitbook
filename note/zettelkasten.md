@@ -4,8 +4,19 @@
 - [Note from Emvi](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
 - [Clarestory-1](https://clerestory.netlify.app/zk/) [Clarestory-2 Follow Up](https://clerestory.netlify.app/zk1/)
 - [Zettelkaste vs PARA](https://zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/)
+- [Reddit Wiki](https://zk.zettel.page/)
+- [Zettelkasten Method](https://leananki.com/zettelkasten-method-smart-notes/)
+- [Secret of Zettel](https://medium.com/@philhoutz/make-your-notes-work-for-you-the-secret-sauce-of-zettelkasten-cb901a3cce00)
+- [How to Build a Learning Machine](https://superorganizers.substack.com/p/how-to-build-a-learning-machine)
+- [Three Layers of Zettel](https://zettelkasten.de/posts/three-layers-structure-zettelkasten/)
+- [How Germans Writer](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
+- [Living with Zettelkasten](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
 
 ## Tools
+
+### Zettelkasten Software Comparison
+- [Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
+- [Mac Only](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
 
 ### The Zettelkasten / Slip-box
 
@@ -46,6 +57,8 @@
 - [Zettelkasten Improves Thinking](https://zettelkasten.de/posts/zettelkasten-improves-thinking-writing/)
 - [Living with Zettelkasten](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
 - [Alefore Github](https://github.com/alefore/weblog/blob/master/zettelkasten.md)
+- [Zettlr What is Zettelkasten](https://www.zettlr.com/post/what-is-a-zettelkasten)
+- [Thinktool](https://thinktool.io/blog/zettelkasten-principles.html)
 
 ## Notes about Zettelkasten
 - Zettelkasten-like approaches are useful when you're trying to _synthesize_ knowledge into a framework/perspective, sometimes as a way to find and contextualize new ideas. If one doesn't care about that, and ones notes already have a well-defined taxonomy/structure then the linking feature of Zettelkasten is not particularly useful.
@@ -94,6 +107,19 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
   - Most of the benefit comes from the act of writing, but there’s an inevitable sense of futility that comes about if those writings are inevitably lost to time. By giving each note an ongoing purpose (to be linked to), the Zettelkasten system dodges this particular trigger to stop writing notes.
   - Zettelkasten has its benefits: If you want to be able to casually browse through your notes, looking for ideas to spark your imagination, Zettelkasten will most likely have superior results since the ideas are already summarized right there for you. Zettelkasten makes it easy to compose essays and put together speeches, but that’s because you’ve already done the hard work of writing down your thoughts ahead of time.
 - It’s requirement to link all notes ahead of time is a HUGE barrier to entry, so Zettlekasten may be best suited to people with a strong research oriented disposition who’re already used to similar practices. 
+- Why not jut search?
+  - I think this trend of better knowledge tools is missing two very important pieces of human nature
+    - If we have time to enter something into a knowledge base of any kind - then we have time to just jot it on a piece of paper.
+    - If we dont have time (or think it is important at that moment) then what solves the problem for us is not a knowledge base, but search.
+- There are problems with search: you have to know to search for something, and you have to know how to search for it. In some cases this is an issue, in some it isn't. I have had many times over the years where I reviewed my notes and reminded myself of things I had completely forgotten. Search is useless in that case. But in any event, there's no conflict between a knowledge base and search. They are different things and you can search a knowledge base.
+- [Zettl practice] I can stream thoughts into a lightweight inbox without having to do the organizing upfront. I then have derived categories from the main stream of thoughts. If the thought is a task, I further process these into categories. I have recurring tasks and events that I handle on a "Time" page that is effectively a calendar, and I have one-off tasks that go into a Kanban style backlog. What I really got from Zettlekasten is that trying to establish your system upfront is a mistake. Things inevitably leak through your categories and then you lose faith in your system. By just having a running stream of thoughts and then relating them after the fact and deriving categories afterward, you get the benefits of organization without a lot of its failure modes. 
+- Your template misses backlinks. Zk notes have five elements:
+  1. An id (I presume it is [yyyymmddhhmmss.md](https://yyyymmddhhmmss.md) as filename for you)
+  2. Tags
+  3. Backlinks (in the form of \[\[backlink\]\] in most zk software tools such as zettlr/obsidian/thearchive etc;)
+  4. Source or reference (checked)
+  5. Content (I suppose it is your # Notes)
+- Also all zettels are atomic, so you will deilberately limit yourself to one topic idea, ideally with a question or something (I suppose that is why you have # Title).
 
 ### Alternative to Zettelkasten
 #### PARA (Second Brain)
@@ -111,3 +137,17 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
 - [Bliki](https://martinfowler.com/bliki/WhatIsaBliki.html)
 
 #### Spaced Repetition
+
+
+#### Combination Method
+
+Perhaps a combination of methods would work for your purposes?
+
+Ideas:
+
+- Zettelkasten
+  - Unique IDs - facilitates linking - can use beyond your note-taking system if you use it on other files and documents and use a file explorer
+  - Linking - link relevant ideas and information
+  - Atomicity - reuse future-proof notes/ideas in different contexts
+- [Progressive summarization](https://fortelabs.co/blog/progressive-summarization-a-practical-technique-for-designing-discoverable-notes) - pare down your notes while keeping the original source - ideas: you could pick out key terms, write a summary at the top, make a TOC of the things you want to navigate to easily
+- [IMF](https://forum.obsidian.md/t/imf-v3-advanced-starter-kit/390) - a way to organize notes without necessarily tying them to a certain category. I think of it as creating different 'views' of your notes.
