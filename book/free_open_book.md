@@ -29,7 +29,8 @@
 11. [Advanced Bioinformatics](https://github.com/ThorntonLab/ComputerSkills4GradStudents) CC-BY
 12. [Scientific Computing](https://www.math.ust.hk/~machas/scientific-computing.pdf) CC-BY
 13. [Scientific Computing with Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
-14. 17. [Computer Network: A System Approach](https://www.systemsapproach.org/book.html) License: CC BY
+14. [Computer Network: A System Approach](https://www.systemsapproach.org/book.html) License: CC-BY
+15. [Dive into Deep Learning](http://d2l.ai/) License: CC-BY
 
 
 ## CC-BY-NC Licensed Books
