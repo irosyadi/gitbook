@@ -1,22 +1,22 @@
 # Book and Tutorial Plan
 
-## Monograph
+## Monographs
 - Rooftop Solar System
 - Softsensor
 - Rice Classification
 
-## Popular Book
+## Popular Books
 - Markdown
+- A book about flags
 
-
-## Tutorial
+## Tutorials
 - Instrumentation Lab with Arduino
 - Deep Learning with Android
+
+## Tutorial Translation
+### Machine Learning
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch#supervised-learning), License: MIT
 - [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments), License: MIT
-- [Python The No Theory Guide](https://github.com/iArunava/Python-TheNoTheoryGuide) License: MIT
-- [Python Awesome](https://github.com/gautam1858/python-awesome) License: MIT
-- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) License: Apache
 - [Deep Learning lectures at M2 Data Science Université Paris Saclay ](https://github.com/m2dsupsdlclass/lectures-labs) License: MIT
 - [Deep Learning - Machine Learning Tokyo (MLT) ](https://github.com/Machine-Learning-Tokyo/DL-workshop-series) License: MIT
 - [Deep Learning Lecture Notes and Experiments](https://github.com/roatienza/Deep-Learning-Experiments) License: MIT
@@ -25,7 +25,12 @@
 - [STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020) ](https://github.com/rasbt/stat453-deep-learning-ss20) License: MIT
 - [Get SH*T Done with PyTorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) License: Apache
 
-## Translation
+### Python
+- [Python The No Theory Guide](https://github.com/iArunava/Python-TheNoTheoryGuide) License: MIT
+- [Python Awesome](https://github.com/gautam1858/python-awesome) License: MIT
+- [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) License: Apache
+
+## Books Translation
 ### Python
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python/releases/) License: CC-BY
 - [Dive Into Python 3](https://diveintopython3.net/) CC-BY
@@ -40,7 +45,6 @@
 - [Google Python Tutorial](https://developers.google.com/edu/python/) License: CC-BY
 - [Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook) License: CC-BY
 - [Python 3: from None to Machine ](https://github.com/AstroMatt/book-python) [Web](https://python.astrotech.io/) License: CC-BY
-
 
 ### Machine Learning
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/), [Github](https://github.com/fastai/course-v3), License: Apache
@@ -96,6 +100,11 @@
 ### Computer Science
 - [Algorithms and Data Structures ](https://github.com/Bradfield/algos) [Web](https://bradfieldcs.com/algos/) License: CC0
 
+### Electrical Engineering
+- [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) License: Design Science License, [All About Circuit Version](https://www.allaboutcircuits.com/textbook/)
+- [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY
+- [Fundamentals of Electrical Engineering I](https://open.umn.edu/opentextbooks/textbooks/fundamentals-of-electrical-engineering-1) License: CC-BY
+- [Socratic Electronics](http://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
 ### Others
 - [Working-with-Climate-Data-in-Python](https://github.com/MarieHofmann/Working-with-Climate-Data-in-Python) License: CC-BY
