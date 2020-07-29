@@ -4,7 +4,7 @@
 1. [Freetechbooks](https://www.freetechbooks.com/), [search by license](https://www.freetechbooks.com/licenses?page=1)
 2. [Freecomputerbooks](http://freecomputerbooks.com/)
 3. [Open Textbooks Library](https://open.umn.edu/opentextbooks)
-4. [Directory of Open Access Books](https://www.doabooks.org/)
+4. [Directory of Open Access Books DOAB](https://www.doabooks.org/)
 5. [Libretexts](https://libretexts.org/)
 6. [Saylor Academy Books](https://www.saylor.org/books/)
 7. [Openstax](https://openstax.org/)
@@ -18,6 +18,13 @@
 15. [Text Book Equity](https://www.textbookequity.org/)
 16. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 17. [MIT Press Open](https://mitpress.mit.edu/mit-press-open)
+18. [MDPI](https://www.mdpi.com/books)
+19. [unglue it](https://unglue.it/)
+20. [Open Search Library](https://openresearchlibrary.org/)
+21. [Project Muse](https://muse.jhu.edu/)
+22. [Oapen](https://www.oapen.org/)
+23. [JSTOR Open](https://about.jstor.org/oa-and-free/)
+24. [Ubiquity Press](https://www.ubiquitypress.com/site/)
 
 ## Repository of Free Books
 1. [Learn Anything](https://github.com/learn-anything/books)

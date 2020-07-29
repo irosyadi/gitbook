@@ -19,6 +19,11 @@ Output: IP
 3. [What is My IP](https://www.whatismyip.com/)
 4. [Toolsvoid](https://www.toolsvoid.com/ip-address-lookup/)
 5. [Toolsvoid](https://www.toolsvoid.com/domain-to-ip/)
+6. [Hacker Targe](https://hackertarget.com/reverse-ip-lookup/)
+7. [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
+8. [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
+9. [Check Host](https://check-host.net/ip-info?)
+10. [DNS Checker](https://dnschecker.org/#A/)
 
 ## Privacy Check
 Input: -
@@ -52,3 +57,16 @@ Check
 [Network Tools](https://network-tools.com/)
 [DNSQuery](https://dnsquery.org/)
 [Toolsvoid](https://www.toolsvoid.com)
+[Complete DNS](https://completedns.com/)
+[Domain Tools](https://whois.domaintools.com/)
+
+## Domain History
+[Who is request](https://whoisrequest.com/history/)
+[Whois History](https://whois-history.whoisxmlapi.com/api)
+
+## DNS Leak Tester
+- [DNS Leak Test](https://www.dnsleaktest.com)
+- `nslookup myip.dnsfilter.com. 103.247.36.36`
+- [DNS Leak](https://dnsleak.com)
+- [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
+- [IP Leak](https://ipleak.net/)

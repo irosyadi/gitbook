@@ -9,24 +9,28 @@
 7. [Freedom Defined](https://freedomdefined.org/Licenses)
 8. [Creative Commons FAQ](https://creativecommons.org/faq/)
 9. [Adapter License](http://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
+10. [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses)
 
-|    License    | Attribution | Derivative  | Commercial |
-| ------------- | ----------- | ----------- | ---------- |
-| CC0           | N           | Y           | Y          |
-| CC BY         | Y           | Y (CC)      | Y          |
-| CC BY-SA      | Y           | Y (SA)      | Y          |
-| CC BY-ND      | Y           | N           | Y          |
-| CC BY-NC      | Y           | Y (NC)      | N          |
-| CC BY-NC-SA   | Y           | Y (NC-SA)   | N          |
-| CC BY-NC-ND   | Y           | N           | N          |
-| MIT           | Y           | Y           | Y          |
-| ZLIB          | Y           | Y           | Y          |
-| DWTFYWPL      | N           | Y           | Y          |
-| AFL           | Y           | Y           | Y          |
-| Apache        | Y           | Y           | Y          |
-| GNU GPL v3.0  | Y           | Y (GNU GPL) | Y          |
-| GNU LGPL v3.0 | Y           | Y (similar) | Y          |
-| Mozilla       | Y           | Y (similar) | Y          |
+
+|    License    | Attribution | Derivative  | Commercial | Free-Open |
+| ------------- | ----------- | ----------- | ---------- | --------- |
+| CC0           | N           | Y           | Y          | Y         |
+| CC BY         | Y           | Y (CC)      | Y          | Y         |
+| CC BY-SA      | Y           | Y (SA)      | Y          | Y         |
+| CC BY-ND      | Y           | N           | Y          | N         |
+| CC BY-NC      | Y           | Y (NC)      | N          | N         |
+| CC BY-NC-SA   | Y           | Y (NC-SA)   | N          | N         |
+| CC BY-NC-ND   | Y           | N           | N          | N         |
+| MIT           | Y           | Y           | Y          | Y         |
+| BSD           | Y           | Y           | Y          | Y         |
+| ZLIB          | Y           | Y           | Y          | Y         |
+| DWTFYWPL      | N           | Y           | Y          | Y         |
+| AFL           | Y           | Y           | Y          | Y         |
+| Apache        | Y           | Y           | Y          | Y         |
+| GNU GPL v3.0  | Y           | Y (GNU GPL) | Y          | Y         |
+| GNU LGPL v3.0 | Y           | Y (similar) | Y          | Y         |
+| GNU FDL       | Y           | Y           | Y          | Y         |
+| Mozilla MPL   | Y           | Y (similar) | Y          | Y         |
 
 
 

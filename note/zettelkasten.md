@@ -17,6 +17,7 @@
 ### Zettelkasten Software Comparison
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
 - [Mac Only](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
+- [Artificial Brain Networks](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 
 ### The Zettelkasten / Slip-box
 
