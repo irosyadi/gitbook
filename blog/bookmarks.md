@@ -19,3 +19,4 @@
   - Data Journalism menyediakan buku berlisensi CC-BY-SA yang berisi tentang bagaimana jurnalisme berbasis data. Ia juga menyediakan tools untuk melatih jurnalis bekerja dengan data.
 - [Kinopio](https://kinopio.club/), menggambar peta pikiran dengan fun
 - [Tao of Mac](https://taoofmac.com/space) a blog, not only for Mac, but mainly reached from HN
+- [Klobie](https://klobie.com) adalah bookmark system yang memiliki fasilitas research

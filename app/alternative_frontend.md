@@ -1,20 +1,21 @@
 # Alternative Frontend of Popular Websites
 
-1. [Twitter](https://twitter.com/)
+- [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
 
-2. [Wikipedia](https://www.wikipedia.org/)
+- [Wikipedia](https://www.wikipedia.org/)
   - [Wikiwand](https://www.wikiwand.com/)
   - [Moesalih](http://wikipedia.moesalih.com/)
   - [The Reader Wiki](https://thereaderwiki.com/en/)
 
- 3. [Reddit](https://old.reddit.com/)
+- [Reddit](https://old.reddit.com/)
   - [Reddit Premii](https://reddit.premii.com/)
   - [Reditr](http://reditr.com/) or [Reddit6](http://reddit6.com/#/Stream)
   - [Uforio](http://web.uforio.com/)
   - [Serializer.io](https://serializer.io/)
+  - [Rdddeck](https://rdddeck.com/)
 
-4. [Hacker News](https://news.ycombinator.com/)
+- [Hacker News](https://news.ycombinator.com/)
   - [Hacker News Premii](http://hn.premii.com/)
   - [Hckrnews](https://hckrnews.com/)
   - [Hackerweb](https://hackerweb.app/)
@@ -33,5 +34,13 @@
   - [HNPWA](https://hnpwa.com/) List of HN Reader/Client
   - [Improve Hacker News](https://hackerbits.com/hacker-news/improve-hacker-news-ui/) List of HN Reader/Client
 
-5. Youtube
+- Youtube
   - [Invidio](https://invidio.us/)
+
+- Instagram
+  - [Bibliogram](https://bibliogram.art/)
+  - [Layluh](https://www.layluh.com/)
+  - [Freetube App](https://freetubeapp.io) Windows Desktop App
+  - [Motion Box](https://www.viewpure.com/) Windows Desktop App
+  - [Toogles](https://toogl.es/)
+  - [Viewpure](https://www.viewpure.com/)
