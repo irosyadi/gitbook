@@ -1,15 +1,16 @@
-# Complete Markdown Cheatsheet
+# markdown\_cheatsheet
+
+## Complete Markdown Cheatsheet
 
 Common Mark Implementation
 
-# 1. Basic Markdown
----
-## 1.1. Heading
+## 1. Basic Markdown
 
-*Support: all markdown flavour*
-***Syntaxes***
+### 1.1. Heading
 
-```md
+_Support: all markdown flavour_ _**Syntaxes**_
+
+```text
 # h1 Heading
 ## h2 Heading
 ### h3 Heading
@@ -18,93 +19,97 @@ Common Mark Implementation
 ###### h6 Heading
 ```
 
-***Showcases***
+_**Showcases**_
 
-# h1 Heading
-## h2 Heading
-### h3 Heading
-#### h4 Heading
-##### h5 Heading
-###### h6 Heading
+## h1 Heading
 
-***Syntaxes***
+### h2 Heading
 
-```md
+#### h3 Heading
+
+**h4 Heading**
+
+**h5 Heading**
+
+**h6 Heading**
+
+_**Syntaxes**_
+
+```text
 h1 Heading
 ===================
 h2 Heading
 -------------------
 ```
 
-***Showcases***
+_**Showcases**_
 
-h1 Heading
-========
-h2 Heading
--------------
+## h1 Heading
 
-*Notes:*
-- Always put a space between `#` and the heading name
-- Heading with  `===` or `---` are not recommended
+### h2 Heading
 
----
-## 1.2. Paragraphs
+_Notes:_
 
-*Notes:*
-- To create paragraphs, use a blank line to separate one or more lines of text.
-- Don't ident paragraphs with spaces or tabs
+* Always put a space between `#` and the heading name
+* Heading with  `===` or `---` are not recommended
 
-***Syntaxes***
+### 1.2. Paragraphs
 
-```md
+_Notes:_
+
+* To create paragraphs, use a blank line to separate one or more lines of text.
+* Don't ident paragraphs with spaces or tabs
+
+_**Syntaxes**_
+
+```text
 This is the first paragraph.
 
 This is the second paragraph
 ```
 
-***Showcases***
+_**Showcases**_
 
 This is the first paragraph.
 
 This is the second paragraph
 
----
-## 1.3 Line Break
+### 1.3 Line Break
 
-*Notes:*
-- To create a line break, end a line with two or more spaces, and then type return
-- *Or* use the `<br>` HTML tag
+_Notes:_
 
-***Syntaxes***
+* To create a line break, end a line with two or more spaces, and then type return
+* _Or_ use the `<br>` HTML tag
 
-```md
+_**Syntaxes**_
+
+```text
 This is the first line.  
 And this is the second line.
 ```
 
-***Showcases***
+_**Showcases**_
 
 This is the first line.  
 And this is the second line.
 
-***Alternative Syntaxes***
+_**Alternative Syntaxes**_
 
-```md
+```text
 First line with the HTML tag after.<br>
 And the next line.
 ```
 
-***Showcases***
+_**Showcases**_
 
-First line with the HTML tag after.<br>
-And the next line.
+First line with the HTML tag after.  
+ And the next line.
 
----
-## 1.4. Emphasis
+### 1.4. Emphasis
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 **This is bold text**
 __This is bold text__
 *This is italic text*
@@ -116,59 +121,53 @@ This text is __*really important*__
 This text is **_really important_**
 ```
 
-***Showcases***
+_**Showcases**_
 
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-We have **bold***italic*
-This text is ***really important***
-This text is ___really important___
-This text is __*really important*__
-This text is **_really important_**
+**This is bold text** **This is bold text** _This is italic text_ _This is italic text_ We have **bold\***italic _This text is \*\*_really important _**This text is really important This text is \_\_**_**really important\*\_\_ This text is** _really important_\*\*
 
----
-## 1.5. Blockquotes
+### 1.5. Blockquotes
 
-*Notes:*
-- Space is needed after the marker `>`;
-- You could just add only one `>` at the first line;
-- Blockquotes can be nested
-- Blockquotes can contain multiple paragraphs. Add a >  between the paragraphs.
-- Blockquotes can contain other Markdown formatted elements. But not all elements can be used.
+_Notes:_
 
-***Syntaxes***
+* Space is needed after the marker `>`;
+* You could just add only one `>` at the first line;
+* Blockquotes can be nested
+* Blockquotes can contain multiple paragraphs. Add a &gt;  between the paragraphs.
+* Blockquotes can contain other Markdown formatted elements. But not all elements can be used.
 
-```md
+_**Syntaxes**_
+
+```text
 > Blockquotes can also be nested...
 >> ...by using additional greater-than signs right next to each other...
 > > > ...or with spaces between arrows.
 ```
 
-***Showcases***
+_**Showcases**_
 
 > Blockquotes can also be nested...
->> ...by using additional greater-than signs right next to each other...
+>
+> > ...by using additional greater-than signs right next to each other...
+> >
 > > > ...or with spaces between arrows.
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 ```
 
-***Showcases***
+_**Showcases**_
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
 > The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 > #### The quarterly results look great!
 >
 > - Revenue was off the chart.
@@ -177,23 +176,22 @@ This text is **_really important_**
 >  *Everything* is going according to **plan**.
 ```
 
-***Showcases***
+_**Showcases**_
 
-> #### The quarterly results look great!
+> **The quarterly results look great!**
 >
-> - Revenue was off the chart.
-> - Profits were higher than ever.
+> * Revenue was off the chart.
+> * Profits were higher than ever.
 >
->  *Everything* is going according to **plan**.
+>   _Everything_ is going according to **plan**.
 
----
-## 1.6. Lists
-### 1.6.1. Unordered
+### 1.6. Lists
 
-***Syntaxes***
+#### 1.6.1. Unordered
 
-```md
+_**Syntaxes**_
 
+```text
 + To start a list, there should be an empty line above
 + Create a list by starting a line with `+`, `-`, or `*`
 - Changing the sign will add a linespace
@@ -207,25 +205,27 @@ This is a text under an item. Notice that there are two spaces at the end above.
 To end a list, there should be one empty line above.
 ```
 
-***Showcases***
+_**Showcases**_
 
-+ To start a list, there should be an empty line above
-+ Create a list by starting a line with `+`, `-`, or `*`
-- Changing the sign will add a linespace
-+ Add text under an item  
-This is a text under an item. Notice that there are two spaces at the end above.
-- Sub-lists are made by indenting 2 spaces:
+* To start a list, there should be an empty line above
+* Create a list by starting a line with `+`, `-`, or `*`
+* Changing the sign will add a linespace
+* Add text under an item  
+
+  This is a text under an item. Notice that there are two spaces at the end above.
+
+* Sub-lists are made by indenting 2 spaces:
   * Item 2a
   * Item 2b
 * Item 3
 
 To end a list, there should be one empty line above.
 
-### 1.6.2. Ordered
+#### 1.6.2. Ordered
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 1. Item 1
 1. Item 2  
 Notice that the sequence number is irrelevant. 
@@ -237,230 +237,223 @@ Notice that there are two spaces at the end above to make a new text under item.
 8. Any number for item 4
 ```
 
-***Showcases***
+_**Showcases**_
 
 1. Item 1
-1. Item 2  
-Notice that the sequence number is irrelevant.  
-Markdown will change the sequence automatically when renderring.  
-Notice that there are two spaces at the end above to make a new text under item.
+2. Item 2  
+
+   Notice that the sequence number is irrelevant.  
+
+   Markdown will change the sequence automatically when renderring.  
+
+   Notice that there are two spaces at the end above to make a new text under item.
+
 3. Sub-lists are made by indenting 4 spaces
-    1. Item 3a
-    2. Item 3b
-8. Any number for item 4
+   1. Item 3a
+   2. Item 3b
+4. Any number for item 4
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 57. will started with offset 57
 1. so it will be 58
 ```
 
-***Showcases***
+_**Showcases**_
 
-57. will started with offset 57
-1. so it will be 58
+1. will started with offset 57
+2. so it will be 58
 
----
+### 1.7. Elements in Lists
 
-## 1.7. Elements in Lists
+_Notes:_
 
-*Notes:*
-- To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab
+* To add another element in a list while preserving the continuity of the list, indent the element four spaces or one tab
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 * This is the first list item.
 * Here's the second list item.
     I need to add another paragraph below the second list item.
 * And here's the third list item.
 ```
 
-***Showcases***
+_**Showcases**_
 
 * This is the first list item.
 * Here's the second list item.
- I need to add another paragraph below the second list item.
+
+  I need to add another paragraph below the second list item.
+
 * And here's the third list item.
 
+_**Showcases**_
 
-***Showcases***
+* This is the first list item.
+* Here's the second list item.
 
-*   This is the first list item.
-*   Here's the second list item.
+  I need to add another paragraph below the second list item.
 
-    I need to add another paragraph below the second list item.
+* And here's the third list item.
 
-*   And here's the third list item.
+_**Showcases**_
 
-***Showcases***
+* This is the first list item.
+* Here's the second list item.
 
-*   This is the first list item.
-*   Here's the second list item.
+  > A blockquote would look great below the second list item.
 
-    > A blockquote would look great below the second list item.
+* And here's the third list item.
 
-*   And here's the third list item.
+_**Syntaxes**_
 
-
-***Syntaxes***
-
-```md
+```text
 1.  Open the file containing the Linux mascot.
 2.  Linux mascot called Tux.
     ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 3.  Tux is cool.
 ```
 
-***Showcases***
+_**Showcases**_
 
-1.  Open the file containing the Linux mascot.
-2.  Linux mascot called Tux.
-    ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
-3.  Tux is cool.
+1. Open the file containing the Linux mascot.
+2. Linux mascot called Tux.
 
+   ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 
-*But, for text element in ordered list, add five spaces*
+3. Tux is cool.
 
-1.   This is the first list item.
-2.   Here's the second list item.
-
-     I need to add another paragraph below the second list item.
-
-3.   And here's the third list item.
-
-*But, for quote in ordered list, add five spaces*
+_But, for text element in ordered list, add five spaces_
 
 1. This is the first list item.
-3.   Here's the second list item.
+2. Here's the second list item.
 
-     > A blockquote would look great below the second list item.
+   I need to add another paragraph below the second list item.
 
-5.   And here's the third list item.
+3. And here's the third list item.
 
-*But, for code blocks in the lists, add eight spaces or two tabs.*
+_But, for quote in ordered list, add five spaces_
 
-1.  Open the file.
-2.  Find the following code block on line 21:
+1. This is the first list item.
+2. Here's the second list item.
 
-        <html>
-          <head>
-            <title>Test</title>
-          </head>
+   > A blockquote would look great below the second list item.
 
-3.  Update the title to match the name of your website.
+3. And here's the third list item.
 
+_But, for code blocks in the lists, add eight spaces or two tabs._
 
----
-## 1.8. Code
+1. Open the file.
+2. Find the following code block on line 21:
 
-*Notes:*
-- Inline codes is written inside \` \`
-- or idented by add four spaces or one tab before
+   ```text
+   <html>
+     <head>
+       <title>Test</title>
+     </head>
+   ```
 
-***Syntaxes***
+3. Update the title to match the name of your website.
 
-```md
+### 1.8. Code
+
+_Notes:_
+
+* Inline codes is written inside \` \`
+* or idented by add four spaces or one tab before
+
+_**Syntaxes**_
+
+```text
 This is inline `code`.
 ```
 
-***Showcases***
+_**Showcases**_
 
 This is inline `code`.
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
     // Some comments
     line 1 of code
     line 2 of code
     line 3 of code
 ```
 
-***Showcases***
+_**Showcases**_
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+```text
+// Some comments
+line 1 of code
+line 2 of code
+line 3 of code
+```
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
     <html>
       <head>
         <title>Test</title>
       </head>
 ```
 
-***Showcases***
+_**Showcases**_
 
-    <html>
-      <head>
-        <title>Test</title>
-      </head>
+```text
+<html>
+  <head>
+    <title>Test</title>
+  </head>
+```
 
----
-## 1.9. Links
+### 1.9. Links
 
 **Example**
 
-This is [link](http://example.com/)
-This is [link with title](http://example.com/ "title text!")
+This is [link](http://example.com/) This is [link with title](http://example.com/)
 
-*Or, directly put the link*
+_Or, directly put the link_
 
-http://example.com/
-fake@example.com
+[http://example.com/](http://example.com/) fake@example.com
 
-*Or with `<>`*
+_Or with `<>`_
 
-<https://www.markdownguide.org>
-<fake@example.com>
+[https://www.markdownguide.org](https://www.markdownguide.org) [fake@example.com](mailto:fake@example.com)
 
-*But, to prevent automated linking*
+_But, to prevent automated linking_
 
- `http://www.example.com`
+`http://www.example.com`
 
-*Or add emphasize*
+_Or add emphasize_
 
-I love supporting the **[EFF](https://eff.org)**.
-This is the *[Markdown Guide](https://www.markdownguide.org)*.
-See the section on [`code`](#code).
+I love supporting the [**EFF**](https://eff.org). This is the [_Markdown Guide_](https://www.markdownguide.org). See the section on [`code`](markdown_cheatsheet.md#code).
 
-## 1.11. Reference-style Links
+### 1.11. Reference-style Links
 
+I know [Indonesia](https://en.wikipedia.org/wiki/Indonesia) I also know [etymology of Indonesia](https://en.wikipedia.org/wiki/Indonesia#Etymology) I knew [History of Indonesia](https://en.wikipedia.org/wiki/Indonesia#History)
 
-I know [Indonesia][1]
-I also know [etymology of Indonesia][2]
-I knew [History of Indonesia][3]
+_Or, put reference in text_
 
-[1]: <https://en.wikipedia.org/wiki/Indonesia>
-[2]: https://en.wikipedia.org/wiki/Indonesia#Etymology "Etymology of Indonesia"
-[3]: https://en.wikipedia.org/wiki/Indonesia#History 'History of Indonesia'
+It was a [hobbit-hole](https://en.wikipedia.org/wiki/Hobbit#Lifestyle), and that means comfort.
 
-*Or, put reference in text*
+_But, be careful with spaces in the links, put `%20` as space_
 
-It was a [hobbit-hole][hh], and that means comfort.
+[example %20 link](https://www.example.com/my%20great%20page) [example without %20](https://www.example.com/my%20great%20page)
 
-[hh]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
+### 1.10. Images
 
-*But, be careful with spaces in the links, put `%20` as space*
+_Notes:_
 
-[example %20 link](https://www.example.com/my%20great%20page) 
-[example without %20](https://www.example.com/my great page) 
+* It is not recommended to use image links in reference format. Some apps will not preview those images.
+* Specifying size of image is supported only in some extended markdown \(such as _markdown-it_\).
 
----
-## 1.10. Images
+_**Syntaxes**_
 
-*Notes:*
-- It is not recommended to use image links in reference format. Some apps will not preview those images.
-- Specifying size of image is supported only in some extended markdown (such as *markdown-it*).
-
-***Syntaxes***
-
-```md
+```text
 ![Image Alt Text](/url/to/image.png "Optional Text")
 ![Image Alt Text](/url/to/image.png "Image specified with width and height" =800x600)
 ![Image Alt Text](/url/to/image.png =800x600)
@@ -468,108 +461,97 @@ It was a [hobbit-hole][hh], and that means comfort.
 ![Image Alt Text](/url/to/image.png "Image specified with height" =x600)
 ```
 
-***Showcases***
+_**Showcases**_
 
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png)
-![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Wikipedia logo with specific size" =60x60)
+![Wikipedia](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png) !\[Wikipedia\]\([https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia\_Logo\_1.0.png/240px-Wikipedia\_Logo\_1.0.png](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png) "Wikipedia logo with specific size" =60x60\)
 
-***Syntaxes***
-```md
+_**Syntaxes**_
+
+```text
 ![Image Alt Text][id1]
 ![Image Alt Text][id2]
-
-[id1]: /url/to/image.png "Optional Text"
-[id2]: /url/to/image.png
 ```
 
-***Showcases***
+_**Showcases**_
 
-![Wikipedia][id1]
-![Wikipedia Logo][id2]
+![Wikipedia Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png) ![](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png)
 
-[id1]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png  "Wikipedia Logo"
-[id2]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png
+### 1.11. Escaping Characters
 
----
-## 1.11. Escaping Characters
-*Note:*
-- add a backslash `\` in front of the character.
+_Note:_
+
+* add a backslash `\` in front of the character.
 
 **Example**
 
-\* star
-\\ backslash itself
-\` backtick
-\{ \} curly braces
-\! exclamation mark
+\* star \ backslash itself \` backtick { } curly braces ! exclamation mark
 
----
-## 1.12. HTML Code
+### 1.12. HTML Code
 
 **Example**
 
-This **word** is bold. This <em>word</em> is italic.
+This **word** is bold. This _word_ is italic.
 
----
-
-## 1.13. Horizontal Rules
+### 1.13. Horizontal Rules
 
 **Example**
 
-___
+## 2. Extended Markdown
 
----
+### 2.1. Heading ID
 
-***
-
-# 2. Extended Markdown
----
-
-## 2.1. Heading ID
-Support: Markdown Extra , Maruku, kramdown 
+Support: Markdown Extra , Maruku, kramdown
 
 Markdown:
-```md
+
+```text
 ### My Great Heading {#heading-ids}
 ```
 
 Markdown
-### My Great Heading {#heading-ids}
+
+#### My Great Heading <a id="heading-ids"></a>
 
 In HTML:
-<h3 id="heading-ids">My Great Heading</h3>
 
-Link to [Heading IDs](#heading-ids) 
+#### My Great Heading <a id="heading-ids"></a>
 
-----
-## 2.2. Code Fencing and Highlighting
-*Notes:*
-- We can make block code fences without need to be idented
-- `lang` is optional to specify the language of the code; if not specified, the app won't highlight the code;
-- We need one empty line before
+Link to [Heading IDs](markdown_cheatsheet.md#heading-ids)
 
-***Syntaxes***
+### 2.2. Code Fencing and Highlighting
 
-```
-    ```
-    This is a fenced code block.
-    ```
-```
+_Notes:_
 
-***Syntaxes***
+* We can make block code fences without need to be idented
+* `lang` is optional to specify the language of the code; if not specified, the app won't highlight the code;
+* We need one empty line before
+
+_**Syntaxes**_
+
+```text
 
 ```
-    ~~~
-    This is another fenced code block.
-    ~~~
-```
 
-***Showcases***
-
-```
+```text
 This is a fenced code block.
 ```
+```
 
+```text
+***Syntaxes***
+```
+
+```text
+    This is another fenced code block.
+```
+
+```text
+***Showcases***
+```
+
+This is a fenced code block.
+
+```text
 ~~~
 No language indicated, so no syntax highlighting.
 s = "There is no highlighting for this."
@@ -584,7 +566,7 @@ var s = "JavaScript syntax highlighting";
 alert(s);
 ```
 
-***Showcases*** (`python`)
+_**Showcases**_ \(`python`\)
 
 ```python
 def function():
@@ -593,7 +575,7 @@ def function():
     print s
 ```
 
-***Showcases*** (`ruby`)
+_**Showcases**_ \(`ruby`\)
 
 ```ruby
 require 'redcarpet'
@@ -601,16 +583,16 @@ markdown = Redcarpet.new("Hello World!")
 puts markdown.to_html
 ```
 
----
-## 2.3. Tables
+### 2.3. Tables
 
-*Notes:*
-- we can set alignment in table with a colon (:)
-- we can add formatting text, links, code and HTML character code, but not: heading, headings, blockquotes, lists, horizontal rules, images, HTML tags, or fenced code
+_Notes:_
 
-***Syntaxes***
+* we can set alignment in table with a colon \(:\)
+* we can add formatting text, links, code and HTML character code, but not: heading, headings, blockquotes, lists, horizontal rules, images, HTML tags, or fenced code
 
-```md
+_**Syntaxes**_
+
+```text
 | Option | Description |
 | ------ | ----------- |
 | data   | path to data files to supply the data that will be passed into templates. |
@@ -618,281 +600,235 @@ puts markdown.to_html
 | ext    | extension to be used for dest files. |
 ```
 
-***Showcases***
+_**Showcases**_
 
 | Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
+| :--- | :--- |
+| data | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
+| ext | extension to be used for dest files. |
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 | Syntax      | Description | Test Text is long    |
 | :---        |    :----:   |          ---: |
 | Header from      | Title       | Here's this  is |
 | Paragraph   | Text        | And more   |
 ```
 
-***Showcases***
+_**Showcases**_
 
-| Syntax      | Description | Test Text is long    |
-| :---        |    :----:   |          ---: |
-| Header from      | Title       | Here's this  is |
-| Paragraph   | Text        | And more   |
+| Syntax | Description | Test Text is long |
+| :--- | :---: | ---: |
+| Header from | Title | Here's this  is |
+| Paragraph | Text | And more |
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 | Syntax      | Description | Test Text is long    |
 | :---        |    :----:   |          ---: |
 | [Example](https://www.example.com/)      | **Title**       | `Here's this  is` |
 | Paragraph   | Text        | And more   |
 ```
 
-***Showcases***
+_**Showcases**_
 
-| Syntax      | Description | Test Text is long    |
-| :---        |    :----:   |          ---: |
-| [Example](https://www.example.com/)      | **Title**       | `Here's this  is` |
-| Paragraph   | Text        | And more   |
+| Syntax | Description | Test Text is long |
+| :--- | :---: | ---: |
+| [Example](https://www.example.com/) | **Title** | `Here's this  is` |
+| Paragraph | Text | And more |
 
----
-## 2.4. Footnote
-**Example: The First Part**
-Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]
+### 2.4. Footnote
 
-**Example: The Second Part**
-[^1]: This is the first footnote.
-[^bignote]: Here's one with multiple paragraphs.
-For example like this
-[^withcode]: `code` or code in paragrahps
-`code and codes`
+**Example: The First Part** Here's a simple footnote, and here's a longer one,, and 
 
-*Or add inline footnote*
-Another example of footnote 1 link[^first] and footnote 2 link[^second].
-Or to add inline footnote^[Text of inline footnote] definition.
+**Example: The Second Part** : This is the first footnote. : Here's one with multiple paragraphs. For example like this : `code` or code in paragrahps `code and codes`
 
-*Or duplictade reference*
-This duplicated footnote reference[^second].
+_Or add inline footnote_ Another example of footnote 1 link and footnote 2 link. Or to add inline footnote^\[Text of inline footnote\] definition.
 
-[^first]: Footnote **can have markup**
-and multiple paragraphs.
-[^second]: Another footnote text.
+_Or duplictade reference_ This duplicated footnote reference.
 
----
-## 2.4. Strikethrough, Highlighting, Underline
+and multiple paragraphs. : Another footnote text.
 
-**Example of strikethrough**
-~~strikethrough~~
-In HTML: <s>strikethrough</s>
+### 2.4. Strikethrough, Highlighting, Underline
 
-**Example of mark/highlighting**
-==marked text==
-in HTML: <mark>marked text</mark>
+**Example of strikethrough** ~~strikethrough~~ In HTML: strikethrough
 
-**Example of underline**
-_underline_
-in HTML: <u>underline</u>
+**Example of mark/highlighting** ==marked text== in HTML: marked text
 
----
-## 2.5. Task Lists
-**Example**
-- [x] Write the press release
-- [ ] Update the website
-- [ ] Contact the media
+**Example of underline** _underline_ in HTML: underline
 
----
-## 2.6. Definition Lists
+### 2.5. Task Lists
+
 **Example**
 
-First Term
-: This is the definition of the first term.
+* [x] Write the press release
+* [ ] Update the website
+* [ ] Contact the media
 
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
+### 2.6. Definition Lists
+
+**Example**
+
+First Term : This is the definition of the first term.
+
+Second Term : This is one definition of the second term. : This is another definition of the second term.
 
 In HTML:
-<dl>
-  <dt>First Term</dt>
-  <dd>This is the definition of the first term.</dd>
-  <dt>Second Term</dt>
-  <dd>This is one definition of the second term. </dd>
-  <dd>This is another definition of the second term.</dd>
-</dl>
 
-*Or *
+First TermThis is the definition of the first term.Second TermThis is one definition of the second term.This is another definition of the second term.
 
-Term 1
-:   Definition 1
-with lazy continuation.
+_Or_ 
 
-Term 2 with *inline markup*
-:   Definition 2
-        { some code, part of Definition 2 }
+Term 1 : Definition 1 with lazy continuation.
 
-    Third paragraph of definition 2.
+Term 2 with _inline markup_ : Definition 2 { some code, part of Definition 2 }
 
-*Or in compact style:*
+```text
+Third paragraph of definition 2.
+```
 
-Term 1
-  ~ Definition 1
+_Or in compact style:_
 
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
+Term 1 ~ Definition 1
 
----
-## 2.7. Emojies
+Term 2 ~ Definition 2a ~ Definition 2b
+
+### 2.7. Emojies
 
 **Emoji can be copy pasted**
 
-Gone camping! ⛺ Be back soon.
-That is so funny! 😂
+Gone camping! ⛺ Be back soon. That is so funny! 😂
 
-*Or, use markdown*
+_Or, use markdown_
 
-Gone camping! :tent: Be back soon.
-That is so funny! :joy:
+Gone camping! :tent: Be back soon. That is so funny! :joy:
+
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 >
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+> Shortcuts \(emoticons\): :-\) :-\( 8-\) ;\)
 
----
-## 2.9. Typographic replacements
-
-**Example**
-
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
-test.. test... test..... test?..... test!....
-!!!!!! ???? ,,  -- ---
-"Smartypants, double quotes" and 'single quotes'
-
----
-## 2.10. Superscript and Subscript
-**Example Superscript**
-x^2^
-In HTML: x<sup>2</sup>
-
-**Example Subscript** 
-H~2~O
-In HTML: H<sub>2</sub>O
-
----
-## 2.11. Inserted Text
-
-**Example**
-++Inserted text++
-In HTML: <ins>This text has been inserted</ins>
-
----
-## 2.12. Abbreviations
-**Example**
-
-The "HTML" specification is maintained by the "W3C".
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-
-In HTML:
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-
----
-## 2.13. HTML Entities and Character Codes
+### 2.9. Typographic replacements
 
 **Example**
 
-&copy; &  &uml; &trade; &iexcl; &pound;
-&amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot; 
-&#124;
+\(c\) \(C\) \(r\) \(R\) \(tm\) \(TM\) \(p\) \(P\) +- test.. test... test..... test?..... test!.... !!!!!! ???? ,, -- --- "Smartypants, double quotes" and 'single quotes'
 
-*Or*
+### 2.10. Superscript and Subscript
 
-X&sup2; Y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
+**Example Superscript** x^2^ In HTML: x2
 
-*Or*
+**Example Subscript** H~2~O In HTML: H2O
 
-18&ordm;C  &quot;  &apos;
+### 2.11. Inserted Text
 
----
-## 2.14. Latex
-*Note:*
-- Sometimes with `\(` and `\)` brackets
+**Example** ++Inserted text++ In HTML: This text has been inserted
+
+### 2.12. Abbreviations
+
+**Example**
+
+The "HTML" specification is maintained by the "W3C". _\[HTML\]: Hyper Text Markup Language_ \[W3C\]: World Wide Web Consortium
+
+In HTML: The HTML specification is maintained by the W3C.
+
+### 2.13. HTML Entities and Character Codes
+
+**Example**
+
+© & ¨ ™ ¡ £ & &lt; &gt; ¥ € ® ± ¶ § ¦ ¯ « · \|
+
+_Or_
+
+X² Y³ ¾ ¼ × ÷ »
+
+_Or_
+
+18ºC " '
+
+### 2.14. Latex
+
+_Note:_
+
+* Sometimes with `\(` and `\)` brackets
 
 **Example**
 
 $E=mc^2$
 
 $$\(\sqrt{3x-1}+(1+x)^2\)$$
-                    
+
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
-*Or, inline*
+_Or, inline_
 
-The Gamma function satisfying  $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+The Gamma function satisfying $\Gamma\(n\) = \(n-1\)!\quad\forall n\in\mathbb N$ is via the Euler integral
 
----
-## 2.15. Mentions, Tag, Font Awesome
-*Note:*
-- with `fa-something`:
+### 2.15. Mentions, Tag, Font Awesome
+
+_Note:_
+
+* with `fa-something`:
 
 **Example**
 
-This is @mentions
-This is #tags 
-This is  <del>tags</del>
-This is font awesome :fa-star: 
+This is @mentions This is \#tags This is ~~tags~~ This is font awesome :fa-star:
 
----
-## 2.16. Diagram
+### 2.16. Diagram
 
-*Notes:*
-- Your app should support the specific library or engine to draw the diagram
-- You should specify particular language of the fenced code block and write the definition of your diagram within it.
+_Notes:_
 
-### 2.16.1 Mermaid
-*Notes:*
-- It's implemented in showdown-mermaid.js
-- Rendering diagrams of Flowchart or Sequence or Gantt
-- Using [mermaid](https://github.com/knsv/mermaid)
-- Check [mermaid doc](https://mermaidjs.github.io) for more information.
-- Code inside `{ }` is optional
+* Your app should support the specific library or engine to draw the diagram
+* You should specify particular language of the fenced code block and write the definition of your diagram within it.
 
-***Syntaxes***
-- Flowchart syntax:
+#### 2.16.1 Mermaid
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        graph TD;
-        <code content>
-        ```
+_Notes:_
 
-- Sequence diagram syntax:
+* It's implemented in showdown-mermaid.js
+* Rendering diagrams of Flowchart or Sequence or Gantt
+* Using [mermaid](https://github.com/knsv/mermaid)
+* Check [mermaid doc](https://mermaidjs.github.io) for more information.
+* Code inside `{ }` is optional
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        sequenceDiagram
-        <code content>
-        ```
+_**Syntaxes**_
 
-- Gantt diagram syntax:
+* Flowchart syntax:
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        gantt
-        <code content>
-        ```
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    graph TD;
+    <code content>
+    ```
+  ```
 
-***Showcases***
+* Sequence diagram syntax:
 
-- Flowchart
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    sequenceDiagram
+    <code content>
+    ```
+  ```
 
-```mermaid {"align":"center", "codeblock": true}
-graph TD;
-           A-->B;
-           A-->C;
-           B-->D;
-           C-->D;
-```
+* Gantt diagram syntax:
 
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    gantt
+    <code content>
+    ```
+  ```
+
+_**Showcases**_
+
+* Flowchart
+
+\`\`\`mermaid {"align":"center", "codeblock": true} graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D;
+
+```text
 ```mermaid {"align":"center"}
 graph TD;
            A-->B;
@@ -901,22 +837,12 @@ graph TD;
            C-->D;
 ```
 
-- Sequence diagram
+* Sequence diagram
 
-```mermaid {"align":"right"}
-sequenceDiagram
-           participant Alice
-           participant Bob
-           Alice->>John: Hello John, how are you?
-           loop Healthcheck
-               John->>John: Fight against hypochondria
-           end
-           Note right of John: Rational thoughts <br/>prevail!
-           John-->>Alice: Great!
-           John->>Bob: How about you?
-           Bob-->>John: Jolly good!
-```
+\`\`\`mermaid {"align":"right"} sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts   
+prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good!
 
+```text
 - Gantt diagram
 
 ```mermaid
@@ -932,48 +858,52 @@ sequenceDiagram
        Future task2               :         des4, after des3, 5d
 ```
 
-### 2.16.2 Plantuml
-*Notes:*
-- It's implemented in showdown-plantuml.js, 
-- Render diagrams of uml,
-- Using [plantuml](http://plantuml.com),
-- Check [plantuml website](http://plantuml.com/) fpr more information.
-- Code inside `{ }` is optional
+#### 2.16.2 Plantuml
 
-***Syntaxes***
+_Notes:_
 
-    ```plantuml {"align": "left | center | right", "codeblock": true | false}
-    @startuml
-    <code content>
-    @enduml
-    ```
+* It's implemented in showdown-plantuml.js, 
+* Render diagrams of uml,
+* Using [plantuml](http://plantuml.com),
+* Check [plantuml website](http://plantuml.com/) fpr more information.
+* Code inside `{ }` is optional
 
-***Showcases***
+_**Syntaxes**_
 
-```plantuml  {"align":"right"}
-      @startuml
-      participant User
-
-      User -> A: DoWork
-      activate A
-
-      A -> B: << createRequest >>
-      activate B
-
-      B -> C: DoWork
-      activate C
-      C --> B: WorkDone
-      destroy C
-
-      B --> A: RequestCreated
-      deactivate B
-
-      A -> User: Done
-      deactivate A
-
-      @enduml
+```text
+```plantuml {"align": "left | center | right", "codeblock": true | false}
+@startuml
+<code content>
+@enduml
+```
 ```
 
+_**Showcases**_
+
+\`\`\`plantuml {"align":"right"} @startuml participant User
+
+```text
+  User -> A: DoWork
+  activate A
+
+  A -> B: << createRequest >>
+  activate B
+
+  B -> C: DoWork
+  activate C
+  C --> B: WorkDone
+  destroy C
+
+  B --> A: RequestCreated
+  deactivate B
+
+  A -> User: Done
+  deactivate A
+
+  @enduml
+```
+
+```text
 ### 2.16.3 Flowchart
 *Notes:*
 - It's implemented in showdown-flowchart.js
@@ -986,32 +916,23 @@ sequenceDiagram
 
     ```flow {"align": "left | center | right", "codeblock": true | false}
     <code content>
-    ```
-
-***Syntaxes***
-
-    ```flowchart {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
-
-***Showcases***
-
-```flow  {"align":"center"}
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
 ```
+
+_**Syntaxes**_
+
+```text
+```flowchart {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
+```
+
+_**Showcases**_
+
+\`\`\`flow {"align":"center"} st=&gt;start: Start:&gt;[http://www.google.com\[blank](http://www.google.com[blank)\] e=&gt;end:&gt;[http://www.google.com](http://www.google.com) op1=&gt;operation: My Operation sub1=&gt;subroutine: My Subroutine cond=&gt;condition: Yes or No?:&gt;[http://www.google.com](http://www.google.com) io=&gt;inputoutput: catch something... para=&gt;parallel: parallel tasks
+
+st-&gt;op1-&gt;cond cond\(yes\)-&gt;io-&gt;e cond\(no\)-&gt;para para\(path1, bottom\)-&gt;sub1\(right\)-&gt;op1 para\(path2, top\)-&gt;op1
+
+```text
 ***Showcases***
 
 ```flowchart {"align":"right"}
@@ -1027,37 +948,32 @@ cond(yes)->io->e
 cond(no)->sub1(right)->op1
 ```
 
-### 2.16.4 Graphviz's dot
-*Notes:*
-- It's implemented in showdown-viz.js
-- Render diagrams of graphviz's dot 
-- Using [viz.js](https://github.com/mdaines/viz.js).
-- Code inside `{ }` is optional
+#### 2.16.4 Graphviz's dot
 
-***Syntaxes***
+_Notes:_
 
-The \<engine name> of json's "engine" field value is 'circo', 'dot', 'neato', 'osage', 'twopi' in syntax language attribute.
+* It's implemented in showdown-viz.js
+* Render diagrams of graphviz's dot 
+* Using [viz.js](https://github.com/mdaines/viz.js).
+* Code inside `{ }` is optional
 
-    ```dot {"engine": "<engine name>", "align": "<align>"}
-    <code content>
-    ```
+_**Syntaxes**_
 
-***Showcases***
-- Dot example with dot engine:
+The \ of json's "engine" field value is 'circo', 'dot', 'neato', 'osage', 'twopi' in syntax language attribute.
 
-```dot {"engine":"dot", "align":"center"}
-digraph G {
-    main -> parse -> execute;
-    main -> init;
-    main -> cleanup;
-    execute -> make_string;
-    execute -> printf
-    init -> make_string;
-    main -> printf;
-    execute -> compare;
-}
+```text
+```dot {"engine": "<engine name>", "align": "<align>"}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+* Dot example with dot engine:
+
+\`\`\`dot {"engine":"dot", "align":"center"} digraph G { main -&gt; parse -&gt; execute; main -&gt; init; main -&gt; cleanup; execute -&gt; make\_string; execute -&gt; printf init -&gt; make\_string; main -&gt; printf; execute -&gt; compare; }
+
+```text
 <br>
 
 - Dot example with circo engine:
@@ -1075,33 +991,28 @@ digraph G {
 }
 ```
 
-### 2.16.5 Railroad diagrams
-*Notes:*
-- It's implemented in showdown-viz.js, 
-- Render diagrams of railroad 
-- Using [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams).
-- Code inside `{ }` is optional
+#### 2.16.5 Railroad diagrams
 
-***Syntaxes***
+_Notes:_
 
-    ```railroad {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
+* It's implemented in showdown-viz.js, 
+* Render diagrams of railroad 
+* Using [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams).
+* Code inside `{ }` is optional
 
-***Showcases***
+_**Syntaxes**_
 
-```railroad {"align":"center"}
-Diagram(
-  Optional('+', 'skip'),
-    Choice(0,
-      NonTerminal('name-start char'),
-      NonTerminal('escape')),
-      ZeroOrMore(
-        Choice(0,
-          NonTerminal('name char'),
-          NonTerminal('escape'))))
+```text
+```railroad {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+\`\`\`railroad {"align":"center"} Diagram\( Optional\('+', 'skip'\), Choice\(0, NonTerminal\('name-start char'\), NonTerminal\('escape'\)\), ZeroOrMore\( Choice\(0, NonTerminal\('name char'\), NonTerminal\('escape'\)\)\)\)
+
+```text
 ### 2.16.6 WaveDrom
 *Notes:*
 - It's implemented in showdown-viz.js, 
@@ -1114,20 +1025,13 @@ Diagram(
 
     ```wavedrom {"align": "left | center | right", "codeblock": true | false}
     <code content>
-    ```
-
-***Showcases***
-
-```wavedrom {"align":"center"}
-{signal: [
-  {name: 'clk', wave: 'p.....|...'},
-  {name: 'dat', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
-  {name: 'req', wave: '0.1..0|1.0'},
-  {},
-  {name: 'ack', wave: '1.....|01.'}
-]}
 ```
 
+_**Showcases**_
+
+\`\`\`wavedrom {"align":"center"} {signal: \[ {name: 'clk', wave: 'p.....\|...'}, {name: 'dat', wave: 'x.345x\|=.x', data: \['head', 'body', 'tail', 'data'\]}, {name: 'req', wave: '0.1..0\|1.0'}, {}, {name: 'ack', wave: '1.....\|01.'} \]}
+
+```text
 ***Showcases***
 
 ```wavedrom {"align":"right"}
@@ -1145,120 +1049,47 @@ Diagram(
 ]}
 ```
 
-### 2.16.7 Vega and Vega-Lite
-*Notes:*
-- It's implemented in showdown-vega.js,
-- Render diagrams of [Vega](https://github.com/vega/vega) and [Vega-Lite](https://github.com/vega/vega-lite)
-- Using [vega-embed](https://github.com/vega/vega-embed),
-- Check [vega website](https://vega.github.io/vega/) and [vega-lite website](https://vega.github.io/vega-lite) for more information.
-- Code inside `{ }` is optional
+#### 2.16.7 Vega and Vega-Lite
 
-***Syntaxes***
+_Notes:_
 
-    ```vega {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
+* It's implemented in showdown-vega.js,
+* Render diagrams of [Vega](https://github.com/vega/vega) and [Vega-Lite](https://github.com/vega/vega-lite)
+* Using [vega-embed](https://github.com/vega/vega-embed),
+* Check [vega website](https://vega.github.io/vega/) and [vega-lite website](https://vega.github.io/vega-lite) for more information.
+* Code inside `{ }` is optional
 
-***Syntaxes***
+_**Syntaxes**_
 
-    ```vega-lite {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
-
-***Showcases***
-
-- Vega example:
-
-```vega {"align":"center"}
-{
-  "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 200,
-  "height": 200,
-  "autosize": "none",
-
-  "signals": [
-    {
-      "name": "startAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "endAngle", "value": 6.29,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "padAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 0.1}
-    },
-    {
-      "name": "innerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 90, "step": 1}
-    },
-    {
-      "name": "cornerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5}
-    },
-    {
-      "name": "sort", "value": false,
-      "bind": {"input": "checkbox"}
-    }
-  ],
-
-  "data": [
-    {
-      "name": "table",
-      "values": [
-        {"id": 1, "field": 4},
-        {"id": 2, "field": 6},
-        {"id": 3, "field": 10},
-        {"id": 4, "field": 3},
-        {"id": 5, "field": 7},
-        {"id": 6, "field": 8}
-      ],
-      "transform": [
-        {
-          "type": "pie",
-          "field": "field",
-          "startAngle": {"signal": "startAngle"},
-          "endAngle": {"signal": "endAngle"},
-          "sort": {"signal": "sort"}
-        }
-      ]
-    }
-  ],
-
-  "scales": [
-    {
-      "name": "color",
-      "type": "ordinal",
-      "domain": {"data": "table", "field": "id"},
-      "range": {"scheme": "category20"}
-    }
-  ],
-
-  "marks": [
-    {
-      "type": "arc",
-      "from": {"data": "table"},
-      "encode": {
-        "enter": {
-          "fill": {"scale": "color", "field": "id"},
-          "x": {"signal": "width / 2"},
-          "y": {"signal": "height / 2"}
-        },
-        "update": {
-          "startAngle": {"field": "startAngle"},
-          "endAngle": {"field": "endAngle"},
-          "padAngle": {"signal": "padAngle"},
-          "innerRadius": {"signal": "innerRadius"},
-          "outerRadius": {"signal": "width / 2"},
-          "cornerRadius": {"signal": "cornerRadius"}
-        }
-      }
-    }
-  ]
-}
+```text
+```vega {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
 ```
 
+_**Syntaxes**_
+
+```text
+```vega-lite {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
+```
+
+_**Showcases**_
+
+* Vega example:
+
+\`\`\`vega {"align":"center"} { "$schema": "[https://vega.github.io/schema/vega/v5.json](https://vega.github.io/schema/vega/v5.json)", "width": 200, "height": 200, "autosize": "none",
+
+"signals": \[ { "name": "startAngle", "value": 0, "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01} }, { "name": "endAngle", "value": 6.29, "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01} }, { "name": "padAngle", "value": 0, "bind": {"input": "range", "min": 0, "max": 0.1} }, { "name": "innerRadius", "value": 0, "bind": {"input": "range", "min": 0, "max": 90, "step": 1} }, { "name": "cornerRadius", "value": 0, "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5} }, { "name": "sort", "value": false, "bind": {"input": "checkbox"} } \],
+
+"data": \[ { "name": "table", "values": \[ {"id": 1, "field": 4}, {"id": 2, "field": 6}, {"id": 3, "field": 10}, {"id": 4, "field": 3}, {"id": 5, "field": 7}, {"id": 6, "field": 8} \], "transform": \[ { "type": "pie", "field": "field", "startAngle": {"signal": "startAngle"}, "endAngle": {"signal": "endAngle"}, "sort": {"signal": "sort"} } \] } \],
+
+"scales": \[ { "name": "color", "type": "ordinal", "domain": {"data": "table", "field": "id"}, "range": {"scheme": "category20"} } \],
+
+"marks": \[ { "type": "arc", "from": {"data": "table"}, "encode": { "enter": { "fill": {"scale": "color", "field": "id"}, "x": {"signal": "width / 2"}, "y": {"signal": "height / 2"} }, "update": { "startAngle": {"field": "startAngle"}, "endAngle": {"field": "endAngle"}, "padAngle": {"signal": "padAngle"}, "innerRadius": {"signal": "innerRadius"}, "outerRadius": {"signal": "width / 2"}, "cornerRadius": {"signal": "cornerRadius"} } } } \] }
+
+```text
 <br>
 
 - Vega-Lite example:
@@ -1309,31 +1140,32 @@ Diagram(
 }
 ```
 
-### 2.16.8 Network Sequence
-*Notes:*
-- It's implemented in showdown-sequence.js, 
-- Render diagrams of sequence 
-- Using [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams).
-- Code inside `{ }` is optional
+#### 2.16.8 Network Sequence
 
-***Syntaxes***
+_Notes:_
 
-The \<theme name> of json's "theme" field value is "hand" or "simple" in syntax language attribute;
+* It's implemented in showdown-sequence.js, 
+* Render diagrams of sequence 
+* Using [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams).
+* Code inside `{ }` is optional
 
-    ```sequence {"theme": "<theme name>", "align": "<align>"}
-    <code content>
-    ```
+_**Syntaxes**_
 
-***Showcases***
+The \ of json's "theme" field value is "hand" or "simple" in syntax language attribute;
 
-- Sequence example with hand theme:
-
-```sequence {"theme":"hand", "align":"center"}
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
+```text
+```sequence {"theme": "<theme name>", "align": "<align>"}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+* Sequence example with hand theme:
+
+\`\`\`sequence {"theme":"hand", "align":"center"} Alice-&gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&gt;Alice: I am good thanks!
+
+```text
 <br>
 
 - Sequence example with simple theme:
@@ -1344,50 +1176,47 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
----
-
-## 2.17. Table of Content Generation
+### 2.17. Table of Content Generation
 
 **Example**
 
-[TOC]
+\[TOC\]
 
-*Or*
+_Or_
 
-[[TOC]]
+\[\[TOC\]\]
 
-*Or* 
+_Or_
 
-[[_TOC_]]
+\[\[_TOC_\]\]
 
----
-## 2.18. Admonition
+### 2.18. Admonition
 
 **Example**
 
 !!! note
 
-    This is the **note** admonition body
+```text
+This is the **note** admonition body
 
-    !!! danger Danger Title
-        This is the **danger** admonition body
-		
---- 
+!!! danger Danger Title
+    This is the **danger** admonition body
+```
 
-## 2.19. Attributes
+### 2.19. Attributes
 
 **Example**
 
-item **bold red**{style="color:red"}
-in HTML: item <strong style="color:red;">bold red</strong>
+item **bold red**{style="color:red"} in HTML: item **bold red**
 
----
-## 2.13. Custom Containers or Alerts
-*Notes:*
-- Some engine such as `Markdown-it`, you can add some alert text.
-- Available variants:
+### 2.13. Custom Containers or Alerts
 
-```
+_Notes:_
+
+* Some engine such as `Markdown-it`, you can add some alert text.
+* Available variants:
+
+```text
 alert-primary
 alert-secondary
 alert-success
@@ -1398,9 +1227,9 @@ alert-light
 alert-dark
 ```
 
-***Syntaxes***
+_**Syntaxes**_
 
-```md
+```text
 ::: alert-info
 This is an info text.
 :::
@@ -1410,60 +1239,37 @@ This is a danger text.
 :::
 ```
 
-***Showcases***
+_**Showcases**_
 
-::: alert-primary
-alert-primary
-:::
+::: alert-primary alert-primary :::
 
-::: alert-secondary
-alert-secondary
-:::
+::: alert-secondary alert-secondary :::
 
-::: alert-success
-alert-success
-:::
+::: alert-success alert-success :::
 
-::: alert-info
-**alert-info**
-:::
+::: alert-info **alert-info** :::
 
-::: alert-warning
-alert-warning
-::: 
+::: alert-warning alert-warning :::
 
-::: alert-danger
-alert-danger
-::: 
+::: alert-danger alert-danger :::
 
-::: alert-light
-alert-light
-::: 
+::: alert-light alert-light :::
 
-::: alert-dark
-alert-dark
-::: 
+::: alert-dark alert-dark :::
 
+in HTML
 
-
-in  HTML
-<div class="alert-warning">
-<p><em>alert-warning</em></p>
-</div>
+_alert-warning_
 
 or
 
-<div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>alert-info</strong> 
-</div>
+ **alert-info**
 
 or
 
-<div class="alert alert-warning">
-  <i class="fas fa-warning-circle"></i> <strong>alert-warning</strong> 
-</div>
+ **alert-warning**
 
----
+### 2.14. Comments
 
-## 2.14. Comments
-[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job.
+\[//\]: \# \(These are reference links used in the body of this note and get stripped out when the markdown processor does its job.
+

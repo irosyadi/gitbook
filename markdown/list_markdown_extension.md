@@ -5,22 +5,26 @@
 Tries to implement all possible elements, while being unambiguous. Notably, CommonMark not yet includes a specification for footnotes.
 
 ## 1. GFM
+
 [Github Flavored Markdown](https://github.github.com/gfm/)
 
 This is a variety of Markdown invented by the hosting platform GitHub and is today one of the most common dialects.
 
-### Tables (extension)
+### Tables \(extension\)
 
 | foo | bar |
-| --- | --- |
+| :--- | :--- |
 | baz | bim |
 
 Markdown syntax:
-```md
+
+```text
 
 ```
+
 HTML code:
-```html
+
+```markup
 <table>
 <thead>
 <tr>
@@ -37,22 +41,22 @@ HTML code:
 </table>
 ```
 
+### Task list items \(extension\)
 
-
-
-### Task list items (extension)
-
-- [x] foo
-  - [ ] bar
-  - [x] baz
-- [ ] bim
+* [x] foo
+  * [ ] bar
+  * [x] baz
+* [ ] bim
 
 Markdown syntax:
-```md
+
+```text
 
 ```
+
 HTML code:
-```html
+
+```markup
 <ul>
 <li><input checked="" disabled="" type="checkbox"> foo
 <ul>
@@ -64,59 +68,65 @@ HTML code:
 </ul>
 ```
 
+### Strikethrough \(extension\)
 
-### Strikethrough (extension)
 ~~Hi~~ Hello, world!
 
 Markdown syntax:
-```md
+
+```text
 
 ```
+
 HTML code:
-```html
+
+```markup
 <p><del>Hi</del> Hello, world!</p>
 ```
 
+### Autolinks \(extension\)
 
-### Autolinks (extension)
-
-www.commonmark.org
-foo@bar.baz
+www.commonmark.org foo@bar.baz
 
 Markdown syntax:
-```md
+
+```text
 
 ```
+
 HTML code:
-```html
+
+```markup
 <p><a href="http://www.commonmark.org">www.commonmark.org</a></p>
 <p><a href="mailto:foo@bar.baz">foo@bar.baz</a></p>
 ```
 
-### Disallowed some Raw HTML (extension)
-- GFM enables the tagfilter extension, where the following HTML tags will be filtered when rendering HTML output: `<title> <textarea> <style> <xmp>  <iframe> <noembed> <noframes>  <script> <plaintext>`
-- All other HTML tags are left untouched
+### Disallowed some Raw HTML \(extension\)
 
+* GFM enables the tagfilter extension, where the following HTML tags will be filtered when rendering HTML output: `<title> <textarea> <style> <xmp>  <iframe> <noembed> <noframes>  <script> <plaintext>`
+* All other HTML tags are left untouched
 
 ## 2. Markdown-it
+
 [Markdown-it Github](https://github.com/markdown-it/markdown-it)
 
 ### Typographic replacements
 
-(c) (C) (r) (R) (tm) (TM) (p) (P) +-
+\(c\) \(C\) \(r\) \(R\) \(tm\) \(TM\) \(p\) \(P\) +-
 
 test.. test... test..... test?..... test!....
 
-!!!!!! ???? ,,  -- ---
+!!!!!! ???? ,, -- ---
 
 "Smartypants, double quotes" and 'single quotes'
 
 ### Strikethrough
+
 ~~Strikethrough~~
 
 ### Syntax highlighting
 
-``` js
+```javascript
 var foo = function (bar) {
   return bar++;
 };
@@ -125,80 +135,83 @@ console.log(foo(5));
 ```
 
 ### Tables
-| Option | Description |
-| ------ | ----------- |
-| data   | path to data files to supply the data that will be passed into templates. |
-| engine | engine to be used for processing templates. Handlebars is the default. |
-| ext    | extension to be used for dest files. |
 
-### Emojies (plugin)
+| Option | Description |
+| :--- | :--- |
+| data | path to data files to supply the data that will be passed into templates. |
+| engine | engine to be used for processing templates. Handlebars is the default. |
+| ext | extension to be used for dest files. |
+
+### Emojies \(plugin\)
+
 [Emojies](https://github.com/markdown-it/markdown-it-emoji)
 
 > Classic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 >
-> Shortcuts (emoticons): :-) :-( 8-) ;)
+> Shortcuts \(emoticons\): :-\) :-\( 8-\) ;\)
 
 see [how to change output](https://github.com/markdown-it/markdown-it-emoji#change-output) with twemoji.
 
-### Superscript/Subscript (plugin)
+### Superscript/Subscript \(plugin\)
+
 [Subscript](https://github.com/markdown-it/markdown-it-sub) / [Superscript](https://github.com/markdown-it/markdown-it-sup)
 
-- 19^th^
-- H~2~O
+* 19^th^
+* H~2~O
 
-### Underscore/inserted text (plugin)
-[\<ins>](https://github.com/markdown-it/markdown-it-ins)
+### Underscore/inserted text \(plugin\)
+
+[\](https://github.com/markdown-it/markdown-it-ins)
 
 ++Inserted text++
 
-### Marked/highlight text (plugin)
-[\<mark>](https://github.com/markdown-it/markdown-it-mark)
+### Marked/highlight text \(plugin\)
+
+[\](https://github.com/markdown-it/markdown-it-mark)
 
 ==Marked text==
 
-### Footnotes (plugin)
+### Footnotes \(plugin\)
+
 [Footnotes](https://github.com/markdown-it/markdown-it-footnote)
 
-Footnote 1 link[^first].
+Footnote 1 link.
 
-Footnote 2 link[^second].
+Footnote 2 link.
 
-Inline footnote^[Text of inline footnote] definition.
+Inline footnote^\[Text of inline footnote\] definition.
 
-Duplicated footnote reference[^second].
+Duplicated footnote reference.
 
-[^first]: Footnote **can have markup**
+```text
+and multiple paragraphs.
+```
 
-    and multiple paragraphs.
+### Definition Lists \(Plugin\)
 
-[^second]: Footnote text.
-
-### Definition Lists (Plugin)
 [Definition lists](https://github.com/markdown-it/markdown-it-deflist)
 
 Term 1
 
-:   Definition 1
-with lazy continuation.
+: Definition 1 with lazy continuation.
 
-Term 2 with *inline markup*
+Term 2 with _inline markup_
 
-:   Definition 2
+: Definition 2
 
-        { some code, part of Definition 2 }
+```text
+    { some code, part of Definition 2 }
 
-    Third paragraph of definition 2.
+Third paragraph of definition 2.
+```
 
 _Compact style:_
 
-Term 1
-  ~ Definition 1
+Term 1 ~ Definition 1
 
-Term 2
-  ~ Definition 2a
-  ~ Definition 2b
+Term 2 ~ Definition 2a ~ Definition 2b
 
-### Abbreviations (plugin)
+### Abbreviations \(plugin\)
 
 [Abbreviations](https://github.com/markdown-it/markdown-it-abbr)
 
@@ -206,42 +219,43 @@ This is HTML abbreviation example.
 
 It converts "HTML", but keep intact partial entries like "xxxHTMLyyy" and so on.
 
-*[HTML]: Hyper Text Markup Language
+\*\[HTML\]: Hyper Text Markup Language
 
-### Custom Container/Warning (plugin)
+### Custom Container/Warning \(plugin\)
 
 [Custom containers](https://github.com/markdown-it/markdown-it-container)
 
-::: warning
-*here be dragons*
-:::
+::: warning _here be dragons_ :::
 
 ### Autolink/Linkify
+
 www.google.com
 
 mail@google.com
 
 ## 3. MultiMarkdown
-[MultiMarkdown](https://fletcher.github.io/MultiMarkdown-6/)
-[Github](https://github.com/fletcher/MultiMarkdown-6)
 
-### Abbreviations (or Acronyms)
+[MultiMarkdown](https://fletcher.github.io/MultiMarkdown-6/) [Github](https://github.com/fletcher/MultiMarkdown-6)
+
+### Abbreviations \(or Acronyms\)
 
 Markdown syntax:
-```md
-[>MMD] is an abbreviation.  So is [>(MD) Markdown].
 
-[>MMD]: MultiMarkdown
+```text
+[>MMD] is an abbreviation.  So is [>(MD) Markdown].
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Citations
 
 Markdown syntax:
-```md
+
+```text
 This is a statement that should be attributed to
 its source[p. 23][#Doe:2006].
 
@@ -250,54 +264,71 @@ used in the bibliography.
 
 [#Doe:2006]: John Doe. *Some Big Fancy Book*.  Vanity Press, 2006.
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### CriticMarkup
-CriticMarkup is a way for authors and editors to track changes to documents in plain text. As with Markdown, small groups of distinctive characters allow you to highlight insertions, deletions, substitutions and comments, all without the overhead of heavy, proprietary office suites. http://criticmarkup.com/
+
+CriticMarkup is a way for authors and editors to track changes to documents in plain text. As with Markdown, small groups of distinctive characters allow you to highlight insertions, deletions, substitutions and comments, all without the overhead of heavy, proprietary office suites. [http://criticmarkup.com/](http://criticmarkup.com/)
 
 ### Definition List
+
 Markdown syntax:
-```md
+
+```text
 Apple
-:	Pomaceous fruit of plants of the genus Malus in 
-	the family Rosaceae.
-:	An american computer company.
+:    Pomaceous fruit of plants of the genus Malus in 
+    the family Rosaceae.
+:    An american computer company.
 
 Orange
-:	The fruit of an evergreen tree of the genus Citrus.
+:    The fruit of an evergreen tree of the genus Citrus.
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
+
 ### Cross-References
 
 Markdown syntax:
-```md
+
+```text
 I added the ability to interpret [Some Text][] as a cross-link, if a header named “Some Text” exists.
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
+
 ### Escaped newlines
 
 Markdown syntax:
-```md
+
+```text
 This is a line.\
 This is a new line
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Fenced Code Blocks
+
 Markdown syntax:
-```md
+
+```text
 ```perl
 # Demonstrate Syntax Highlighting if you link to highlight.js #
 # http://softwaremaniacs.org/soft/highlight/en/
@@ -308,46 +339,51 @@ print "$a...\n";
 $a++;
 }
 ```
-```
+
+```text
 HTML code:
 ```html
-
 ```
 
 ### File Transclusion
-File transclusion is the ability to tell MultiMarkdown to insert the contents of another file inside the current file being processed. 
-Markdown syntax:
-```md
+
+File transclusion is the ability to tell MultiMarkdown to insert the contents of another file inside the current file being processed. Markdown syntax:
+
+```text
 This is some text.
 
 {{some_other_file.txt}}
 
 Another paragraph
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Footnotes
 
 Markdown syntax:
-```md
+
+```text
 Here is some text containing a footnote.[^somesamplefootnote]
 
 [^somesamplefootnote]: Here is the text of the footnote itself.
-
-[somelink]:http://somelink.com
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Glossaries
 
 Markdown syntax:
-```md
+
+```text
 [?(glossary) The glossary collects information about important
 terms used in your document] is a glossary term.
 
@@ -356,8 +392,10 @@ terms used in your document] is a glossary term.
 [?glossary]: The glossary collects information about important
 terms used in your document
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
@@ -366,14 +404,17 @@ HTML code:
 MultiMarkdown also adds a few additional features. If an image is the only thing in a paragraph, it is treated as a block level element
 
 Markdown syntax:
-```md
+
+```text
 This image (![Alt text](/path/to/img.jpg))
 is different than the following image:
 
 ![Alt text](/path/to/img.jpg)
 ```
+
 HTML code:
-```html
+
+```markup
 <p>This image (<img src="/path/to/img.jpg" alt="Alt text" />)
 is different than the following image:</p>
 
@@ -386,7 +427,8 @@ is different than the following image:</p>
 ### Link and Image Attributes
 
 Markdown syntax:
-```md
+
+```text
 This is a formatted ![image][] and a [link][] with attributes.
 
 [image]: http://path.to/image "Image title" width=40px height=400px
@@ -395,15 +437,18 @@ This is a formatted ![image][] and a [link][] with attributes.
 
 Colored [link](http://example.net "Title" style="color:red")
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Math
 
 Markdown syntax:
-```md
+
+```text
 An example of math within a paragraph --- ${e}^{i\pi }+1=0$
 --- easy enough.
 
@@ -413,64 +458,77 @@ $${x}_{1,2}=\frac{-b\pm \sqrt{{b}^{2}-4ac}}{2a}$$
 
 That's it.
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Subscript Superscript
 
 Markdown syntax:
-```md
+
+```text
 y^(a+b)^
 x~y,z~
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Metadata
-It is possible to include special metadata at the top of a MultiMarkdown document, such as title, author, etc. This information can then be used to control how MultiMarkdown processes the document, or can be used in certain output formats in special ways. 
+
+It is possible to include special metadata at the top of a MultiMarkdown document, such as title, author, etc. This information can then be used to control how MultiMarkdown processes the document, or can be used in certain output formats in special ways.
 
 ### Raw Source
-Code spans and code blocks can be flagged as representing raw source
-Markdown syntax:
-```md
+
+Code spans and code blocks can be flagged as representing raw source Markdown syntax:
+
+```text
 foo `*bar*`{=html}
 
 ```{=latex}
 *foo*
 ```
-```
+
+```text
 HTML code:
 ```html
-
 ```
 
 ### Smart Typography
+
 MultiMarkdown converts:
-- Straight quotes (" and ') into “curly” quotes
-- Backticks-style quotes (``this'') into “curly” quotes
-- Dashes (-- and ---) into en- and em- dashes
-- Three dots (...) become an ellipsis
+
+* Straight quotes \(" and '\) into “curly” quotes
+* Backticks-style quotes \(\`\`this''\) into “curly” quotes
+* Dashes \(-- and ---\) into en- and em- dashes
+* Three dots \(...\) become an ellipsis
 
 ### Table of Contents
 
 Markdown syntax:
-```md
+
+```text
 {{TOC}}
 {{TOC:2-3}}
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ### Tables
 
 Markdown syntax:
-```md
+
+```text
 |             |          Grouping           ||
 First Header  | Second Header | Third Header |
  ------------ | :-----------: | -----------: |
@@ -481,28 +539,34 @@ New section   |     More      |         Data |
 And more      | With an escaped '\|'         ||  
 [Prototype table]
 ```
+
 HTML code:
-```html
+
+```markup
 
 ```
 
 ## 4. PHP Markdown
+
 [PHP Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
 
-
 ## 5. Markdig
+
 [Markdig Github](https://github.com/lunet-io/markdig)
 
-
 ## 6. Pandoc
-[Pandoc Manual](https://pandoc.org/MANUAL.html)
-Pandoc Markdown is a superset of GitHub flavoured Markdown and adds support for even more elements.
+
+[Pandoc Manual](https://pandoc.org/MANUAL.html) Pandoc Markdown is a superset of GitHub flavoured Markdown and adds support for even more elements.
 
 ## 7. Kramdown
+
 [Kramdown](https://kramdown.gettalong.org/quickref.html)
 
 ## 8. Showdown
+
 [Showdown](https://github.com/showdownjs/showdown/wiki)
 
 ## 9. Taiga
+
 [Taiga](https://tree.taiga.io/support/misc/taiga-markdown-syntax/)
+

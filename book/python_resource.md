@@ -1,6 +1,7 @@
 # List of Python Resources
 
 ## Awesome Lists of Python
+
 1. [feiskyer](https://github.com/feiskyer/python-tutorials)
 2. [CodementorIO](https://github.com/CodementorIO/Python-Learning-Resources)
 3. [Data Science Python](https://github.com/ujjwalkarn/DataSciencePython)
@@ -17,4 +18,6 @@
 14. [Wikibooks Python](https://en.wikibooks.org/wiki/Python_Programming/Links)
 
 ## Python Online IDE
+
 1. [Python Tutor](http://www.pythontutor.com/)
+
