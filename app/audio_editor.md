@@ -1,7 +1,10 @@
 # Audio Editor
 
 ## Offline
-- Audacity, #opensource
+
+* Audacity, \#opensource
 
 ## Online
-- [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)
+
+* [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)
+
