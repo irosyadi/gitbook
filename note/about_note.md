@@ -1,7 +1,7 @@
 # About Note
 
-This folder contains more deep and detiled explanation from what I wrote in [Blog](../Blog/about_blog.md) or saved link in [bookmarks](../Blog/bookmarks.md). If I find something which is interesting and needs more explanation or description, I'll put it as a note in this repo.
+This folder contains more deep and detiled explanation from what I wrote in [Blog](../blog/about_blog.md) or saved link in [bookmarks](../blog/bookmarks.md). If I find something which is interesting and needs more explanation or description, I'll put it as a note in this repo.
 
 A note in this folder can be expanded further into specific project-style folder, for examples:
-   - [Markdown](../Markdown/about_markdown.md) for book project about markdown.
-   - [PVSystem](../PVSystem/about_pvsystem.md) for book project about PV System.
+   - [Markdown](../markdown/about_markdown.md) for book project about markdown.
+   - [PVSystem](../pvsystem/about_pvsystem.md) for book project about PV System.
