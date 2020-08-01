@@ -3,17 +3,21 @@
 This folder contains interesting and awesome applications either web apps, desktop apps, or mobile apps.
 
 ## Editors
-- [PDF Editors](../app/pdf_editor.md)
-- [Image Editors](../app/image_editor.md)
-- [Audio Editors](../app/audio_editor.md)
-- [Notetaking](../app/notetaking_tool.md)
-- [Math Editors](../app/math_editor.md)
+
+* [PDF Editors](pdf_editor.md)
+* [Image Editors](image_editor.md)
+* [Audio Editors](audio_editor.md)
+* [Notetaking](notetaking_tool.md)
+* [Math Editors](math_editor.md)
 
 ## Tools
-- [Domain Tools](../app/domain_tool.md)
-- [RSS Tools](../app/rss_tool.md)
+
+* [Domain Tools](domain_tool.md)
+* [RSS Tools](rss_tool.md)
 
 ## Sites
-- [Maps](../app/map.md)
-- [Alternative Frontends](../app/alternative_frontend.md) for some popular sites such as Twitter, Wikipedia, Hacker News, Reddit, Youtube, Instagram
--  [Alternative Sites](../app/alternative_web.md), if you bored or need alternatives for some popular sites such as Hacker News, Reddit, Wolfram Alpha
+
+* [Maps](map.md)
+* [Alternative Frontends](alternative_frontend.md) for some popular sites such as Twitter, Wikipedia, Hacker News, Reddit, Youtube, Instagram
+* [Alternative Sites](alternative_web.md), if you bored or need alternatives for some popular sites such as Hacker News, Reddit, Wolfram Alpha
+
