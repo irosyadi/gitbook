@@ -31,11 +31,13 @@
   - [Hackernews IO](https://hackernews.io/)
   - [HN with Mithril](https://mithril-hn.firebaseapp.com/#!/top/1)
   - [HN Leftium](http://hn.leftium.com)
+  - [Hacker News News](https://hacker-news.news/)
   - [HNPWA](https://hnpwa.com/) List of HN Reader/Client
   - [Improve Hacker News](https://hackerbits.com/hacker-news/improve-hacker-news-ui/) List of HN Reader/Client
 
 - Youtube
   - [Invidio](https://invidio.us/)
+  - [Invidio Instances List](https://instances.invidio.us/)
 
 - Instagram
   - [Bibliogram](https://bibliogram.art/)
