@@ -24,6 +24,7 @@ tags: zettelkasten
 - [Three Layers of Zettel](https://zettelkasten.de/posts/three-layers-structure-zettelkasten/)
 - [How Germans Writer](https://writingcooperative.com/zettelkasten-how-one-german-scholar-was-so-freakishly-productive-997e4e0ca125)
 - [Living with Zettelkasten](https://omxi.se/2015-06-21-living-with-a-zettelkasten.html)
+- [My Personal Knowledge Management System](https://mobydiction.ca/blog/my-personal-knowledge-management-system)
 
 ## Tools
 

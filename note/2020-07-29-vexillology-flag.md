@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  Cexillology - Science about Flag
+title:  Vexillology - Science about Flag
 date: 2020-07-29 20:33:36
 path: /note
 tags: vexillology flag

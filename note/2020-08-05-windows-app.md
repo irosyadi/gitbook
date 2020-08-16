@@ -16,7 +16,8 @@ tags: list windows app
 - SyncFolder : file folder sync
 - Syncthing : file cloud sync
 - TreeSize : file and folder size, disk drive mapper
-- Persepolis : download manager
+- Persepolis : aria-based download manager
+- PyIDM : open source fast download manager
 
 ## Image and Photo
 - Microsoft Photos : photo manager
@@ -85,10 +86,12 @@ tags: list windows app
 - Wise System Monitor : system monitoring
 - Wox : application launcher
 - WSCC : windows mini tools collection
+- Espanso : text expansion
 
 ## Software Application Manager
 - Chocolatey : software application manager
 - Revo Uninstaller : software application uninstaller
+- Ubuntu : ubuntu on top Windows 10
 
 ## Ebook
 - calibre : ebook manager

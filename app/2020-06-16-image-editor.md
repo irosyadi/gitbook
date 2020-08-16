@@ -9,9 +9,16 @@ tags: image editor
 
 # Image Editor
 
+## List of Image Editor
+- [FOSS Photography](https://9bladed.com/post/foss_photography/)
+
 ## Online
 1. [Photopea](https://www.photopea.com/)
-2. 
+
+
+## Raw Processing
+- [Rawtherapee](https://rawtherapee.com/)
+- [Darktable](https://www.darktable.org/)
 
 ## Offline
 1. GIMP
