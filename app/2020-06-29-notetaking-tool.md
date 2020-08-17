@@ -1,8 +1,8 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Notetaking Tools
-date: 2020-06-29 20:00:31
+title: List of Notetaking Tools
+date: '2020-06-29T20:00:31.000Z'
 path: /app
 tags: list notetaking tool
 ---
@@ -10,16 +10,19 @@ tags: list notetaking tool
 # List of Notetaking Tools
 
 ## Web-based
+
 1. [Collected Notes](https://collectednotes.com/)
 2. [Emvi](https://emvi.com/)
 3. [Supernotes](https://supernotes.app)
 
 ## Offline with Web Support
+
 1. VNote and Viki
 2. [Standard Notes](https://standardnotes.org/)
 3. TiddlyWiki
 
 ## Offline
+
 1. Obsidian
 2. Zettler
 3. Roam
@@ -29,3 +32,4 @@ tags: list notetaking tool
 7. vim-org
 8. [Trilium](https://github.com/zadam/trilium)
 9. Typora
+

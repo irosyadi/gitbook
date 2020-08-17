@@ -1,8 +1,8 @@
 ---
 layout: default
 author: irosyadi
-title:  About Book
-date: 2020-08-10 19:39:14
+title: About Book
+date: '2020-08-10T19:39:14.000Z'
 path: /book
 tags: about book
 ---
@@ -15,16 +15,9 @@ This folder contains interesting and awesome books and tutorials specifically wi
 
 ## Python
 
-
 ## Machine Learning
-
 
 ## Computer Engineering
 
-
 ## Electrical Engineering
-
-
-
-
 

@@ -1,8 +1,8 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Library for Commonmark
-date: 2020-07-01 21:19:04
+title: List of Library for Commonmark
+date: '2020-07-01T21:19:04.000Z'
 path: /markdown
 tags: commonmark extension
 ---
@@ -11,52 +11,57 @@ tags: commonmark extension
 
 ## 2.16. Diagram
 
-*Notes:*
-- Your app should support the specific library or engine to draw the diagram
-- You should specify particular language of the fenced code block and write the definition of your diagram within it.
+_Notes:_
+
+* Your app should support the specific library or engine to draw the diagram
+* You should specify particular language of the fenced code block and write the definition of your diagram within it.
 
 ### 2.16.1 Mermaid
-*Notes:*
-- It's implemented in showdown-mermaid.js
-- Rendering diagrams of Flowchart or Sequence or Gantt
-- Using [mermaid](https://github.com/knsv/mermaid)
-- Check [mermaid doc](https://mermaidjs.github.io) for more information.
-- Code inside `{ }` is optional
 
-***Syntaxes***
-- Flowchart syntax:
+_Notes:_
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        graph TD;
-        <code content>
-        ```
+* It's implemented in showdown-mermaid.js
+* Rendering diagrams of Flowchart or Sequence or Gantt
+* Using [mermaid](https://github.com/knsv/mermaid)
+* Check [mermaid doc](https://mermaidjs.github.io) for more information.
+* Code inside `{ }` is optional
 
-- Sequence diagram syntax:
+_**Syntaxes**_
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        sequenceDiagram
-        <code content>
-        ```
+* Flowchart syntax:
 
-- Gantt diagram syntax:
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    graph TD;
+    <code content>
+    ```
+  ```
 
-        ```mermaid {"align": "left | center | right", "codeblock": true | false}
-        gantt
-        <code content>
-        ```
+* Sequence diagram syntax:
 
-***Showcases***
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    sequenceDiagram
+    <code content>
+    ```
+  ```
 
-- Flowchart
+* Gantt diagram syntax:
 
-```mermaid {"align":"center", "codeblock": true}
-graph TD;
-           A-->B;
-           A-->C;
-           B-->D;
-           C-->D;
-```
+  ```text
+    ```mermaid {"align": "left | center | right", "codeblock": true | false}
+    gantt
+    <code content>
+    ```
+  ```
 
+_**Showcases**_
+
+* Flowchart
+
+\`\`\`mermaid {"align":"center", "codeblock": true} graph TD; A--&gt;B; A--&gt;C; B--&gt;D; C--&gt;D;
+
+```text
 ```mermaid {"align":"center"}
 graph TD;
            A-->B;
@@ -65,22 +70,12 @@ graph TD;
            C-->D;
 ```
 
-- Sequence diagram
+* Sequence diagram
 
-```mermaid {"align":"right"}
-sequenceDiagram
-           participant Alice
-           participant Bob
-           Alice->>John: Hello John, how are you?
-           loop Healthcheck
-               John->>John: Fight against hypochondria
-           end
-           Note right of John: Rational thoughts <br/>prevail!
-           John-->>Alice: Great!
-           John->>Bob: How about you?
-           Bob-->>John: Jolly good!
-```
+\`\`\`mermaid {"align":"right"} sequenceDiagram participant Alice participant Bob Alice-&gt;&gt;John: Hello John, how are you? loop Healthcheck John-&gt;&gt;John: Fight against hypochondria end Note right of John: Rational thoughts   
+prevail! John--&gt;&gt;Alice: Great! John-&gt;&gt;Bob: How about you? Bob--&gt;&gt;John: Jolly good!
 
+```text
 - Gantt diagram
 
 ```mermaid
@@ -97,47 +92,51 @@ sequenceDiagram
 ```
 
 ### 2.16.2 Plantuml
-*Notes:*
-- It's implemented in showdown-plantuml.js, 
-- Render diagrams of uml,
-- Using [plantuml](http://plantuml.com),
-- Check [plantuml website](http://plantuml.com/) fpr more information.
-- Code inside `{ }` is optional
 
-***Syntaxes***
+_Notes:_
 
-    ```plantuml {"align": "left | center | right", "codeblock": true | false}
-    @startuml
-    <code content>
-    @enduml
-    ```
+* It's implemented in showdown-plantuml.js, 
+* Render diagrams of uml,
+* Using [plantuml](http://plantuml.com),
+* Check [plantuml website](http://plantuml.com/) fpr more information.
+* Code inside `{ }` is optional
 
-***Showcases***
+_**Syntaxes**_
 
-```plantuml  {"align":"right"}
-      @startuml
-      participant User
-
-      User -> A: DoWork
-      activate A
-
-      A -> B: << createRequest >>
-      activate B
-
-      B -> C: DoWork
-      activate C
-      C --> B: WorkDone
-      destroy C
-
-      B --> A: RequestCreated
-      deactivate B
-
-      A -> User: Done
-      deactivate A
-
-      @enduml
+```text
+```plantuml {"align": "left | center | right", "codeblock": true | false}
+@startuml
+<code content>
+@enduml
+```
 ```
 
+_**Showcases**_
+
+\`\`\`plantuml {"align":"right"} @startuml participant User
+
+```text
+  User -> A: DoWork
+  activate A
+
+  A -> B: << createRequest >>
+  activate B
+
+  B -> C: DoWork
+  activate C
+  C --> B: WorkDone
+  destroy C
+
+  B --> A: RequestCreated
+  deactivate B
+
+  A -> User: Done
+  deactivate A
+
+  @enduml
+```
+
+```text
 ### 2.16.3 Flowchart
 *Notes:*
 - It's implemented in showdown-flowchart.js
@@ -150,32 +149,23 @@ sequenceDiagram
 
     ```flow {"align": "left | center | right", "codeblock": true | false}
     <code content>
-    ```
-
-***Syntaxes***
-
-    ```flowchart {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
-
-***Showcases***
-
-```flow  {"align":"center"}
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
-op1=>operation: My Operation
-sub1=>subroutine: My Subroutine
-cond=>condition: Yes
-or No?:>http://www.google.com
-io=>inputoutput: catch something...
-para=>parallel: parallel tasks
-
-st->op1->cond
-cond(yes)->io->e
-cond(no)->para
-para(path1, bottom)->sub1(right)->op1
-para(path2, top)->op1
 ```
+
+_**Syntaxes**_
+
+```text
+```flowchart {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
+```
+
+_**Showcases**_
+
+\`\`\`flow {"align":"center"} st=&gt;start: Start:&gt;[http://www.google.com\[blank](http://www.google.com[blank)\] e=&gt;end:&gt;[http://www.google.com](http://www.google.com) op1=&gt;operation: My Operation sub1=&gt;subroutine: My Subroutine cond=&gt;condition: Yes or No?:&gt;[http://www.google.com](http://www.google.com) io=&gt;inputoutput: catch something... para=&gt;parallel: parallel tasks
+
+st-&gt;op1-&gt;cond cond\(yes\)-&gt;io-&gt;e cond\(no\)-&gt;para para\(path1, bottom\)-&gt;sub1\(right\)-&gt;op1 para\(path2, top\)-&gt;op1
+
+```text
 ***Showcases***
 
 ```flowchart {"align":"right"}
@@ -192,36 +182,31 @@ cond(no)->sub1(right)->op1
 ```
 
 ### 2.16.4 Graphviz's dot
-*Notes:*
-- It's implemented in showdown-viz.js
-- Render diagrams of graphviz's dot 
-- Using [viz.js](https://github.com/mdaines/viz.js).
-- Code inside `{ }` is optional
 
-***Syntaxes***
+_Notes:_
 
-The \<engine name> of json's "engine" field value is 'circo', 'dot', 'neato', 'osage', 'twopi' in syntax language attribute.
+* It's implemented in showdown-viz.js
+* Render diagrams of graphviz's dot 
+* Using [viz.js](https://github.com/mdaines/viz.js).
+* Code inside `{ }` is optional
 
-    ```dot {"engine": "<engine name>", "align": "<align>"}
-    <code content>
-    ```
+_**Syntaxes**_
 
-***Showcases***
-- Dot example with dot engine:
+The \ of json's "engine" field value is 'circo', 'dot', 'neato', 'osage', 'twopi' in syntax language attribute.
 
-```dot {"engine":"dot", "align":"center"}
-digraph G {
-    main -> parse -> execute;
-    main -> init;
-    main -> cleanup;
-    execute -> make_string;
-    execute -> printf
-    init -> make_string;
-    main -> printf;
-    execute -> compare;
-}
+```text
+```dot {"engine": "<engine name>", "align": "<align>"}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+* Dot example with dot engine:
+
+\`\`\`dot {"engine":"dot", "align":"center"} digraph G { main -&gt; parse -&gt; execute; main -&gt; init; main -&gt; cleanup; execute -&gt; make\_string; execute -&gt; printf init -&gt; make\_string; main -&gt; printf; execute -&gt; compare; }
+
+```text
 <br>
 
 - Dot example with circo engine:
@@ -240,32 +225,27 @@ digraph G {
 ```
 
 ### 2.16.5 Railroad diagrams
-*Notes:*
-- It's implemented in showdown-viz.js, 
-- Render diagrams of railroad 
-- Using [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams).
-- Code inside `{ }` is optional
 
-***Syntaxes***
+_Notes:_
 
-    ```railroad {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
+* It's implemented in showdown-viz.js, 
+* Render diagrams of railroad 
+* Using [railroad-diagrams](https://github.com/tabatkins/railroad-diagrams).
+* Code inside `{ }` is optional
 
-***Showcases***
+_**Syntaxes**_
 
-```railroad {"align":"center"}
-Diagram(
-  Optional('+', 'skip'),
-    Choice(0,
-      NonTerminal('name-start char'),
-      NonTerminal('escape')),
-      ZeroOrMore(
-        Choice(0,
-          NonTerminal('name char'),
-          NonTerminal('escape'))))
+```text
+```railroad {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+\`\`\`railroad {"align":"center"} Diagram\( Optional\('+', 'skip'\), Choice\(0, NonTerminal\('name-start char'\), NonTerminal\('escape'\)\), ZeroOrMore\( Choice\(0, NonTerminal\('name char'\), NonTerminal\('escape'\)\)\)\)
+
+```text
 ### 2.16.6 WaveDrom
 *Notes:*
 - It's implemented in showdown-viz.js, 
@@ -278,20 +258,13 @@ Diagram(
 
     ```wavedrom {"align": "left | center | right", "codeblock": true | false}
     <code content>
-    ```
-
-***Showcases***
-
-```wavedrom {"align":"center"}
-{signal: [
-  {name: 'clk', wave: 'p.....|...'},
-  {name: 'dat', wave: 'x.345x|=.x', data: ['head', 'body', 'tail', 'data']},
-  {name: 'req', wave: '0.1..0|1.0'},
-  {},
-  {name: 'ack', wave: '1.....|01.'}
-]}
 ```
 
+_**Showcases**_
+
+\`\`\`wavedrom {"align":"center"} {signal: \[ {name: 'clk', wave: 'p.....\|...'}, {name: 'dat', wave: 'x.345x\|=.x', data: \['head', 'body', 'tail', 'data'\]}, {name: 'req', wave: '0.1..0\|1.0'}, {}, {name: 'ack', wave: '1.....\|01.'} \]}
+
+```text
 ***Showcases***
 
 ```wavedrom {"align":"right"}
@@ -310,119 +283,46 @@ Diagram(
 ```
 
 ### 2.16.7 Vega and Vega-Lite
-*Notes:*
-- It's implemented in showdown-vega.js,
-- Render diagrams of [Vega](https://github.com/vega/vega) and [Vega-Lite](https://github.com/vega/vega-lite)
-- Using [vega-embed](https://github.com/vega/vega-embed),
-- Check [vega website](https://vega.github.io/vega/) and [vega-lite website](https://vega.github.io/vega-lite) for more information.
-- Code inside `{ }` is optional
 
-***Syntaxes***
+_Notes:_
 
-    ```vega {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
+* It's implemented in showdown-vega.js,
+* Render diagrams of [Vega](https://github.com/vega/vega) and [Vega-Lite](https://github.com/vega/vega-lite)
+* Using [vega-embed](https://github.com/vega/vega-embed),
+* Check [vega website](https://vega.github.io/vega/) and [vega-lite website](https://vega.github.io/vega-lite) for more information.
+* Code inside `{ }` is optional
 
-***Syntaxes***
+_**Syntaxes**_
 
-    ```vega-lite {"align": "left | center | right", "codeblock": true | false}
-    <code content>
-    ```
-
-***Showcases***
-
-- Vega example:
-
-```vega {"align":"center"}
-{
-  "$schema": "https://vega.github.io/schema/vega/v5.json",
-  "width": 200,
-  "height": 200,
-  "autosize": "none",
-
-  "signals": [
-    {
-      "name": "startAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "endAngle", "value": 6.29,
-      "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01}
-    },
-    {
-      "name": "padAngle", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 0.1}
-    },
-    {
-      "name": "innerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 90, "step": 1}
-    },
-    {
-      "name": "cornerRadius", "value": 0,
-      "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5}
-    },
-    {
-      "name": "sort", "value": false,
-      "bind": {"input": "checkbox"}
-    }
-  ],
-
-  "data": [
-    {
-      "name": "table",
-      "values": [
-        {"id": 1, "field": 4},
-        {"id": 2, "field": 6},
-        {"id": 3, "field": 10},
-        {"id": 4, "field": 3},
-        {"id": 5, "field": 7},
-        {"id": 6, "field": 8}
-      ],
-      "transform": [
-        {
-          "type": "pie",
-          "field": "field",
-          "startAngle": {"signal": "startAngle"},
-          "endAngle": {"signal": "endAngle"},
-          "sort": {"signal": "sort"}
-        }
-      ]
-    }
-  ],
-
-  "scales": [
-    {
-      "name": "color",
-      "type": "ordinal",
-      "domain": {"data": "table", "field": "id"},
-      "range": {"scheme": "category20"}
-    }
-  ],
-
-  "marks": [
-    {
-      "type": "arc",
-      "from": {"data": "table"},
-      "encode": {
-        "enter": {
-          "fill": {"scale": "color", "field": "id"},
-          "x": {"signal": "width / 2"},
-          "y": {"signal": "height / 2"}
-        },
-        "update": {
-          "startAngle": {"field": "startAngle"},
-          "endAngle": {"field": "endAngle"},
-          "padAngle": {"signal": "padAngle"},
-          "innerRadius": {"signal": "innerRadius"},
-          "outerRadius": {"signal": "width / 2"},
-          "cornerRadius": {"signal": "cornerRadius"}
-        }
-      }
-    }
-  ]
-}
+```text
+```vega {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
 ```
 
+_**Syntaxes**_
+
+```text
+```vega-lite {"align": "left | center | right", "codeblock": true | false}
+<code content>
+```
+```
+
+_**Showcases**_
+
+* Vega example:
+
+\`\`\`vega {"align":"center"} { "$schema": "[https://vega.github.io/schema/vega/v5.json](https://vega.github.io/schema/vega/v5.json)", "width": 200, "height": 200, "autosize": "none",
+
+"signals": \[ { "name": "startAngle", "value": 0, "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01} }, { "name": "endAngle", "value": 6.29, "bind": {"input": "range", "min": 0, "max": 6.29, "step": 0.01} }, { "name": "padAngle", "value": 0, "bind": {"input": "range", "min": 0, "max": 0.1} }, { "name": "innerRadius", "value": 0, "bind": {"input": "range", "min": 0, "max": 90, "step": 1} }, { "name": "cornerRadius", "value": 0, "bind": {"input": "range", "min": 0, "max": 10, "step": 0.5} }, { "name": "sort", "value": false, "bind": {"input": "checkbox"} } \],
+
+"data": \[ { "name": "table", "values": \[ {"id": 1, "field": 4}, {"id": 2, "field": 6}, {"id": 3, "field": 10}, {"id": 4, "field": 3}, {"id": 5, "field": 7}, {"id": 6, "field": 8} \], "transform": \[ { "type": "pie", "field": "field", "startAngle": {"signal": "startAngle"}, "endAngle": {"signal": "endAngle"}, "sort": {"signal": "sort"} } \] } \],
+
+"scales": \[ { "name": "color", "type": "ordinal", "domain": {"data": "table", "field": "id"}, "range": {"scheme": "category20"} } \],
+
+"marks": \[ { "type": "arc", "from": {"data": "table"}, "encode": { "enter": { "fill": {"scale": "color", "field": "id"}, "x": {"signal": "width / 2"}, "y": {"signal": "height / 2"} }, "update": { "startAngle": {"field": "startAngle"}, "endAngle": {"field": "endAngle"}, "padAngle": {"signal": "padAngle"}, "innerRadius": {"signal": "innerRadius"}, "outerRadius": {"signal": "width / 2"}, "cornerRadius": {"signal": "cornerRadius"} } } } \] }
+
+```text
 <br>
 
 - Vega-Lite example:
@@ -474,30 +374,31 @@ Diagram(
 ```
 
 ### 2.16.8 Network Sequence
-*Notes:*
-- It's implemented in showdown-sequence.js, 
-- Render diagrams of sequence 
-- Using [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams).
-- Code inside `{ }` is optional
 
-***Syntaxes***
+_Notes:_
 
-The \<theme name> of json's "theme" field value is "hand" or "simple" in syntax language attribute;
+* It's implemented in showdown-sequence.js, 
+* Render diagrams of sequence 
+* Using [js-sequence-diagrams](https://github.com/bramp/js-sequence-diagrams).
+* Code inside `{ }` is optional
 
-    ```sequence {"theme": "<theme name>", "align": "<align>"}
-    <code content>
-    ```
+_**Syntaxes**_
 
-***Showcases***
+The \ of json's "theme" field value is "hand" or "simple" in syntax language attribute;
 
-- Sequence example with hand theme:
-
-```sequence {"theme":"hand", "align":"center"}
-Alice->Bob: Hello Bob, how are you?
-Note right of Bob: Bob thinks
-Bob-->Alice: I am good thanks!
+```text
+```sequence {"theme": "<theme name>", "align": "<align>"}
+<code content>
+```
 ```
 
+_**Showcases**_
+
+* Sequence example with hand theme:
+
+\`\`\`sequence {"theme":"hand", "align":"center"} Alice-&gt;Bob: Hello Bob, how are you? Note right of Bob: Bob thinks Bob--&gt;Alice: I am good thanks!
+
+```text
 <br>
 
 - Sequence example with simple theme:
@@ -508,4 +409,3 @@ Note right of Bob: Bob thinks
 Bob-->Alice: I am good thanks!
 ```
 
----
