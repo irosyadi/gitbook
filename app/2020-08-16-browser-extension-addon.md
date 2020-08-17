@@ -1,4 +1,13 @@
-# List of Browser Extension and Add-On
+---
+layout: default
+author: irosyadi
+title:  Browser Extension and Add-On
+date: 2020-08-16 19:57:52
+path: /app
+tags: browser extension add-on
+---
+
+# Browser Extension and Add-On
 
 ## Firefox Browser Add-On
 

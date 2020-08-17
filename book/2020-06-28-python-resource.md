@@ -17,7 +17,6 @@ tags: list python resource
 5. [Data Flair Python Tutorial](https://github.com/data-flair/python-tutorial)
 6. [Awesome Geoscience](https://github.com/softwareunderground/awesome-open-geoscience)
 7. [Awesome Data Science](https://github.com/krzjoa/awesome-python-data-science)
-8. [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 9. [Awesome Jupyter](https://github.com/markusschanta/awesome-jupyter)
 10. [Awesome Sentiment Analysis](https://github.com/xiamx/awesome-sentiment-analysis)
 11. [Awesome Python in Education](https://github.com/quobit/awesome-python-in-education)

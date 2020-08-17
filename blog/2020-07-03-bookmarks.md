@@ -9,17 +9,6 @@ tags: bookmark
 
 # Bookmarks
 
-- [Unicode Search](https://unicodelookup.com/)
-- [Unicode Search](https://unicode-search.net/)
-- [String Length and Byte Counter](https://mothereff.in/byte-counter)
-  - menghitung panjang string dan jumlah byte unicode text
-- [One line ASCII Art](https://1lineart.kulaone.com/#/)
-  - satu baris ASCII Art baris saja, contoh:
-  __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___ home
-  --------{---(@ rose
-  (♥_♥) love in my eyes
-- [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
-  - teks yang bisa menganggu atau merusak sistem ketika dimasukkan
 - [CNN Explainer](https://poloclub.github.io/cnn-explainer/)
   - menerangkan CNN secara interaktif
 - [Andi Matuschak](https://notes.andymatuschak.org/About_these_notes)

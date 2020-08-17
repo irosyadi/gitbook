@@ -175,7 +175,7 @@ tags: list windows app
 
 ## Security
 - Malwarebytes : anti malware
-- ShutUP10 : Windows permission editor
+- ShutUP10 (OOSU10): Windows permission editor
 
 ## Others
 - SAM : System Advisor Model, PV System Planner
