@@ -1,19 +1,18 @@
 ---
 layout: default
 author: irosyadi
-title: Audio Editor
-date: '2020-07-02T20:01:15.000Z'
+title:  Audio Editor
+date: 2020-07-02 20:01:15
 path: /app
+category: app
 tags: audio editor
+draft: false
 ---
 
 # Audio Editor
 
 ## Offline
-
-* Audacity, \#opensource
+- Audacity, #opensource
 
 ## Online
-
-* [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)
-
+- [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)

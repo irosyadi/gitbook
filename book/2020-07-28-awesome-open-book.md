@@ -4,7 +4,9 @@ author: irosyadi
 title:  Awesome Open Source Documents
 date: 2020-07-28 19:47:45
 path: /book
+category: book
 tags: awesome open source document
+draft: false
 ---
 
 # Awesome Open Source Documents
