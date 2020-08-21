@@ -1,13 +1,15 @@
 ---
 layout: default
 author: irosyadi
-title:  Book with Code
+title:  List Book with Code
 date: 2020-08-10 19:36:12
 path: /book
 category: book
-tags: book code  
+tags: book code 
 draft: false
 ---
+
+This is list book accompanied by code for replication.
 
 # List Book with Code
 
