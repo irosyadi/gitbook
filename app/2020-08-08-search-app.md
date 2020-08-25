@@ -16,6 +16,7 @@ draft: false
 - [Invinity](https://infinitysearch.co/) - privacy search engineg
 - [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines 
 - [Yacy](https://yacy.net/) - decentralyzed web search
+- [Searx](https://searx.space/) - free selfhosted search engine
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)

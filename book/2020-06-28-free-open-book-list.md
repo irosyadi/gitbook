@@ -36,6 +36,7 @@ draft: false
 22. [Oapen](https://www.oapen.org/)
 23. [JSTOR Open](https://about.jstor.org/oa-and-free/)
 24. [Ubiquity Press](https://www.ubiquitypress.com/site/)
+25. [Bookboon](https://bookboon.com/en/textbooks)
 
 ## Repository of Free Books
 1. [Learn Anything](https://github.com/learn-anything/books)

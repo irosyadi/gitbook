@@ -48,3 +48,4 @@ draft: false
 ## List of Free Math Book
 - [Awesome Math Book](https://github.com/rossant/awesome-math)
 - [UPS Edu](http://linear.ups.edu/curriculum.html)
+- [Opentext](https://opentext.uleth.ca/linalg.html)

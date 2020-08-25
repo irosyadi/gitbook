@@ -42,7 +42,7 @@ Output: IP
 7. [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
 8. [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
 9. [Check Host](https://check-host.net/ip-info?)
-10. [DNS Checker](https://dnschecker.org/#A/)
+10. [DNS Checker](https://dnschecker.org/#A/) Check DNS Propagation
 
 ## Privacy Check
 Input: -
@@ -69,6 +69,9 @@ Output: Geolocation, Ownership
 ## Email Tracer
 1. [IP-Address](https://www.ip-address.org/tracker/trace-email.php)
 
+## Public DNS  
+- [Public DNS Info](https://public-dns.info/)
+
 
 Check
 [Centralops](https://centralops.net/co/)
@@ -87,11 +90,14 @@ Check
 Check what is our DNS Resolver. [LIst of the Tester](https://routersecurity.org/testdns.php)
 - [DNS Leak Test](https://www.dnsleaktest.com)
 - `nslookup myip.dnsfilter.com. 103.247.36.36`
+- `ipconfig /all`
 - [DNS Leak](https://dnsleak.com)
 - [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
-- [IP Leak](https://ipleak.net/)
-- [Whats My DNS Server](http://www.whatsmydnsserver.com/)
+- [IP Leak](https://ipleak.net/) chekc DNS Server
+- [Whats My DNS Server](http://www.whatsmydnsserver.com/) check DNS server
+- [Who is My DNS](https://whoismydns.com/) check DNS server
 - [My NextDNS](https://my.nextdns.io/)
 - [Browserleks](https://browserleaks.com/ip) scroll down to reveal
 - [DNS Leaktest Pervect Privacy](https://www.perfect-privacy.com/en/tests/dns-leaktest)
 - [Tenta.com Test](https://tenta.com/test/) the most complete
+- [Encrypt DNS](https://www.toptal.com/web/encrypted-safe-with-esni-doh-dot)

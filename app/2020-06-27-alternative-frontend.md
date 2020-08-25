@@ -15,6 +15,7 @@ Alternative frontends.
 
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
+  - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
 
 - [Wikipedia](https://www.wikipedia.org/)
   - [Wikiwand](https://www.wikiwand.com/)
@@ -36,9 +37,11 @@ Alternative frontends.
     - [Scroller](https://scrolller.com/)
     - [Redditgrid](https://www.redditgrid.com/)
     - [Popular Pics](https://popular.pics/)
+    - [Pholder](https://pholder.com/)
 - [Reddit Videos](https://old.reddit.com/)
     - [Reddit TV](http://redditv.ca/)
-    - [Redditvids](https://redditvids.com/) Youtube only
+    - [Viddit](https://viddit.app/)
+    - [Redditvids](https://redditvids.com/)
     - [Redv](https://redv.co/) Video Downloader
 
 - [Hacker News](https://news.ycombinator.com/)
@@ -66,11 +69,13 @@ Alternative frontends.
     - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
 
 - Youtube
-  - [Invidio](https://invidio.us/)
-  - [Invidio Instances List](https://instances.invidio.us/)
+  - [Invidious](https://invidio.us/)
+  - [Invidious Instances List](https://instances.invidio.us/)
+  - [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances)
 
 - Instagram
   - [Bibliogram](https://bibliogram.art/)
+      - [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - [Layluh](https://www.layluh.com/)
   - [Freetube App](https://freetubeapp.io) Windows Desktop App
   - [Motion Box](https://www.viewpure.com/) Windows Desktop App
