@@ -37,7 +37,6 @@ draft: false
 - [Artificial Neural Networks - Architectures and Applications](https://www.intechopen.com/books/artificial-neural-networks-models-and-applications) License: CC-BY
 - [Artificial Neural Networks - Methodological Advances and Biomedical Applications](https://www.intechopen.com/books/artificial-neural-networks-methodological-advances-and-biomedical-applications) License: CC-BY
 - [Efficient Learning Machines: Theories, Concepts, and Applications for Engineers and System Designers] Author : Mariette Awad, Rahul Khanna License: CC-BY
-- [Free and Open Machine Learning Book](https://freeandopenmachinelearning.readthedocs.io/en/latest/#) License: CC-BY
 
 ### CC-BY-NC Machine Learning Books
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) License: CC-BY-NC

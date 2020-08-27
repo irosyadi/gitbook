@@ -72,7 +72,7 @@ My upcoming planned books and tutorials.
 - [Introduction to Deep Neural Networks with Keras and Tensorflow ](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
 - [CS 231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](http://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
-- [Course in Machine Learning](https://github.com/hal3/ciml/) License: GPL, filetype: .tex
+- [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, filetype: .tex
 - [Deep School IO](https://github.com/sachinruk/deepschool.io) License: Apache
 - [Keras Tutorial](https://github.com/jfsantos/keras-tutorial) License: MIT
 - [Notes on Deep Learning Book](https://github.com/hadrienj/deepLearningBook-Notes) License: MIT
@@ -134,4 +134,4 @@ My upcoming planned books and tutorials.
 - TKE194021 Proyek Keteknikan
 - TKE194917 Sistem Adaptif
 - TKE194918 Machine Learning
-    - Books:
+    - Books: A Course in Machine Learning Hal Daume
