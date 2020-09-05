@@ -2,7 +2,7 @@
 layout: default
 author: irosyadi
 title:  Bookmarks
-date: 2020-07-03 20:10:15
+date: 2020-06-02 20:10:15
 path: /blog
 category: blog
 tags: bookmark

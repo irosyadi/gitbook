@@ -134,14 +134,14 @@ My upcoming planned books and tutorials.
 - TKE194021 Proyek Keteknikan
 - TKE194917 Sistem Adaptif
 - TKE194918 Machine Learning
-    - Books: A Course in Machine Learning Hal Daume
+    - Books: [A Course in Machine Learning by Hal Daume](http://ciml.info/) [Github](https://github.com/hal3/ciml)
 
 ## Course Schedule
 - TKE194917	Sistem Adaptif	AZIS WISNU WIDHI NUGRAHA	A	SELASA	09:30 - 12:00	GEDUNG TEKNIK E 202	30	0
 - TKE191121	Dasar Teknik Elektro	HARI SISWANTORO	B	RABU	10:20 - 12:00	GEDUNG TEKNIK E 104	30	1
 - TKE191121	Dasar Teknik Elektro	DARU TRI NUGROHO	A	RABU	12:30 - 14:10	GEDUNG TEKNIK E 101	30	6
-- *TKE194918	Machine Learning	IMRON ROSYADI	A	RABU	15:00 - 17:30	GEDUNG TEKNIK E 201	30	11*
-- TKE191113	Matematika Teknik	IMRON ROSYADI	A	KAMIS	07:00 - 09:30	GEDUNG TEKNIK C 101	30	23
-- TKE191113	Matematika Teknik	ARI FADLI	B	KAMIS	09:30 - 12:00	GEDUNG TEKNIK C 101	30	3
+- *TKE194918	Machine Learning	IMRON ROSYADI	A	RABU	15:00 - 17:30	GEDUNG TEKNIK E 201	30	12*
+- TKE191113	Matematika Teknik	IMRON ROSYADI	A	KAMIS	07:00 - 09:30	GEDUNG TEKNIK C 101	30	24
+- TKE191113	Matematika Teknik	ARI FADLI	B	KAMIS	09:30 - 12:00	GEDUNG TEKNIK C 101	30	2
 - *TKE194021	Proyek Keteknikan	IMRON ROSYADI	A	JUMAT	07:50 - 09:30	GEDUNG TEKNIK C 103	15	1*
 - *TKE193154	Sistem Kendali Lanjut	IMRON ROSYADI	A	JUMAT	13:20 - 15:50	GEDUNG TEKNIK E 204	30	15*
