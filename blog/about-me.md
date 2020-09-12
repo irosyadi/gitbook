@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  About Me: Imron Rosyadi
+title:  About Me
 date: 2020-05-01 13:49:51
 path: /blog
 category: blog
@@ -10,8 +10,9 @@ draft: false
 ---
 
 
-# About Me: Imron Rosyadi
+# About Me 
 
+**Imron Rosyadi**
 Jurusan Teknik Elektro (Electrical Engineering Department)  
 Fakultas Teknik (College of Engineering)  
 Universitas Jenderal Soedirman  
