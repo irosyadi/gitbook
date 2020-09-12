@@ -10,3 +10,7 @@ draft: false
 ---
 
 # Linear Algebra
+
+## Reference Books
+- [Interactive Linear Algebras](https://textbooks.math.gatech.edu/ila/index.html) License: GPL/GFDL
+- [Discover Linear Algebra](https://sites.ualberta.ca/~jsylvest/books/dla.html) License: GFDL

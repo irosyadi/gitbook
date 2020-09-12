@@ -13,3 +13,7 @@ draft: false
 
 - [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
 
+## Reference
+-  [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) or its [All About Circuit Version](https://www.allaboutcircuits.com/textbook/) License: Design Science License
+- [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY
+
