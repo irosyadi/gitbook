@@ -43,6 +43,7 @@ Alternative frontends.
     - [Viddit](https://viddit.app/)
     - [Redditvids](https://redditvids.com/)
     - [Redv](https://redv.co/) Video Downloader
+    - [rSoccer](https://rsoccer.live/) r/Soccer Video Highlights
 
 - [Hacker News](https://news.ycombinator.com/)
   - [Hacker News Premii](http://hn.premii.com/)

@@ -21,3 +21,6 @@ List of PDF editor.
 2. Microsoft Word
 3. Libre Office
 4. Okular
+
+## Extract Table from PDF
+- [List and Comparison](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools#pdfplumber)

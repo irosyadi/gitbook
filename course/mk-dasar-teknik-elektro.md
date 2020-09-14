@@ -15,8 +15,8 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 - Kode: TKE191113
 - SKS: 2
 - Jadwal
-    - TKE191121 Dasar Teknik Elektro B RABU 10:20 - 12:00 GEDUNG TEKNIK E 104
-    - TKE191121 Dasar Teknik Elektro A RABU 12:30 - 14:10 GEDUNG TEKNIK E 101
+    - TKE191121 Dasar Teknik Elektro B RABU 10:20 - 12:00 GEDUNG TEKNIK E 104 - 46 mhs
+    - TKE191121 Dasar Teknik Elektro A RABU 12:30 - 14:10 GEDUNG TEKNIK E 101 - 44 mhs
 
 ## Kompetensi
 

@@ -15,7 +15,7 @@ _Webpage_ untuk MK Sistem Kendali Lanjut di Teknik Elektro Unsoed.
 - Kode: TKE193154
 - SKS: 3
 - Jadwal 2020
-    - TKE193154 Sistem Kendali Lanjut A JUMAT 13:20 - 15:50 GEDUNG TEKNIK E 204
+    - TKE193154 Sistem Kendali Lanjut A JUMAT 13:20 - 15:50 GEDUNG TEKNIK E 204 - 15 mhs
 
 ## Referensi
 - Norman S. Nise, Control Systems Engineering \[[website](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]

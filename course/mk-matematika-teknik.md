@@ -15,8 +15,8 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 - Kode: TKE191113
 - SKS: 3
 - Jadwal:
-    - TKE191113 Matematika Teknik  A KAMIS 07:00 - 09:30 GEDUNG TEKNIK C 101
-    - TKE191113 Matematika Teknik  B KAMIS 09:30 - 12:00 GEDUNG TEKNIK C 101
+    - TKE191113 Matematika Teknik  A KAMIS 07:00 - 09:30 GEDUNG TEKNIK C 101 - 65 mhs
+    - TKE191113 Matematika Teknik  B KAMIS 09:30 - 12:00 GEDUNG TEKNIK C 101 - 44 mhs
 
 ## Kompetensi Pembelajaran
 - Memahami Aljabar Linear
@@ -39,4 +39,21 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 
 ## Buku Referensi
 - [Interactive Linear Algebras](https://textbooks.math.gatech.edu/ila/index.html)
-- [Discover Linear Algebra](https://sites.ualberta.ca/~jsylvest/books/dla.html)
+    - [PDF File](https://textbooks.math.gatech.edu/ila/ila.pdf)
+- [Discover Linear Algebra](https://sites.ualberta.ca/~jsylvest/books/DLA1/frontmatter-1.html)
+- [Linear Algebra](https://hefferon.net/linearalgebra/) 
+    - [PDF File](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+
+
+## Interactive Linear Algebras
+1. Systems of Linear Equations: Algebra (pp 1-27)
+2. Systems of Linear Equations: Geometry (pp 29-112)
+3. Linear Transformations and Matrix Algebra (pp 113-185)
+4. Determinants (pp 187-235)
+5. Eigenvalues and Eigenvectors (pp 237-337)
+6. Orthogonality (pp 339-407)
+
+## Discover Linear Algebra
+
+
+

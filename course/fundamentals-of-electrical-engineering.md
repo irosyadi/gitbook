@@ -15,5 +15,6 @@ draft: false
 
 ## Reference
 -  [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) or its [All About Circuit Version](https://www.allaboutcircuits.com/textbook/) License: Design Science License
-- [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY
+- [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/), [original worksheet](http://ibiblio.org/kuphaldt/socratic/doc/topical.html) License: CC-BY
+- [Modular Electronics Learning Project](http://ibiblio.org/kuphaldt/socratic/model/index.html) License: CC-BY
 

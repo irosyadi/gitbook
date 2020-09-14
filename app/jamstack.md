@@ -48,6 +48,7 @@ draft: false
 - Prose
 - Forestry
 - Sanity
+- [Stackbit](https://www.stackbit.com/)
 
 ### List of Deployments
 - [Github Pages](https://pages.github.com/)
