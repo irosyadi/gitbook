@@ -9,5 +9,5 @@ tags: digital signal processing
 draft: false
 ---
 
-# Digital Signal Processing
+## Digital Signal Processing
 - [DSP Illustration](https://dspillustrations.com/pages/index.html)

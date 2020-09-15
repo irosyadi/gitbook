@@ -95,36 +95,35 @@ Another [Linked Images Bookmarklet](https://web.archive.org/web/20180803113222/h
 [More bookmarklets](https://www.squarefree.com/bookmarklets/).
 
 ## Softwares
-[wget project](http://www.gnu.org/software/wget/) [page](http://www.gnu.org/software/wget/)
-[wget for Windows](https://eternallybored.org/misc/wget/)
-[wget A Noobs Guide (PDF)](https://chris.partridge.tech/data/wget-noobs.pdf) by [u/regravity](https://old.reddit.com/u/regravity)
-[How to install wget on OSX](https://thomashunter.name/blog/install-wget-on-os-x-lion/) by [u/nucleocide](https://old.reddit.com/u/nucleocide)
+- [wget project](http://www.gnu.org/software/wget/) [page](http://www.gnu.org/software/wget/)
+- [wget for Windows](https://eternallybored.org/misc/wget/)
+- [wget A Noobs Guide (PDF)](https://chris.partridge.tech/data/wget-noobs.pdf) by [u/regravity](https://old.reddit.com/u/regravity)
+- [How to install wget on OSX](https://thomashunter.name/blog/install-wget-on-os-x-lion/) by [u/nucleocide](https://old.reddit.com/u/nucleocide)
 
 There are other softwares that provide wget with a GUI like [Gwget](https://projects-old.gnome.org/gwget/) and [WinWGet](http://winwget.sourceforge.net/) though I've never used them and hence can't comment on their reliability.
 
-[youtube-dl](https://github.com/rg3/youtube-dl) (Python) downloads videos from various sites. Just like wget you can find GUI frontend for this.
-[RipMe](https://github.com/RipMeApp/ripme) (Java) is an album ripper for various websites.
-[HTTrack Website Copier](https://www.httrack.com/) (Windows/Linux/OSX/Android) can mirror entire websites.
+- [youtube-dl](https://github.com/rg3/youtube-dl) (Python) downloads videos from various sites. Just like wget you can find GUI frontend for this.
+- [RipMe](https://github.com/RipMeApp/ripme) (Java) is an album ripper for various websites.
+- [HTTrack Website Copier](https://www.httrack.com/) (Windows/Linux/OSX/Android) can mirror entire websites.
 Other download helpers you should try :
-[Adware free JDownloader](https://board.jdownloader.org/showthread.php?t=54725) (Win/Linux/OSX/Java) Has GUI
-[xdm](http://xdman.sourceforge.net/) (Win/Linux/OSX/Java) Has GUI.
-[uGet](http://ugetdm.com/) (Win/Linux/OSX/Android) Has GUI.
-[curl](https://curl.haxx.se/) (Win/Linux/OSX/...) Command line tool.
-[aria2](https://aria2.github.io/) (Linux/OSX) Command line. A web-based UI is also available.
-[axel](https://github.com/axel-download-accelerator/axel) (Linux/OSX) Command line tool.
-[Rclone](https://rclone.org/) (Win/Linux/OSX) Command line tool.  
-Rclone has some great commands that can list files, print remote directory size or even mount it as mountpoint. [Here](https://rclone.org/commands/) is a list of all commands. I recommend you to go through their entire website.
+- [Adware free JDownloader](https://board.jdownloader.org/showthread.php?t=54725) (Win/Linux/OSX/Java) Has GUI
+- [xdm](http://xdman.sourceforge.net/) (Win/Linux/OSX/Java) Has GUI.
+- [uGet](http://ugetdm.com/) (Win/Linux/OSX/Android) Has GUI.
+- [curl](https://curl.haxx.se/) (Win/Linux/OSX/...) Command line tool.
+- [aria2](https://aria2.github.io/) (Linux/OSX) Command line. A web-based UI is also available.
+- [axel](https://github.com/axel-download-accelerator/axel) (Linux/OSX) Command line tool.
+- [Rclone](https://rclone.org/) (Win/Linux/OSX) Command line tool. Rclone has some great commands that can list files, print remote directory size or even mount it as mountpoint. [Here](https://rclone.org/commands/) is a list of all commands. I recommend you to go through their entire website.
 
 You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is made by a redditor who posted it [here](https://www.reddit.com/r/opendirectories/comments/913ojc/i_wrote_a_fuse_filesystem_that_allows_you_to/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage) to mount the remote directory as mountpoint. It even appears to be somewhat faster than "rclone mount".
 
 #### OpenDirectoryDownloader
 
-[OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories listings in 75+ supported formats.
+- [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories listings in 75+ supported formats.
 
 
 ## Sites
 
-[The-Eye](https://the-eye.eu/)
-[Archive.org](https://archive.org)
-[The Trove](https://thetrove.net)
-[Telegram Channel](https://t.me/r_OpenDirectories)
+- [The-Eye](https://the-eye.eu/)
+- [Archive.org](https://archive.org)
+- [The Trove](https://thetrove.net)
+- [Telegram Channel](https://t.me/r_OpenDirectories)
