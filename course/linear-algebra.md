@@ -13,7 +13,7 @@ draft: false
 
 ## Video Courses
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) :  good interactive HW exercises, very clear instruction and time-efficient
-- [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) : Gilbert Strang is good.
+- [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [Youtube](https://www.youtube.com/watch?v=YrHlHbtiSM0): Gilbert Strang is good.
 - [3Blue1Brown Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [MathTheBeautiful Youtube](https://www.youtube.com/c/MathTheBeautiful/playlists?view=50&sort=dd&shelf_id=2)
 - [Grant Sanderson](http://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)

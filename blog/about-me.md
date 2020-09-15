@@ -36,10 +36,13 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Personal Links
 
-*   [Blog](http://irosyadi.blog.unsoed.ac.id/)
+*   [Blog](http://irosyadi.netlify.app/)
+*   [Knowledge Base](http://irosyadi.gitbook.io/)
+*   [Blog (not maintained)](http://irosyadi.blog.unsoed.ac.id/)
 *   [Linkedin](http://www.linkedin.com/in/irosyadi)
 *   [Matlab Central](https://www.mathworks.com/matlabcentral/profile/authors/1778067-imron-rosyadi)
 *   [Github](https://github.com/irosyadi)
+*   [Twitter](https://twitter.com/irosyadi)
 
 #### Kuliah (Courses)
 
