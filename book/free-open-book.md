@@ -12,7 +12,6 @@ draft: false
 # Free and Open Books
 
 ## GPL Licensed Books
-1. [Interactive Linear Algebras](https://textbooks.math.gatech.edu/ila/index.html) GPL
 
 ## BSD Licensed Books
 1. [Learn Data Science](https://github.com/nborwankar/LearnDataScience) BSD
@@ -21,7 +20,6 @@ draft: false
 1. [Statistic Done Wrong](https://www.statisticsdonewrong.com/) CC-BY
 1. [Scipy Lectures](http://scipy-lectures.org/) CC-BY
 1. [Introduction to Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
-1. [Linear Algebra, Theory and Applications](https://www.textbookequity.org/linear-algebra-theory-and-applications/) CC-BY
 1. [Introduction to Digital Logic with Laboratory Exercises](https://www.freetechbooks.com/introduction-to-digital-logic-with-laboratory-exercises-t1318.html) CC-BY
 1. [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) CC-BY
 1. [Introduction of Networking: How Internet Works](http://www.net-intro.com/) CC-BY (pdf)

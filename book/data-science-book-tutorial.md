@@ -42,7 +42,6 @@ draft: false
 - [Data Course by University of Barkeley](http://data8.org/) [Data BArkeley](https://data.berkeley.edu/data-science-all) License: CC-BY-NC-ND
 
 ## Free Data Science Book
-- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](http://vmls-book.stanford.edu/) with Julia and Python Notebook
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)

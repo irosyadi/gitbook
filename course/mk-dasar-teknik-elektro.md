@@ -51,6 +51,7 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 - [Modular Electronics Learning Project by Tony R. Kuphaldt](http://ibiblio.org/kuphaldt/socratic/model/index.html)
 - [Fundamentals of Electrical Engineering I (PDF) by Don H. Johnson](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) or [Fundamentals of Electrical Engineering in OpenStax](https://cnx.org/contents/d442r0wh@9.72:g9deOnx5@19/Themes)
 - [DOE Fundamentals Handbook Electrical Science Volume (4 volumes)](https://www.standards.doe.gov/standards-documents/1000/1011-bhdbk-1992-v1)
+
 ### Referensi Berbayar
 - [Electrical and Electronic Principles and Technology by John Bird](https://books.google.com/books/about/Electrical_and_Electronic_Principles_and.html?id=3YUpZ_hNmmwC&redir_esc=y)
 - [Principles and Applications of Electrical Engineering by Giorgio Rizzoni](http://highered.mheducation.com/sites/0072962984/information_center_view0/index.html)
@@ -62,7 +63,8 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 - [The Electrical Engineering Handbook by Richard C. Dorf](https://www.google.com/books/edition/_/qP7HvuakLgEC?hl=en)
 - [The Electrical Engineering Handbook by Wai Kai Chen ](https://www.google.com/books/edition/_/qhHsSlazGrQC?hl=en)
 - [The Resource Handbook of Electronics by Jerry C. Whitaker ](https://www.google.com/books/edition/_/MUBZDwAAQBAJ?hl=en)
-## Referensi Kuliah Online
+
+### Referensi Kuliah Online
 - [EdX Electrical Engineering Online Course](https://www.edx.org/learn/electrical-engineering)
 - [Khan Academy on Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)
 - [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
