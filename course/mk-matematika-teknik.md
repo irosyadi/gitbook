@@ -22,23 +22,22 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 - Pengetahuan-PU01 : menguasai pengetahuan matematika lanjut meliputi kalkulus integral­diferensial, persamaan diferensial, aljabar linier, variable kompleks, probabilitas dan statistik, dan matematika diskret serta penerapan mereka di bidang teknik elektro;
 
 ## Capaian Pembelajaran Mata Kuliah
-- Memahami Aljabar Linear
-- Memahami Matriks: Sifat dan Operasinya
-- Memahami Vektor: Sifat dan Operasinya
-- Memahami Aplikasi Matriks dan Vektor di bidang Teknik Elektro
+- Menguasai metode penyelesaian persamaan linear secara analitis dan numeris
+- Menguasai operasi terhadap matriks dan penerapannya
+- Menguasai konsep eigenvalue dan eigenvektor dan penerapannya
+- Menguasai konsep vektor dan ruang vektor serta penerapannya
+- Menguasai konsep transformasi linear dan penerapannya
 
 ## Bahan Kajian
 - Sistem Persamaan Linear
-- Macam dan Komponen Vektor
-- Operasi Aljabar Vektor dan Makna Geometris Operasi Aljabar Vektor
-- Macam dan Komponen Matriks
-- Operasi Matriks
-    - Penyelesaian Aljabar Linear dengan Eliminasi pada Matriks (reduksi baris, eliminasi Gauss-Jordan)
-    - Determinan dan Kofaktor Matriks
-    - Invers Matriks
-    - Nilai Eigen dan Vektor Eigen
-    - Dekomposisi Matriks dengan Metode LU
-- Vektor dan Matriks pada Teknik Elektro
+- Matriks dan Operasi Matriks
+- Eigenvalue dan Eigenvektor
+- Dekomposisi LU
+- Diagonalisasi dan Bentuk Kuadrat (tambahan)
+- Ruang Vektor Euklid
+- Ruang Vektor Umum
+- Transformasi Linear
+- Aplikasi Aljabar Linear di bidang Teknik Elektro
 
 ## Referensi
 ### Referensi Berbayar
@@ -55,3 +54,26 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 - [A First Course in Linear Algebra by Robert A. Beezer](http://linear.ups.edu/) or its public beta version of [A First Course in Linear Algebra](http://linear.ups.edu/fcla/index.html)
     - [PDF File](http://linear.ups.edu/download/fcla-3.50-print.pdf) 
 - [MATH 1220 Linear Algebra 1 by Michael Doob](http://linearalgebra.math.umanitoba.ca/math1220/)
+
+## Kuliah Online
+- [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
+- [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [Youtube](https://www.youtube.com/watch?v=YrHlHbtiSM0).
+- [Algebra 1 - Khan Academy](https://www.khanacademy.org/math/algebra) and [Algebra 2 - Khan Academy](https://www.khanacademy.org/math/algebra2)
+
+## Youtube
+- [3Blue1Brown Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [MathTheBeautiful Youtube](https://www.youtube.com/c/MathTheBeautiful/playlists?view=50&sort=dd&shelf_id=2)
+- [Grant Sanderson Youtube](http://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+
+## Software
+
+### PC
+- [SpeedCrunch](https://speedcrunch.org/) – open source software, fast, simple
+- [GNU Octave](https://www.gnu.org/software/octave/index) – open source software
+- [Online Octave](https://octave-online.net/) - online GNU Octave
+- [Matlab](https://www.mathworks.com/products/matlab.html) – proprietary
+- [Anaconda for Python Data Science Programming](https://www.anaconda.com/products/individual)
+
+### Android
+- [Madona](https://play.google.com/store/apps/details?id=com.krazeapps.octaveprogrammingcompiler)
+- [Anoc Octave Editor](https://play.google.com/store/apps/details?id=verbosus.anoclite)

@@ -11,6 +11,18 @@ draft: false
 
 # Linear Algebra
 
+## Software
+### PC
+- [SpeedCrunch](https://speedcrunch.org/) – open source software, fast, simple
+- [GNU  Octave](https://www.gnu.org/software/octave/index) – open source software
+- [Online Octave](https://octave-online.net/) - online GNU Octave
+- [Matlab](https://www.mathworks.com/products/matlab.html) – proprietary
+- [Anaconda for Python Data Science Programming](https://www.anaconda.com/products/individual)
+
+### Android
+- [Madona](https://play.google.com/store/apps/details?id=com.krazeapps.octaveprogrammingcompiler)
+- [Anoc Octave Editor](https://play.google.com/store/apps/details?id=verbosus.anoclite)
+
 ## MOOC
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) :  good interactive HW exercises, very clear instruction and time-efficient
 - [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [Youtube](https://www.youtube.com/watch?v=YrHlHbtiSM0): Gilbert Strang is good.
@@ -37,8 +49,7 @@ draft: false
 - [A Concise Text on Advanced Linear Algebra by Yisong Yang](https://books.google.com/books?id=SZJEBQAAQBAJ)
 
 ## Free Books
-- [An Intuitive Overview of Linear
-Algebra Fundamentals](https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals)
+- [An Intuitive Overview of Linear Algebra Fundamentals](https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals)
 - [Introduction to Linear Algebra by Thomas L. Scofield  - PDF](https://sites.calvin.edu/scofield/courses/m231/S14/laNotes.pdf)
 - [Algebra by Paul Dawkins](https://tutorial.math.lamar.edu/classes/alg/alg.aspx) [PDF](https://tutorial.math.lamar.edu/GetFile.aspx?file=B,9,N)
 - [Linear Algebra Abridged by Sheldon Axler](http://linear.axler.net/LinearAbridged.html)
