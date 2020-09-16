@@ -18,13 +18,16 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
     - TKE191113 Matematika Teknik  A KAMIS 07:00 - 09:30 GEDUNG TEKNIK C 101 - 65 mhs
     - TKE191113 Matematika Teknik  B KAMIS 09:30 - 12:00 GEDUNG TEKNIK C 101 - 44 mhs
 
-## Kompetensi Pembelajaran
+## Capaian Pembelajaran Lulusan (CPL) Program Studi
+- Pengetahuan-PU01 : menguasai pengetahuan matematika lanjut meliputi kalkulus integral­diferensial, persamaan diferensial, aljabar linier, variable kompleks, probabilitas dan statistik, dan matematika diskret serta penerapan mereka di bidang teknik elektro;
+
+## Capaian Pembelajaran Mata Kuliah
 - Memahami Aljabar Linear
 - Memahami Matriks: Sifat dan Operasinya
 - Memahami Vektor: Sifat dan Operasinya
 - Memahami Aplikasi Matriks dan Vektor di bidang Teknik Elektro
 
-## Kompetensi Pembelajaran Mata Kuliah
+## Bahan Kajian
 - Sistem Persamaan Linear
 - Macam dan Komponen Vektor
 - Operasi Aljabar Vektor dan Makna Geometris Operasi Aljabar Vektor
@@ -37,23 +40,18 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
     - Dekomposisi Matriks dengan Metode LU
 - Vektor dan Matriks pada Teknik Elektro
 
-## Buku Referensi
-- [Interactive Linear Algebras](https://textbooks.math.gatech.edu/ila/index.html)
+## Referensi
+### Referensi Berbayar
+- [Elementary Linear Algebra: Application Version by Howard Anton](https://books.google.co.id/books?id=loRbAgAAQBAJ&redir_esc=y)
+- [Linear Algebra and Its Applications by David C. Lay](https://books.google.co.id/books?id=apXfrQEACAAJ&redir_esc=y)
+## Referensi Bebas Terbuka
+- [Interactive Linear Algebras by Dan Margalit](https://textbooks.math.gatech.edu/ila/index.html)
     - [PDF File](https://textbooks.math.gatech.edu/ila/ila.pdf)
-- [Discover Linear Algebra](https://sites.ualberta.ca/~jsylvest/books/DLA1/frontmatter-1.html)
-- [Linear Algebra](https://hefferon.net/linearalgebra/) 
+- [Discover Linear Algebra by Jeremy Sylvestre](https://sites.ualberta.ca/~jsylvest/books/DLA1/frontmatter-1.html)
+- [Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
     - [PDF File](http://joshua.smcvt.edu/linearalgebra/book.pdf)
-
-
-## Interactive Linear Algebras
-1. Systems of Linear Equations: Algebra (pp 1-27)
-2. Systems of Linear Equations: Geometry (pp 29-112)
-3. Linear Transformations and Matrix Algebra (pp 113-185)
-4. Determinants (pp 187-235)
-5. Eigenvalues and Eigenvectors (pp 237-337)
-6. Orthogonality (pp 339-407)
-
-## Discover Linear Algebra
-
-
-
+- [Linear Algebra, Theory And Applications by Kenneth Kuttler](https://open.umn.edu/opentextbooks/textbooks/linear-algebra-theory-and-applications)
+    - [PDF File](https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf)
+- [A First Course in Linear Algebra by Robert A. Beezer](http://linear.ups.edu/) or its public beta version of [A First Course in Linear Algebra](http://linear.ups.edu/fcla/index.html)
+    - [PDF File](http://linear.ups.edu/download/fcla-3.50-print.pdf) 
+- [MATH 1220 Linear Algebra 1 by Michael Doob](http://linearalgebra.math.umanitoba.ca/math1220/)
