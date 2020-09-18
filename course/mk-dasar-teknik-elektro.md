@@ -67,6 +67,18 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 ### Referensi Kuliah Online
 - [EdX Electrical Engineering Online Course](https://www.edx.org/learn/electrical-engineering)
 - [Khan Academy on Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)
-- [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
 - [Electrical Engineering Playlist by Reach](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5)
 - [Electrical Engineering Playlist by Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2)
+
+## Kuliah
+### Pekan-1
+- Pendahuluan
+- Ikhtisar Teknik Elektro
+- Video Pendukung
+    - [The Story of Electricity - BBC Documentary](https://www.youtube.com/watch?v=NUUeGianTKM)
+    - [Is Electrical Engineering a good career? - REACH](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=1)
+    - [How hard is Electrical Engineering? - REACH](https://www.youtube.com/watch?v=Q1zo5hF0jjQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=2)
+    - [What can you do with an Electrical Engineering degree - REACH](https://www.youtube.com/watch?v=L5OSflBilXU&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=3)
+    - [Map of the Electrical Engineering Curriculum - REACH](https://www.youtube.com/watch?v=89NJj1F_qmQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=10)
+    - [What Is Electrical Engineering? - Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=1)
+    - [What Can You Really Do As An Electrical Engineer? - Zach Star](https://www.youtube.com/watch?v=M6oXZUtyCJ4&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=2)

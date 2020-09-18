@@ -26,24 +26,59 @@ _Webpage_ untuk MK Sistem Kendali Lanjut di Teknik Elektro Unsoed.
 - Pao C. Chau, Process Control: A First Course With MATLAB \[[website](https://www.cambridge.org/id/academic/subjects/engineering/chemical-engineering/process-control-first-course-matlab?format=PB)\]
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
+- [Ricone Website](http://ricopic.one/control/)
 
 ## Software
-- [Octave Online](https://octave-online.net/)
+- [GNU Octave](https://www.gnu.org/software/octave/index)
+- [Online Octave](https://octave-online.net/)
+- [Matlab](https://www.mathworks.com/products/matlab.html)
 
 ## Online Course
 - [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Online Video Course
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
-    - [Routh Horwitz Criterion](https://www.youtube.com/watch?v=WBCZBOB3LCA&list=PLUMWjy5jgHK0zTjna57eZX4RoZlJtG3L4)
-    - [Root Locus](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f)
-    - [Bode Plots](https://www.youtube.com/watch?v=_eh1conN6YM&list=PLUMWjy5jgHK24TCFwngV5MeiruHxt1BQR)
-    - [Lead Lag Compensator](https://www.youtube.com/playlist?list=PLUMWjy5jgHK0WzmjRViTYtlSVSE_zP6yR)
-    - [PID Control](https://www.youtube.com/watch?v=UR0hOmjaHp0&list=PLUMWjy5jgHK20UW0yM22HYEUTMJfla7Mb)
-    - [Discrete Control](https://www.youtube.com/watch?v=14cMhrp5wlk&list=PLUMWjy5jgHK0MLv6Ksf-NHi7Ur8NRNU4Z)
-- [Steve Brunton Control System Bootcamp](https://www.youtube.com/watch?v=Pi7l8mMjYVE&list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
-- [MATLAB Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
-- [MATLAB Channel: Control System in Practice](https://www.youtube.com/playlist?list=PLn8PRpmsu08pFBqgd_6Bi7msgkWFKL33b)
-- [MATLAB Channel: Understanding Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
-- [MATLAB Channel: Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
+- [The Ryder Project Control Lectures](https://www.youtube.com/playlist?list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-)
 
+## Kuliah
+### Pekan-1
+- Pendahuluan
+- Steady State Error
+- Video Pendukung
+    - [Final Value Theorem and Steady State Error Brian Douglas](https://www.youtube.com/watch?v=PXxveGoNRUw&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=15)
+    - [Recap of Steady-State Error The Ryder Project](https://www.youtube.com/watch?v=D1SAPMJTImU&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=33)
+    - [Steady-State Error #1, using Error Constants The Ryder Project](https://www.youtube.com/watch?v=Idk9OkB2fuY&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=34)
+    - [Steady-State Error #1, using Final Value Theorem The Ryder Project](https://www.youtube.com/watch?v=ZoQ7lj2bdLo&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=35)
+    - [Steady-State Error #2, using Error Constants The Ryder Project](https://www.youtube.com/watch?v=AQNk2bydOY4&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=36)
+    - [Finding Requirements for SSE The Ryder Project](https://www.youtube.com/watch?v=dJcooAEmOds&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=37)
+
+### Pekan-2
+- Analisis Kestabilan Routh Hurwitz
+- Video Pendukung
+    - [Introduction to System Stability and Control Brian Douglas](https://www.youtube.com/watch?v=uqjKG32AkC4&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=16)
+    - [Stability of Closed Loop Control Systems Brian Douglas](https://www.youtube.com/watch?v=yf09OrHa520&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=17)
+    - [Routh-Hurwitz Criterion, An Introduction Brian Douglas](https://www.youtube.com/watch?v=WBCZBOB3LCA&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=18)
+    - [Routh-Hurwitz Criterion, Special Cases Brian Douglas](https://www.youtube.com/watch?v=oMmUPvn6lP8&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=19)
+    - [Routh-Hurwitz Criterion, Beyond Stability Brian Douglas](https://www.youtube.com/watch?v=wGC5C_7Yy-s&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=20)
+    - [Recap of Stability The Ryder Project](https://www.youtube.com/watch?v=TAEDUz5lGGw&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=29)
+    - [Stability Example #1 The Ryder Project](https://www.youtube.com/watch?v=wqJX0VatZzw&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=30)
+    - [Stability Example #2 The Ryder Project](https://www.youtube.com/watch?v=wUhMBZSLwTI&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=31)
+    - [Stability Example #3 The Ryder Project](https://www.youtube.com/watch?v=Q0ANlwI87NA&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=32)
+
+### Pekan-3
+- Root Locus (Tempat Kedudukan Akar)
+- Video Pendukung:
+    - [Brian Douglas - The Root Locus Method - Introduction](https://www.youtube.com/watch?v=CRvVDoQJjYI&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=1)
+    - [Brian Douglas - Sketching Root Locus Part 1](https://www.youtube.com/watch?v=eTVddYCeiKI&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=2)
+    - [Brian Douglas - Sketching Root Locus Part 2](https://www.youtube.com/watch?v=jb_FiP5tKig&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=3)
+    - [The Ryder Project - Recap of Root Locus Diagrams](https://www.youtube.com/watch?v=vzH0vdprs58&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=38)
+    - [The Ryder Project - Drawing Root Locus #1](https://www.youtube.com/watch?v=uSyzGsnMK28&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=39)
+    - [The Ryder Project - Drawing Root Locus #2](https://www.youtube.com/watch?v=K19YgVJVP54&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=40)
+
+### Pekan-4
+- Desain Sistem Kendali dengan Root Locus
+- Video Pendukung:
+    - [Designing a Lead Compensator with Root Locus Brian Douglas](https://www.youtube.com/watch?v=NMpmb0ihoFo&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=4)
+    - [Designing a Lag Compensator with Root Locus Brian Douglas](https://www.youtube.com/watch?v=vXwOzDs5xKY&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=5)
+    - [Root Locus Plot: Common Questions and Answers Brian Douglas](https://www.youtube.com/watch?v=WLBszzT0jp4&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=6)
+    - [Gain a better understanding of Root Locus Plots using Matlab Brian Douglas](https://www.youtube.com/watch?v=pG3_b7wuweQ&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=7)
