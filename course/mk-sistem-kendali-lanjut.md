@@ -64,6 +64,11 @@ _Webpage_ untuk MK Sistem Kendali Lanjut di Teknik Elektro Unsoed.
     - [Stability Example #1 The Ryder Project](https://www.youtube.com/watch?v=wqJX0VatZzw&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=30)
     - [Stability Example #2 The Ryder Project](https://www.youtube.com/watch?v=wUhMBZSLwTI&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=31)
     - [Stability Example #3 The Ryder Project](https://www.youtube.com/watch?v=Q0ANlwI87NA&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=32)
+- Octave
+```octave
+equ=[1 2 3] %characteristic equation polynomial
+roots(equ)
+```
 
 ### Pekan-3
 - Root Locus (Tempat Kedudukan Akar)
@@ -74,6 +79,14 @@ _Webpage_ untuk MK Sistem Kendali Lanjut di Teknik Elektro Unsoed.
     - [The Ryder Project - Recap of Root Locus Diagrams](https://www.youtube.com/watch?v=vzH0vdprs58&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=38)
     - [The Ryder Project - Drawing Root Locus #1](https://www.youtube.com/watch?v=uSyzGsnMK28&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=39)
     - [The Ryder Project - Drawing Root Locus #2](https://www.youtube.com/watch?v=K19YgVJVP54&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=40)
+- Plot root locus di Octave atau Matlab
+```octave
+pkg load control
+num=[1] %numerator
+den=[1 2 3] %denumerator
+sys=tf(num,den) %transfer function
+rlocus(sys)
+```
 
 ### Pekan-4
 - Desain Sistem Kendali dengan Root Locus

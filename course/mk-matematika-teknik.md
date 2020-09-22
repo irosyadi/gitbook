@@ -77,3 +77,18 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 ### Android
 - [Madona](https://play.google.com/store/apps/details?id=com.krazeapps.octaveprogrammingcompiler)
 - [Anoc Octave Editor](https://play.google.com/store/apps/details?id=verbosus.anoclite)
+
+## Kuliah
+### Pekan-1
+- Topik
+    - Pendahuluan
+    - Sistem Persamaan Linear
+- Buku Pendukung:
+    - [LAM - Chapter 2 Systems of Linear Equations](http://linearalgebra.math.umanitoba.ca/math1220/chapter-2.html)
+    - [ULA - Chapter 1 Systems of equations ](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/chap1.html)
+    - [ILA - Chapter 1 Systems of Linear Equations: Algebra](https://textbooks.math.gatech.edu/ila/chap-algebra.html)
+    - [DLA - Chapter 1 Systems of linear equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-systems.html)
+    - [DLA -  Chapter 2 Solving systems using matrices ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-row-red.html)
+    - [DLA -  Chapter 3 Using systems of equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-applications.html)
+    - [FCLA - Chapter 1](http://linear.ups.edu/html/chapter-SLE.html)
+

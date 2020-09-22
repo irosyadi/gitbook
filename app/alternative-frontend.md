@@ -73,6 +73,7 @@ Alternative frontends.
   - [Invidious](https://invidio.us/)
   - [Invidious Instances List](https://instances.invidio.us/)
   - [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances)
+  - [Flvto](https://flvto.video/) YT Downloader
 
 - Instagram
   - [Bibliogram](https://bibliogram.art/)
