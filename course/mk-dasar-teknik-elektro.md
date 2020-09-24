@@ -53,16 +53,17 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 - [DOE Fundamentals Handbook Electrical Science Volume (4 volumes)](https://www.standards.doe.gov/standards-documents/1000/1011-bhdbk-1992-v1)
 
 ### Referensi Berbayar
+- [Electrical Engineering: Know It All by Clive Maxfield et.al.](https://www.google.com/books/edition/_/BYZT1U-YNQwC?hl=en) : digunakan di kuliah
 - [Electrical and Electronic Principles and Technology by John Bird](https://books.google.com/books/about/Electrical_and_Electronic_Principles_and.html?id=3YUpZ_hNmmwC&redir_esc=y)
 - [Principles and Applications of Electrical Engineering by Giorgio Rizzoni](http://highered.mheducation.com/sites/0072962984/information_center_view0/index.html)
 - [Fundamentals of Electrical Engineering by Giorgio Rizzoni](http://highered.mheducation.com/sites/0073380377/index.html)
 - [Comprehensive Dictionary of Electrical Engineering by Philip A. Laplante](https://www.google.com/books/edition/_/_UBzZ4coYMkC?hl=en)
-- [Electrical Engineering: Know It All by Clive Maxfield et.al.](https://www.google.com/books/edition/_/BYZT1U-YNQwC?hl=en)
 - [Fundamental Electrical and Electronic Principles by Christopher R. Robertson](https://www.google.com/books/edition/Fundamental_Electrical_and_Electronic_Pr/x1tFNEASH48C?hl=en&gbpv=0)
 - [Electrical Engineering Principles and Applications by Allan R. Hambley](https://www.google.com/books/edition/Electrical_Engineering/MtpIHCEVKacC?hl=en&gbpv=0)
 - [The Electrical Engineering Handbook by Richard C. Dorf](https://www.google.com/books/edition/_/qP7HvuakLgEC?hl=en)
 - [The Electrical Engineering Handbook by Wai Kai Chen ](https://www.google.com/books/edition/_/qhHsSlazGrQC?hl=en)
 - [The Resource Handbook of Electronics by Jerry C. Whitaker ](https://www.google.com/books/edition/_/MUBZDwAAQBAJ?hl=en)
+- [Practical Electrical Engineering by Sergey N. Makarov](https://books.google.com/books/about/Practical_Electrical_Engineering.html?id=xfCKDwAAQBAJ&redir_esc=y)
 
 ### Referensi Kuliah Online
 - [EdX Electrical Engineering Online Course](https://www.edx.org/learn/electrical-engineering)
@@ -72,8 +73,9 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
 
 ## Kuliah
 ### Pekan-1
-- Pendahuluan
-- Ikhtisar Teknik Elektro
+- Topik
+    - Pendahuluan
+    - Ikhtisar Ilmu Teknik Elektro
 - Video Pendukung
     - [The Story of Electricity - BBC Documentary](https://www.youtube.com/watch?v=NUUeGianTKM)
     - [Is Electrical Engineering a good career? - REACH](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=1)
@@ -82,3 +84,9 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
     - [Map of the Electrical Engineering Curriculum - REACH](https://www.youtube.com/watch?v=89NJj1F_qmQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5&index=10)
     - [What Is Electrical Engineering? - Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=1)
     - [What Can You Really Do As An Electrical Engineer? - Zach Star](https://www.youtube.com/watch?v=M6oXZUtyCJ4&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=2)
+
+### Pekan-2
+- Topik:
+    - Ikhtisar Dasar-dasar Keteknikan untuk Teknik Elektro
+- Tugas:
+    - Terjemah: Electrical Engineering: Know It All by Clive Maxfield et.al.

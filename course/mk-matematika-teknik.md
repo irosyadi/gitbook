@@ -80,7 +80,7 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 
 ## Kuliah
 ### Pekan-1
-- Topik
+- Topik:
     - Pendahuluan
     - Sistem Persamaan Linear
 - Buku Pendukung:
@@ -91,4 +91,9 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
     - [DLA -  Chapter 2 Solving systems using matrices ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-row-red.html)
     - [DLA -  Chapter 3 Using systems of equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-applications.html)
     - [FCLA - Chapter 1](http://linear.ups.edu/html/chapter-SLE.html)
+
+### Pekan-2
+- Topik:
+    - Matriks
+- Buku Pendukung:
 
