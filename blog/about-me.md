@@ -36,6 +36,7 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Personal Links
 
+*   [Page](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 *   [Blog](http://irosyadi.netlify.app/)
 *   [Knowledge Base](http://irosyadi.gitbook.io/)
 *   [Blog (not maintained)](http://irosyadi.blog.unsoed.ac.id/)

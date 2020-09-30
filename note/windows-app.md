@@ -13,6 +13,21 @@ This is list of awesome apps for Windows 10.
 
 # List of Windows App
 
+## My Computer
+- IdeaPad C340-14API 9AID
+- Serial : MP1PVV78
+- Product number : 81N6009AID
+- Bios version : AGCN25WWV1.08
+- Prosesor : AMD Ryzen3 3200U
+- RAM : 8GB DDR4 (2*4)
+    - Only replace 1 RAM slot. The other RAM 4 GB is embedded. The maximum RAM is 16 GB so total will be 20 GB.
+- Hardisk : 256GB M.2 PCIE (SSD SAMSUNG MZNLN256HAJQ-000L2 Interface: M.2 SATA NGFF Form Factor: 2280)
+    - M.2 SSD NVME
+- VGA : Radeon Vega 3
+- [Youtube](https://www.youtube.com/watch?v=oAtamA8zSpw)
+- [Youtube](https://www.youtube.com/watch?v=7F1YZ4e-XKM)
+- [Crucial](https://www.crucial.com/compatible-upgrade-for/lenovo/ideapad-c340#ssd)
+
 ## File Tools
 - 7-Zip : file compression
 - File Converter : file converter

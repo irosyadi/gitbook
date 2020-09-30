@@ -25,6 +25,7 @@ Alternative to popular websites.
 - [Spane](https://www.spane.org/) for social entrepreneur
 - [Echo JS](https://www.echojs.com/) for javascript
 - [Nomad List](https://nomadlist.com/forum/) for traveling
+- [MLN](https://mln.dev/top/1) for machine learning
 
 3. Alternative to Wolframalpha
 - [Sympygamma](https://www.sympygamma.com/)
