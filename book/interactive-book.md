@@ -17,3 +17,4 @@ draft: false
 - [Mathigon](https://mathigon.org/)
 - [Explained Visually](https://setosa.io/ev/)
 - [Jeremy Kun Math Blog and Book](https://jeremykun.com/)
+- [Seeing Theory](https://seeing-theory.brown.edu/index.html) A Visual Introduction to Probability and Statistics [Gitub](https://github.com/seeingtheory/Seeing-Theory) License: Apache

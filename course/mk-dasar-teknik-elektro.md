@@ -90,3 +90,7 @@ _Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
     - Ikhtisar Dasar-dasar Keteknikan untuk Teknik Elektro
 - Tugas:
     - Terjemah: Electrical Engineering: Know It All by Clive Maxfield et.al.
+
+### Pekan-3
+- Topik:
+    - Pengenalan Sinyal dan Sistem

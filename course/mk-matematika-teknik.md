@@ -94,6 +94,10 @@ _Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
 
 ### Pekan-2
 - Topik:
-    - Matriks
-- Buku Pendukung:
+    - Matriks : Operasi
 
+### Pekan-3
+- Topik:
+    - Matriks : Invers dan Dekomposisi LU
+- Catatan :
+    - Mengapa ada dekomposisi LU? Karena dekomposisi LU lebih cepat dipakai untuk menyelesaikan linear persamaan dengan beragam vektor **b**, dibandingkan eliminasi Gauss yang harus mengulang langkah untuk setiap vektor **b** ([Ref-1](https://www.cl.cam.ac.uk/teaching/1314/NumMethods/supporting/mcmaster-kiruba-ludecomp.pdf), [Ref-2](https://math.stackexchange.com/questions/266355/necessity-advantage-of-lu-decomposition-over-gaussian-elimination)).
