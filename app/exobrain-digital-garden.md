@@ -17,7 +17,6 @@ draft: false
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) Platform: Gitbook
 - [Brenan Letkeman](https://ltkmn.gitbook.io/brendex/) Platform: Gitbook
 
-
 ## List of Blog with Zettelkasten (Evergreen, Digital Garden) Method
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) Platform: ??
 - [Maz Stoibers alias mxstbr](https://notes.mxstbr.com/) Platform: Andy-style

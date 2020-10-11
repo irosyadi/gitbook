@@ -9,16 +9,17 @@ tags: open free license
 
 # Open and Free Licenses
 
-1. [TLDR Legal](https://tldrlegal.com) memberikan informasi ringkas tentang maksud suatu lisensi
-2. [CC License](https://creativecommons.org/licenses/) juga memberikan informasi yang sama, tetapi hanya untuk karya yang CC
-3. [Choose a License](https://choosealicense.com/appendix/) and [List of License](https://choosealicense.com/licenses/)
-4. [Creative Commons Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
-5. [License Chooser](http://three.org/openart/license_chooser/)
-6. [License Differentiator](http://oss-watch.ac.uk/apps/licdiff/)
-7. [Freedom Defined](https://freedomdefined.org/Licenses)
-8. [Creative Commons FAQ](https://creativecommons.org/faq/)
-9. [Adapter License](http://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
-10. [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses)
+- [TLDR Legal](https://tldrlegal.com) memberikan informasi ringkas tentang maksud suatu lisensi
+- [CC License](https://creativecommons.org/licenses/) juga memberikan informasi yang sama, tetapi hanya untuk karya yang CC
+- [Choose a License](https://choosealicense.com/appendix/) and [List of License](https://choosealicense.com/licenses/)
+- [Creative Commons Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
+- [License Chooser](http://three.org/openart/license_chooser/)
+- [License Differentiator](http://oss-watch.ac.uk/apps/licdiff/)
+- [Freedom Defined](https://freedomdefined.org/Licenses)
+- [Creative Commons FAQ](https://creativecommons.org/faq/)
+- [Adapter License](http://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
+- [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses)
+- [Unlicense](https://unlicense.org/)
 
 
 |    License    | Attribution | Derivative  | Commercial | Free-Open |

@@ -18,3 +18,6 @@ draft: false
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Reddit Explorables](https://www.reddit.com/r/explorables/)
 - [Better Explained](https://betterexplained.com/)
+- [Interactive Math](https://www.intmath.com/)
+- [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
+- [Interactive Programming Tutorial](https://nbasic.net/apps/tutorial_learn.html)

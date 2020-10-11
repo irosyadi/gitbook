@@ -70,14 +70,11 @@ Alternative frontends.
     - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
 
 - Youtube
-  - [Invidious](https://invidio.us/)
-  - [Invidious Instances List](https://instances.invidio.us/)
-  - [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances)
+  - [Invidious](https://invidio.us/) : [Invidious Instances List](https://instances.invidio.us/), [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances)
   - [Flvto](https://flvto.video/) YT Downloader
 
 - Instagram
-  - [Bibliogram](https://bibliogram.art/)
-      - [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
+  - [Bibliogram](https://bibliogram.art/) : [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - [Layluh](https://www.layluh.com/)
   - [Freetube App](https://freetubeapp.io) Windows Desktop App
   - [Motion Box](https://www.viewpure.com/) Windows Desktop App

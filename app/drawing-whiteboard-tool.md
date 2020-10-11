@@ -1,11 +1,11 @@
 ---
 layout: default
 author: irosyadi
-title:  Drawing Tools
+title:  Online Drawing Tools and Whiteboard Apps
 date: 2020-09-14 11:04:15
 path: /app
 category: app
-tags: drawing tool app
+tags: drawing tool whiteboard app
 draft: false
 ---
 
@@ -17,7 +17,6 @@ draft: false
 - [Aggie](https://aggie.io/)
 
 ## Collaborative Online Whiteboard
-- [AwwApp](https://awwapp.com/#)
 - [BeeCanvas](https://beecanvas.com/) - multimedia, invitation only
 - [Witeboard](https://witeboard.com)
 - [Whiteboardfox](https://whiteboardfox.com/)
@@ -42,4 +41,9 @@ draft: false
 - [Sketchboard for Google Drive](https://gsuite.google.com/marketplace/app/sketchboard/875955645682)
 - [Google Jamboard](https://jamboard.google.com/)
 - [Liteboard](https://liteboard.io/) : this is good actually, recomendded
+- [Share the Board](https://sharetheboard.com/)
+- [Epic Pen](https://epic-pen.com)
+- [Witeboard](https://witeboard.com/)
+- [Board New](https://board.new/)
+- [Aww App](https://awwapp.com)
 - [List of the App](https://zapier.com/blog/best-online-whiteboard/)

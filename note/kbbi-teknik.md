@@ -12,13 +12,8 @@ draft: false
 # Kosa Kata KBBI untuk Teknik Elektro
 
 ## Kata Baku dan Tidak Baku
-*analisis*
-: bentuk tidak baku *analisa*
-
-
+- *analisis* : bentuk tidak baku *analisa*
 
 ## Terjemah Kata Bahasa Inggris
-*server*
-: peladen
-*overview*
-: ikhtisar, ijmal
+- *server* : peladen
+- *overview* : ikhtisar, ijmal

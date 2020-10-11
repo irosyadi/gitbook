@@ -17,6 +17,9 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Unicode Charts](http://www.unicode.org/charts/) formal unicode chart (in PDF)
 - [Unicode Blocks](https://www.fileformat.info/info/unicode/block/index.htm)
 
+## Unicode Font
+- [Unifont ](http://unifoundry.com/unifont/index.html), font for all existing unicode
+
 ## Unicode Search
 - [Unicode Search](https://unicodelookup.com/)
 - [Unicode Search](https://unicode-search.net/)

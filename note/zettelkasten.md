@@ -9,15 +9,11 @@ tags: zettelkasten
 draft: false
 ---
 
-The zettelkasten (German: "slip box") is a knowledge management and note-taking method used in research and study. 
+The zettelkasten (German: "slip box") is a knowledge management and note-taking method used in research and study.
 
 # Zettelkasten
 
-## Non-zettel Notetaking
-- [Notion](https://notion.so/)
-- [Brick](https://brick.do/)
-
-## Reading
+## Reading about Zettelkasten
 - [Note from Emvi](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)
 - [Clarestory-1](https://clerestory.netlify.app/zk/) [Clarestory-2 Follow Up](https://clerestory.netlify.app/zk1/)
 - [Zettelkaste vs PARA](https://zainrizvi.io/blog/remembering-what-you-read-zettelkasten-vs-para/)
@@ -31,33 +27,29 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - [My Personal Knowledge Management System](https://mobydiction.ca/blog/my-personal-knowledge-management-system)
 
 ## Tools
-
 ### Zettelkasten Software Comparison
 - [Google Sheets](https://docs.google.com/spreadsheets/d/1q3AyC3EyBFD90xOgfZOhAKqBozgoS-HdSH-YvfBO7Xw/edit#gid=227657679)
 - [Mac Only](https://docs.google.com/spreadsheets/d/1nyztusx7HAJpc8Vlvm11rG21X8jzx63H2Owmr5s-arE/edit#gid=0)
 - [Artificial Brain Networks](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 
 ### The Zettelkasten / Slip-box
-
 - [ZKN3](http://zettelkasten.danielluedecke.de/en/) by Daniel Lüdecke
-- [Zettlr](https://zettlr.com/) 
-- [The Archive](https://zettelkasten.de/the-archive/).
-- [Roamresearch](http://roamresearch.com/) 
-- [TiddlyWiki](https://tiddlywiki.com/) (free and open-source), 
-- [obsidian](https://obsidian.md/), 
-- [RemNote](https://www.remnote.io/), 
-- [amplenote](https://www.amplenote.com/), and 
-- [org-roam](https://org-roam.readthedocs.io/en/master/). 
+- [Zettlr](https://zettlr.com/)
+- [The Archive](https://zettelkasten.de/the-archive/)
+- [Roamresearch](http://roamresearch.com/)
+- [TiddlyWiki](https://tiddlywiki.com/) (free and open-source)
+- [obsidian](https://obsidian.md/)
+- [RemNote](https://www.remnote.io/)
+- [amplenote](https://www.amplenote.com/)
+- [org-roam](https://org-roam.readthedocs.io/en/master/)
 - [Neuron](https://www.srid.ca/5b963b1c.html) [Neuron](https://neuron.zettel.page/)
 
 ### The Reference Manager
-
-- [Zotero](https://www.zotero.org/) 
+- [Zotero](https://www.zotero.org/)
 - [Mendeley](https://www.mendeley.com/)
 - [Citavi](https://www.citavi.com/).
 
 ### The Editor
-
 - LibreOffice and Word (work well with Zotero)
 - [Scrivener](https://www.literatureandlatte.com/scrivener/overview).
 
@@ -159,11 +151,6 @@ Example: splitting "engineering notes" to "software notes" and "technical writin
 
 
 #### Combination Method
-
-Perhaps a combination of methods would work for your purposes?
-
-Ideas:
-
 - Zettelkasten
   - Unique IDs - facilitates linking - can use beyond your note-taking system if you use it on other files and documents and use a file explorer
   - Linking - link relevant ideas and information
