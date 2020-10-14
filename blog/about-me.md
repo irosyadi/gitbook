@@ -97,6 +97,8 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Seminar (Conferences)
 
+*   **Imron Rosyadi**, Vidi Fitriansyah Hidarlan, Farida Asriani, and Rifah Ediati, 2020. _A Deep Learning for Varieties Classification of Bulk Samples of Rice_, 2020 International Conference on Engineering, Technology and Innovative Researches.
+*   **Imron Rosyadi**, Fendy Prayogi, Farida Asriani, Rifah Ediati, 2020. _Rice Fields Classification among Google Earth Sattelite Images using Convolutional Neural Network_, 2020 The 2nd International Conference On Sustainable Agriculture For Rural Development (2nd ICSARD).
 *   Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Iwan Setiawan, 2018. [_Pemanfaatan Sistem Lampu Cerdas pada Untuk Peningkatan Efisiensi Energi_](http://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/view/703), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VIII.
 *   Azis Wisnu Widhi Nugraha, Iwan Setiawan, **Imron Rosyadi**, 2017. [_Pemanfaatan Raspberry Pi dan Perangkat Lunak Bebas Terbuka (FOSS) pada Pendidikan Dasar untuk Mengatasi Kesenjangan Digital_](http://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/viewFile/423/347), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VII.
 *   Winasis, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Miftakhul Baehaki, 2016. [_Node Nirkabel Berbasis Internet of Things untuk Pemantauan Beban Arus Bolak Balik Pembangkit Listrik Tenaga Surya_](https://www.researchgate.net/publication/314355263_NODE_NIRKABEL_BERBASIS_INTERNET_OF_THINGS_UNTUK_PEMANTAUAN_BEBAN_ARUS_BOLAK_BALIK_PEMBANGKIT_LISTRIK_TENAGA_SURYA). Proceeding Seminar Nasional Teknologi Terapan 2016, ISBN 978-602-1159-18-7, Hal. 393 – 398. ([alternative link 1: full](https://ee.unsoed.ac.id/~awwn/publikasi/seminar/10%202016%20Node%20Nirkabel%20Berbasis%20Internet%20of%20Things%20untuk%20Pemantauan%20Beban%20Arus%20Bolak%20Balik%20Pembangkit%20Listrik%20Tenaga%20Surya/) )
@@ -108,11 +110,12 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 *   **Imron Rosyadi**, 2012, [_An FPGA Implementation of Automatic Censoring Algorithms for Radar Target Detection_](https://www.researchgate.net/publication/337705203_An_FPGA_Implementation_of_Automatic_Censoring_Algorithms_for_Radar_Target_Detection). Proceeding of International Conference on Information Technology and Electrical Engineering (CITEE) 2012, pp 187-194, ISSN: 2088-6578.
 
 #### Hak Kekayaan Intelektual (Intellectual Properties)
-
-*   Mulki Indana Zulfa, **Imron Rosyadi**, Ari Fadli, Acep Taryana, 2019, _Software Monitoring Tugas Akhir di Teknik Elektro Universitas Jenderal Soedirman_. No Pencatatan: 000164521.
-*   Winasis, **Imron Rosyadi**, Irfan Ahmad Faqih, 2019, _Software Pemantauan Debit Air Saluran Terbuka dengan Sensor Ultrasonik dan Rotary Encoder Berbasis Web Menggunakan Arduino_. No Pencatatan: 000163870.
-*   Acep Taryana, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Priswanto, 2019, _Desain Platform DevOps sebagai Alat Bantu Pengembangan Skripsi Bidang Sistem Tertanam di Jurusan Teknik Elektro_. No Pencatatan: 000163408.
-*   **Imron Rosyadi**, Perangkat Lunak Pewarnaan Citra Skala Abu-abu dengan Variasi Fungsi Afinitas No Pencatatan: 000164119.
+*   **Imron Rosyadi**, 2020, _Metode Penyandian (Encoding) dan Pengawasandian (Decoding) Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005863)
+*   **Imron Rosyadi**, 2020, _Sistem Penyandi (Encode), Pengawasandi (Decode) dan Komunikasi Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005862)
+*   **Imron Rosyadi**, 2019, _Perangkat Lunak Pewarnaan Citra Skala Abu-abu dengan Variasi Fungsi Afinitas_. Hak Cipta (No Pencatatan: 000164119).
+*   Mulki Indana Zulfa, **Imron Rosyadi**, Ari Fadli, Acep Taryana, 2019, _Software Monitoring Tugas Akhir di Teknik Elektro Universitas Jenderal Soedirman_.  Hak Cipta (No Pencatatan: 000164521).
+*   Winasis, **Imron Rosyadi**, Irfan Ahmad Faqih, 2019, _Software Pemantauan Debit Air Saluran Terbuka dengan Sensor Ultrasonik dan Rotary Encoder Berbasis Web Menggunakan Arduino_.  Hak Cipta (No Pencatatan: 000163870).
+*   Acep Taryana, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Priswanto, 2019, _Desain Platform DevOps sebagai Alat Bantu Pengembangan Skripsi Bidang Sistem Tertanam di Jurusan Teknik Elektro_.  Hak Cipta (No Pencatatan: 000163408).
 
 #### Pemberitaan (News)
 
