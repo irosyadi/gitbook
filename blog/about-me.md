@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  About Me
+title:  Imron Rosyadi
 date: 2020-05-01 13:49:51
 path: /blog
 category: blog
@@ -10,7 +10,7 @@ draft: false
 ---
 
 
-# About Me 
+# Imron Rosyadi
 
 **Imron Rosyadi**
 Jurusan Teknik Elektro (Electrical Engineering Department)  
@@ -47,6 +47,7 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Kuliah (Courses)
 
+*   Machine Learning
 *   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering)](http://elektro.ft.unsoed.ac.id/akademik/kurikulum/mata-kuliah/dasar-teknik-elektro/)
 *   [Pengolahan Sinyal Digital (Digital Signal Processing)](http://elektro.ft.unsoed.ac.id/pengolahan-sinyal-digital/)
 *   [Sistem Kendali (Control System)](http://elektro.ft.unsoed.ac.id/sistem-kendali/)
@@ -55,19 +56,21 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 *   Instrumentasi (Instrumentation)
 *   Sistem Kendali Digital (Digital Control System)
 *   Matematika Teknik (Engineering Mathematics)
-*   Machine Learning
 *   Proyek Keteknikan (Capstone Design)
 
 #### Kelompok Riset (Research Groups)
 
+*   [Machine Learning Research Group](https://github.com/Soedirman-Machine-Learning)
 *   DevOps for Embedded Systems Research Group
-*   Machine Learning Research Group
+*   Image and Signal Processing Research Group
 
 #### Penelitian (Research Projects)
 
+*   [Machine Learning for Image Classification](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Machine Learning for Agricultural Appilication](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Expert Systems for Healthcare Decision Making](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 *   [Implementation of CFAR Algorithm for Radar Detection on FPGA System](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 *   [Analysis and System Design for Zigbee-based Sensor Networks](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Expert Systems for Healthcare Decision Making](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 *   [Robot System Design and Analysis](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 *   [Process Control System Design](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 *   [DevOps for Embedded Systems](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
