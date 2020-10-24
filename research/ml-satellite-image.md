@@ -26,6 +26,7 @@ draft: false
 - [Landsat Free Map](https://registry.opendata.aws/landsat-8/)
 - [Harris](https://www.harrisgeospatial.com/Data-Imagery/Satellite-Imagery/High-Resolution)
 - [Raster Vision](https://docs.rastervision.io/en/0.12/)
+- [Zoom Earth](https://zoom.earth/) : daily satellite map, historical map (Bing and Esri)
 - SAS Planet
 
 ## Indonesia Landcover Maps

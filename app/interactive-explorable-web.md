@@ -15,6 +15,10 @@ draft: false
 - [NCase](https://ncase.me/)
   - [Loopy Tool](https://ncase.me/loopy/)
 - [Explorabe Explanation](https://explorabl.es/)
+- [Neave](https://neave.com/)
+    - [Bouncy Balls](https://bouncyballs.org/) Bouncy balls as we speak
+    - [Webcam Toy](https://webcamtoy.com/) Webcam effects
+    - [Strobe Tools](https://strobe.cool/)
 - [Awesome Explorables](https://github.com/sp4ke/awesome-explorables)
 - [Reddit Explorables](https://www.reddit.com/r/explorables/)
 - [Better Explained](https://betterexplained.com/)
