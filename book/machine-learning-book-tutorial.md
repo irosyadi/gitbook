@@ -63,6 +63,7 @@ draft: false
 - [Recommended Books](https://mentorcruise.com/books/ml/)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [List ML Books](https://www.readthistwice.com/lists/best-machine-learning-books?s=rlearnmachinelearning)
+- [Cool Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)
 
 ## Articles about Machine Learning
 - [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)

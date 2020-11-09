@@ -46,6 +46,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Lingojam](https://lingojam.com/StylishTextGenerator)
 - [Poem of Quotes](https://www.poemofquotes.com/tools/word-text-generator/stylish-text.php?)
 - [Fancy Text Guru](https://www.fancytextguru.com/)
+- [Font Generator Online](https://www.fontgeneratoronline.com/)
 
 ## Unicode Hack
 - [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)

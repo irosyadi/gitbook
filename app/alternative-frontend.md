@@ -38,6 +38,7 @@ Alternative frontends.
     - [Redditgrid](https://www.redditgrid.com/)
     - [Popular Pics](https://popular.pics/)
     - [Pholder](https://pholder.com/)
+    - [Subredd](https://www.subredd.com)
 - [Reddit Videos](https://old.reddit.com/)
     - [Reddit TV](http://redditv.ca/)
     - [Viddit](https://viddit.app/)

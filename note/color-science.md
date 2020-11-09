@@ -112,6 +112,9 @@ draft: false
 - [Color Naming in Different Languages](https://uwdata.github.io/color-naming-in-different-languages/vis/stacked-spectrum.html)
 - [Kay Website Color Naming](http://www1.icsi.berkeley.edu/~kay/)
 - [There is no Blue in Korean](https://medium.com/hci-design-at-uw/there-is-no-blue-in-korean-ea6ac0d25d34)
+- [Colornaming net](https://colornaming.net/#colour-namer)
+- [List Color Naming Dictionaries](http://people.csail.mit.edu/jaffer/Color/Dictionaries)
+- [Color Naming](https://www.chrisharrison.net/index.php/Fun/ColorPerception) or [this](http://johnthemathguy.blogspot.com/2016/12/unambiguous-regions-in-color-space-for.html)
 
 ## Colorimetry Notes
 - HSV/HSL are cylindrical representation of RGB
