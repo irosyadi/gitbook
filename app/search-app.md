@@ -11,12 +11,22 @@ draft: false
 
 # Search Engine App
 
+## Dominant Search Engines
+- [Google](https://www.google.com/)
+- [Bing](https://www.bing.com/)
+- [Yandex](https://yandex.com/)
+- [Baidu](http://www.baidu.com/)
 
-## Alternative Search
-- [Invinity](https://infinitysearch.co/) - privacy search engineg
-- [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines 
+## Alternative Search Engines
+- [Duck Duck Go](https://duckduckgo.com/) - privacy oriented search engine, powered by Bing
+- [Ecosia](https://www.ecosia.org/?c=en) - search engine which plant trees, powered by Bing
+- [Invinity Search](https://infinitysearch.co/) - privacy oriented search engine
+- [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines
+- [Startpage](https://startpage.com/) - metasearch engine
+- [Private](https://private.sh/) - privacy oriented search engine using proxies
 - [Yacy](https://yacy.net/) - decentralyzed web search
-- [Searx](https://searx.space/) - free selfhosted search engine
+- [Searx](https://searx.space/) - free selfhosted search engine, metasearch engine
+- [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
