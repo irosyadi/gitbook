@@ -11,7 +11,7 @@ draft: false
 
 # Search Engine App
 
-## Dominant Search Engines
+## Main Search Engines
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yandex](https://yandex.com/)
@@ -27,6 +27,7 @@ draft: false
 - [Yacy](https://yacy.net/) - decentralyzed web search
 - [Searx](https://searx.space/) - free selfhosted search engine, metasearch engine
 - [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
+- [Privado](https://www.privado.com/)
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
