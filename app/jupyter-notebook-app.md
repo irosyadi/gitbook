@@ -44,6 +44,7 @@ draft: false
 
 ## Jupyter Notebook Tools
 - [Mito](https://trymito.io/) Mito is an editable spreadsheet in your Jupyter notebook. You can clean, filter, find/replace, and use standard spreadsheet functions in Mito, giving you the visibility and ease of a spreadsheet with the power of Python.
+- [RISE](https://github.com/damianavila/RISE) : RISE allows you to instantly turn your Jupyter Notebooks into a slideshow. No out-of-band conversion is needed, switch from jupyter notebook to a live reveal.js-based slideshow in a single keystroke, and back.
 
 ## Alternative to Jupyter Notebook
 - [Starboard](https://starboard.gg/) Javascript Notebooks (client side)

@@ -47,6 +47,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Poem of Quotes](https://www.poemofquotes.com/tools/word-text-generator/stylish-text.php?)
 - [Fancy Text Guru](https://www.fancytextguru.com/)
 - [Font Generator Online](https://www.fontgeneratoronline.com/)
+- [QAZ wtf](https://qaz.wtf/u/convert.cgi)
 
 ## Unicode Hack
 - [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)

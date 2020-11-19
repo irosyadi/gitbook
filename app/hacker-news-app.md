@@ -38,6 +38,7 @@ draft: false
 - [HNDex](https://hndex.org/) Hackernews content search
 - [HN Algolia](https://hn.algolia.com/) Hackernews comment and link search
 - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
+- [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums's search
 
 ## Alternative to Hacker News
 - [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/)

@@ -20,9 +20,14 @@ draft: false
 - [Convertio](https://convertio.co/id/)
 - [Zamzar](https://www.zamzar.com/)
 - [Free File Convert](https://www.freefileconvert.com/)
+- [Office Converter](https://www.office-converter.com/)
+- [Converter 365](https://www.converter365.com/)
+- [File Zig Zag](https://www.filezigzag.com/)
+- [All Docs File Converter](https://alldocs.app/) : open source, pandoc based
 
 ## Offline File Converter Apps
 - [File Converter](https://file-converter.org/) : Windows app
 - [NCH tools file converter](https://www.nchsoftware.com/software/converters.html)
 - Pandoc
 - [Handbrake ](https://handbrake.fr/) : Video converter
+- [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter

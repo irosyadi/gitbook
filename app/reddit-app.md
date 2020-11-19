@@ -43,6 +43,7 @@ draft: false
 
 ## Reddit Tools
 - [Tryuneart](https://app.tryunearth.com/) manages saved reddit posts
+- [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums's search
 
 ## Alternative to Reddit
 - [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [selfhosted](https://docs.tildes.net/instructions/development-setup)

@@ -62,6 +62,8 @@ Some info about google search operators can be found [here](https://web.archive.
 - [Mamont's open FTP Index](http://www.mmnt.net/)
 - [NAPALM FTP Indexer](https://www.searchftps.net/)
 - [OD Crawler](https://odcrawler.xyz/)
+- [Opendir Search](https://opendirsearch.abifog.com/)
+- [Opendirsearch](https://opendirsearch.abifog.com/)
 - [Calishot](https://calishot-eng-1.herokuapp.com/index-eng/summary) : Calibre Library Search Engine, link is monthly [updated](https://old.reddit.com/r/opendirectories/search?q=calishot&restrict_sr=on&sort=relevance&t=all)
 
 ## Java Scriptlets
