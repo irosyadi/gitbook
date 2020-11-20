@@ -6,6 +6,8 @@ thumbnail: './images/hello.png'
 draft: false
 ---
 
+![](./images/hello.png)
+
 Welcome, Gatsby! This starter is full-package for your new blog!
 
 ## 1. Support Four frontmatter
@@ -51,6 +53,10 @@ class Foo extends React.Component {
   }
 }
 ```
+
+_code_
+
+![](./images/code_example.png)
 
 ## 3. Support Markdown (h2)
 

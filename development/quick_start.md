@@ -40,6 +40,8 @@ You can write...
 
 ### Support script for creating new post
 
+![](./images/cli-tool-example.gif)
+
 ```sh
 $ npm run post
 ```
