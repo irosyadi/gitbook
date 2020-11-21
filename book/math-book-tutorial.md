@@ -29,7 +29,12 @@ draft: false
 - [Discrete Mathematics](http://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 
 ## Open Math Coursenote
-- [Math Lamar Edu](https://tutorial.math.lamar.edu/)
+- [Paul Dawkins Math Notes](https://tutorial.math.lamar.edu/) License: Free
+    - Algebra
+    - Calculus I
+    - Calculus II
+    - Calculus III
+    - Differential Equations
 
 ## List of Free Math Book
 - [Awesome Math Book](https://github.com/rossant/awesome-math)

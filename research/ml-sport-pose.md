@@ -49,4 +49,5 @@ draft: false
     - 7 videos with 3D body poses, 4 subjects, 6 common actions
 - [SURREAL](https://www.di.ens.fr/willow/research/surreal/data/)
     - 6m frames of Synthetic Humans
- - [Panoptic](http://domedb.perception.cs.cmu.edu/)
+- [Panoptic](http://domedb.perception.cs.cmu.edu/)
+- [Basketball Pose Analysis](https://github.com/chonyy/AI-basketball-analysis)
