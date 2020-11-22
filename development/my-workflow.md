@@ -22,6 +22,7 @@ My personal wiki is available in three static host:
 - [at Netlify](https://irosyadi.netlify.app/) using [Gatsby Starter Bee](https://github.com/JaeYeopHan/gatsby-starter-bee), because:
     - it supports markdown files and folder structures
     - it is integrated with Github
+    - it has RSS feed
     - it is fast
 - [at Gitbook Site](https://irosyadi.gitbook.io/) using Gitbook, because:
     - it supports markdown files and folder structures
