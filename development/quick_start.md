@@ -73,7 +73,7 @@ content
 - You can register your resume on the web. (in `__about` directory)
 - You can register your post. (in `blog` directory)
 
-# 🧐 Customize!
+## 🧐 Customize!
 
 ## Gatsby config
 

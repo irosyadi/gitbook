@@ -9,9 +9,9 @@ tags: 100 day challenge programming
 draft: false
 ---
 
-100 days Challenge is a project to enhance programming capability by set the training in 100 days timeline.
-
 # 100 Days Challenge
+
+100 days Challenge is a project to enhance programming capability by set the training in 100 days timeline.
 
 1. [100 days of X](https://www.100daysofx.com/)
 2. [100 days of Code](https://www.100daysofcode.com/resources/)

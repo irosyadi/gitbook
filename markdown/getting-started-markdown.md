@@ -171,7 +171,7 @@ There are lots of resources you can use to learn Markdown. Here are some other i
 - [Awesome Markdown](https://github.com/mundimark/awesome-markdown). A list of Markdown tools and learning resources.
 - [Typesetting Markdown](https://dave.autonoma.ca/blog/2019/05/22/typesetting-markdown-part-1). A multi-part series that describes an ecosystem for typesetting Markdown documents using [pandoc](https://pandoc.org/) and [ConTeXt](https://www.contextgarden.net/).
 
-# Markdown basics
+## Markdown basics
 
 Just like many other apps, Zettlr makes use of `Markdown`, originally invented by [John Gruber](https://daringfireball.net/). Of course, over such a long period of time, a huge amount of developments have taken place, that have created the possibilities of modern Markdown applications. In this document the following topics are covered:
 

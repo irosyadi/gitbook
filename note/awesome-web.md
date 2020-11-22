@@ -9,8 +9,6 @@ tags: awesome web
 draft: false
 ---
 
-Something which great from internet is it provide us some awesome stuffs.
-
 # Awesome Free Stuffs from Internet
 
 ## Awesome Free Services
@@ -32,7 +30,6 @@ Something which great from internet is it provide us some awesome stuffs.
 - [Every Browser Know](https://webkay.robinlinus.com/)
 - [Hey Lingo](https://www.heylingo.com/)
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10?ranMID=24542&ranEAID=0JlRymcP1YU&ranSiteID=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&epi=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00%29%287593%29%281243925%29%280JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ%29%28%29&irclickid=_kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00)
-
 
 ## Free Applications
 - Nimbletext
