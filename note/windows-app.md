@@ -182,7 +182,7 @@ This is list of awesome apps for Windows 10.
 - Camera (Windows 10) : camera
 - Microsoft News
 
-# Phone Connection
+## Phone Connection
 - KDE Connect
 - Your Phone (Windows 10)
 

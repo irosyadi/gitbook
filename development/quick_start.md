@@ -62,7 +62,7 @@ You can fix meta data of blog in `/gatsby-meta-config.js` file.
 }
 ```
 
-# :memo: Write a post!
+## Write a post!
 
 ```
 content
@@ -73,7 +73,7 @@ content
 - You can register your resume on the web. (in `__about` directory)
 - You can register your post. (in `blog` directory)
 
-## 🧐 Customize!
+## Customize!
 
 ## Gatsby config
 

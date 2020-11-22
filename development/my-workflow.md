@@ -43,9 +43,10 @@ So, here are my workflow:
 - ...
 - Profit
 
-## Problem with Workflow
+## Problems with Workflow
 - Ensure to make consistent format between Gitbook and Gatsby Starter Bee
 - index.md in Viki will be displayed as the first page, but it will displayed as the last page in Gitbook
 - readme.md will be displayed as the first page of Gitbook
 - No first line texxt in Gitbook. We should started with Header to make Gitbook display the correct Header.
 - In Gitbook, you cannot have two Header 1's or more.
+- In Gatsby, you need a title. So if you have both title and Header 1, both will be displayed in Gatsby site.

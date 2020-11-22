@@ -8,8 +8,6 @@ draft: false
 
 # Hello World
 
-![](./images/hello.png)
-
 Welcome! This blog was developed using [Gatsby Starter Bee](https://github.com/JaeYeopHan/gatsby-starter-bee) theme.
 
 Here are the features of the theme:
@@ -57,10 +55,6 @@ class Foo extends React.Component {
   }
 }
 ```
-
-_code_
-
-![](./images/code_example.png)
 
 ## 3. Support Markdown (h2)
 

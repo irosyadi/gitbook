@@ -15,7 +15,6 @@ draft: false
 
 Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a set of [bookmarklets and extensions](https://github.com/jiffyclub/open-in-nbviewer) to make it a one-click affair to load a Notebook URL into your browser of choice, directly opening into nbviewer.
 
-# Awesome Jupyter Notebooks
 ## Table of Contents
 
 1. [Entire books or other large collections of notebooks on a topic](#entire-books-or-other-large-collections-of-notebooks-on-a-topic)

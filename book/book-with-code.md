@@ -9,8 +9,6 @@ tags: book code
 draft: false
 ---
 
-This is list book accompanied by code for replication.
-
 # List Book with Code
 
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition), [Slide](https://github.com/dmitriydligach/PyMLSlides)
