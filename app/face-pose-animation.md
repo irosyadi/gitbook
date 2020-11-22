@@ -25,6 +25,10 @@ draft: false
 - [Facerig at Steam](https://store.steampowered.com/app/274920/FaceRig/)
 - [3D This](https://3dthis.com/)
 - [Gif Pal](https://www.gifpal.com/) Gif Maker
+- [Pose Animator](https://github.com/yemount/pose-animator/). Pose Animator takes a 2D vector illustration and animates its containing curves in real-time based on the recognition result from PoseNet and FaceMesh. It borrows the idea of skeleton-based animation from computer graphics and applies it to vector characters.
+- [Real Time Image Animation](https://github.com/anandpawara/Real_Time_Image_Animation)
+- [Avatarify](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb) Photorealistic avatars for video-conferencing apps. [Github](https://github.com/alievk/avatarify)
+- [Animatron](https://editor.animatron.com/) HTML Animation Studio
 
 ## Avatar Generation
 - [Avatar SDK](https://avatarsdk.com/)

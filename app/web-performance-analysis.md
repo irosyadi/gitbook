@@ -20,3 +20,6 @@ draft: false
 - [Web Page Test](https://www.webpagetest.org/)
 - [Web Bloat Score](https://www.webbloatscore.com/)
 - [Web Hint](https://webhint.io/)
+- [Dotcom Tools](https://www.dotcom-tools.com/website-speed-test.aspx)
+- [Uptrends](https://www.uptrends.com/tools/website-speed-test)
+- [site24x7](https://www.site24x7.com/tools/website-comparison.html)
