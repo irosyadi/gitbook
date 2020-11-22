@@ -9,8 +9,7 @@ tags: face motion avatar
 draft: false
 ---
 
-
-## Face and Pose Animation
+# Face and Pose Animation
 
 ## Face and Pose Animator
 - [F-Clone](http://f-clone.com/)

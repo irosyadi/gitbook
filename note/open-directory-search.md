@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  Search Open Directory
+title:  Open Directory Search
 date: 2020-08-12 08:18:07
 path: /note
 category: note
@@ -9,9 +9,9 @@ tags: open directory search
 draft: false
 ---
 
-Open Directories are unprotected directories of pics, vids, music, software and otherwise interesting files. 
+# Open Directory Search
 
-# Search Open Directories 
+Open Directories are unprotected directories of pics, vids, music, software and otherwise interesting files.
 
 ## Google Manual Search
 For videos/movies/tvshows :

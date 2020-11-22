@@ -9,24 +9,25 @@ tags: alternative frontend website
 draft: false
 ---
 
-Alternative frontends.
-
 # Alternative Frontend of Popular Websites
 
+## Twitter
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
 
+## Wikipedia
 - [Wikipedia](https://www.wikipedia.org/)
   - [Wikiwand](https://www.wikiwand.com/)
   - [Moesalih](http://wikipedia.moesalih.com/)
   - [The Reader Wiki](https://thereaderwiki.com/en/)
 
-
+## Youtube
 - Youtube
   - [Invidious](https://invidio.us/) : [Invidious Instances List](https://instances.invidio.us/), [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances)
   - [Flvto](https://flvto.video/) YT Downloader
 
+## Instagram
 - Instagram
   - [Bibliogram](https://bibliogram.art/) : [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
   - [Layluh](https://www.layluh.com/)

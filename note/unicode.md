@@ -9,9 +9,9 @@ tags: unicode punycode emoji kaomoji
 draft: false
 ---
 
-Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While unicode is important work, it has some kind messy structure. That's why we have punycode.
-
 # All about Unicode
+
+Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While unicode is important work, it has some kind messy structure. That's why we have punycode.
 
 ## Unicode List
 - [Unicode Charts](http://www.unicode.org/charts/) formal unicode chart (in PDF)

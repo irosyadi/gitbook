@@ -9,9 +9,9 @@ tags: book tutorial plan
 draft: false
 ---
 
-My upcoming planned books and tutorials.
-
 # Book and Tutorial Plan
+
+My upcoming planned books and tutorials.
 
 ## Monographs
 - Rooftop Solar System

@@ -9,8 +9,6 @@ tags: pdf editor
 draft: false
 ---
 
-List of PDF editor.
-
 # PDF Editor
 
 ## Online

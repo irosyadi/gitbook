@@ -9,8 +9,6 @@ tags: kuliah
 draft: false
 ---
 
-Daftar Kuliah
-
 # Kuliah
 
 ## 202020211

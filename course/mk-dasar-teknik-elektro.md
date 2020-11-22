@@ -9,8 +9,6 @@ tags: dasar teknik elektro
 draft: false
 ---
 
-_Webpage_ untuk MK Dasar Teknik Elektro di Teknik Elektro Unsoed.
-
 # MK Dasar Teknik Elektro
 - Kode: TKE191113
 - SKS: 2

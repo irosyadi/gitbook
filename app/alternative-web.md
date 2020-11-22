@@ -9,8 +9,6 @@ tags: alternative to popular website
 draft: false
 ---
 
-Alternative to popular websites.
-
 # Alternative to Popular Websites
 
 1. Alternative to Wolframalpha

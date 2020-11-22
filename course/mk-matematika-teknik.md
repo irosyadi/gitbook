@@ -9,8 +9,6 @@ tags: matematika teknik
 draft: false
 ---
 
-_Webpage_ untuk MK Matematika Teknik di Teknik Elektro Unsoed.
-
 # MK Matematika Teknik
 - Kode: TKE191113
 - SKS: 3

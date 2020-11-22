@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  Web Bloat and Performance Analysis
+title:  Web Performance Analysis
 date: 2020-11-20 05:51:43
 path: /app
 category: app
@@ -9,8 +9,7 @@ tags: web bloat performance analysis
 draft: false
 ---
 
-
-# Web Bloat and Performance Analysis
+# Web Performance Analysis
 
 ## Web Performance Speed
 - [GTMetrix](https://gtmetrix.com/)

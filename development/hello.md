@@ -6,15 +6,19 @@ thumbnail: './images/hello.png'
 draft: false
 ---
 
+# Hello World
+
 ![](./images/hello.png)
 
-Welcome, Gatsby! This starter is full-package for your new blog!
+Welcome! This blog was developed using [Gatsby Starter Bee](https://github.com/JaeYeopHan/gatsby-starter-bee) theme.
+
+Here are the features of the theme:
 
 ## 1. Support Four frontmatter
 
 ```
 ---
-title: 'Welcome Bee starter'
+title: 'Hello World'
 date: 2019-2-6 16:21:13
 category: 'development'
 draft: false
@@ -114,4 +118,4 @@ $$\prod_{i=a}^{b} f(i)$$
 5. Offline caching with service worker (based gatsby)
 6. Support GA(Google Analytics)
 
-> Let's Start! [Go](https://github.com/JaeYeopHan/gatsby-starter-bee)
+> Let's Start! Check the latest [gatsby-starter-bee](https://github.com/JaeYeopHan/gatsby-starter-bee)

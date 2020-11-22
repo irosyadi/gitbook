@@ -9,9 +9,9 @@ tags: zettelkasten
 draft: false
 ---
 
-The zettelkasten (German: "slip box") is a knowledge management and note-taking method used in research and study.
-
 # Zettelkasten
+
+The zettelkasten (German: "slip box") is a knowledge management and note-taking method used in research and study.
 
 ## Reading about Zettelkasten
 - [Note from Emvi](https://emvi.com/blog/luhmanns-zettelkasten-a-productivity-tool-that-works-like-your-brain-N9Gd2G4aPv)

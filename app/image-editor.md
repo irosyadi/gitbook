@@ -9,8 +9,6 @@ tags: image editor
 draft: false
 ---
 
-List of image editor
-
 # Image Editor
 
 ## List of Image Editor

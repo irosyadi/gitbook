@@ -11,7 +11,7 @@ draft: false
 
 # Color Science
 
-# Article about Color
+## Article about Color
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [Rules for using Color](http://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
 - [About Colormap](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)

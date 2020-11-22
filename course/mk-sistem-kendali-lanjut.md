@@ -9,8 +9,6 @@ tags: sistem kendali lanjut
 draft: false
 ---
 
-_Webpage_ untuk MK Sistem Kendali Lanjut di Teknik Elektro Unsoed.
-
 # MK Sistem Kendali Lanjut
 - Kode: TKE193154
 - SKS: 3

@@ -9,7 +9,6 @@ tags: instrumentation
 draft: false
 ---
 
-
-## Instrumentation
+# Instrumentation
 
 - [Socratic Instrumentation](http://www.ibiblio.org/kuphaldt/socratic/sinst/)
