@@ -9,8 +9,6 @@ tags: buku
 draft: false
 ---
 
-Menulis buku itu _an interesting part_ dalam pekerjaan dosen. Tapi birokrasi PAK membuat itu menjadi rumit.
-
 # Kategorisasi Buku untuk Dosen
 
 ## Buku Referensi (Reference Book)

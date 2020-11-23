@@ -13,7 +13,7 @@ The notes can be accessed at :
 
 I'm writing the notes using [VNote](https://tamlok.gitee.io/vnote/en_us/) then sync the notes to Gitbook and Netlify repository using [SyncFolder](https://www.microsoft.com/en-us/p/syncfolder/9nc73mjwhsww) for Windows 10.
 
-Read more [about me here](../blog/about-me)
+Read more [about me here](https://irosyadi.gitbook.io/irosyadi/blog/about-me)
 
 _Enjoy!_
 

@@ -39,7 +39,7 @@ Output: IP
 6. [Hacker Targe](https://hackertarget.com/reverse-ip-lookup/)
 7. [Yougetsignal](https://www.yougetsignal.com/tools/web-sites-on-web-server/)
 8. [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
-9. [Check Host](https://check-host.net/ip-info?)
+9. [Check Host](https://check-host.net/ip-info?)*
 10. [DNS Checker](https://dnschecker.org/#A/) Check DNS Propagation
 
 ## Privacy Check
