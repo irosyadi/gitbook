@@ -67,6 +67,7 @@ draft: false
 - [Gigantum](https://gigantum.com/)
 - [Pluto Notebook](https://github.com/fonsp/Pluto.jl) Julia Notebook, on [Binder](https://hub.gke2.mybinder.org/user/fonsp-pluto-on-binder-d9dcvqcn/pluto/?token=8rGPwDhhSga6Eagwo4CC0A)
 - [R Notebooks](https://bookdown.org/yihui/rmarkdown/notebook.html) : R
+- [Docable](https://github.com/ottomatica/docable-notebooks#installing-and-running-docable-notebooks) : javascript
 
 ## Other Data Science Tools
 - [Streamlit](https://www.streamlit.io/) The way to build and share data apps
