@@ -12,7 +12,7 @@ draft: false
 
 # Imron Rosyadi
 
-**Imron Rosyadi**
+**Imron Rosyadi**  
 Jurusan Teknik Elektro (Electrical Engineering Department)  
 Fakultas Teknik (College of Engineering)  
 Universitas Jenderal Soedirman  
@@ -36,14 +36,15 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Personal Links
 
-*   [Page](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
-*   [Blog](http://irosyadi.netlify.app/)
-*   [Knowledge Base](http://irosyadi.gitbook.io/)
+*   [Page at University](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+*   [Blog at Netlify](http://irosyadi.netlify.app/)
+*   [Knowledge Base at Gitbook](http://irosyadi.gitbook.io/)
 *   [Blog (not maintained)](http://irosyadi.blog.unsoed.ac.id/)
 *   [Linkedin](http://www.linkedin.com/in/irosyadi)
 *   [Matlab Central](https://www.mathworks.com/matlabcentral/profile/authors/1778067-imron-rosyadi)
-*   [Github](https://github.com/irosyadi)
+*   [Github](https://github.com/irosyadi), [Github Page](http://irosyadi.github.io/)
 *   [Twitter](https://twitter.com/irosyadi)
+*   [Youtube Channel](https://www.youtube.com/channel/UCE7mh_jnoH13OdwFernjr-w)
 
 #### Kuliah (Courses)
 
