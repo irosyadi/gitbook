@@ -17,7 +17,7 @@ draft: false
 - [Arxiv](https://arxiv.org/) Physics Math Computer
 - [Medrxiv](https://www.medrxiv.org/) Medical
 - [Vixra](https://vixra.org/)
-- [Prepubmed](http://www.prepubmed.org/)
+- [Prepubmed](https://www.prepubmed.org/)
 - [Psyarxiv](https://psyarxiv.com/) Psychology
 - [Chemrxiv](https://chemrxiv.org/) Chemistry
 - [Preprints](https://www.preprints.org/)
@@ -27,7 +27,7 @@ draft: false
 
 ## Arxiv Tools
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) convert arxiv-pdf to html
-- [Arxiv Sanity](http://www.arxiv-sanity.com/) web interface for browsing, search and filtering recent arxiv submissions
+- [Arxiv Sanity](https://www.arxiv-sanity.com/) web interface for browsing, search and filtering recent arxiv submissions
 - [Arxiv Times](https://arxivtimes.herokuapp.com/) ML news from Arxiv
 - [Daily Arxiv](https://dailyarxiv.com/) check arxiv articles based on date
 - [Arxiv Search Engine](https://arxiv.aiindex.org/search) for AI articles

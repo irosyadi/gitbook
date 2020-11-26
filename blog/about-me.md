@@ -31,29 +31,29 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 *   [Mendeley](https://www.mendeley.com/profiles/imron-rosyadi1/)
 *   [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211970447)
 *   [Plubons](https://publons.com/researcher/3296025/imron-rosyadi)
-*   [Sinta](http://sintadev.ristekdikti.go.id/authors/detail?id=5981458&view=overview)
+*   [Sinta](https://sintadev.ristekdikti.go.id/authors/detail?id=5981458&view=overview)
 *   [Forlap Dikti](https://forlap.dikti.go.id/dosen/detail/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2) / [PDDikti](https://pddikti.ristekdikti.go.id/data_dosen/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2)
 
 #### Personal Links
 
-*   [Page at University](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
-*   [Blog at Netlify](http://irosyadi.netlify.app/)
-*   [Knowledge Base at Gitbook](http://irosyadi.gitbook.io/)
-*   [Blog (not maintained)](http://irosyadi.blog.unsoed.ac.id/)
-*   [Linkedin](http://www.linkedin.com/in/irosyadi)
+*   [Page at University](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+*   [Blog at Netlify](https://irosyadi.netlify.app/)
+*   [Knowledge Base at Gitbook](https://irosyadi.gitbook.io/)
+*   [Blog (not maintained)](https://irosyadi.blog.unsoed.ac.id/)
+*   [Linkedin](https://www.linkedin.com/in/irosyadi)
 *   [Matlab Central](https://www.mathworks.com/matlabcentral/profile/authors/1778067-imron-rosyadi)
-*   [Github](https://github.com/irosyadi), [Github Page](http://irosyadi.github.io/)
+*   [Github](https://github.com/irosyadi), [Github Page](https://irosyadi.github.io/)
 *   [Twitter](https://twitter.com/irosyadi)
 *   [Youtube Channel](https://www.youtube.com/channel/UCE7mh_jnoH13OdwFernjr-w)
 
 #### Kuliah (Courses)
 
 *   Machine Learning
-*   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering)](http://elektro.ft.unsoed.ac.id/akademik/kurikulum/mata-kuliah/dasar-teknik-elektro/)
-*   [Pengolahan Sinyal Digital (Digital Signal Processing)](http://elektro.ft.unsoed.ac.id/pengolahan-sinyal-digital/)
-*   [Sistem Kendali (Control System)](http://elektro.ft.unsoed.ac.id/sistem-kendali/)
-*   [Sistem Kendali Cerdas (Intelligent Control System)](http://elektro.ft.unsoed.ac.id/sistem-kendali-cerdas/)
-*   [Internet of Things](http://elektro.ft.unsoed.ac.id/internet-of-things/)
+*   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering)](https://elektro.ft.unsoed.ac.id/akademik/kurikulum/mata-kuliah/dasar-teknik-elektro/)
+*   [Pengolahan Sinyal Digital (Digital Signal Processing)](https://elektro.ft.unsoed.ac.id/pengolahan-sinyal-digital/)
+*   [Sistem Kendali (Control System)](https://elektro.ft.unsoed.ac.id/sistem-kendali/)
+*   [Sistem Kendali Cerdas (Intelligent Control System)](https://elektro.ft.unsoed.ac.id/sistem-kendali-cerdas/)
+*   [Internet of Things](https://elektro.ft.unsoed.ac.id/internet-of-things/)
 *   Instrumentasi (Instrumentation)
 *   Sistem Kendali Digital (Digital Control System)
 *   Matematika Teknik (Engineering Mathematics)
@@ -67,17 +67,17 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Penelitian (Research Projects)
 
-*   [Machine Learning for Image Classification](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Machine Learning for Agricultural Appilication](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Expert Systems for Healthcare Decision Making](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Implementation of CFAR Algorithm for Radar Detection on FPGA System](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Analysis and System Design for Zigbee-based Sensor Networks](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Robot System Design and Analysis](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Process Control System Design](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [DevOps for Embedded Systems](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Analysis and System Design for LoRa-based Networks](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [Computational Intelligence for Prediction and Forecasting](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
-*   [PIR-based Object Identification](http://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Machine Learning for Image Classification](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Machine Learning for Agricultural Appilication](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Expert Systems for Healthcare Decision Making](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Implementation of CFAR Algorithm for Radar Detection on FPGA System](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Analysis and System Design for Zigbee-based Sensor Networks](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Robot System Design and Analysis](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Process Control System Design](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [DevOps for Embedded Systems](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Analysis and System Design for LoRa-based Networks](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [Computational Intelligence for Prediction and Forecasting](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+*   [PIR-based Object Identification](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 
 #### Pengabdian kepada Masyarakat (Community Services)
 
@@ -87,24 +87,24 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Publikasi (Publications)
 
-*   Purnama Eka Wijaya, **Imron Rosyadi**, Acep Taryana, 2019, [_An attempt to adopt DevOps on embedded system development: empirical evidence_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](http://dx.doi.org/10.1088/1742-6596/1367/1/012078)\]
+*   Purnama Eka Wijaya, **Imron Rosyadi**, Acep Taryana, 2019, [_An attempt to adopt DevOps on embedded system development: empirical evidence_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://dx.doi.org/10.1088/1742-6596/1367/1/012078)\]
 *   Eko Murdyantoro, Ridlo Setiawan, **Imron Rosyadi**, Azis WW Nugraha, Hesti Susilawati, Yogi Ramadhani, 2019, [_Prototype weather station uses LoRa wireless connectivity infrastructure_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012089), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://doi.org/10.1088/1742-6596/1367/1/012089)\]
-*   Eko Murdyantoro, **Imron Rosyadi**, Hilmi Septian, 2019, [_Studi Performansi Jarak Jangkauan Lora OLG01 sebagai Infrastruktur Konektivitas Nirkabel IoT_](http://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/239), Jurnal Ilmiah Dinamika Rekayasa Volume 15 No. 1, Februari 2019, pp: 47-56. \[[DOI](http://dx.doi.org/10.20884/1.dr.2019.15.1.239)\]
-*   Winasis , Azis Wisnu Widhi Nugraha, **Imron Rosyadi** , Daru Tri Nugroho, Hari Prasetijo, 2018, [_Solar-Wind Hybrid Power Plant Monitoring Based on Free Libre Open Source Software (FLOSS) Internet of Things_](https://medwelljournals.com/abstract/?doi=jeasci.2018.2705.2712), Journal of Engineering and Applied Sciences Volume: 13 Issue: 9 pp: 2705-2712. \[[DOI](http://dx.doi.org/10.36478/jeasci.2018.2705.2712)\]
-*   Winasis, Azis Wisnu Widhi Nugraha, **Imron Rosyadi** dan Fajar Surya Tri Nugroho, 2016, [_Desain Sistem Monitoring Sistem Photovoltaic Berbasis Internet of Things (IoT)_](http://ejnteti.jteti.ugm.ac.id/index.php/JNTETI/article/view/281), Jurnal Nasional Teknik Elektro dan Teknologi Informasi, Volume 5, Nomor 4, Tahun 2016. \[[DOI](http://dx.doi.org/10.22146/jnteti.v5i4.281)\]
+*   Eko Murdyantoro, **Imron Rosyadi**, Hilmi Septian, 2019, [_Studi Performansi Jarak Jangkauan Lora OLG01 sebagai Infrastruktur Konektivitas Nirkabel IoT_](https://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/239), Jurnal Ilmiah Dinamika Rekayasa Volume 15 No. 1, Februari 2019, pp: 47-56. \[[DOI](https://dx.doi.org/10.20884/1.dr.2019.15.1.239)\]
+*   Winasis , Azis Wisnu Widhi Nugraha, **Imron Rosyadi** , Daru Tri Nugroho, Hari Prasetijo, 2018, [_Solar-Wind Hybrid Power Plant Monitoring Based on Free Libre Open Source Software (FLOSS) Internet of Things_](https://medwelljournals.com/abstract/?doi=jeasci.2018.2705.2712), Journal of Engineering and Applied Sciences Volume: 13 Issue: 9 pp: 2705-2712. \[[DOI](https://dx.doi.org/10.36478/jeasci.2018.2705.2712)\]
+*   Winasis, Azis Wisnu Widhi Nugraha, **Imron Rosyadi** dan Fajar Surya Tri Nugroho, 2016, [_Desain Sistem Monitoring Sistem Photovoltaic Berbasis Internet of Things (IoT)_](https://ejnteti.jteti.ugm.ac.id/index.php/JNTETI/article/view/281), Jurnal Nasional Teknik Elektro dan Teknologi Informasi, Volume 5, Nomor 4, Tahun 2016. \[[DOI](https://dx.doi.org/10.22146/jnteti.v5i4.281)\]
 *   Winasis, Azis Wisnu Widhi Nugraha dan **Imron Rosyadi**, 2016, _[Desain Sistem Monitoring Nirkabel Berbasis Website untuk Pemantauan Baterai dan Beban Pembangkit Listrik Hibrida Surya-Angin](https://ejournal.itp.ac.id/index.php/telektro/article/view/296)_, Jurnal Teknik Elektro ITP, Volume 5, Nomor 2, Tahun 2016.
 *   Winasis, **Imron Rosyadi**, Sarjiya, 2015, [_Pengoptimalan Operasi Pembangkit Listrik Tenaga Hibrida Surya Angin untuk Mengurang Excess Electricity menggunakan Mix Integer Linear Programming_](https://ejournal.undip.ac.id/index.php/transmisi/article/view/9598), Transmisi Volume 17 No 4 Oktober 2015 pp 186-193, Universitas Diponegoro. \[[DOI](https://doi.org/10.12777/transmisi.17.4.186-193)\]
-*   **Imron Rosyadi**, 2012, [_Gray-scale Image Colorization using Various Affinity Functions_](http://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/52/50), Jurnal Ilmiah Dinamika Rekayasa Volume 8 No. 1, Februari 2012, pp: 7-11. Penerbit Universitas Jenderal Soedirman. \[[DOI](http://dx.doi.org/10.20884/1.dr.2012.8.1.52)\]
-*   **Imron Rosyadi**, 2011, [_Peramalan Aliran Masukan Waduk Mrica Menggunakan Model Thomas-Fiering dan Jaringan Syaraf Tiruan ANFIS_](http://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/49/47), Jurnal Ilmiah Dinamika Rekayasa Volume 7 No. 2, Agustus 2011, pp: 48-53. Penerbit Universitas Jenderal Soedirman. \[[DOI](http://dx.doi.org/10.20884/1.dr.2011.7.2.49)\]
+*   **Imron Rosyadi**, 2012, [_Gray-scale Image Colorization using Various Affinity Functions_](https://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/52/50), Jurnal Ilmiah Dinamika Rekayasa Volume 8 No. 1, Februari 2012, pp: 7-11. Penerbit Universitas Jenderal Soedirman. \[[DOI](https://dx.doi.org/10.20884/1.dr.2012.8.1.52)\]
+*   **Imron Rosyadi**, 2011, [_Peramalan Aliran Masukan Waduk Mrica Menggunakan Model Thomas-Fiering dan Jaringan Syaraf Tiruan ANFIS_](https://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/49/47), Jurnal Ilmiah Dinamika Rekayasa Volume 7 No. 2, Agustus 2011, pp: 48-53. Penerbit Universitas Jenderal Soedirman. \[[DOI](https://dx.doi.org/10.20884/1.dr.2011.7.2.49)\]
 *   **Imron Rosyadi**, Ridha A. Djemal, Saleh A. Alshebeili, 2010, [_Design and implementation of real-time automatic censoring system on chip for radar detection_](https://publications.waset.org/14878/design-and-implementation-of-real-time-automatic-censoring-system-on-chip-for-radar-detection), International Journal of Electronics and Communication Engineering Vol: 4, No: 2, 2010, pp 275-281, World Academy of Science, Engineering and Technology. \[[DOI](https://doi.org/10.5281/zenodo.1083791)\]
-*   **Imron Rosyadi**, Ridlwan Kamaluddin, 2009, [_Perancangan Sistem Pakar Kesehatan Anak berbasis Handphone menggunakan Java 2 Micro Edition_](http://jos.unsoed.ac.id/index.php/kesmasindo/article/view/94), Jurnal Ilmiah Kesehatan Masyarakat (Kesmas Indonesia) Volume 2 No. 1, pp 36-51.
+*   **Imron Rosyadi**, Ridlwan Kamaluddin, 2009, [_Perancangan Sistem Pakar Kesehatan Anak berbasis Handphone menggunakan Java 2 Micro Edition_](https://jos.unsoed.ac.id/index.php/kesmasindo/article/view/94), Jurnal Ilmiah Kesehatan Masyarakat (Kesmas Indonesia) Volume 2 No. 1, pp 36-51.
 
 #### Seminar (Conferences)
 
 *   **Imron Rosyadi**, Vidi Fitriansyah Hidarlan, Farida Asriani, and Rifah Ediati, 2020. _A Deep Learning for Varieties Classification of Bulk Samples of Rice_, 2020 International Conference on Engineering, Technology and Innovative Researches.
 *   **Imron Rosyadi**, Fendy Prayogi, Farida Asriani, Rifah Ediati, 2020. _Rice Fields Classification among Google Earth Sattelite Images using Convolutional Neural Network_, 2020 The 2nd International Conference On Sustainable Agriculture For Rural Development (2nd ICSARD).
-*   Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Iwan Setiawan, 2018. [_Pemanfaatan Sistem Lampu Cerdas pada Untuk Peningkatan Efisiensi Energi_](http://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/view/703), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VIII.
-*   Azis Wisnu Widhi Nugraha, Iwan Setiawan, **Imron Rosyadi**, 2017. [_Pemanfaatan Raspberry Pi dan Perangkat Lunak Bebas Terbuka (FOSS) pada Pendidikan Dasar untuk Mengatasi Kesenjangan Digital_](http://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/viewFile/423/347), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VII.
+*   Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Iwan Setiawan, 2018. [_Pemanfaatan Sistem Lampu Cerdas pada Untuk Peningkatan Efisiensi Energi_](https://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/view/703), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VIII.
+*   Azis Wisnu Widhi Nugraha, Iwan Setiawan, **Imron Rosyadi**, 2017. [_Pemanfaatan Raspberry Pi dan Perangkat Lunak Bebas Terbuka (FOSS) pada Pendidikan Dasar untuk Mengatasi Kesenjangan Digital_](https://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/viewFile/423/347), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VII.
 *   Winasis, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Miftakhul Baehaki, 2016. [_Node Nirkabel Berbasis Internet of Things untuk Pemantauan Beban Arus Bolak Balik Pembangkit Listrik Tenaga Surya_](https://www.researchgate.net/publication/314355263_NODE_NIRKABEL_BERBASIS_INTERNET_OF_THINGS_UNTUK_PEMANTAUAN_BEBAN_ARUS_BOLAK_BALIK_PEMBANGKIT_LISTRIK_TENAGA_SURYA). Proceeding Seminar Nasional Teknologi Terapan 2016, ISBN 978-602-1159-18-7, Hal. 393 – 398. ([alternative link 1: full](https://ee.unsoed.ac.id/~awwn/publikasi/seminar/10%202016%20Node%20Nirkabel%20Berbasis%20Internet%20of%20Things%20untuk%20Pemantauan%20Beban%20Arus%20Bolak%20Balik%20Pembangkit%20Listrik%20Tenaga%20Surya/) )
 *   Winasis, **Imron Rosyadi**, Sarjiya, Oyas Wahyunggoro, 2014, [_Evaluasi Unjuk Kerja Sistem Photovoltaic 12 KWP Pada Pembangkit Listrik Hibrida Surya – Angin Pantai Baru Bantul_](https://www.researchgate.net/publication/314353202_EVALUASI_UNJUK_KERJA_SISTEM_PHOTOVOLTAIC_12_KWP_PADA_PEMBANGKIT_LISTRIK_HIBRIDA_SURYA_-_ANGIN_PANTAI_BARU_BANTUL), Prosiding Seminar Nasional Teknik 2014, Universitas Muhammadiyah Purwokerto, pp 114-119.  
     Winasis, **Imron Rosyadi**, 2014, [_Analisis Kinerja Pembangkit Listrik Tenaga Hybrid Surya – Angin Pantai Baru Bantul_](https://www.researchgate.net/publication/314363799_Analisis_Kinerja_Pembangkit_Listrik_Tenaga_Hibrida_Surya_-_Angin_Pantai_Baru_Bantul), Prosiding Seminar Nasional “Percepatan Desa Berdikari melalui Pemberdayaan Masyarakat” pp 802-810, 20-21 November 2014.

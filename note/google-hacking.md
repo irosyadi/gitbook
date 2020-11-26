@@ -26,7 +26,7 @@ Basics. "Google hacking" involves using advanced operators in the Google search 
 - [Securitytrails](https://securitytrails.com/blog/google-hacking-techniques)
 - [GBHackers](https://gbhackers.com/latest-google-dorks-list/)
 - [Github](https://gist.github.com/stevenswafford/393c6ec7b5375d5e8cdc)
-- [Conzu](http://www.conzu.de/en/google-dork-liste-2018-conzu/)
+- [Conzu](https://www.conzu.de/en/google-dork-liste-2018-conzu/)
 - [Ma-No](https://www.ma-no.org/en/security/google-hacking-secrets-the-hidden-codes-of-google)
 
 ## Advanced Search 
@@ -65,7 +65,7 @@ A dictionary built into Google, basically. This will display the meaning of a wo
 
 ### cache:
 Returns the most recent cached version of a web page (providing the page is indexed, of course).
-**Example:** **[cache:apple.com](http://webcache.googleusercontent.com/search?q=cache%3Aapple.com)**
+**Example:** **[cache:apple.com](https://webcache.googleusercontent.com/search?q=cache%3Aapple.com)**
 
 ### filetype:
 Restrict results to those of a certain filetype. E.g., PDF, DOCX, TXT, PPT, etc. **Note:** The “ext:” operator can also be used—the results are identical.

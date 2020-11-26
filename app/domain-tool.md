@@ -22,9 +22,9 @@ Output: IP Address, Geolocation
 6. [WTFismyIP](https://wtfismyip.com/)
 7. [IPinfo.io](https://ipinfo.io/) `curl ipinfo.io` `(Invoke-WebRequest 'ipinfo.io').Content`
 8. [HTTPBin](https://httpbin.org/ip) `curl httpbin.org/ip`
-9. [IcanHazIP](http://icanhazip.com/) `curl icanhazip.com` `(Invoke-WebRequest 'icanhazip.com').Content`
-10. [Ifconfig.io](http://ifconfig.co/) `curl ifconfig.co`
-11. [CheckIP Amazon ](http://checkip.amazonaws.com/) `curl checkip.amazonaws.com`
+9. [IcanHazIP](https://icanhazip.com/) `curl icanhazip.com` `(Invoke-WebRequest 'icanhazip.com').Content`
+10. [Ifconfig.io](https://ifconfig.co/) `curl ifconfig.co`
+11. [CheckIP Amazon ](https://checkip.amazonaws.com/) `curl checkip.amazonaws.com`
 12. [IPECho](https://ipecho.net/plain) `curl ipecho.net/plain`
 
 ## Reverse IP
@@ -93,7 +93,7 @@ Check what is our DNS Resolver. [LIst of the Tester](https://routersecurity.org/
 - [DNS Leak](https://dnsleak.com)
 - [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
 - [IP Leak](https://ipleak.net/) check DNS Server
-- [Whats My DNS Server](http://www.whatsmydnsserver.com/) check DNS server
+- [Whats My DNS Server](https://www.whatsmydnsserver.com/) check DNS server
 - [Who is My DNS](https://whoismydns.com/) check DNS server
 - [My NextDNS](https://my.nextdns.io/)
 - [Browserleks](https://browserleaks.com/ip) scroll down to reveal

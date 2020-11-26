@@ -48,7 +48,7 @@ Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5937476/
 Code: https://github.com/shervinea/enzynet
 
 9. Multi-timescale drowsiness characterization based on a video of a driver's face 
-Paper: http://www.telecom.ulg.ac.be/mts-drowsiness/
+Paper: https://www.telecom.ulg.ac.be/mts-drowsiness/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6165048/
 Code: https://github.com/QMassoz/mts-drowsiness
 

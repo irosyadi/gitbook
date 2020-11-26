@@ -32,7 +32,7 @@ draft: false
 1. [Paul Copplestone](https://paul.copplest.one/) Platform: Vuepress
 2. [The Blue Book](https://lyz-code.github.io/blue-book/) Platform: MkDocs
 8. [Krzysztof Kowalczyk](https://blog.kowalczyk.info/) the creator of SumatraPDF
-9. [Ben Lynn](http://www-cs-students.stanford.edu/~blynn/)
+9. [Ben Lynn](https://www-cs-students.stanford.edu/~blynn/)
 11. [Max Masnick](https://maxmasnick.com/kb/)
 12. [Ioannis Kourouklides](https://wiki.kourouklides.com/wiki/Main_Page) Stacks: Wikipedia
 13. [Flavio Copes](https://flaviocopes.com/)
@@ -41,7 +41,7 @@ draft: false
 16. [Wayan Jimmy](https://wayanjimmy-notebook.netlify.app/)
 17. [Sanyam Kapoor](https://www.sanyamkapoor.com/) Staks: GatsbyJS
 18. [Alex Kehayias](https://notes.alexkehayias.com/)
-19. [Yishou Zhan](http://lastweek.io/)
+19. [Yishou Zhan](https://lastweek.io/)
 20. [Rosie Campbell](https://rosiecampbell.me/) Stacks: Obsidian, Dropbox, blot.im
 21. [Nat Eliason](https://www.nateliason.com/) Stacks: Webflow
 22. [Mike Tannenbaum](https://mind.miketannenbaum.com/) 

@@ -16,15 +16,15 @@ draft: false
     - TKE193154 Sistem Kendali Lanjut A JUMAT 13:20 - 15:50 GEDUNG TEKNIK E 204 - 15 mhs
 
 ## Referensi
-- Norman S. Nise, Control Systems Engineering \[[website](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
+- Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
 - Richard C. Dorf and Robert H. Bishop, Modern Control Systems \[[website](https://www.pearson.com/us/higher-education/program/Dorf-Modern-Control-Systems-13th-Edition/PGM328731.html?tab=resources)\]
 - Farid Golnaraghi and Benjamin C. Kuo, Automatic Control Systems \[[website](https://www.accessengineeringlibrary.com/content/book/9781259643835)\]
 - Brian Douglas, The Fundamentals of Control Theory \[[website](https://www.patreon.com/briandouglas)\]\[[ebook](https://bit.ly/2XLlAKl)\]
 - Pao C. Chau, Process Control: A First Course With MATLAB \[[website](https://www.cambridge.org/id/academic/subjects/engineering/chemical-engineering/process-control-first-course-matlab?format=PB)\]
-- Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
+- Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
-- [Ricone Website](http://ricopic.one/control/)
+- [Ricone Website](https://ricopic.one/control/)
 
 ## Software
 - [GNU Octave](https://www.gnu.org/software/octave/index)
@@ -32,7 +32,7 @@ draft: false
 - [Matlab](https://www.mathworks.com/products/matlab.html)
 
 ## Online Course
-- [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+- [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Online Video Course
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)

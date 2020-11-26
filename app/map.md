@@ -20,7 +20,7 @@ draft: false
 
 ## Public Transport
 
-- [OpenPTMap](http://openptmap.org/) - Public transport lines.
+- [OpenPTMap](https://openptmap.org/) - Public transport lines.
 - [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
 
 ## Street View
@@ -48,7 +48,7 @@ draft: false
 
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Free map of the world's railway infrastructure.
 - [Zugverfolgung.com](https://www.zugverfolgung.com/) - Live train tracking for Germany, Austria, Switzerland Netherlands, and Belgium.
-- [Rail Radar](http://raildar.co.uk/radar.html) - Real time movements of trains in the UK.
+- [Rail Radar](https://raildar.co.uk/radar.html) - Real time movements of trains in the UK.
 - [Track Your Train Map](https://www.amtrak.com/track-your-train.html) - Live train tracking in the US.
 
 ## Airspace
@@ -57,7 +57,7 @@ draft: false
 
 ## Satellites
 
-- [ISSTracker](http://www.isstracker.com/) - Real-time location tracking of the international space station.
+- [ISSTracker](https://www.isstracker.com/) - Real-time location tracking of the international space station.
 - [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
 
 ## Sights
@@ -104,7 +104,7 @@ draft: false
 ## Social Humanity
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
 - [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
-- [Language Maps](http://langscape.umd.edu/map.php)
+- [Language Maps](https://langscape.umd.edu/map.php)
 
 ## Extraterrestrial
 
@@ -137,7 +137,7 @@ draft: false
 ## Tools for Open Street Map
 - [Open Layers](https://openlayers.org/) -  App to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source
 - [Switch2OSM](https://switch2osm.org/) - Campaign and help docs for using OSM
-- [Maptiler](http://maptiler.com/maps)
+- [Maptiler](https://maptiler.com/maps)
 - [Open Route Service](https://maps.openrouteservice.org/directions)
 - [Leaflet JS](https://leafletjs.com/)
 - [Umap](https://umap.openstreetmap.fr/en/)

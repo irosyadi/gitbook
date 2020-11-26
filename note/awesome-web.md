@@ -14,7 +14,7 @@ draft: false
 ## Awesome Free Services
 - [Pipe Dream](https://pipedream.com/) like IFTTT-free
 - [Icon Free](https://thenounproject.com/)
-- [Project Gutenberg](http://www.gutenberg.org/)
+- [Project Gutenberg](https://www.gutenberg.org/)
 - [Open Library](https://openlibrary.org/)
 - [Internet Archive](https://archive.org/)
 - [Radio Garden](https://radio.garden/)

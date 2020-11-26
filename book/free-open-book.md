@@ -18,11 +18,11 @@ draft: false
 
 ## CC-BY Licensed Books
 1. [Statistic Done Wrong](https://www.statisticsdonewrong.com/) CC-BY
-1. [Scipy Lectures](http://scipy-lectures.org/) CC-BY
+1. [Scipy Lectures](https://scipy-lectures.org/) CC-BY
 1. [Introduction to Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) CC-BY
 1. [Introduction to Digital Logic with Laboratory Exercises](https://www.freetechbooks.com/introduction-to-digital-logic-with-laboratory-exercises-t1318.html) CC-BY
-1. [Probabilistic Programming & Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) CC-BY
-1. [Introduction of Networking: How Internet Works](http://www.net-intro.com/) CC-BY (pdf)
+1. [Probabilistic Programming & Bayesian Methods for Hackers](https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/) CC-BY
+1. [Introduction of Networking: How Internet Works](https://www.net-intro.com/) CC-BY (pdf)
 1. [Pengambangan Aplikasi Cloud Menggunakan Node.js](https://github.com/bpdp/buku-cloud-nodejs) CC-BY
 1. [Pemrograman Go](https://github.com/wi-rg/buku--go-cloud) CC-BY
 1. [Edible Plant Food](https://github.com/projeduc/edible-plants-book) CC-BY
@@ -44,16 +44,16 @@ draft: false
 ## CC-BY-NC Licensed Books
 1. [Data+Design](https://github.com/infoactive/data-design/) CC-BY-NC
 1. [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) CC-BY-NC
-1. [Introduction of Networking: How Internet Works](http://www.net-intro.com/) CC-BY-NC (print)
+1. [Introduction of Networking: How Internet Works](https://www.net-intro.com/) CC-BY-NC (print)
 1. [The Shape of Design](https://shapeofdesignbook.com/), [French Translation](https://github.com/eric-brechemier/the-shape-of-design-french-translation) CC-BY-NC
 1. [Pro Git](https://git-scm.com/book/en/v2) CC-BY-NC
 1. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) CC-BY-NC
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) CC-BY-NC
 1. [Nature of Code](https://natureofcode.com/book/)[Code](https://github.com/nature-of-code) CC-BY-NC
 1. [Introduction to Autonomus Robot](https://github.com/correll/Introduction-to-Autonomous-Robots) License: CC BY-NC
-1. [Introduction to Computer Graphics](http://math.hws.edu/graphicsbook/) License: CC BY-NC-SA
+1. [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/) License: CC BY-NC-SA
 
 ## CC-BY-NC-ND Licensed Books
-1. [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
+1. [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
 1. [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
 1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) CC-BY-NC-ND

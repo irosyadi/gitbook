@@ -44,22 +44,22 @@ Some info about google search operators can be found [here](https://web.archive.
 
 - [Filechef](https://www.filechef.com/)
 - [Eyedex](https://eyedex.org/)
-- [Palined](http://palined.com/search/)
+- [Palined](https://palined.com/search/)
 - [The Eye](https://cgs.the-eye.eu/)
-- [SCRPED](http://scrped.com/)
-- [LENDX](http://lendx.org/)
-- [FileChef](http://www.filechef.com/)
+- [SCRPED](https://scrped.com/)
+- [LENDX](https://lendx.org/)
+- [FileChef](https://www.filechef.com/)
 - [ewasion](https://ewasion.github.io/opendirectory-finder/)
 - [lumpySoft](https://lumpysoft.com/)
 - [EoJ OD.getter](https://www.eyeofjustice.com/od/)
 - [OD Search Tool](https://opendirsearch.abifog.com)
 - [NMHDDS](https://doyou.needmorehdd.space)
 - [Mattpalm](https://mattpalm.com/search/)
-- [Jimmyr](http://www.jimmyr.com/mp3_search.php)
+- [Jimmyr](https://www.jimmyr.com/mp3_search.php)
 - [FilePursuit](https://filepursuit.com/)
 - [OD-Database](https://od-db.the-eye.eu/)
-- [Musgle](http://musgle.com/)
-- [Mamont's open FTP Index](http://www.mmnt.net/)
+- [Musgle](https://musgle.com/)
+- [Mamont's open FTP Index](https://www.mmnt.net/)
 - [NAPALM FTP Indexer](https://www.searchftps.net/)
 - [OD Crawler](https://odcrawler.xyz/)
 - [Opendir Search](https://opendirsearch.abifog.com/)
@@ -94,24 +94,24 @@ The-Eye Image Viewer :
 javascript:void(window.open('https://fusker.the-eye.eu/url.php?url='+encodeURIComponent(document.URL).replace(/\./g,'%25252E')));
 ```
 
-Another [Linked Images Bookmarklet](https://web.archive.org/web/20180803113222/http://fuseki.net/home/linked-images-bookmarklet.html).  
+Another [Linked Images Bookmarklet](https://web.archive.org/web/20180803113222/https://fuseki.net/home/linked-images-bookmarklet.html).  
 [More bookmarklets](https://www.squarefree.com/bookmarklets/).
 
 ## Softwares
-- [wget project](http://www.gnu.org/software/wget/) [page](http://www.gnu.org/software/wget/)
+- [wget project](https://www.gnu.org/software/wget/) [page](https://www.gnu.org/software/wget/)
 - [wget for Windows](https://eternallybored.org/misc/wget/)
 - [wget A Noobs Guide (PDF)](https://chris.partridge.tech/data/wget-noobs.pdf) by [u/regravity](https://old.reddit.com/u/regravity)
 - [How to install wget on OSX](https://thomashunter.name/blog/install-wget-on-os-x-lion/) by [u/nucleocide](https://old.reddit.com/u/nucleocide)
 
-There are other softwares that provide wget with a GUI like [Gwget](https://projects-old.gnome.org/gwget/) and [WinWGet](http://winwget.sourceforge.net/) though I've never used them and hence can't comment on their reliability.
+There are other softwares that provide wget with a GUI like [Gwget](https://projects-old.gnome.org/gwget/) and [WinWGet](https://winwget.sourceforge.net/) though I've never used them and hence can't comment on their reliability.
 
 - [youtube-dl](https://github.com/rg3/youtube-dl) (Python) downloads videos from various sites. Just like wget you can find GUI frontend for this.
 - [RipMe](https://github.com/RipMeApp/ripme) (Java) is an album ripper for various websites.
 - [HTTrack Website Copier](https://www.httrack.com/) (Windows/Linux/OSX/Android) can mirror entire websites.
 Other download helpers you should try :
 - [Adware free JDownloader](https://board.jdownloader.org/showthread.php?t=54725) (Win/Linux/OSX/Java) Has GUI
-- [xdm](http://xdman.sourceforge.net/) (Win/Linux/OSX/Java) Has GUI.
-- [uGet](http://ugetdm.com/) (Win/Linux/OSX/Android) Has GUI.
+- [xdm](https://xdman.sourceforge.net/) (Win/Linux/OSX/Java) Has GUI.
+- [uGet](https://ugetdm.com/) (Win/Linux/OSX/Android) Has GUI.
 - [curl](https://curl.haxx.se/) (Win/Linux/OSX/...) Command line tool.
 - [aria2](https://aria2.github.io/) (Linux/OSX) Command line. A web-based UI is also available.
 - [axel](https://github.com/axel-download-accelerator/axel) (Linux/OSX) Command line tool.

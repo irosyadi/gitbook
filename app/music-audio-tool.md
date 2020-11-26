@@ -15,12 +15,12 @@ draft: false
 - [CC Hound](https://cchound.com/)
 - [Starfrosch](https://starfrosch.com/)
 - [CCTrax](https://cctrax.com/)
-- [Free Music Archive](http://freemusicarchive.org/)
-- [Fangchia](http://media.fangchia.com/)
+- [Free Music Archive](https://freemusicarchive.org/)
+- [Fangchia](https://media.fangchia.com/)
 - [Incompetech](https://incompetech.filmmusic.io/search/)
 
 ## Free Licensed Sound and Music
-- [BBC Sound Effect](http://bbcsfx.acropolis.org.uk/) License: free for educational use
+- [BBC Sound Effect](https://bbcsfx.acropolis.org.uk/) License: free for educational use
 
 ## Music Separation
 - [Open Source Tools and Data for Music Source Separation](https://source-separation.github.io/tutorial/landing.html) License: CC-BY-NC

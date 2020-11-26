@@ -100,7 +100,7 @@ Markdown syntax:
 ```
 HTML code:
 ```html
-<p><a href="http://www.commonmark.org">www.commonmark.org</a></p>
+<p><a href="https://www.commonmark.org">www.commonmark.org</a></p>
 <p><a href="mailto:foo@bar.baz">foo@bar.baz</a></p>
 ```
 
@@ -267,7 +267,7 @@ HTML code:
 ```
 
 ### CriticMarkup
-CriticMarkup is a way for authors and editors to track changes to documents in plain text. As with Markdown, small groups of distinctive characters allow you to highlight insertions, deletions, substitutions and comments, all without the overhead of heavy, proprietary office suites. http://criticmarkup.com/
+CriticMarkup is a way for authors and editors to track changes to documents in plain text. As with Markdown, small groups of distinctive characters allow you to highlight insertions, deletions, substitutions and comments, all without the overhead of heavy, proprietary office suites. https://criticmarkup.com/
 
 ### Definition List
 Markdown syntax:
@@ -311,7 +311,7 @@ Markdown syntax:
 ```md
 ```perl
 # Demonstrate Syntax Highlighting if you link to highlight.js #
-# http://softwaremaniacs.org/soft/highlight/en/
+# https://softwaremaniacs.org/soft/highlight/en/
 print "Hello, world!\n";
 $a = 0;
 while ($a < 10) {
@@ -348,7 +348,7 @@ Here is some text containing a footnote.[^somesamplefootnote]
 
 [^somesamplefootnote]: Here is the text of the footnote itself.
 
-[somelink]:http://somelink.com
+[somelink]:https://somelink.com
 ```
 HTML code:
 ```html
@@ -400,11 +400,11 @@ Markdown syntax:
 ```md
 This is a formatted ![image][] and a [link][] with attributes.
 
-[image]: http://path.to/image "Image title" width=40px height=400px
-[link]:  http://path.to/link.html "Some Link" class=external
+[image]: https://path.to/image "Image title" width=40px height=400px
+[link]:  https://path.to/link.html "Some Link" class=external
          style="border: solid black 1px;"
 
-Colored [link](http://example.net "Title" style="color:red")
+Colored [link](https://example.net "Title" style="color:red")
 ```
 HTML code:
 ```html

@@ -26,7 +26,7 @@ draft: false
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
 - [Active Calculus](https://activecalculus.org//ACS.html) or [this](https://activecalculus.org/single/frontmatter.html) License: CC-BY
 - [Calculus Lab Manual](https://spaces.pcc.edu/display/MS/Calculus+Lab+Manuals) or [this](https://spot.pcc.edu/math/clm/clm.html) License: CC-BY
-- [Discrete Mathematics](http://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
+- [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 
 ## Open Math Coursenote
 - [Paul Dawkins Math Notes](https://tutorial.math.lamar.edu/) License: Free
@@ -38,4 +38,4 @@ draft: false
 
 ## List of Free Math Book
 - [Awesome Math Book](https://github.com/rossant/awesome-math)
-- [UPS Edu](http://linear.ups.edu/curriculum.html)
+- [UPS Edu](https://linear.ups.edu/curriculum.html)

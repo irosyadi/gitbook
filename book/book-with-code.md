@@ -17,7 +17,7 @@ draft: false
 - [Learning Scipy](https://github.com/rojassergio/Learning-Scipy)
 - [Think LIke a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [Data Science from the Scratch](https://github.com/joelgrus/data-science-from-scratch)
-- [Introduction to Statistical Learning](http://faculty.marshall.usc.edu/gareth-james/ISL/book.html)
+- [Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/book.html)
 
 
 # Blog of ML

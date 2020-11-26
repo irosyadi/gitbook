@@ -36,10 +36,10 @@ draft: false
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
 - [Active Calculus](https://activecalculus.org//ACS.html) or [this](https://activecalculus.org/single/frontmatter.html) License: CC-BY
 - [Calculus Lab Manual](https://spaces.pcc.edu/display/MS/Calculus+Lab+Manuals) or [this](https://spot.pcc.edu/math/clm/clm.html) License: CC-BY
-- [Discrete Mathematics](http://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
+- [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 - [Introduction to Game Theory](https://nordstromjf.github.io/IntroGameTheory/frontmatter-1.html) License: CC-BY
 - [Precalculus: An Active Reading Approach: Elementary Functions](https://www.mhcc.edu/precalc1/) License: CC-BY
-- [Discrete Math 321 Class Notes ](http://www.math.wichita.edu/~hammond/class-notes/discrete-class-notes.html) License: CC (?)
+- [Discrete Math 321 Class Notes ](https://www.math.wichita.edu/~hammond/class-notes/discrete-class-notes.html) License: CC (?)
 - [Discrete Mathematics](https://www.jiblm.org/mahavier/discrete/html/index.html) License: CC (?)
 - [Calculus I, II, and III: A Problem-Based Approach with Early Transcendentals](https://www.jiblm.org/mahavier/calculus/html/book-1.html) License: CC (?)
 

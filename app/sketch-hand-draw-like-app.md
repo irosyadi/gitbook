@@ -14,11 +14,11 @@ draft: false
 ## Digital Drawing in Hand Draw Style
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw)
 - [Zwibbler](https://zwibbler.com/demo/)
-- [Sketchviz](https://sketchviz.com/new) : [Graphviz](http://www.graphviz.org/) in sketch or draw style.
+- [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) in sketch or draw style.
 
 ## Draw Chart using XKCD Style
 - [Chart XKCD](https://timqian.com/chart.xkcd/)
-- [Comix XKCD](http://cmx.io/edit/)
+- [Comix XKCD](https://cmx.io/edit/)
 - [XKCD Style Matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/)
 
 ## Typing Text in Hand Written Style

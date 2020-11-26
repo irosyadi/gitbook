@@ -12,7 +12,7 @@ draft: false
 # QR Code App
 
 - [QR Picture](https://www.qrpicture.com/) - make QR Code from realistic picture
-- [QR Code JS](http://www.bitcat.cc/webapp/awesome-qr/#) - QR Code with realistic picture background
+- [QR Code JS](https://www.bitcat.cc/webapp/awesome-qr/#) - QR Code with realistic picture background
 - [QArt Code](https://research.swtch.com/qart) - QR Code with logo
 - [Learn QR Code Step by Step](https://www.nayuki.io/page/creating-a-qr-code-step-by-step)
 - [QR Code Monkey](https://www.qrcode-monkey.com/) - QR Code Generator with Customization

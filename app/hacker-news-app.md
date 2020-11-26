@@ -15,21 +15,21 @@ draft: false
 - [Hacker News](https://news.ycombinator.com/)
 
 ## Hacker News Alternative Frontends
-- [Hacker News Premii](http://hn.premii.com/)
+- [Hacker News Premii](https://hn.premii.com/)
 - [Hckrnews](https://hckrnews.com/)
 - [Hackerweb](https://hackerweb.app/)
-- [Full HN](http://www.fullhn.com/)
+- [Full HN](https://www.fullhn.com/)
 - [Hack Ernews](https://hack.ernews.info/stories/top)
-- [HN at Betacat](http://hackernews.betacat.io/)
+- [HN at Betacat](https://hackernews.betacat.io/)
 - [HN wit Vue](https://vue-hn.now.sh/top)
-- [Tiled HN](http://www.tiledhn.com/)
-- [HN Confidence](http://hn.elijames.org/)
+- [Tiled HN](https://www.tiledhn.com/)
+- [HN Confidence](https://hn.elijames.org/)
 - [HN Mobile](https://hackernewsmobile.com/#/)
 - [HN with Angular](https://angular2-hn.firebaseapp.com/news/1)
 - [HN with Polymer](https://hn-polymer-2.firebaseapp.com/)
 - [Hackernews IO](https://hackernews.io/)
 - [HN with Mithril](https://mithril-hn.firebaseapp.com/#!/top/1)
-- [HN Leftium](http://hn.leftium.com)
+- [HN Leftium](https://hn.leftium.com)
 - [Hacker News News](https://hacker-news.news/)
 - [HNPWA](https://hnpwa.com/) List of HN Reader/Client
 - [Improve Hacker News](https://hackerbits.com/hacker-news/improve-hacker-news-ui/) List of HN Reader/Client

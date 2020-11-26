@@ -46,12 +46,12 @@ draft: false
     - [PDF File](https://textbooks.math.gatech.edu/ila/ila.pdf)
 - [Discover Linear Algebra by Jeremy Sylvestre](https://sites.ualberta.ca/~jsylvest/books/DLA1/frontmatter-1.html)
 - [Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/)
-    - [PDF File](http://joshua.smcvt.edu/linearalgebra/book.pdf)
+    - [PDF File](https://joshua.smcvt.edu/linearalgebra/book.pdf)
 - [Linear Algebra, Theory And Applications by Kenneth Kuttler](https://open.umn.edu/opentextbooks/textbooks/linear-algebra-theory-and-applications)
     - [PDF File](https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf)
-- [A First Course in Linear Algebra by Robert A. Beezer](http://linear.ups.edu/) or its public beta version of [A First Course in Linear Algebra](http://linear.ups.edu/fcla/index.html)
-    - [PDF File](http://linear.ups.edu/download/fcla-3.50-print.pdf) 
-- [MATH 1220 Linear Algebra 1 by Michael Doob](http://linearalgebra.math.umanitoba.ca/math1220/)
+- [A First Course in Linear Algebra by Robert A. Beezer](https://linear.ups.edu/) or its public beta version of [A First Course in Linear Algebra](https://linear.ups.edu/fcla/index.html)
+    - [PDF File](https://linear.ups.edu/download/fcla-3.50-print.pdf) 
+- [MATH 1220 Linear Algebra 1 by Michael Doob](https://linearalgebra.math.umanitoba.ca/math1220/)
 
 ## Kuliah Online
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
@@ -61,7 +61,7 @@ draft: false
 ## Youtube
 - [3Blue1Brown Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [MathTheBeautiful Youtube](https://www.youtube.com/c/MathTheBeautiful/playlists?view=50&sort=dd&shelf_id=2)
-- [Grant Sanderson Youtube](http://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Grant Sanderson Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
 ## Software
 
@@ -82,13 +82,13 @@ draft: false
     - Pendahuluan
     - Sistem Persamaan Linear
 - Buku Pendukung:
-    - [LAM - Chapter 2 Systems of Linear Equations](http://linearalgebra.math.umanitoba.ca/math1220/chapter-2.html)
-    - [ULA - Chapter 1 Systems of equations ](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/chap1.html)
+    - [LAM - Chapter 2 Systems of Linear Equations](https://linearalgebra.math.umanitoba.ca/math1220/chapter-2.html)
+    - [ULA - Chapter 1 Systems of equations ](https://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/chap1.html)
     - [ILA - Chapter 1 Systems of Linear Equations: Algebra](https://textbooks.math.gatech.edu/ila/chap-algebra.html)
     - [DLA - Chapter 1 Systems of linear equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-systems.html)
     - [DLA -  Chapter 2 Solving systems using matrices ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-row-red.html)
     - [DLA -  Chapter 3 Using systems of equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-applications.html)
-    - [FCLA - Chapter 1](http://linear.ups.edu/html/chapter-SLE.html)
+    - [FCLA - Chapter 1](https://linear.ups.edu/html/chapter-SLE.html)
 
 ### Pekan-2
 - Topik:

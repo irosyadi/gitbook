@@ -14,7 +14,7 @@ draft: false
 ## Local Peer to Peer File Sharing - Transfer
 - [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
 - [Snapdrop](https://snapdrop.net/) - Local web based P2P file transfer
-- `python -m http.server` with python and access it in `http://localhost:8000` or `http://localIP:8000`
+- `python -m https.server` with python and access it in `https://localhost:8000` or `https://localIP:8000`
 - [SSAVR](https://www.ssavr.com/) - Local web based P2P text and file transfer
 - [Send Anywhere](https://send-anywhere.com/)
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Local P2P file transfer

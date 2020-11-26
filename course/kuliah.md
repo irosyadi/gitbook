@@ -16,7 +16,7 @@ draft: false
 - TKE191121 Dasar Teknik Elektro B RABU 10:20 - 12:00 GEDUNG TEKNIK E 104
 - TKE191121 Dasar Teknik Elektro A RABU 12:30 - 14:10 GEDUNG TEKNIK E 101
 - TKE194918 Machine Learning A RABU 15:00 - 17:30 GEDUNG TEKNIK E 201 - 12 mhs
-    - Books: [A Course in Machine Learning by Hal Daume](http://ciml.info/) [Github](https://github.com/hal3/ciml)
+    - Books: [A Course in Machine Learning by Hal Daume](https://ciml.info/) [Github](https://github.com/hal3/ciml)
 - TKE191113 Matematika Teknik  A KAMIS 07:00 - 09:30 GEDUNG TEKNIK C 101
 - TKE191113 Matematika Teknik  B KAMIS 09:30 - 12:00 GEDUNG TEKNIK C 101
 - TKE194021 Proyek Keteknikan A JUMAT 07:50 - 09:30 GEDUNG TEKNIK C 103 - 1 mhs

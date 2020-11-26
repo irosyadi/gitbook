@@ -312,7 +312,7 @@ Markdown syntax:
 >
 >>  *Everything* is going according to **plan** in [example][ex].
 
-[ex]: http://example.com/ "an example link"
+[ex]: https://example.com/ "an example link"
 ```
 HTML code:
 ```html
@@ -323,7 +323,7 @@ HTML code:
 <li>of <code>code</code>.</li>
 </ul>
 <blockquote>
-<p><em>Everything</em> is going according to <strong>plan</strong> in <a href="http://example.com/" title="an example link">example</a>.</p>
+<p><em>Everything</em> is going according to <strong>plan</strong> in <a href="https://example.com/" title="an example link">example</a>.</p>
 </blockquote>
 </blockquote>
 ```
@@ -336,7 +336,7 @@ Markdown display:
 >
 >>  *Everything* is going according to **plan** in [example][ex].
 
-[ex]: http://example.com/ "an example link"
+[ex]: https://example.com/ "an example link"
 
 HTML display:
 
@@ -347,7 +347,7 @@ HTML display:
 <li>of <code>code</code>.</li>
 </ul>
 <blockquote>
-<p><em>Everything</em> is going according to <strong>plan</strong> in <a href="http://example.com/" title="an example link">example</a>.</p>
+<p><em>Everything</em> is going according to <strong>plan</strong> in <a href="https://example.com/" title="an example link">example</a>.</p>
 </blockquote>
 </blockquote>
 
@@ -996,32 +996,32 @@ HTML display:
 
 Markdown syntax:
 ```md
-This is [link](http://example.com/)
+This is [link](https://example.com/)
 
-This is [*link with title and `code`*](http://example.com/ "title text!")
+This is [*link with title and `code`*](https://example.com/ "title text!")
 
-This is [http://example.com/]()
+This is [https://example.com/]()
 ```
 HTML code:
 ```html
-<p>This is <a href="http://example.com/">link</a></p>
-<p>This is <a href="http://example.com/" title="title text!"><em>link with title and <code>code</code></em></a></p>
-<p>This is <a href="">http://example.com/</a></p>
+<p>This is <a href="https://example.com/">link</a></p>
+<p>This is <a href="https://example.com/" title="title text!"><em>link with title and <code>code</code></em></a></p>
+<p>This is <a href="">https://example.com/</a></p>
 ```
 
 Markdown display:
 
-This is [link](http://example.com/)
+This is [link](https://example.com/)
 
-This is [*link with title and `code`*](http://example.com/ "title text!")
+This is [*link with title and `code`*](https://example.com/ "title text!")
 
-This is [http://example.com/]()
+This is [https://example.com/]()
 
 HTML display:
 
-<p>This is <a href="http://example.com/">link</a></p>
-<p>This is <a href="http://example.com/" title="title text!"><em>link with title and <code>code</code></em></a></p>
-<p>This is <a href="">http://example.com/</a></p>
+<p>This is <a href="https://example.com/">link</a></p>
+<p>This is <a href="https://example.com/" title="title text!"><em>link with title and <code>code</code></em></a></p>
+<p>This is <a href="">https://example.com/</a></p>
 
 ### 1.9.2. Full Reference Links
 *Notes:*
@@ -1031,22 +1031,22 @@ Markdown syntax:
 ```md
 This is a [foo][ex]
 
-[ex]: http://example.com/ "an example link"
+[ex]: https://example.com/ "an example link"
 ```
 HTML code:
 ```html
-<p>This is a <a href="http://example.com/" title="an example link">foo</a></p>
+<p>This is a <a href="https://example.com/" title="an example link">foo</a></p>
 ```
 
 Markdown display:
 
 This is a [foo][ex]
 
-[ex]: http://example.com/ "an example link"
+[ex]: https://example.com/ "an example link"
 
 HTML display:
 
-<p>This is a <a href="http://example.com/" title="an example link">foo</a></p>
+<p>This is a <a href="https://example.com/" title="an example link">foo</a></p>
 
 ### 1.9.3. Shortcut Reference Links
 *Notes:*
@@ -1056,21 +1056,21 @@ Markdown syntax:
 ```md
 This is a [foo]
 
-[foo]: http://example.com/ "an example link"
+[foo]: https://example.com/ "an example link"
 ```
 HTML code:
 ```html
-<p>This is a <a href="http://example.com/" title="an example link">foo</a></p>
+<p>This is a <a href="https://example.com/" title="an example link">foo</a></p>
 ```
 Markdown display:
 
 This is a [foo]
 
-[foo]: http://example.com/ "an example link"
+[foo]: https://example.com/ "an example link"
 
 HTML display:
 
-<p>This is a <a href="http://example.com/" title="an example link">foo</a></p>
+<p>This is a <a href="https://example.com/" title="an example link">foo</a></p>
 
 ### 1.9.4. Autolinks
 - Autolinks are absolute URIs and email addresses inside `<` and `>`. They are parsed as links, with the URL or email address as the link label.
@@ -1078,20 +1078,20 @@ HTML display:
 
 Markdown syntax:
 ```md
-<http://example.com/>
+<https://example.com/>
 ```
 HTML code:
 ```html
-<p><a href="http://example.com/">http://example.com/</a></p>
+<p><a href="https://example.com/">https://example.com/</a></p>
 ```
 
 Markdown display:
 
-<http://example.com/>
+<https://example.com/>
 
 HTML display:
 
-<p><a href="http://example.com/">http://example.com/</a></p>
+<p><a href="https://example.com/">https://example.com/</a></p>
 
 ---
 

@@ -17,25 +17,25 @@ draft: false
 - [Regex 101](https://regex101.com/) : online interactive regex lesson
 - [Regex Info](https://www.regular-expressions.info/) : regex learning
 - [Rexegg](https://rexegg.com/) : regex learning
-- [Regexbuddy](http://www.regexbuddy.com/)
+- [Regexbuddy](https://www.regexbuddy.com/)
 
 ## Regex Testing
 - [Debuggex](https://www.debuggex.com/)
 - [I hate Regex](https://ihateregex.io/)
 - [Regulex](https://jex.im/regulex/)
-- [Regviz](http://regviz.org/)
-- [Rexv](http://www.rexv.org/)
+- [Regviz](https://regviz.org/)
+- [Rexv](https://www.rexv.org/)
 - [Regex Crossword](https://regexcrossword.com/)
 - [Regexper](https://regexper.com/)
-- [Refiddle](http://refiddle.com/)
-- [FSM Simulator](http://ivanzuzak.info/noam/webapps/fsm_simulator/)
-- [Pyregex](http://www.pyregex.com/) : regex in python
-- [JSregex](http://jsregex.com/)
+- [Refiddle](https://refiddle.com/)
+- [FSM Simulator](https://ivanzuzak.info/noam/webapps/fsm_simulator/)
+- [Pyregex](https://www.pyregex.com/) : regex in python
+- [JSregex](https://jsregex.com/)
 - [Regexpal](https://www.regexpal.com/)
-- [Txt2Re](http://www.txt2re.com/index_php3.html)
+- [Txt2Re](https://www.txt2re.com/index_php3.html)
 
 ## Regex Generator
-- [Regex Inginf](http://regex.inginf.units.it/)
+- [Regex Inginf](https://regex.inginf.units.it/)
 
 ## Regex Learn List
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
@@ -48,4 +48,4 @@ draft: false
 - [Regex Visual](https://amitness.com/regex/)
 - [Regex for Noobs](https://www.janmeppe.com/blog/regex-for-noobs/) : regex learn with visualization
 - [Python Regex Cheatsheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
-- [Regex Syntax](http://www.greenend.org.uk/rjk/tech/regexp.html)
+- [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)

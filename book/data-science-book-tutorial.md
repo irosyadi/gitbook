@@ -29,25 +29,25 @@ draft: false
 ## CC-BY-NC Data Science Book
 - [Data Science with R](https://github.com/jmstanto/data-science-r) License: CC-BY-NC
 - [Data Science with R: A Resource Compendium](https://bookdown.org/martin_monkman/DataScienceResources_book/) License: CC-BY-NC
-- [A Programmer's Guide to Data Mining](http://guidetodatamining.com/) LIcense CC-BY-NC
+- [A Programmer's Guide to Data Mining](https://guidetodatamining.com/) LIcense CC-BY-NC
 
 ## CC-BY-ND Data Science Book
 - [Data Science at the Command Line](https://www.datascienceatthecommandline.com/) License: CC-BY-ND
 - [R for Data Science](https://r4ds.had.co.nz/) License: CC-BY-NC-ND
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) CC-BY-ND-NC
 - [Computational and Inferential Thinking The Foundations of Data Science](https://www.inferentialthinking.com/chapters/intro) License: CC-BY-NC-ND
-- [Julia for Data Science](http://www.david-anthoff.com/jl4ds/stable/) License CC-BY-NC-ND
+- [Julia for Data Science](https://www.david-anthoff.com/jl4ds/stable/) License CC-BY-NC-ND
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro) LIcense CC-BY-NC-ND
-- [Probability for Data Science](http://prob140.org/textbook/README.html) CC-BY-NC-ND
-- [Data Course by University of Barkeley](http://data8.org/) [Data BArkeley](https://data.berkeley.edu/data-science-all) License: CC-BY-NC-ND
+- [Probability for Data Science](https://prob140.org/textbook/README.html) CC-BY-NC-ND
+- [Data Course by University of Barkeley](https://data8.org/) [Data BArkeley](https://data.berkeley.edu/data-science-all) License: CC-BY-NC-ND
 
 ## Free Data Science Book
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Forecasting: Principles and Practice](https://otexts.com/fpp2/)
 - [Speech and Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
-- [ An Introduction to Statistical Learning with Applications in R](http://faculty.marshall.usc.edu/gareth-james/ISL/) [Python Version](https://github.com/JWarmenhoven/ISLR-python) and this [Python version](https://github.com/tdpetrou/Machine-Learning-Books-With-Python/tree/master/Introduction%20to%20Statistical%20Learning) and [MOOC](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
+- [ An Introduction to Statistical Learning with Applications in R](https://faculty.marshall.usc.edu/gareth-james/ISL/) [Python Version](https://github.com/JWarmenhoven/ISLR-python) and this [Python version](https://github.com/tdpetrou/Machine-Learning-Books-With-Python/tree/master/Introduction%20to%20Statistical%20Learning) and [MOOC](https://lagunita.stanford.edu/courses/HumanitiesSciences/StatLearning/Winter2016/about)
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/)
-- [Information Theory, Inference and Learning Algorithm](http://www.inference.org.uk/itila/book.html) with Octave companion
+- [Information Theory, Inference and Learning Algorithm](https://www.inference.org.uk/itila/book.html) with Octave companion
 - [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp)
 
 The Best for Learning

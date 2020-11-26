@@ -19,7 +19,7 @@ draft: false
 ## Wikipedia
 - [Wikipedia](https://www.wikipedia.org/)
   - [Wikiwand](https://www.wikiwand.com/)
-  - [Moesalih](http://wikipedia.moesalih.com/)
+  - [Moesalih](https://wikipedia.moesalih.com/)
   - [The Reader Wiki](https://thereaderwiki.com/en/)
 
 ## Youtube

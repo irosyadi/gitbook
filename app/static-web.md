@@ -13,7 +13,7 @@ draft: false
 
 ## List of List
 - [Staticgen](https://www.staticgen.com/)
-- [Booktree Alternatives](http://booktree.github.io/alternatives/)
+- [Booktree Alternatives](https://booktree.github.io/alternatives/)
 
 ## Fast Static Site Generator
 - [hugo](https://github.com/gohugoio/hugo) (Apache 2.0)  

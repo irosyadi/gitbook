@@ -15,7 +15,7 @@ draft: false
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
 - [Yandex](https://yandex.com/)
-- [Baidu](http://www.baidu.com/)
+- [Baidu](https://www.baidu.com/)
 
 ## Alternative Search Engines
 - [Duck Duck Go](https://duckduckgo.com/) - privacy oriented search engine, powered by Bing

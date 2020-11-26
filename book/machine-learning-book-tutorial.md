@@ -21,7 +21,7 @@ draft: false
 - [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) License: MIT
 
 ### Free Machine Learning Tutorials
-- [NTLK](http://www.nltk.org/book/) License: CC-BY-NC-ND (Note: consider replace by Gensim or Spacy)
+- [NTLK](https://www.nltk.org/book/) License: CC-BY-NC-ND (Note: consider replace by Gensim or Spacy)
 - [Ipyton Notebooks of Andrew Ng ](https://github.com/jdwittenauer/ipython-notebooks) License: -
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course) License: -
 
@@ -42,14 +42,14 @@ draft: false
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) License: CC-BY-NC
 
 ### CC-BY-NC-ND Machine Learning Books
-- [Machine Learning, Statistics, and Data Mining for Heliophysics](http://helioml.org/title), [Github Link](https://github.com/HelioML/HelioML) License: CC-BY-NC-ND 
+- [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title), [Github Link](https://github.com/HelioML/HelioML) License: CC-BY-NC-ND 
 - [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) License: CC-BY-NC-ND
-- [A Brief Introduction to Neural Networks](http://www.dkriesel.com/en/science/neural_networks) License: CC-BY-NC-ND 
-- [Reinforcement Learning: An Introduction, Second Edition](http://incompleteideas.net/sutton/book/the-book.html) License : CC-BY-NC-ND 
+- [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) License: CC-BY-NC-ND 
+- [Reinforcement Learning: An Introduction, Second Edition](https://incompleteideas.net/sutton/book/the-book.html) License : CC-BY-NC-ND 
 - [Recurrent Neural Networks](https://www.intechopen.com/books/recurrent_neural_networks) License: CC-BY-NC-ND
 
 ### Free Machine Learning Books
-- [VMLS Book](http://vmls-book.stanford.edu/)
+- [VMLS Book](https://vmls-book.stanford.edu/)
 - [Python Machine Learning 2nd Edition Code](https://github.com/rasbt/python-machine-learning-book-2nd-edition), [Python Machine Learning 1st Edition Code](https://github.com/rasbt/python-machine-learning-book), [Slides](https://github.com/dmitriydligach/PyMLSlides)
 - [Recurrent Neural Networks and Soft Computing](https://www.intechopen.com/books/recurrent-neural-networks-and-soft-computing)
 - [Recurrent Neural Networks for Temporal Data Processing](https://www.intechopen.com/books/recurrent-neural-networks-for-temporal-data-processing)
@@ -63,7 +63,7 @@ draft: false
 - [Recommended Books](https://mentorcruise.com/books/ml/)
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [List ML Books](https://www.readthistwice.com/lists/best-machine-learning-books?s=rlearnmachinelearning)
-- [Cool Machine Learning Books](http://matpalm.com/blog/cool_machine_learning_books/)
+- [Cool Machine Learning Books](https://matpalm.com/blog/cool_machine_learning_books/)
 
 ## Articles about Machine Learning
 - [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)

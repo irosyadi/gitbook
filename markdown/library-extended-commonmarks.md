@@ -102,8 +102,8 @@ sequenceDiagram
 *Notes:*
 - It's implemented in showdown-plantuml.js, 
 - Render diagrams of uml,
-- Using [plantuml](http://plantuml.com),
-- Check [plantuml website](http://plantuml.com/) fpr more information.
+- Using [plantuml](https://plantuml.com),
+- Check [plantuml website](https://plantuml.com/) fpr more information.
 - Code inside `{ }` is optional
 
 ***Syntaxes***
@@ -145,7 +145,7 @@ sequenceDiagram
 - It's implemented in showdown-flowchart.js
 - Render diagrams of flowchart
 - Using [flowchart.js](https://github.com/adrai/flowchart.js)
-- Check [flowchart website](http://flowchart.js.org/) for more information.
+- Check [flowchart website](https://flowchart.js.org/) for more information.
 - Code inside `{ }` is optional
 
 ***Syntaxes***
@@ -163,12 +163,12 @@ sequenceDiagram
 ***Showcases***
 
 ```flow  {"align":"center"}
-st=>start: Start:>http://www.google.com[blank]
-e=>end:>http://www.google.com
+st=>start: Start:>https://www.google.com[blank]
+e=>end:>https://www.google.com
 op1=>operation: My Operation
 sub1=>subroutine: My Subroutine
 cond=>condition: Yes
-or No?:>http://www.google.com
+or No?:>https://www.google.com
 io=>inputoutput: catch something...
 para=>parallel: parallel tasks
 
@@ -186,7 +186,7 @@ e=>end
 op1=>operation: My Operation
 sub1=>subroutine: My Subroutine
 cond=>condition: Yes
-or No?:>http://www.google.com
+or No?:>https://www.google.com
 io=>inputoutput: catch something
 st->op1->cond
 cond(yes)->io->e

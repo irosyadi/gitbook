@@ -34,20 +34,20 @@ draft: false
 - Personlab
 
 ### Datasets
-- [COCO](http://cocodataset.org/#home) (Common Objects in Context)
+- [COCO](https://cocodataset.org/#home) (Common Objects in Context)
     - Benchmark; Images from Flickr
-- [MPII Human Pose](http://human-pose.mpi-inf.mpg.de/) (body_25)
+- [MPII Human Pose](https://human-pose.mpi-inf.mpg.de/) (body_25)
     - 25k images, 40k people, 401 human activities, extracted from YouTube videos
-- [Leeds Sports Pose](http://sam.johnson.io/research/lsp.html)
+- [Leeds Sports Pose](https://sam.johnson.io/research/lsp.html)
     - 2k images of mostly Sports from Flickr
-- [Frames Labeled in Cinema](http://human-pose.mpi-inf.mpg.de/) (FLIC)
+- [Frames Labeled in Cinema](https://human-pose.mpi-inf.mpg.de/) (FLIC)
     - 5003 Images from movies labeled by Amazon Mechanical Turk
 - [FLIC Plus](https://jonathantompson.github.io/flic_plus.htm) by [Jon Tompson](https://jonathantompson.github.io/)
-- [Human3.6M](http://vision.imar.ro/human3.6m/description.php)
+- [Human3.6M](https://vision.imar.ro/human3.6m/description.php)
     - 3D Single Person
-- [HumanEva](http://humaneva.is.tue.mpg.de/)
+- [HumanEva](https://humaneva.is.tue.mpg.de/)
     - 7 videos with 3D body poses, 4 subjects, 6 common actions
 - [SURREAL](https://www.di.ens.fr/willow/research/surreal/data/)
     - 6m frames of Synthetic Humans
-- [Panoptic](http://domedb.perception.cs.cmu.edu/)
+- [Panoptic](https://domedb.perception.cs.cmu.edu/)
 - [Basketball Pose Analysis](https://github.com/chonyy/AI-basketball-analysis)

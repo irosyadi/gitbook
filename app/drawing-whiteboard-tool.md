@@ -32,9 +32,9 @@ draft: false
 - [Mural](https://mural.co/)
 - [Excalidraw](https://excalidraw.com/)
 - [Browserboard](https://browserboard.com/)
-- [Openboard](http://openboard.ch/index.en.html) open source self hosted
+- [Openboard](https://openboard.ch/index.en.html) open source self hosted
 - [Room](https://room.sh/)
-- [Freehand](http://freehand.new/)
+- [Freehand](https://freehand.new/)
 - [Whiteboard ZJM](https://whiteboard.zjm.me/)
 - [Doodledocs](https://doodledocs.com/site/home)
 - [Explaineverything](https://whiteboard.explaineverything.com/)

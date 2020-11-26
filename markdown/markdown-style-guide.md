@@ -15,14 +15,14 @@ draft: false
 
 The [source code is available on GitHub]({{ site.cirosantilli-github }}).
 
-Considers [original specification](http://daringfireball.net/projects/markdown/syntax),
-[CommonMark](http://commonmark.org) and other extensions.
+Considers [original specification](https://daringfireball.net/projects/markdown/syntax),
+[CommonMark](https://commonmark.org) and other extensions.
 
 This project is community driven, and tries to reach consensus.
 Maintainers will only step in if the community cannot reach a decision.
 Discussion will take place [on the issue tracker]({{ site.cirosantilli-github }}/issues).
 
-A Chinese translation can be found at: <http://einverne.github.io/markdown-style-guide/zh.html>
+A Chinese translation can be found at: <https://einverne.github.io/markdown-style-guide/zh.html>
 
 ### Notable users
 
@@ -152,13 +152,13 @@ by Google.
 This guide was originally forked from it. It has been extended considerably,
 some decisions were modified, and no original lines remain.
 
-<http://tirania.org/blog/archive/2014/Sep-30.html> by Miguel de Icaza (GNOME, Mono). Short.
+<https://tirania.org/blog/archive/2014/Sep-30.html> by Miguel de Icaza (GNOME, Mono). Short.
 
 <https://github.com/slang800/markdown-styleguide>
 
 ### Lint tools
 
-Asked on Stack Exchange: <http://softwarerecs.stackexchange.com/questions/7138/markdown-lint-tool/>
+Asked on Stack Exchange: <https://softwarerecs.stackexchange.com/questions/7138/markdown-lint-tool/>
 
 - <https://github.com/wooorm/mdast-lint>
 - <https://github.com/mivok/markdownlint>
@@ -293,10 +293,10 @@ Try to keep lines under 80 characters by breaking large paragraphs logically at 
 
 -   sentences: after a period `.`, question `?` or exclamation mark `!`
 
--   [clauses](http://www.oxforddictionaries.com/words/clauses):
+-   [clauses](https://www.oxforddictionaries.com/words/clauses):
     after words like `and`, `which`, `if ... then`, commas `,`
 
--   large [phrases](http://www.oxforddictionaries.com/words/phrases)
+-   large [phrases](https://www.oxforddictionaries.com/words/phrases)
 
 It is acceptable to have a line longer than 80 characters,
 but keep in mind that long sentences are less readable
@@ -684,12 +684,12 @@ Advantages of top-level headers:
 
         # The Header of the Example
 
-    As an exception, [title case](http://en.wikipedia.org/wiki/Title_case#Title_case)
+    As an exception, [title case](https://en.wikipedia.org/wiki/Title_case#Title_case)
     may be optionally used for the [top-level header](#top-level-header).
     Use this exception sparingly, in cases where typographical perfection is important,
     e.g.: `README` of a project.
 
-    Rationale: why not [Title case](http://en.wikipedia.org/wiki/Title_case#Title_case) for all headers?
+    Rationale: why not [Title case](https://en.wikipedia.org/wiki/Title_case#Title_case) for all headers?
     It requires too much effort to decide if edge-case words should be upper case or not.
 
 #### End of a header
@@ -1117,7 +1117,7 @@ The disadvantages of `list-space:1`
 
     But many implementations did otherwise.
 
-    CommonMark [adds the 2 spaces](http://spec.commonmark.org/0.12/#example-176).
+    CommonMark [adds the 2 spaces](https://spec.commonmark.org/0.12/#example-176).
 
 #### Indentation of content inside lists
 
@@ -1179,7 +1179,7 @@ Good (if it matches your spaces after list marker style):
       Content 2
 
 Avoid starting a list item directly with indented code blocks because that is not consistently implemented.
-[CommonMark states that](http://spec.commonmark.org/0.12/#example-176) a single space is assumed in that case:
+[CommonMark states that](https://spec.commonmark.org/0.12/#example-176) a single space is assumed in that case:
 
     -     code
 
@@ -1445,8 +1445,8 @@ Instead, use either:
 
     Good:
 
-        - [apple](http://apple.com): red fruit
-        - [dot](http://dog.com): red fruit
+        - [apple](https://apple.com): red fruit
+        - [dot](https://dog.com): red fruit
 
     Good:
 
@@ -1651,14 +1651,14 @@ Good:
 
     **bold**
     `code`
-    [link](http://a.com)
+    [link](https://a.com)
     [text][name]
 
 Bad:
 
     ** bold **
     ` code `
-    [ link ]( http://a.com )
+    [ link ]( https://a.com )
     [text] [name]
 
 For inline code in which the space is crucial:
@@ -1702,18 +1702,18 @@ Definitions:
 
 Good:
 
-    [id2]:     http://long-url.com
-    [long id]: http://a.com        "name 1"
+    [id2]:     https://long-url.com
+    [long id]: https://a.com        "name 1"
 
 Bad, not ordered by id:
 
-    [b]: http://a.com
-    [a]: http://b.com
+    [b]: https://a.com
+    [a]: https://b.com
 
 Bad, not aligned:
 
-    [id]: http://id.com
-    [long id]: http://long-id.com
+    [id]: https://id.com
+    [long id]: https://long-id.com
 
 #### Single or double quote titles
 
@@ -1790,23 +1790,23 @@ Bad:
 
     Good:
 
-        <http://a.com>
+        <https://a.com>
 
     Bad:
 
-        http://a.com
+        https://a.com
 
     Rationale: it is an extension, `<>` is easy to type and saner.
 
 -   If you want literal links which are not autolinks, enclose them in code blocks. E.g.:
 
-        `http://not-a-link.com`
+        `https://not-a-link.com`
 
-    Rationale: many tools automatically interpret any word starting with `http` as a link.
+    Rationale: many tools automatically interpret any word starting with `https` as a link.
 
 #### Content of automatic links
 
-All automatic links must start with the string `http`.
+All automatic links must start with the string `https`.
 
 In particular, *don't* use relative automatic links.
 Use bracket links instead for that purpose.

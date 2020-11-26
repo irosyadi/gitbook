@@ -13,11 +13,11 @@ tags: open free license
 - [CC License](https://creativecommons.org/licenses/) juga memberikan informasi yang sama, tetapi hanya untuk karya yang CC
 - [Choose a License](https://choosealicense.com/appendix/) and [List of License](https://choosealicense.com/licenses/)
 - [Creative Commons Wikipedia](https://en.wikipedia.org/wiki/Creative_Commons_license)
-- [License Chooser](http://three.org/openart/license_chooser/)
-- [License Differentiator](http://oss-watch.ac.uk/apps/licdiff/)
+- [License Chooser](https://three.org/openart/license_chooser/)
+- [License Differentiator](https://oss-watch.ac.uk/apps/licdiff/)
 - [Freedom Defined](https://freedomdefined.org/Licenses)
 - [Creative Commons FAQ](https://creativecommons.org/faq/)
-- [Adapter License](http://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
+- [Adapter License](https://discourse.col.org/t/if-i-derive-or-adapt-material-offered-under-a-creative-commons-license-which-cc-license-s-can-i-use/160)
 - [Various Licenses and Comments about Them](https://www.gnu.org/licenses/license-list.html#FreeDocumentationLicenses)
 - [Unlicense](https://unlicense.org/)
 

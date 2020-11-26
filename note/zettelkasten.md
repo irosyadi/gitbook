@@ -33,10 +33,10 @@ The zettelkasten (German: "slip box") is a knowledge management and note-taking 
 - [Artificial Brain Networks](https://www.notion.so/Artificial-Brain-Networked-notebook-app-a131b468fc6f43218fb8105430304709)
 
 ### The Zettelkasten / Slip-box
-- [ZKN3](http://zettelkasten.danielluedecke.de/en/) by Daniel Lüdecke
+- [ZKN3](https://zettelkasten.danielluedecke.de/en/) by Daniel Lüdecke
 - [Zettlr](https://zettlr.com/)
 - [The Archive](https://zettelkasten.de/the-archive/)
-- [Roamresearch](http://roamresearch.com/)
+- [Roamresearch](https://roamresearch.com/)
 - [TiddlyWiki](https://tiddlywiki.com/) (free and open-source)
 - [obsidian](https://obsidian.md/)
 - [RemNote](https://www.remnote.io/)

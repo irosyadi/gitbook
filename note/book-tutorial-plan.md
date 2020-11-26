@@ -66,13 +66,13 @@ My upcoming planned books and tutorials.
 - [Machine Learning with Octave](https://github.com/trekhleb/machine-learning-octave), License: MIT
 - [Free and Open Machine Learning Book](https://freeandopenmachinelearning.readthedocs.io/en/latest/#) License: CC-BY
 - [Introduction to Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) License: CC-BY
-- [Scipy Lectures](http://scipy-lectures.org/) Lincense: CC-BY
-- [Dive into Deep Learning](http://d2l.ai/) License: CC-BY
+- [Scipy Lectures](https://scipy-lectures.org/) Lincense: CC-BY
+- [Dive into Deep Learning](https://d2l.ai/) License: CC-BY
 - [Introduction to computing with Python for engineering and scientific applications](https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas) License: CC-BY
 - [Introduction to Deep Neural Networks with Keras and Tensorflow ](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
-- [CS 231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](http://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
-- [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, filetype: .tex
+- [CS 231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](https://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
+- [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](https://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, filetype: .tex
 - [Deep School IO](https://github.com/sachinruk/deepschool.io) License: Apache
 - [Keras Tutorial](https://github.com/jfsantos/keras-tutorial) License: MIT
 - [Notes on Deep Learning Book](https://github.com/hadrienj/deepLearningBook-Notes) License: MIT
@@ -96,12 +96,12 @@ My upcoming planned books and tutorials.
 - [Modeling, Functions, and Graphs Algebra for College Students](https://yoshiwarabooks.org/mfg/) License: GFDL
 - [Trigonometry](https://yoshiwarabooks.org/trig/) License: GFDL
 - [Elementary Algebra](https://yoshiwarabooks.org/elem-alg/) License: GFDL
-- [Understanding Linear Algebra](http://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/ula.html)  License: CC-BY
+- [Understanding Linear Algebra](https://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/ula.html)  License: CC-BY
 - [Active Prelude to Calculus](https://activecalculus.org/APC.html) License: CC-BY
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
 - [Active Calculus](https://activecalculus.org//ACS.html) or [this](https://activecalculus.org/single/frontmatter.html) License: CC-BY
 - [Calculus Lab Manual](https://spaces.pcc.edu/display/MS/Calculus+Lab+Manuals) or [this](https://spot.pcc.edu/math/clm/clm.html) License: CC-BY
-- [Discrete Mathematics](http://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
+- [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 
 ### Digital Signal Processing
 - [Kalman and Bayesian Filter in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) License: CC-BY
@@ -118,7 +118,7 @@ My upcoming planned books and tutorials.
 - [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) License: Design Science License, [All About Circuit Version](https://www.allaboutcircuits.com/textbook/)
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY
 - [Fundamentals of Electrical Engineering I](https://open.umn.edu/opentextbooks/textbooks/fundamentals-of-electrical-engineering-1) License: CC-BY
-- [Socratic Electronics](http://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
+- [Socratic Electronics](https://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
 ### Others
 - [Working-with-Climate-Data-in-Python](https://github.com/MarieHofmann/Working-with-Climate-Data-in-Python) License: CC-BY

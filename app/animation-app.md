@@ -16,9 +16,9 @@ draft: false
 - [Blender](https://www.blender.org/) : Motion Capture, Keyframe Animation 
 - [Clara.io](https://clara.io/) : Web-based Keyframe Animation
 - [Daz3D](https://www.daz3d.com/daz_studio) : Motion Capture, Keyframe Animation 
-- [MakeHuman](http://www.makehumancommunity.org/) : Motion Capture, Keyframe Animation
+- [MakeHuman](https://www.makehumancommunity.org/) : Motion Capture, Keyframe Animation
 - [Mixamo](https://www.mixamo.com/#/) : Web-based Motion Capture, Keyframe Animation |
-- [SmartBody](http://smartbody.ict.usc.edu/about) : Motion Capture
+- [SmartBody](https://smartbody.ict.usc.edu/about) : Motion Capture
 
 ## Stop Motion Animation
 - [Boats Animator](https://www.charlielee.uk/boats-animator/) : Stop Motion

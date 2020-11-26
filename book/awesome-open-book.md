@@ -89,34 +89,34 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Problem Solving with Algorithms and Data Structures][repo-psads] ([Site][site-psads], cc-nc-sa) - Examples and work from Problem Solving with Algorithms and Data Structures Using Python 
 * Data Compression Explained ([Site][site-dce], custom liscense) - This book is for the reader who wants to understand how data compression works, or who wants to write data compression software.
 
-[site-dce]: http://mattmahoney.net/dc/dce.html
+[site-dce]: https://mattmahoney.net/dc/dce.html
 [repo-psads]: https://github.com/ErikRHanson/Problem-Solving-with-Algorithms-and-Data-Structures-Using-Python
-[site-psads]: http://interactivepython.org/runestone/static/pythonds/index.html 
+[site-psads]: https://interactivepython.org/runestone/static/pythonds/index.html 
 [repo-csftbu]: https://github.com/ianw/bottomupcs
-[site-csftbu]: http://www.bottomupcs.com/
-[site-introtocom]: http://www.computingbook.org/
+[site-csftbu]: https://www.bottomupcs.com/
+[site-introtocom]: https://www.computingbook.org/
 [site-funop]: https://books.google.lk/books?printsec=frontcover&id=TZ-qjncsv6QC&hl=ko#v=onepage&q&f=false
-[site-pfpl]: http://www.cs.cmu.edu/~rwh/plbook/
-[site-plai]: http://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
+[site-pfpl]: https://www.cs.cmu.edu/~rwh/plbook/
+[site-plai]: https://cs.brown.edu/~sk/Publications/Books/ProgLangs/2007-04-26/
 [site-sicp]: https://mitpress.mit.edu/sicp/full-text/book/book.html
-[site-htdp]: http://www.ccs.neu.edu/home/matthias/HtDP2e/
+[site-htdp]: https://www.ccs.neu.edu/home/matthias/HtDP2e/
 [site-crypto-101]: https://www.crypto101.io/
 [repo-crypto-101]: https://github.com/crypto101/book
 [repo-littleosbook]: https://github.com/littleosbook/littleosbook
-[site-littleosbook]: http://littleosbook.github.io/
-[site-ods]: http://opendatastructures.org/
+[site-littleosbook]: https://littleosbook.github.io/
+[site-ods]: https://opendatastructures.org/
 [repo-ods]: https://github.com/patmorin/ods
-[site-algorithm-etc]: http://jeffe.cs.illinois.edu/teaching/algorithms/
-[site-michiel-structures]: http://cglab.ca/~michiel/DiscreteStructures/
-[site-michiel-computation]: http://cglab.ca/~michiel/TheoryOfComputation/
+[site-algorithm-etc]: https://jeffe.cs.illinois.edu/teaching/algorithms/
+[site-michiel-structures]: https://cglab.ca/~michiel/DiscreteStructures/
+[site-michiel-computation]: https://cglab.ca/~michiel/TheoryOfComputation/
 [repo-graphbook]: https://code.google.com/p/graphbook/
 [site-operating-middleware]: https://gustavus.edu/+max/os-book/
 [repo-operating-middleware]: https://github.com/Max-Hailperin/Operating-Systems-and-Middleware--Supporting-Controlled-Interaction
-[site-parallel-machine]: http://heather.cs.ucdavis.edu/parprocbook
+[site-parallel-machine]: https://heather.cs.ucdavis.edu/parprocbook
 [repo-perfbook]: https://github.com/sbinet/perfbook
 [site-perfbook]: https://www.kernel.org/pub/linux/kernel/people/paulmck/perfbook/perfbook.html
-[site-high-perfomance-computing]:  http://open.umich.edu/education/si/resources/hpc-opentextbook/2009
-[site-nlpwp]: http://nlpwp.org/book/
+[site-high-perfomance-computing]:  https://open.umich.edu/education/si/resources/hpc-opentextbook/2009
+[site-nlpwp]: https://nlpwp.org/book/
 
 <a name='data_science'></a>
 ### Data Science and Statistics
@@ -131,13 +131,13 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-jupyter-book]: https://github.com/Carreau/jupyter-book
 [site-jupyter-book]: https://carreau.gitbooks.io/jupyter-book/content/
-[site-jstatsoft]: http://www.jstatsoft.org/index
-[site-baymh]: http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
+[site-jstatsoft]: https://www.jstatsoft.org/index
+[site-baymh]: https://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/
 [repo-baymh]: https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-[site-dmftm]:http://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
-[site-abinn]: http://www.dkriesel.com/en/science/neural_networks
+[site-dmftm]:https://docs.rapidminer.com/downloads/DataMiningForTheMasses.pdf
+[site-abinn]: https://www.dkriesel.com/en/science/neural_networks
 [repo-thinkstats]: https://github.com/AllenDowney/ThinkStats2
-[site-thinkstats]: http://greenteapress.com/thinkstats/
+[site-thinkstats]: https://greenteapress.com/thinkstats/
 [repo-leads]: https://github.com/nborwankar/LearnDataScience
 
 <a name='devops'></a>
@@ -160,10 +160,10 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-travis-docs]: https://docs.travis-ci.com/
 [repo-travis-docs]: https://github.com/travis-ci/docs-travis-ci-com
 [repo-twelve-factor]: https://github.com/heroku/12factor
-[site-twelve-factor]: http://12factor.net/
+[site-twelve-factor]: https://12factor.net/
 [repo-htaccess]: https://github.com/phanan/htaccess
 [site-do-tutorials]: https://www.digitalocean.com/community/tutorials
-[site-ops-school]: http://ops-school.readthedocs.org/en/latest/
+[site-ops-school]: https://ops-school.readthedocs.org/en/latest/
 [repo-ops-school]: https://github.com/opsschool/curriculum
 
 <a name='mathematics'></a>
@@ -173,9 +173,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Collision Detection][repo-jeff-collision] ([Site][site-jeff-collision], cc-nc-sa) - A book and examples on collision detection 
 
 [repo-jeff-collision]: https://github.com/jeffThompson/CollisionDetection
-[site-jeff-collision]: http://www.jeffreythompson.org/collision-detection/
+[site-jeff-collision]: https://www.jeffreythompson.org/collision-detection/
 [repo-hott-book]: https://github.com/HoTT/HoTT
-[site-hott-book]: http://homotopytypetheory.org/
+[site-hott-book]: https://homotopytypetheory.org/
 
 
 <a name='open_source'></a>
@@ -188,12 +188,12 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Free as in Freedom (2.0)][repo-free-freedom-2] ([Site][site-free-freedom-2], GNU-FDL) - Free as in Freedom (2.0) is Stallman's revision of the original biography.
 * The Daemon, the GNU & the Penguin ~ by Dr. Peter Salus ([Site][site-tdtgtp], cc-nc-nd)
 
-[repo-free-freedom-2]: http://bzr.savannah.gnu.org/lh/books/changes
-[site-free-freedom-2]: http://shop.fsf.org/product/free-as-in-freedom-2/
-[site-tdtgtp]: http://www.groklaw.net/staticpages/index.php?page=20051013231901859
-[site-fsfs]: http://shop.fsf.org/product/free-software-free-society-2/
-[repo-fsfs]: http://bzr.savannah.gnu.org/lh/books/changes
-[site-aosa]: http://aosabook.org/en/index.html
+[repo-free-freedom-2]: https://bzr.savannah.gnu.org/lh/books/changes
+[site-free-freedom-2]: https://shop.fsf.org/product/free-as-in-freedom-2/
+[site-tdtgtp]: https://www.groklaw.net/staticpages/index.php?page=20051013231901859
+[site-fsfs]: https://shop.fsf.org/product/free-software-free-society-2/
+[repo-fsfs]: https://bzr.savannah.gnu.org/lh/books/changes
+[site-aosa]: https://aosabook.org/en/index.html
 [repo-aosa]: https://github.com/aosabook/aosabook
 
 
@@ -210,20 +210,20 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Programming Historian][repo-tphistorian] ([Site][site-tphistorian], cc) - The Programming Historian is an online, open-access, peer-reviewed suite of tutorials that help humanists learn a wide range of digital tools, techniques, and workflows to facilitate their research.
 * [WHAT IS CODE?][repo-what-is-code] ([Site][site-what-is-code], cc-nc-nd) - Paul Ford’s “What Is Code?”
 
-[site-what-is-code]: http://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
+[site-what-is-code]: https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/
 [repo-what-is-code]: https://github.com/BloombergMedia/whatiscode
 [repo-tphistorian]: https://github.com/programminghistorian/jekyll
-[site-tphistorian]: http://programminghistorian.org/
+[site-tphistorian]: https://programminghistorian.org/
 [repo-tlitp]: https://github.com/karlseguin/the-little-introduction-to-programming
-[site-tlitp]: http://codingintro.com/
+[site-tlitp]: https://codingintro.com/
 [site-mdn]: https://developer.mozilla.org/en-US/
 [repo-build-podcast]: https://github.com/sayanee/build-podcast
-[site-build-podcast]: http://build-podcast.com/
+[site-build-podcast]: https://build-podcast.com/
 [repo-thoughtbot-guides]: https://github.com/thoughtbot/guides
 [repo-refb-book]: https://github.com/dennis714/RE-for-beginners
-[site-refb-book]: http://beginners.re/
+[site-refb-book]: https://beginners.re/
 [repo-app-launch-guide]: https://github.com/adamwulf/app-launch-guide
-[site-app-launch-guide]: http://www.applaunchguide.com/
+[site-app-launch-guide]: https://www.applaunchguide.com/
 
 <a name='database'></a>
 ### Database
@@ -236,7 +236,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='world_wide_web'></a>
 ### World Wide Web
 
-* [HTTP API Design Guide][repo-http-api] (cc) - HTTP API design guide extracted from work on the Heroku Platform API
+* [https API Design Guide][repo-https-api] (cc) - https API design guide extracted from work on the Heroku Platform API
 * [Dive Into HTML5][repo-diveintohtml5] ([Site][site-diveintohtml5], cc) - Dive Into HTML5 elaborates on a hand-picked selection of features from the HTML5 specification and other fine standards
 * [Web Fundamentals][repo-web-fundamentles] ([Site][site-web-fundamentles], Apache 2.0) - Best practices for modern web development
 * [Code Guide][repo-code-guide] ([Site][site-code-guide], MIT) - Standards for flexible, durable, and sustainable HTML and CSS
@@ -246,27 +246,27 @@ This is not a list of free programming books. This is a curated list of open sou
 * [North][repo-north] ([Site][site-north], MIT) - MIT Design and development standards to align and guide your project.
 * RESTful Web APIs ([Site][site-restful-web-apis], cc-nc-nd) - Restful Web APIs was the first book-length treatment of RESTful design, and the predecessor to RESTful Web APIs.
 * DOM Enlightenment ([Site][site-domenlight], cc-nc-nd) - Exploring the relationship between JavaScript and the modern HTML DOM
-* [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting HTTP/2, the successor to the widely popular HTTP/1.1 protocol
+* [http2 explained][repo-http2-explained] ([Site][site-http2-explained], cc-nc-nd) - http2 explained is a detailed document explaining and documenting https/2, the successor to the widely popular https/1.1 protocol
 
-[site-http2-explained]: http://daniel.haxx.se/http2/
+[site-http2-explained]: https://daniel.haxx.se/http2/
 [repo-http2-explained]: https://github.com/bagder/http2-explained
 [repo-browser-diet]: https://github.com/zenorocha/browser-diet
-[site-browser-diet]: http://browserdiet.com/
-[site-domenlight]: http://domenlightenment.com/
-[site-restful-web-apis]: http://restfulwebapis.org/rws.html
+[site-browser-diet]: https://browserdiet.com/
+[site-domenlight]: https://domenlightenment.com/
+[site-restful-web-apis]: https://restfulwebapis.org/rws.html
 [repo-north]: https://github.com/north/north
-[site-north]: http://pointnorth.io/
+[site-north]: https://pointnorth.io/
 [repo-webcomponents]: https://github.com/webcomponents/webcomponents.github.io
-[site-webcomponents]: http://webcomponents.org/
+[site-webcomponents]: https://webcomponents.org/
 [repo-html-best]: https://github.com/hail2u/html-best-practices
 [repo-web-fundamentles]: https://github.com/google/WebFundamentals/
 [site-web-fundamentles]: https://developers.google.com/web/fundamentals/
 [repo-code-guide]: https://github.com/mdo/code-guide
-[site-code-guide]: http://codeguide.co/
+[site-code-guide]: https://codeguide.co/
 [repo-diveintohtml5]: https://github.com/diveintomark/diveintohtml5
-[site-diveintohtml5]: http://diveintohtml5.info/
+[site-diveintohtml5]: https://diveintohtml5.info/
 [repo-500-lines]: https://github.com/aosabook/500lines
-[repo-http-api]: https://github.com/interagent/http-api-design
+[repo-https-api]: https://github.com/interagent/https-api-design
 
 <a name='writings_and_documentation'></a>
 ### Writings and Documentation
@@ -279,11 +279,11 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-prose-prog]: https://github.com/joshuacc/prose-for-programmers
 [repo-commonmark-spec]: https://github.com/jgm/CommonMark
-[site-commonmark-spec]: http://spec.commonmark.org/
-[site-rst-spec]: http://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
-[site-thgtd]: http://docs-guide.readthedocs.org/en/latest/
+[site-commonmark-spec]: https://spec.commonmark.org/
+[site-rst-spec]: https://docutils.sourceforge.net/docs/ref/rst/restructuredtext.html
+[site-thgtd]: https://docs-guide.readthedocs.org/en/latest/
 [repo-thgtd]: https://github.com/chrismedrela/docs-guide
-[site-write-the-doc]: http://docs.writethedocs.org/
+[site-write-the-doc]: https://docs.writethedocs.org/
 [repo-write-the-doc]: https://github.com/writethedocs/docs/
 
 <a name='journalism_and_visualization'></a>
@@ -298,17 +298,17 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Thematic Cartography Guide][repo-themacg] ([Site][site-themacg], cc-nc) - A short, friendly guide to basic principles of thematic mapping.
 
 [repo-themacg]: https://github.com/axismaps/thematic-cartography
-[site-themacg]: http://axismaps.github.io/thematic-cartography/
+[site-themacg]: https://axismaps.github.io/thematic-cartography/
 [site-d3-101-screencasts]: https://www.youtube.com/watch?v=iuA-gmvJ5n0&list=PL9yYRbwpkykvjkfuRslECO9c1qTq3GgUb
 [repo-d3-101-screencasts]: https://github.com/curran/screencasts/
 [repo-data-design]: https://github.com/infoactive/data-design/
 [site-data-design]: https://infoactive.co/data-design
 [repo-data-science-45min]: https://github.com/DrSkippy/Data-Science-45min-Intros
 [repo-natureofcode]: https://github.com/shiffman/The-Nature-of-Code
-[site-natureofcode]: http://natureofcode.com/
+[site-natureofcode]: https://natureofcode.com/
 [repo-intro-to-d3]: https://github.com/square/intro-to-d3
 [site-intro-to-d3]: https://square.github.io/intro-to-d3/
-[site-data-journalism-handbook]: http://datajournalismhandbook.org/1.0/en/
+[site-data-journalism-handbook]: https://datajournalismhandbook.org/1.0/en/
 
 <a name='android_development'>
 ### Android Development
@@ -317,7 +317,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Best practices in Android development][repo-android-bp] (cc) - Do's and Don'ts for Android development, by Futurice developers 
 
 [repo-android-bp]: https://github.com/futurice/android-best-practices
-[site-android-api-guide]: http://developer.android.com/guide/index.html
+[site-android-api-guide]: https://developer.android.com/guide/index.html
 
 <a name='ios_development'>
 ### IOS Development
@@ -340,7 +340,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Learn X in Y minutes][repo-xyminutes] ([Site][site-xyminutes], cc-sa) - Take a whirlwind tour of your next favorite language. Community-driven!
 * [RxMarbles][repo-rxmarbles] ([Site][site-rxmarbles], BSD) - Interactive diagrams of Rx Observables
 
-[site-rxmarbles]: http://rxmarbles.com/
+[site-rxmarbles]: https://rxmarbles.com/
 [repo-rxmarbles]: https://github.com/staltz/rxmarbles
 [repo-npr-bp]: https://github.com/nprapps/bestpractices
 [site-xyminutes]: https://learnxinyminutes.com/
@@ -348,10 +348,10 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-peco]: https://github.com/peco/peco
 [repo-10up-bp]: https://github.com/10up/Engineering-Best-Practices
 [site-10up-bp]: https://10up.github.io/Engineering-Best-Practices/
-[site-zguide]: http://zguide.zeromq.org/
+[site-zguide]: https://zguide.zeromq.org/
 [repo-zguide]: https://github.com/imatix/zguide
 [repo-solarized]: https://github.com/altercation/ethanschoonover.com/tree/master/projects/solarized
-[site-solarized]: http://ethanschoonover.com/solarized
+[site-solarized]: https://ethanschoonover.com/solarized
 [repo-cocktails-for-programmer]: https://github.com/cocktails-for-programmers/cocktails_for_programmers
 
 <a name=programming_languages'></a>
@@ -379,8 +379,8 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Font Awesome][repo-font-awesome] ([Site][site-font-awesome], cc) - The iconic font and CSS toolkit
 
 [repo-font-awesome]: https://github.com/FortAwesome/Font-Awesome/tree/master/src
-[site-font-awesome]: http://fortawesome.github.io/Font-Awesome/
-[site-bootstrap]: http://getbootstrap.com/
+[site-font-awesome]: https://fortawesome.github.io/Font-Awesome/
+[site-bootstrap]: https://getbootstrap.com/
 [repo-bootstrap]: https://github.com/twbs/bootstrap/tree/master/docs
 [repo-idiomatic-css]: https://github.com/necolas/idiomatic-css
 
@@ -388,7 +388,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * Introduction to Programming using Fortran 95 ([Site][site-ipufortran], cc-nc-sa) - This text provides an introduction to programming and problem solving using the Fortran 95 programming language.
 
-[site-ipufortran]: http://www.egr.unlv.edu/~ed/fortran
+[site-ipufortran]: https://www.egr.unlv.edu/~ed/fortran
 
 <a name='ruby'></a>
 ### Ruby
@@ -418,11 +418,11 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-rhg-english]: https://ruby-hacking-guide.github.io/
 [repo-rhg]: https://github.com/tmm1/ruby-hacking-guide
 [repo-better-spec]: https://github.com/andreareginato/betterspecs/
-[site-better-spec]: http://betterspecs.org/#books
+[site-better-spec]: https://betterspecs.org/#books
 [repo-rails-guide]: https://github.com/rails/rails/tree/master/guides
-[site-rails-guide]: http://guides.rubyonrails.org/
+[site-rails-guide]: https://guides.rubyonrails.org/
 [repo-poignant-ruby]: https://github.com/mislav/poignant-guide
-[site-poignant-ruby]: http://poignant.guide/book/
+[site-poignant-ruby]: https://poignant.guide/book/
 
 <a name='clojure'></a>
 ### Clojure
@@ -430,9 +430,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [ClojureDocs][repo-clojure-docs] ([Site][site-clojure-docs], Eclipse Public License) - community-powered documentation and examples repository for the Clojure programming language
 * [Clojure Documentation][repo-clojure-doc] ([Site][site-clojure-doc], cc) - community-driven documentation site for the Clojure programming language
 
-[site-clojure-docs]: http://clojuredocs.org
+[site-clojure-docs]: https://clojuredocs.org
 [repo-clojure-docs]: https://github.com/zk/clojuredocs
-[site-clojure-doc]: http://clojure-doc.org/
+[site-clojure-doc]: https://clojure-doc.org/
 [repo-clojure-doc]: https://github.com/clojuredocs/guides
 
 <a name='elixir'></a>
@@ -444,14 +444,14 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-elixir-style-guide]: https://github.com/niftyn8/elixir_style_guide
 [repo-elixir-getting-started]: https://github.com/elixir-lang/elixir-lang.github.com
-[site-elixir-getting-started]: http://elixir-lang.org/getting-started/introduction.html
+[site-elixir-getting-started]: https://elixir-lang.org/getting-started/introduction.html
 [repo-30-days-of-elixir]: https://github.com/seven1m/30-days-of-elixir
 
 ### Forth
 
 * Thinking Forth Project Thinking Forth Project ([PDF][site-thinking-forth], cc-nc-sa)
 
-[site-thinking-forth]: http://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf
+[site-thinking-forth]: https://www.dnd.utwente.nl/~tim/colorforth/Leo-Brodie/thinking-forth.pdf
 
 <a name='erlang'></a>
 ### Erlang
@@ -460,8 +460,8 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Structure and Interpretation of Computer Program][repo-sicp-lfe] ([Site][site-sicp-lfe], cc-sa) - Structure and Interpretation of Computer Programs, the LFE edition
 
 [repo-sicp-lfe]: https://github.com/lfe/sicp
-[site-sicp-lfe]: http://lfe.gitbooks.io/sicp/
-[site-lysefgg]: http://learnyousomeerlang.com/content
+[site-sicp-lfe]: https://lfe.gitbooks.io/sicp/
+[site-lysefgg]: https://learnyousomeerlang.com/content
 
 <a name='go'></a>
 ### Go
@@ -480,9 +480,9 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Haskell By Example][repo-haskell-example] ([Site][site-haskell-example], cc) - Haskell by Example is a port of Go by Example to Haskell
 
 [repo-haskell-example]: https://github.com/lotz84/haskellbyexample
-[site-haskell-example]: http://lotz84.github.io/haskellbyexample/
+[site-haskell-example]: https://lotz84.github.io/haskellbyexample/
 [repo-howtlh]: https://github.com/bitemyapp/learnhaskell
-[site-lyhfgg]: http://learnyouahaskell.com/chapters
+[site-lyhfgg]: https://learnyouahaskell.com/chapters
 
 <a name='javascript'></a>
 ### Javascript
@@ -530,23 +530,23 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-understanding-es6]: https://leanpub.com/understandinges6/read
 [repo-learn-node-win]: https://github.com/workshopper/learnyounode
 [repo-node-biginner]: https://github.com/manuelkiessling/nodebeginner.org
-[site-node-biginner]: http://www.nodebeginner.org/ 
+[site-node-biginner]: https://www.nodebeginner.org/ 
 [repo-function-quality]: https://github.com/bevacqua/js
-[site-nodejs-bp]: http://justbuildsomething.com/node-js-best-practices/
+[site-nodejs-bp]: https://justbuildsomething.com/node-js-best-practices/
 [repo-nodejs-bp]: https://github.com/alanjames1987/Node.js-Best-Practices
 [repo-angular-style-guide]: https://github.com/johnpapa/angular-styleguide
 [repo-react-primer]: https://github.com/mikechau/react-primer-draft/
 [repo-es6-features]: https://github.com/lukehoban/es6features
 [repo-javascript-garden]: https://github.com/BonsaiDen/JavaScript-Garden
-[site-javascript-garden]: http://bonsaiden.github.io/JavaScript-Garden/
+[site-javascript-garden]: https://bonsaiden.github.io/JavaScript-Garden/
 [repo-jstherightway]: https://github.com/braziljs/js-the-right-way
-[site-jstherightway]: http://jstherightway.org/
+[site-jstherightway]: https://jstherightway.org/
 [repo-idiomatic-js]: https://github.com/rwaldron/idiomatic.js
 [site-ljdp]: https://addyosmani.com/resources/essentialjsdesignpatterns/book/
 [repo-angular-test-pattern]: https://github.com/daniellmb/angular-test-patterns
 [repo-airbnb-javascript]: https://github.com/airbnb/javascript
 [repo-js-garden]: https://github.com/BonsaiDen/JavaScript-Garden
-[site-js-garden]: http://bonsaiden.github.io/JavaScript-Garden/
+[site-js-garden]: https://bonsaiden.github.io/JavaScript-Garden/
 
 ### Lisp
 
@@ -555,7 +555,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-diy-lisp]: https://github.com/kvalle/diy-lisp
 [repo-buildyourownlisp]: https://github.com/orangeduck/BuildYourOwnLisp
-[site-buildyourownlisp]: http://www.buildyourownlisp.com/
+[site-buildyourownlisp]: https://www.buildyourownlisp.com/
 
 <a name='objective-c'></a>
 ### Objective-C
@@ -576,7 +576,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [PHP: The Right Way][repo-php-right-way] ([Site][site-php-right-way], by-nc-sa) - An easy-to-read, quick reference for PHP best practices, accepted coding standards, and links to authoritative tutorials around the Web
 
 [repo-php-right-way]: https://github.com/codeguy/php-the-right-way
-[site-php-right-way]: http://www.phptherightway.com/
+[site-php-right-way]: https://www.phptherightway.com/
 
 <a name='python'></a>
 ### Python
@@ -594,22 +594,22 @@ This is not a list of free programming books. This is a curated list of open sou
 * Google's Python Class ([Site][site-google-python], cc) - this is a free class for people with a little bit of programming experience who want to learn Python
 
 [site-google-python]: https://developers.google.com/edu/python/
-[site-think-python]: http://www.greenteapress.com/thinkpython/thinkpython.pdf
+[site-think-python]: https://www.greenteapress.com/thinkpython/thinkpython.pdf
 [repo-magic-methods]: https://github.com/RafeKettler/magicmethods
-[site-magic-methods]: http://www.rafekettler.com/magicmethods.html
+[site-magic-methods]: https://www.rafekettler.com/magicmethods.html
 [site-lpupython]: https://docs.google.com/file/d/0B8IUCMSuNpl7MnpaQ3hhN2R0Z1k/edit
 [repo-byte-python]: https://github.com/swaroopch/byte-of-python
-[site-byte-python]: http://www.swaroopch.com/notes/python/
+[site-byte-python]: https://www.swaroopch.com/notes/python/
 [repo-full-python]: https://github.com/makaimc/fullstackpython.com
-[site-full-python]: http://www.fullstackpython.com/
+[site-full-python]: https://www.fullstackpython.com/
 [repo-explore-flask]: https://github.com/rpicard/explore-flask
 [site-explore-flask]: https://exploreflask.com/
-[site-diveintopython3]: http://www.diveintopython3.net/
+[site-diveintopython3]: https://www.diveintopython3.net/
 [repo-django-document]: https://github.com/django/django/tree/master/docs
 [site-django-document]: https://docs.djangoproject.com/en/1.8/
 [repo-peps]: https://github.com/python/peps
 [site-peps]: https://www.python.org/dev/peps/
-[site-python-hguide]: http://docs.python-guide.org/en/latest/
+[site-python-hguide]: https://docs.python-guide.org/en/latest/
 [repo-python-hguide]: https://github.com/kennethreitz/python-guide
 
 <a name='rust'></a>
@@ -620,12 +620,12 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Rust For Rubyists][repo-rust-rubyist] ([Site][site-rust-rubyist], AGPL) - Rust for Rubyists was the first community tutorial for Rust
 * Rust for Python Programmers ([Site][site-rust-python], cc-nc-sa)
 
-[site-rust-python]: http://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
+[site-rust-python]: https://lucumr.pocoo.org/2015/5/27/rust-for-pythonistas/
 [repo-rust-rubyist]: https://github.com/steveklabnik/rust_for_rubyists
 [site-rust-rubyist]:  https://github.com/steveklabnik/rust_for_rubyists
 [repo-rust-by-example]: https://github.com/rust-lang/rust-by-example
-[site-rust-by-example]: http://rustbyexample.com/
-[site-trpl]: http://doc.rust-lang.org/book/README.html
+[site-rust-by-example]: https://rustbyexample.com/
+[site-trpl]: https://doc.rust-lang.org/book/README.html
 [repo-trpl]: https://github.com/rust-lang/rust/tree/master/src/doc/trpl
 
 <a name='r'></a>
@@ -634,7 +634,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Introduction to R][repo-intro-r] ([Site][site-intro-r], cc-nc-sa & apache 2.0) - These are notes for an introductory R workshop I am teaching for Python Programmers
 * Cookbook for R ([Site][site-r-cookbook], cc-sa) - The goal of the cookbook is to provide solutions to common tasks and problems in analyzing data
 
-[site-r-cookbook]: http://www.cookbook-r.com/
+[site-r-cookbook]: https://www.cookbook-r.com/
 [site-intro-r]: https://ramnathv.github.io/pycon2014-r/
 [repo-intro-r]: https://github.com/idocs/test1
 
@@ -643,7 +643,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 * Racket Documentation ([Site][site-racket-documentation], LGPL) - Documentation for Racket
 
-[site-racket-documentation]: http://docs.racket-lang.org/index.html
+[site-racket-documentation]: https://docs.racket-lang.org/index.html
 
 <a name='scala'></a>
 ### Scala
@@ -653,7 +653,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Scala School!][repo-scala-school] ([Site][site-scala-school], Apache 2.0) - Lessons in the Fundamentals of Scala
 
 [repo-effective-scala]: https://github.com/twitter/effectivescala
-[site-effective-scala]: http://twitter.github.io/effectivescala/
+[site-effective-scala]: https://twitter.github.io/effectivescala/
 [repo-scala-bp]: https://github.com/alexandru/scala-best-practices
 [repo-scala-school]: https://github.com/twitter/scala_school
 [site-scala-school]: https://twitter.github.io/scala_school/
@@ -666,10 +666,10 @@ This is not a list of free programming books. This is a curated list of open sou
 * Dynamic Web Development with Seaside ([Site][site-dwd-seaside], cc-nc-sa) - Dynamic Web Development with Seaside, intended for developers, will present the core of Seaside as well as advanced features such as Web 2.0 support and deployment
 * Squeak by Example ([Site][site-squeak-example], cc-sa) - Squeak by Example, intended for both students and developers, will guide you gently through the Squeak language and environment by means of a series of examples and exercises
 
-[site-squeak-example]: http://www.squeakbyexample.org/
-[site-dwd-seaside]: http://book.seaside.st/book
-[site-deep-pharo]: http://deepintopharo.com/
-[site-pharo-example]: http://pharobyexample.org/
+[site-squeak-example]: https://www.squeakbyexample.org/
+[site-dwd-seaside]: https://book.seaside.st/book
+[site-deep-pharo]: https://deepintopharo.com/
+[site-pharo-example]: https://pharobyexample.org/
 
 <a name='tools'></a>
 ## Tools
@@ -677,7 +677,7 @@ This is not a list of free programming books. This is a curated list of open sou
 <a name='server'></a>
 ### Server
 
-* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx HTTP server boilerplate configs 
+* [Nginx Server Configs][repo-nginx-configs] (MIT) - Nginx https server boilerplate configs 
 
 [repo-nginx-configs]: https://github.com/h5bp/server-configs-nginx
 
@@ -691,14 +691,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * [The Emacs Lisp Style Guide][repo-elisp-style-guide] (cc) - This Emacs Lisp style guide recommends best practices so that real-world Emacs Lisp programmers can write code that can be maintained by other real-world Emacs Lisp programmers
 * A Byte of Vim ([Site][site-byte-vim], cc-sa) - “A Byte of Vim” is a book which aims to help you to learn how to use the Vim editor (version 7), even if all you know is how to use the computer keyboard
 
-[site-byte-vim]: http://www.swaroopch.com/notes/vim/
+[site-byte-vim]: https://www.swaroopch.com/notes/vim/
 [repo-elisp-style-guide]: https://github.com/bbatsov/emacs-lisp-style-guide
 [repo-vimscript-hard-way]: https://github.com/sjl/learnvimscriptthehardway
-[site-vimscript-hard-way]: http://learnvimscriptthehardway.stevelosh.com/
+[site-vimscript-hard-way]: https://learnvimscriptthehardway.stevelosh.com/
 [site-emacs-manual]: https://www.gnu.org/software/emacs/manual/emacs.html
 [site-elisp-manual]: https://www.gnu.org/software/emacs/manual/elisp.html
 [repo-emacs-sexy]: https://github.com/picandocodigo/emacs.sexy
-[site-emacs-sexy]: http://emacs.sexy/
+[site-emacs-sexy]: https://emacs.sexy/
 
 <a name='git'></a>
 ### Git
@@ -711,12 +711,12 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-git-style-guide]: https://github.com/agis-/git-style-guide
 [repo-git-magic]: https://github.com/blynn/gitmagic
-[site-git-magic]: http://cs.stanford.edu/~blynn/gitmagic/ 
+[site-git-magic]: https://cs.stanford.edu/~blynn/gitmagic/ 
 [repo-git-it]: https://github.com/jlord/git-it
-[site-git-it]: http://jlord.github.io/git-it
+[site-git-it]: https://jlord.github.io/git-it
 [repo-github-cheatsheet]: https://github.com/tiimgreen/github-cheat-sheet
 [repo-progit]: https://github.com/progit/progit
-[site-progit]: http://git-scm.com/book/
+[site-progit]: https://git-scm.com/book/
 
 <a name='tool-etc'></a>
 ### etc.
@@ -724,7 +724,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * Gibber User Manual ([Site][site-gibber-manual], cc) - Gibber is a creative coding environment that runs in the browser. This book explains why Gibber was created, what its features are and how to use it
 * Upstart Intro, Cookbook and Best Practises ([Site][site-upstart-cookbook], cc-sa)
 
-[site-upstart-cookbook]: http://upstart.ubuntu.com/cookbook/
+[site-upstart-cookbook]: https://upstart.ubuntu.com/cookbook/
 [site-gibber-manual]: https://www.gitbook.com/book/bigbadotis/gibber-user-manual/details
 
 ## Library Documentation
@@ -743,15 +743,15 @@ This is not a list of free programming books. This is a curated list of open sou
 [site-docker]: https://docs.docker.com/
 [repo-phpmyadmin]: https://github.com/phpmyadmin/localized_docs
 [site-phpmyadmin]: https://phpmyadmin-english-united-kingdom.readthedocs.org/en/latest/
-[repo-omegat]: http://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
-[site-omegat]: http://omegat.sourceforge.net/manual-standard/
+[repo-omegat]: https://sourceforge.net/p/omegat/code/ci/master/tree/doc_src/
+[site-omegat]: https://omegat.sourceforge.net/manual-standard/
 [repo-riak]: https://github.com/basho/basho_docs
-[site-riak]: http://docs.basho.com/riak/latest/
-[site-sqlalchemy]: http://docs.sqlalchemy.org/en/latest/index.html
+[site-riak]: https://docs.basho.com/riak/latest/
+[site-sqlalchemy]: https://docs.sqlalchemy.org/en/latest/index.html
 [repo-ansible-document]: https://github.com/ansible/ansible/tree/devel/docsite
-[site-ansible-document]: http://docs.ansible.com/
+[site-ansible-document]: https://docs.ansible.com/
 [repo-sphinx-doc]: https://github.com/sphinx-doc/sphinx/tree/master/doc
-[site-sphinx-doc]: http://www.sphinx-doc.org/en/stable/contents.html
+[site-sphinx-doc]: https://www.sphinx-doc.org/en/stable/contents.html
 
 <a name='other_languages'></a>
 ## Other Languages
@@ -763,7 +763,7 @@ This is not a list of free programming books. This is a curated list of open sou
 * [emacsbook][repo-emacsbook] (cc-nc)
 * 꾸준히, 자유롭게, 즐겁게 : 한국 오픈 소스 개발자들 이야기 ([Site][site-osdi], cc-nc-nd)
 
-[site-osdi]: http://osdi.insightbook.co.kr/
+[site-osdi]: https://osdi.insightbook.co.kr/
 [repo-emacsbook]: https://github.com/tsgates/emacsbook
 [site-jump-to-python]: https://wikidocs.net/book/1
 
@@ -777,14 +777,14 @@ This is not a list of free programming books. This is a curated list of open sou
 * [Backbone.js入门教程][repo-backbonejs-note] (MIT) - backbonejs学习笔记更新版，使用backbone1.1.0
 * [ECMAScript 6入门][repo-es6tutorial-cn] ([Site][site-es6tutorial-cn], cc-nc) - 一本开源的JavaScript语言教程，全面介绍ECMAScript 6新增的语法特性
 
-[site-es6tutorial-cn]: http://es6.ruanyifeng.com/
+[site-es6tutorial-cn]: https://es6.ruanyifeng.com/
 [repo-es6tutorial-cn]: https://github.com/ruanyf/es6tutorial
 [repo-backbonejs-note]: https://github.com/the5fire/backbonejs-learning-note
 [repo-adcct]: https://github.com/forhappy/Cplusplus-Concurrency-In-Practice
-[site-7days-node]: http://nqdeng.github.io/7-days-nodejs/ 
+[site-7days-node]: https://nqdeng.github.io/7-days-nodejs/ 
 [repo-7days-node]: https://github.com/nqdeng/7-days-nodejs
 [repo-build-web-app-golang]: https://github.com/astaxie/build-web-application-with-golang
-[site-jstutorial]: http://javascript.ruanyifeng.com
+[site-jstutorial]: https://javascript.ruanyifeng.com
 [repo-jstutorial]: https://github.com/ruanyf/jstutorial/
 
 ## Japanese
@@ -794,7 +794,7 @@ This is not a list of free programming books. This is a curated list of open sou
 
 [repo-hatena-book]: https://github.com/hatena/Hatena-Textbook
 [repo-and-training]: https://github.com/mixi-inc/AndroidTraining
-[site-and-training]:http://mixi-inc.github.io/AndroidTraining/
+[site-and-training]:https://mixi-inc.github.io/AndroidTraining/
 
 <a name='another_documents_list'></a>
 ## Another Documents List / References
@@ -825,20 +825,20 @@ This is not a list of free programming books. This is a curated list of open sou
 [repo-narkoz-guides]: https://github.com/NARKOZ/guides
 [repo-free-programming-books]: https://github.com/vhf/free-programming-books
 [site-gitbook]: https://www.gitbook.io/
-[site-oreilly-openbook]: http://www.oreilly.com/openbook/
-[site-online-programming-books]: http://www.onlineprogrammingbooks.com/
-[site-fsf-book]: http://shop.fsf.org/category/books/
-[site-greentea-press]: http://www.greenteapress.com/
+[site-oreilly-openbook]: https://www.oreilly.com/openbook/
+[site-online-programming-books]: https://www.onlineprogrammingbooks.com/
+[site-fsf-book]: https://shop.fsf.org/category/books/
+[site-greentea-press]: https://www.greenteapress.com/
 [site-wikipedia-book]: https://en.wikipedia.org/wiki/Category:Wikipedia_books_%28community_books%29
 [repo-python-books]: https://github.com/revolunet/PythonBooks
-[site-jsbooks]: http://jsbooks.revolunet.com/
+[site-jsbooks]: https://jsbooks.revolunet.com/
 
 <a name='license'></a>
 ## License
-<p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
+<p xmlns:dct="https://purl.org/dc/terms/" xmlns:vcard="https://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
-     href="http://creativecommons.org/publicdomain/zero/1.0/">
-    <img src="http://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
+     href="https://creativecommons.org/publicdomain/zero/1.0/">
+    <img src="https://i.creativecommons.org/p/zero/1.0/88x31.png" style="border-style: none;" alt="CC0" />
   </a>
 </p>
 

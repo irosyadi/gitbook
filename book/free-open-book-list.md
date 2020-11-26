@@ -13,7 +13,7 @@ draft: false
 
 ## Repository of Open Books
 1. [Freetechbooks](https://www.freetechbooks.com/), [search by license](https://www.freetechbooks.com/licenses?page=1)
-2. [Freecomputerbooks](http://freecomputerbooks.com/)
+2. [Freecomputerbooks](https://freecomputerbooks.com/)
 3. [Open Textbooks Library](https://open.umn.edu/opentextbooks)
 4. [Directory of Open Access Books DOAB](https://www.doabooks.org/)
 5. [Libretexts](https://libretexts.org/)
@@ -22,7 +22,7 @@ draft: false
 8. [BC Campus](https://open.bccampus.ca/browse-our-collection/find-open-textbooks/)
 9. [Open SUNY Textbooks](https://textbooks.opensuny.org/)
 10. [NAP Edu](https://www.nap.edu/)
-11. [Open Text Books Hongkong](http://www.opentextbooks.org.hk/)
+11. [Open Text Books Hongkong](https://www.opentextbooks.org.hk/)
 12. [Oreilly Open Book](https://www.oreilly.com/openbook/)
 13. [Manitoba Open Textbooks](https://openedmb.ca/find-open-textbooks/)
 14. [OER](https://www.oercommons.org/hubs/open-textbooks) [OER](https://www.oercommons.org) : open content search engine
@@ -47,8 +47,8 @@ draft: false
 1. [Data Journalism](https://datajournalism.com/) CC-BY
 2. [Openstax Books](https://openstax.org/) and [CNX Books](https://cnx.org/) CC-BY
 3. [The Copula Books](https://cupola.gettysburg.edu/oer/) CC-BY
-4. [Tyller Wallace Books](http://www.wallace.ccfaculty.org/book/book.html) CC-BY
-5. [AOSA Books](http://aosabook.org/en/index.html) CC-BY
+4. [Tyller Wallace Books](https://www.wallace.ccfaculty.org/book/book.html) CC-BY
+5. [AOSA Books](https://aosabook.org/en/index.html) CC-BY
 Example of the books:
   1. 500 Lines or Less
   2. The Performance of Open Source Applications

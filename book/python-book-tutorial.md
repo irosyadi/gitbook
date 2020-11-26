@@ -54,22 +54,22 @@ draft: false
 
 ### CC-BY-NC Python Books
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) License: CC-BY-NC
-- [Think Stats](http://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
-- [Think Bayes](http://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
-- [Think DSP](http://greenteapress.com/thinkdsp/html/index.html) License: CC-BY-NC
-- [Think Complexity](http://greenteapress.com/complexity2/html/index.html) License: CC BY-NC
+- [Think Stats](https://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
+- [Think Bayes](https://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
+- [Think DSP](https://greenteapress.com/thinkdsp/html/index.html) License: CC-BY-NC
+- [Think Complexity](https://greenteapress.com/complexity2/html/index.html) License: CC BY-NC
 - [Modeling Simulation in Python](https://github.com/AllenDowney/ModSimPy) License: CC-BY-NC
 - [Physical Modeling in Matlab](https://github.com/AllenDowney/PhysicalModelingInMatlab) License: CC-BY-NC
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/) License: CC-BY-NC
-- [Invent with Python](http://inventwithpython.com/invent4thed/) LIcense: CC-BY-NC
+- [Invent with Python](https://inventwithpython.com/invent4thed/) LIcense: CC-BY-NC
 - [Making Games with Python and PyGame](https://inventwithpython.com/pygame/) License: CC-BY-NC
 - [Practical into Python Programming](https://www.brianheinold.net/python/python_book.html) License: CC-BY-NC
-- [Hands on Python Tutorial](http://anh.cs.luc.edu/handsonPythonTutorial/ch-html) License: CC-BY-NC
+- [Hands on Python Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial/ch-html) License: CC-BY-NC
 
 ### CC-BY-NC-ND Python Books
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) License: CC-BY-NC-ND
-- [Introduction to Computer Networks](http://intronetworks.cs.luc.edu/current/html/) License: CC-BY-NC-ND
-- [Programming Computer Vision Python](http://programmingcomputervision.com/) License: CC-BY-NC-ND
+- [Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current/html/) License: CC-BY-NC-ND
+- [Programming Computer Vision Python](https://programmingcomputervision.com/) License: CC-BY-NC-ND
 - [MIT Programming with Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) License: CC-BY-NC
 - [Bayesian Methods for Statistical Analysis](https://press.anu.edu.au/publications/bayesian-methods-statistical-analysis) License: CC-BY-NC-ND [Alternative](https://library.oapen.org/handle/20.500.12657/32424)
 

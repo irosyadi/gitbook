@@ -22,6 +22,8 @@ draft: false
 - [Kaggle Notes](https://www.kaggle.com/getting-started/102365)
 - [Vkosuri Notes](https://vkosuri.github.io/CourseraMachineLearning/#programming-exercise-tutorials) : ppt, pdf, course, errata notes, [Github Repo](https://github.com/vkosuri/CourseraMachineLearning/tree/master/home)
 - [Danlu Zhang](https://danluzhang.com/2020/05/03/machine-learning-andrew-ng-notes/) : review by Danlu Zhang
+- [CSEAV](https://cseav.blogspot.com/)
+- [Stanford](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning) : quiz discussion
 
 ## Suplementary Codes
 - [Fengdu78](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : ppt, code in python (ipynb)
@@ -42,7 +44,7 @@ draft: false
 - [Week 1 by danluzhang](https://danluzhang.com/wp-content/uploads/2020/05/Notes-on-Machine-Learning_Andrew-Ng_Week-1-5-3-2020.pdf)
 - [01 and 02: Introduction, Regression Analysis and Gradient Descent by Holehouse](https://www.holehouse.org/mlclass/01_02_Introduction_regression_analysis_and_gr.html)
 - [03: Linear Algebra - review by Holehouse](https://www.holehouse.org/mlclass/03_Linear_algebra_review.html)
-- [adit.io: Linear Regression](http://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
+- [adit.io: Linear Regression](https://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
 
 ### Week 2:
 - Linear regression with multiple variables - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/lectures/pdf/Lecture4.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/lectures/ppt/Lecture4.pptx)
@@ -62,7 +64,7 @@ draft: false
 - [Lecture Notes](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/lectures/notes.pdf)
 - [Errata](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/errata.pdf)
 - [Program Exercise Notes](https://vkosuri.github.io/home/week-3/exercises/Programming%20Ex.2.pdf)
-- [adit.io: Logistic Regression](http://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
+- [adit.io: Logistic Regression](https://adit.io/posts/2016-03-13-Logistic-Regression.html#non-linear-classification)
 - [Week 3 by danluzhang](https://danluzhang.com/wp-content/uploads/2020/05/Notes-on-Machine-Learning_Andrew-Ng_Week-3-5-4-2020.pdf)
 - [06: Logistic Regression by Holehouse](https://www.holehouse.org/mlclass/06_Logistic_Regression.html)
 - [07: Regularization by Holehouse](https://www.holehouse.org/mlclass/07_Regularization.html)
@@ -147,14 +149,23 @@ draft: false
 - [Octave Examples](https://vkosuri.github.io/CourseraMachineLearning/extra/octave_session.m)
 
 ## Machine Learning Online E Books
-- [Introduction to Machine Learning by Nils J. Nilsson](https://vkosuri.github.io/CourseraMachineLearning/robotics.stanford.edu/~nilsson/MLBOOK.pdf)
-- [Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan](http://alex.smola.org/drafts/thebook.pdf)
-- [Introduction to Data Science by Jeffrey Stanton](http://surface.syr.edu/cgi/viewcontent.cgi?article=1165&context=istpub)
-- [Bayesian Reasoning and Machine Learning by David Barber](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online)
-- [Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David](http://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
-- [Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
-- [Pattern Recognition and Machine Learning, by Christopher M. Bishop](http://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf)
+- [Introduction to Machine Learning by Nils J. Nilsson](https://ai.stanford.edu/~nilsson/mlbook.html) free
+- [Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan](https://alex.smola.org/drafts/thebook.pdf) free
+- [Introduction to Data Science by Jeffrey Stanton](https://surface.syr.edu/cgi/viewcontent.cgi?article=1165&context=istpub) free
+- [Bayesian Reasoning and Machine Learning by David Barber](https://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.Online) free
+- [Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) free
+- [Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman](https://statweb.stanford.edu/~tibs/ElemStatLearn/) free
+- [Pattern Recognition and Machine Learning, by Christopher M. Bishop](https://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) free, used
+- Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch
+Jason Brownlee, proprietary, used
+- [Course in Machine Learning](https://ciml.info/) free, used
 
+## Machine Learning Tutorial
+- [Trekhleb](https://github.com/trekhleb/machine-learning-octave) Machine Learning with Octave, free, used
+- [Trekhleb](https://github.com/trekhleb/homemade-machine-learning) Machine Learning with Python, free, used
+- [Trekhleb](https://github.com/trekhleb/machine-learning-experiments) Deep Learning with Python, free, used
+- [Tutorials Point: Machine Learning with Python](https://www.tutorialspoint.com/machine_learning_with_python/), used
+- [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) free, used
 
 ## Machine Learning Youtube
 - [StatQuest with Josh Stamer](https://www.youtube.com/c/joshstarmer/playlists)

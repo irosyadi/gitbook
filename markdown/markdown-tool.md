@@ -18,7 +18,7 @@ draft: false
 - [Markdown Live Preview](https://markdownlivepreview.com/)
 - [Dilinger](https://dillinger.io/)
 - [Stackedit](https://stackedit.io/)
-- [TMPVar](http://tmpvar.com/markdown.html)
+- [TMPVar](https://tmpvar.com/markdown.html)
 - [Markdown-it demo](https://markdown-it.github.io/)
 - [Markdown Here](https://markdown-here.com/livedemo.html)
 - [Dingus](https://daringfireball.net/projects/markdown/dingus)
@@ -95,7 +95,7 @@ List at [wiki](https://www.wikiwand.com/en/Lightweight_markup_language)
 - .creole [Creole](https://github.com/larsch/creole)
 - .mediawiki, .wiki
 - .rst
-- .asciidoc, .adoc, .asc [asciidoctor](http://asciidoctor.org) [guide](https://asciidoctor.org/docs/asciidoc-writers-guide/) or this [guide](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
+- .asciidoc, .adoc, .asc [asciidoctor](https://asciidoctor.org) [guide](https://asciidoctor.org/docs/asciidoc-writers-guide/) or this [guide](https://asciidoctor.org/docs/asciidoc-syntax-quick-reference/)
 - .pod
 
 ## Comparison

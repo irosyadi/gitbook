@@ -25,24 +25,24 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 ## Journal
 - [Raven](https://nava.org/raven-a-journal-of-vexillology/) 
 - [Flag Research Quarterly](https://nava.org/flag-research-quarterly/) 
-- [Flags in Context: A Discussion of Design, Genre, and Aesthetics by Perry Dane](http://nava.org/digital-library/raven/Raven_v15_2008_p043-080.pdf)
+- [Flags in Context: A Discussion of Design, Genre, and Aesthetics by Perry Dane](https://nava.org/digital-library/raven/Raven_v15_2008_p043-080.pdf)
 
 ## Web
 - [r/vexillology](https://old.reddit.com/r/vexillology/)
 - [FIAV](https://fiav.org/)
-- [Fun with Flags](http://publish.uwo.ca/~cwils92/funwithflags/index.html)
+- [Fun with Flags](https://publish.uwo.ca/~cwils92/funwithflags/index.html)
 - [NAVA](https://nava.org/)
 - [Flag Waver](https://loderunner.github.io/flagwaver/)
 - [Flag of the World](https://www.crwflags.com/fotw/flags/)
 - [Flag Locker](https://flaglocker.org/page/contests)
-- [Vexilla Mundi](http://www.vexilla-mundi.com/)
-- [All Flags World](http://www.all-flags-world.com/)
+- [Vexilla Mundi](https://www.vexilla-mundi.com/)
+- [All Flags World](https://www.all-flags-world.com/)
 
 ## Dataset
-- [Flags](http://www.flags.net/)
+- [Flags](https://www.flags.net/)
 - [Wikipedia Flag](https://data.world/pbi/country-flag-database-from-wikipedia)
 - [UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Flags)
-- [Country Flags](http://hjnilsson.github.io/country-flags/) [Github](https://github.com/hjnilsson/country-flags)
+- [Country Flags](https://hjnilsson.github.io/country-flags/) [Github](https://github.com/hjnilsson/country-flags)
 - [Country Flags #2](https://cristiroma.github.io/countries/) [Github](https://github.com/cristiroma/countries)
 - [Kaggle](https://www.kaggle.com/skrzym/world-flags)
 - [Wikipedia List of Flags](https://www.wikiwand.com/en/Lists_of_flags)

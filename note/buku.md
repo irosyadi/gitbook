@@ -12,7 +12,7 @@ draft: false
 # Kategorisasi Buku untuk Dosen
 
 ## Buku Referensi (Reference Book)
-- [Reference Book](http://www.lisbdnet.com/reference-book-its-characteristics-and/)
+- [Reference Book](https://www.lisbdnet.com/reference-book-its-characteristics-and/)
 - [Reference Work](https://www.wikiwand.com/en/Reference_work)
 
 Menurut DIKTI:  

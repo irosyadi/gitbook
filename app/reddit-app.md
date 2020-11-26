@@ -16,16 +16,16 @@ draft: false
 
 ## Reddit Alternative Frontends
 - [Reddit Premii](https://reddit.premii.com/)
-- [Reditr](http://reditr.com/) or [Reddit6](http://reddit6.com/#/Stream)
-- [Uforio](http://web.uforio.com/)
+- [Reditr](https://reditr.com/) or [Reddit6](https://reddit6.com/#/Stream)
+- [Uforio](https://web.uforio.com/)
 - [Serializer.io](https://serializer.io/)
 - [Rdddeck](https://rdddeck.com/)
-- [Scrolldit](http://www.scrolldit.com/)
+- [Scrolldit](https://www.scrolldit.com/)
 
 ## Reddit Images Frontends
 - [Reddpics](https://reddpics.com/)
 - [Redditp](https://www.redditp.com/)
-- [RIB](http://rib.darkmirage.com/)*
+- [RIB](https://rib.darkmirage.com/)*
 - [danb](https://danb.me/viewr/)*
 - [Scroller](https://scrolller.com/)
 - [Redditgrid](https://www.redditgrid.com/)
@@ -34,7 +34,7 @@ draft: false
 - [Subredd](https://www.subredd.com)
 
 ## Reddit Videos Frontends
-- [Reddit TV](http://redditv.ca/)
+- [Reddit TV](https://redditv.ca/)
 - [Slash Videos](https://arbazsiddiqui.github.io/rSlashVideos/)
 - [Viddit](https://viddit.app/)
 - [Redditvids](https://redditvids.com/)

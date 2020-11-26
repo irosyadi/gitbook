@@ -14,11 +14,11 @@ draft: false
 Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While unicode is important work, it has some kind messy structure. That's why we have punycode.
 
 ## Unicode List
-- [Unicode Charts](http://www.unicode.org/charts/) formal unicode chart (in PDF)
+- [Unicode Charts](https://www.unicode.org/charts/) formal unicode chart (in PDF)
 - [Unicode Blocks](https://www.fileformat.info/info/unicode/block/index.htm)
 
 ## Unicode Font
-- [Unifont ](http://unifoundry.com/unifont/index.html), font for all existing unicode
+- [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing unicode
 
 ## Unicode Search
 - [Unicode Search](https://unicodelookup.com/)
@@ -30,7 +30,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 
 ## Emoji
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
-- [Kaomoji Japanese Emoticons](http://japaneseemoticons.me/) : Kaomoji, the Japanese emoticons
+- [Kaomoji Japanese Emoticons](https://japaneseemoticons.me/) : Kaomoji, the Japanese emoticons
 (ノಠ益ಠ)ノ彡┻━┻ : angry table flip
 
 ## Unicode Tools
@@ -70,7 +70,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Unicode in five minutes (2013)](https://richardjharris.github.io/unicode-in-five-minutes.html)
 - [Unicode support. What does that actually mean?](https://boyter.org/posts/unicode-support-what-does-that-actually-mean/)
 - [Introduction about Unicode](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
-- [Character Encoding](http://ifyoulived.org/fuzzy/#The%20fuzzy%20edges%20of%20character%20encoding)
+- [Character Encoding](https://ifyoulived.org/fuzzy/#The%20fuzzy%20edges%20of%20character%20encoding)
 - [Awesome Unicode](https://eng.getwisdom.io/awesome-unicode/)
 - [Hacking with Unicode](https://eng.getwisdom.io/hacking-github-with-unicode-dotless-i/)
 - [Better Explained](https://betterexplained.com/articles/unicode/)

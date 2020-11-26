@@ -30,7 +30,7 @@ draft: false
 - SAS Planet
 
 ## Indonesia Landcover Maps
-- [Kementerian LHK](http://geoportal.menlhk.go.id/arcgis/rest/services)
+- [Kementerian LHK](https://geoportal.menlhk.go.id/arcgis/rest/services)
 
 ## Open Source GIS Tools
 - [History of Open Source GIS](https://makepath.com/history-of-open-source-gis/)

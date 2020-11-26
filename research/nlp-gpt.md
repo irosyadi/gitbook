@@ -13,7 +13,7 @@ draft: false
 
 ## GPT-2
 - [How to GPT-2](https://minimaxir.com/2019/09/howto-gpt2/)
-- [GPT-2 Visual Explanation](http://jalammar.github.io/illustrated-gpt2/)
+- [GPT-2 Visual Explanation](https://jalammar.github.io/illustrated-gpt2/)
 - [How To GPT-2 in your Computer](https://lambdalabs.com/blog/run-openais-new-gpt-2-text-generator-code-with-your-gpu/)
 - [GPT-2 Twitter Bot](https://towardsdatascience.com/how-to-make-a-gpt2-twitter-bot-8669df60e60a)
 - [GPT-2 Poetry](https://www.gwern.net/GPT-2)

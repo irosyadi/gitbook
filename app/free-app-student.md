@@ -12,7 +12,7 @@ draft: false
 # Free Apps for Students
 
 ## Free Student Software List
-- [Free Student Software](http://freestudentsoftware.com/) - dead
+- [Free Student Software](https://freestudentsoftware.com/) - dead
 - [Free Software for Student](https://onthehub.com/product-category/free-software/)
 - [Software 4 Students](https://www.software4students.co.uk/)
 - [Capiche Student Discounts](https://capiche.com/e/student-software-discounts) - updated

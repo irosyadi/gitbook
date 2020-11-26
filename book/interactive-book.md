@@ -11,7 +11,7 @@ draft: false
 
 # List of Interactive Books
 
-- [Immersive Math Linear Algebra](http://immersivemath.com/ila/index.html)
+- [Immersive Math Linear Algebra](https://immersivemath.com/ila/index.html)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [Think Scipy](https://runestone.academy/runestone/books/published/thinkcspy/index.html)
 - [Mathigon](https://mathigon.org/)

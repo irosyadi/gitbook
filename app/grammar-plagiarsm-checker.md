@@ -12,7 +12,7 @@ draft: false
 # Grammar and Plagiarsm Checker
 
 ## Web Based Grammar Checkers
-- [Hemingway](http://www.hemingwayapp.com/) : Free web based app, spellchecker with style and readability grading.
+- [Hemingway](https://www.hemingwayapp.com/) : Free web based app, spellchecker with style and readability grading.
 - [Writefull ](https://writefull.com/) : Free web based and desktop app. Corrects grammar, vocabulary, punctuation, and more - aimed specifically at academic writing. 
 - [Ginger](https://www.gingersoftware.com/grammarcheck)
 - [Language Tool](https://languagetool.org/)
@@ -30,6 +30,6 @@ draft: false
 ## Web Based Plagiarism Checkers
 - [Plagiarsm Detector](https://plagiarismdetector.net/)
 - [Duplichecker](https://www.duplichecker.com/)
-- [Chektext](http://www.checktext.org/)
+- [Chektext](https://www.checktext.org/)
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)

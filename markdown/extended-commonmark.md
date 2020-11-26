@@ -20,7 +20,7 @@ draft: false
 
 Direct Link is not common mark
 
-http://example.com/
+https://example.com/
 fake@example.com
 
 ## 2.12. Abbreviations
@@ -656,12 +656,12 @@ Support: Markdown-t, marked,Parsedown , GFM, Fatdown, showdown
 
 **Markdown;
 
-http://example.com/
+https://example.com/
 
 fake@example.com
 
 HTML:
-<p><a href="http://example.com/">http://example.com/</a></p>
+<p><a href="https://example.com/">https://example.com/</a></p>
 <p><a href="mailto:fake@example.com">fake@example.com</a></p>
 
 

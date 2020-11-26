@@ -14,7 +14,7 @@ draft: false
 ## Free Jupyter Notebook Server
 - [try.jupyter.org](https://jupyter.org/try)
 - [MyBinder](https://mybinder.org/)
-- [Google Colaboratory (Colab)](http://colab.research.google.com/)
+- [Google Colaboratory (Colab)](https://colab.research.google.com/)
 - [Jovian](https://www.jovian.ai/) Online Jupyter notebook
 - [Starboard](https://starboard.gg/)
 - [Deepnote](https://deepnote.com/)
@@ -23,7 +23,7 @@ draft: false
 - [Microsoft Azure Notebooks](https://notebooks.azure.com/) : defunct
 - [CoCalc](https://cocalc.com/)
 - [Datalore](https://datalore.io/)
-- [Sciserver](http://www.sciserver.org/)
+- [Sciserver](https://www.sciserver.org/)
 - [Paiza Cloud](https://paiza.cloud/en/)
 - [Paperspace Gradient](https://gradient.paperspace.com/)
 - [Domino Datalab](https://www.dominodatalab.com/)

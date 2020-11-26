@@ -11,4 +11,4 @@ draft: false
 
 # Instrumentation
 
-- [Socratic Instrumentation](http://www.ibiblio.org/kuphaldt/socratic/sinst/)
+- [Socratic Instrumentation](https://www.ibiblio.org/kuphaldt/socratic/sinst/)
