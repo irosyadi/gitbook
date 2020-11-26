@@ -40,6 +40,9 @@ draft: false
 - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
 - [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums's search
 
+## Hacker News Tools
+- [Shown HN List](https://showhn-dashboard.netlify.app/)
+
 ## Alternative to Hacker News
 - [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/)
 - [Hubski](https://hubski.com/)
