@@ -25,6 +25,7 @@ Menurut DIKTI:
 - Diterbitkan oleh Badan Ilmiah/Organisasi/PT  
 - Bidang Penelitian, Angka Kredit Maksimal : 40, Batas Kepatutan : 1 buku/tahun  
 
+
 ## Monograph
 - [Seluk Beluk Buku Monograf](https://www.kompasiana.com/bambangtrim/5eaa554c097f36150669d492/antibingung-soal-buku-dan-angka-kredit-dosen?page=all)
 - [Buku menurut Dikti](https://civitas.uns.ac.id/masruralatas/2017/12/05/hyperlink-penulis-pemula/)
@@ -40,6 +41,10 @@ Menurut DIKTI:
 
 Catatan:
 - lazimnya adalah penulis tunggal  
+- substansi perbedaan monograf dan buku referensi
+    - esensi: monograf adalah peluasan dari penelitian
+    - sifat: buku referensi adalah bersifat referensi menyeluruh pada suatu topik/bidang ilmu tertentu
+    - halaman: biasanya halamannya lebih tebal (ratusan)
 
 ## Buku Ajar
 

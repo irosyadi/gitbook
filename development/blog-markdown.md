@@ -75,7 +75,6 @@ __This is bold text__
 *This is italic text*  
 _This is italic text_  
 This text is ___really important___  
-This is **bold***italic* text  
 ```
 
 ***display***
@@ -85,7 +84,6 @@ __This is bold text__
 *This is italic text*  
 _This is italic text_  
 This text is ___really important___  
-This is **bold***italic* text  
 
 ## 5. Blockquotes
 
@@ -414,7 +412,7 @@ This **word** is bold. This <em>word</em> is italic.
 This item **bold red**{style="color:red"} didn't work in Gitbook  
 ```
 
-**display**
+**display***
 
 This **word** is bold. This <em>word</em> is italic.  
 This item <strong style="color:red;">bold red</strong> didn't work in Gitbook  
@@ -432,7 +430,7 @@ ___
 but only one worked for Gitbook
 ```
 
-**display**
+**display***
 
 ___
 
@@ -533,7 +531,7 @@ puts markdown.to_html
 | Paragraph   | Text        | And more   |
 ```
 
-***display**
+***display***
 
 | Syntax                              | Description | Test Text is long |
 | :---------------------------------- | :---------: | ----------------: |
@@ -594,7 +592,7 @@ autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-, didn't work in Gatsby a
 superscript x^2^ and subscript H~2~O also didn't work in Gatsby and Gitbook.
 ```
 
-**display**
+***display***
 
 autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-, didn't work in Gatsby and Gitbook  
 superscript x^2^ and subscript H~2~O also didn't work in Gatsby and Gitbook.
@@ -606,8 +604,7 @@ superscript x^2^ and subscript H~2~O also didn't work in Gatsby and Gitbook.
 ```md
 &copy; &  &uml; &trade; &iexcl; &pound;  
 &amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot;  
-&#124;  
-x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;  
+x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;  
 18&ordm;C  &quot;  &apos;
 ```
 
@@ -615,8 +612,7 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 &copy; &  &uml; &trade; &iexcl; &pound;  
 &amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot;  
-&#124;  
-x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;  
+x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;  
 18&ordm;C  &quot;  &apos;
 
 ---
@@ -636,7 +632,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ***display***
 
 Equation with one dollar sign $E=mc^2$ works in Gatsby but not in Gitbook.
-In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in Gatsby.
+In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in VNote.
 
 But for new line equation, it work well with two dollar sign.
 
@@ -647,6 +643,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ***markdown***
 ```md
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
+
 [^1]: This is the first footnote, in Gitbook, there is no new line between.  
 [^bignote]: Here's another one.  
 [^withcode]: `code` or code in paragraphs  
@@ -655,6 +652,7 @@ Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode
 ***display***
 
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
-[^1]: This is the first footnote, in Gitbook, there is no new line between.  
+
+[^1]: This is the first footnote, in Gitbook, there some problems.  
 [^bignote]: Here's another one.  
 [^withcode]: `code` or code in paragraphs  
