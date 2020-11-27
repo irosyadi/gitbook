@@ -54,14 +54,14 @@ This is the second paragraph
 ***markdown***
 
 ```md
-This is the first line. 
+This is the first line.  
 And this is the second line.<br>
 And finally this is the last line.
 ```
 
 ***display***
 
-This is the first line. 
+This is the first line.  
 And this is the second line.<br>
 And finally this is the last line.
 
@@ -70,22 +70,22 @@ And finally this is the last line.
 ***markdown***
 
 ```md
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-This text is ___really important___
-This is **bold***italic* text
+**This is bold text**  
+__This is bold text__  
+*This is italic text*  
+_This is italic text_  
+This text is ___really important___  
+This is **bold***italic* text  
 ```
 
 ***display***
 
-**This is bold text**
-__This is bold text__
-*This is italic text*
-_This is italic text_
-This text is ___really important___
-This is **bold***italic* text
+**This is bold text**  
+__This is bold text__  
+*This is italic text*  
+_This is italic text_  
+This text is ___really important___  
+This is **bold***italic* text  
 
 ## 5. Blockquotes
 
@@ -217,9 +217,7 @@ Notice that there are two spaces at the end above to make a new text under item.
 ***display***
 
 * To add another element in a list while preserving the continuity of the list...
-* indent the element four spaces
-     like this
-* ...or add blank lines in between
+* add blank lines in between
 
     I need to add another paragraph below the second list item.
 
@@ -237,18 +235,16 @@ Notice that there are two spaces at the end above to make a new text under item.
 
    ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 3. Tux is is really cool.
-4. For text element in ordered list, add five spaces.
-     I need to add another paragraph below the second list item.
-5. For quote in ordered list, add five spaces.
+4. For quote in ordered list, add five spaces.
      > A blockquote would look great below the second list item.
-6.  But, for code blocks in the lists, add eight spaces or two tabs:
+5.  But, for code blocks in the lists, add eight spaces or two tabs:
 
         <html>
           <head>
             <title>Test</title>
           </head>
 
-7.  So okay for now
+6.  So okay for now
 ```
 
 ***display***
@@ -258,18 +254,16 @@ Notice that there are two spaces at the end above to make a new text under item.
 
     ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
 3. Tux is really cool.
-4. For text element in ordered list, add five spaces.
-     I need to add another paragraph below the second list item.
-5. For quote in ordered list, add five spaces.
+4. For quote in ordered list, add five spaces.
      > A blockquote would look great below the second list item.
-6.  But, for code blocks in the lists, add eight spaces or two tabs:
+5.  But, for code blocks in the lists, add eight spaces or two tabs:
 
         <html>
           <head>
             <title>Test</title>
           </head>
 
-7.  So okay for now
+6.  So okay for now
 
 ## 8. Code
 
@@ -286,24 +280,20 @@ This is inline `code`.
 ***markdown***
 
 ```md
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // add four spaces before for code
+    like this
 ```
 ***display***
 
-    // Some comments
-    line 1 of code
-    line 2 of code
-    line 3 of code
+    // add four spaces before for code
+    like this
 
 ***markdown***
 
 ```md
     <html>
       <head>
-        <title>Test</title>
+        <title>HTML code with four spaces</title>
       </head>
 ```
 
@@ -311,7 +301,7 @@ This is inline `code`.
 
     <html>
       <head>
-        <title>Test</title>
+        <title>HTML code with four spaces</title>
       </head>
 
 ## 9. Links
@@ -322,9 +312,9 @@ This is inline `code`.
 This is [link](https://example.com/)  
 This is [link with title](https://example.com/ "title text!")
 https://example.com/  
-fake@example.com  
 <https://www.markdownguide.org>  
-<fake@example.com>  
+fake@example.com didn't work in Gatsby and Gitbook  
+<fake@example.com> worked  
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
@@ -338,9 +328,9 @@ example [without %20](https://www.example.com/my great page)
 This is [link](https://example.com/)  
 This is [link with title](https://example.com/ "title text!")
 https://example.com/  
-fake@example.com  
 <https://www.markdownguide.org>  
-<fake@example.com>  
+fake@example.com didn't work in Gatsby and Gitbook  
+<fake@example.com> worked  
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
@@ -421,13 +411,13 @@ It doesn't have [hobbit-hole][hh].
 
 ```md
 This **word** is bold. This <em>word</em> is italic.  
-This item **bold red**{style="color:red"}  
+This item **bold red**{style="color:red"} didn't work in Gitbook  
 ```
 
 **display**
 
 This **word** is bold. This <em>word</em> is italic.  
-This item <strong style="color:red;">bold red</strong>  
+This item <strong style="color:red;">bold red</strong> didn't work in Gitbook  
 
 ## 14. Horizontal Rules
 
@@ -438,6 +428,8 @@ ___
 ---
 
 ***
+
+but only one worked for Gitbook
 ```
 
 **display**
@@ -448,6 +440,7 @@ ___
 
 ***
 
+but only one worked for Gitbook
 
 ## 15. Heading ID
 
@@ -457,6 +450,8 @@ ___
 ### My Great Heading {#heading-ids}
 
 Link to [Heading IDs](#heading-ids)
+
+unfortunately didn't work for Gatsby
 ```
 
 ***display***
@@ -465,11 +460,12 @@ Link to [Heading IDs](#heading-ids)
 
 Link to [Heading IDs](#heading-ids)
 
+unfortunately didn't work for Gatsby
+
 ## 16. Code Fencing and Highlighting
 
 ***markdown***
 
-```
     ```
     This is a fenced code block.
     ```
@@ -495,7 +491,7 @@ Link to [Heading IDs](#heading-ids)
     markdown = Redcarpet.new("ruby syntax highlighting")
     puts markdown.to_html
     ```
-```
+
 
 ***display***
 
@@ -630,7 +626,9 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo;
 
 ```
 Equation with one dollar sign $E=mc^2$ works in Gatsby but not in Gitbook.
-In Gitbook, it should be with two dollar sign in new line.
+In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in Gatsby.
+
+But for new line equation, it work well with two dollar sign.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ```
@@ -638,7 +636,9 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ***display***
 
 Equation with one dollar sign $E=mc^2$ works in Gatsby but not in Gitbook.
-In Gitbook, it should be with two dollar sign in new line.
+In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in Gatsby.
+
+But for new line equation, it work well with two dollar sign.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
@@ -646,17 +646,15 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
 ***markdown***
 ```md
-Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]
-
-[^1]: This is the first footnote.  
-[^bignote]: Here's one with multiple paragraphs.  
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
+[^1]: This is the first footnote, in Gitbook, there is no new line between.  
+[^bignote]: Here's another one.  
 [^withcode]: `code` or code in paragraphs  
 ```
 
 ***display***
 
-Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]
-
-[^1]: This is the first footnote.  
-[^bignote]: Here's one with multiple paragraphs.  
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
+[^1]: This is the first footnote, in Gitbook, there is no new line between.  
+[^bignote]: Here's another one.  
 [^withcode]: `code` or code in paragraphs  
