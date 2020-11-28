@@ -53,6 +53,7 @@ draft: false
 - [nbinteract](https://www.nbinteract.com/) :  Python package that provides a command-line tool to generate interactive web pages from Jupyter notebooks
 - [Jupyterhub](https://github.com/jupyterhub/jupyterhub) : Multi-user server for Jupyter notebooks 
 - [List Jupyter Extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
+- [IPyCanvas](https://github.com/martinRenou/ipycanvas) : draw over Jupyter Notebook
 
 ## Alternative to Jupyter Notebook (Reactive Notebook)
 - [Starboard](https://starboard.gg/) Javascript Notebooks (client side)

@@ -18,11 +18,20 @@ draft: false
 1. [Photopea](https://www.photopea.com/)
 2. [Image Online](https://imageonline.co/) Online Image Manipulation
 
-
 ## Raw Processing
 - [Rawtherapee](https://rawtherapee.com/)
 - [Darktable](https://www.darktable.org/)
 
 ## Offline
 1. GIMP
-2. 
+
+## Background Removal
+- [Remove BG](https://www.remove.bg/) : remove background with AI
+- [Erase BG](https://erase.bg/) : remove background with AI
+
+## Image Forensic
+- [Fotoforensic](http://fotoforensics.com/)
+
+## Fast Converter
+- [Vector Magic](https://vectormagic.com/) image to vector (convert JPG, PNG, BMP, and GIF bitmap images to true SVG, EPS, and PDF vector images)
+- 

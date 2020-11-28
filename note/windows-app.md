@@ -1,15 +1,15 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Windows App
+title:  Awesome Windows Apps
 date: 2020-08-05 20:34:24
 path: /note
 category: note
-tags: list windows app
+tags: awesome windows app
 draft: false
 ---
 
-# List of Windows App
+# Awesome Windows Apps
 
 This is list of awesome apps for Windows 10.
 
@@ -19,6 +19,8 @@ This is list of awesome apps for Windows 10.
 - FileMenu Tools : file menu tools
 - TreeSize : file, folder, drive mapper
 - QTTabbar : tab extension for file explorer
+- FormatFactory : file converter
+- WinMerge : file folder comparison
 
 ## File Sync
 - SyncFolder : file folder sync
@@ -38,17 +40,17 @@ This is list of awesome apps for Windows 10.
 
 ## Image Photo Editor Converter
 - paint.net : image editor (free, complete)
-- Photopad Image Editor : image editor (free home use, quick for simple editing)
 - Pixillion Image Converter : image converter
 - ImageMagick : image processing library
+- Picosmos Tools : image editor (quick and complete for simple editing)
 
 ## Video Conference
 - Skype* : messaging, video conference
 - Zoom* : video conference
 
 ## Remote Desktop
-- Teamviewer : remote desktop
-- Chrome Remote Desktop : chrome based remote desktop
+- Teamviewer : remote desktop (native app)
+- Chrome Remote Desktop : chrome based remote desktop (browser based)
 
 ## Visualization
 - Microsoft PowerBI Desktop
@@ -63,13 +65,12 @@ This is list of awesome apps for Windows 10.
 - Handbrake : video converter
 - kdenlive : video editor
 - HitFilm Express* : video editor (complete editing)
-- VideoPad Video Editor : video editor (simple editing)
 
 ## File Search
 - Agent Ransack : file content search
 - DocFetcher : file content search
 - Everything : file search
-- Listary : file search
+- Listary : file search (embedded in Windows Explorer)
 
 ## Music and Audio
 - AIMP : music audio player
@@ -90,10 +91,10 @@ This is list of awesome apps for Windows 10.
 
 ## Hand Writing
 - Microsoft Whiteboard
-- Xournal++
+- Xournal++ : notetaking and PDF annotation tool
 - Microsoft Font Maker : convert hand writing to font
-- gInk : desktop hand writing
-- livedraw : desktop hand writing
+- gInk : desktop hand writing (portable)
+- livedraw : desktop hand writing (portable)
 
 ## Note Taking
 - Notepad++ : note taking, text editor

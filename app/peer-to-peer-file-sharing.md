@@ -18,6 +18,7 @@ draft: false
 - [SSAVR](https://www.ssavr.com/) - Local web based P2P text and file transfer
 - [Send Anywhere](https://send-anywhere.com/)
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Local P2P file transfer
+- [Toffeeshare](https://toffeeshare.com/) - Local P2P file transfer
 
 ## Cloud based Peer to Peer File Sharing - Transfer
 - [Jirafeu](https://jirafeau.net/) [github ](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer
@@ -26,4 +27,5 @@ draft: false
 - [Magic Wormhole](https://github.com/psanford/wormhole-william)
 - [Croc](https://github.com/schollz/croc)
 - [helloele](https://github.com/prakis/helloele)
+
 

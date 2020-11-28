@@ -412,7 +412,7 @@ This **word** is bold. This <em>word</em> is italic.
 This item **bold red**{style="color:red"} didn't work in Gitbook  
 ```
 
-**display***
+***display***
 
 This **word** is bold. This <em>word</em> is italic.  
 This item <strong style="color:red;">bold red</strong> didn't work in Gitbook  
@@ -427,10 +427,10 @@ ___
 
 ***
 
-but only one worked for Gitbook
+but only didn't work for Gitbook
 ```
 
-**display***
+***display***
 
 ___
 
@@ -438,7 +438,7 @@ ___
 
 ***
 
-but only one worked for Gitbook
+but only didn't work for Gitbook
 
 ## 15. Heading ID
 
@@ -651,7 +651,7 @@ Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode
 
 ***display***
 
-Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
+Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]. But there is problem with Gitbook for footnote.
 
 [^1]: This is the first footnote, in Gitbook, there some problems.  
 [^bignote]: Here's another one.  

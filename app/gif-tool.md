@@ -13,8 +13,11 @@ List of GIF tools.
 
 # GIF Tools
 
-## How to pronounce gif?
+## How to pronounce gif?'
 *jif* (period).
+
+## GIF Editor
+- [Ezgif](https://ezgif.com/) Online gif editor and converter
 
 ## GIF-Search Engine
 1. Giphy, owned by Facebook
