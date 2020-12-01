@@ -64,7 +64,53 @@ alert-dark
   <i class="fas fa-warning-circle"></i> <strong>alert-warning</strong>
 </div>
 
-### Alert in HTML without jquery
+### Alert in HTML with Simple CSS
+
+ <div class="danger">
+  <p><strong>Danger!</strong> Some text...</p>
+</div> 
+
+<div class="success">
+  <p><strong>Success!</strong> Some text...</p>
+</div>
+
+<div class="info">
+  <p><strong>Info!</strong> Some text...</p>
+</div>
+
+<div class="warning">
+  <p><strong>Warning!</strong> Some text...</p>
+</div>
+
+<style>
+div {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+}
+
+.danger {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
+.success {
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+
+.warning {
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
+</style>
+
+### Alert in HTML with Complex CSS
 
 <div class=NOTE></div>
 
@@ -105,6 +151,8 @@ display: inline;
 }
 </style>
 
+
+
 ### Alert with Quote
 
 > ⚠️ **If you are using mobile browser**: Be very careful here!
@@ -143,30 +191,30 @@ display: inline;
 
 ## Alert Symbol List
 
-💬 speech
-🌏️ globe
-⭐️ star
-🚀 rocket
-👣 footprints
-⚓️ anchor
-🔥 fire
-🎯 target
-📌 pin
-⛔ stop
-‼️ double warning
-⁉️ question
-✔️ check mark
-❌ cross
-ℹ️ info
-📧 email
-🌐 web
+💬 speech  
+🌏️ globe  
+⭐️ star  
+🚀 rocket  
+👣 footprints  
+⚓️ anchor  
+🔥 fire  
+🎯 target  
+📌 pin  
+⛔ stop  
+‼️ double warning  
+⁉️ question  
+✔️ check mark  
+❌ cross  
+ℹ️ info  
+📧 email  
+🌐 web  
 
 ## HTML Playground
 
 ### Drop Down List
 
 <details>
-  <summary>List</summary>
+  <summary>Click this List</summary>
   <p>
     <ul>
       <li>irosyadi: https://irosyadi.netlify.app</li>
@@ -195,27 +243,33 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 ### Summary
 
 <details>
-  <summary>Term</summary>
+  <summary>Clik this Term</summary>
   <p>Term is explanation of something</p>
 </details>
 
 ### Text Manipulation
 
-<font color=red>red color</font>
-<mark>highlight</mark>
-<del>strikethrough</del> 
-<ins>underline</ins>
-<small>smaller text</small>
-H<sub>2</sub>O
-x<sup>2</sup>+y<sup>2</sup>=0
+<font color=red>red color</font>  
+<mark>highlight</mark>  
+<del>strikethrough</del>  
+<ins>underline</ins>  
+<small>smaller text</small>  
+H<sub>2</sub>O  
+x<sup>2</sup>+y<sup>2</sup>=0  
 Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
 
-### Button
+### Button and Dialog
 
-<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+<button type="button" onclick="alert('Halloo!')">Click Me!</button>
 
-### Dialog
 
-<dialog open>
+<button onclick="window.dialog.showModal();">⚠️ WARNING:</button>
+
+<dialog id="dialog">
   <p> <strong>⚠️ WARNING:</strong> Aliens are coming. <br> Be Careful </p>
+  <form method="dialog">
+    <button>close</button>
+  </form>
 </dialog>
+
+
