@@ -57,7 +57,7 @@ alert-dark
 </div>
 
 <div class="alert alert-info">
-  <i class="fas fa-info-circle"></i> <strong>alert-info</strong> 
+  <i class="fas fa-info-circle"></i> <strong>alert-info</strong>
 </div>
 
 <div class="alert alert-warning">
@@ -106,39 +106,64 @@ display: inline;
 </style>
 
 ### Alert with Quote
-> :warning: **If you are using mobile browser**: Be very careful here!
+
+> ⚠️ **If you are using mobile browser**: Be very careful here!
 
 > **WARNING**: Be careful, or else!
 
-> **⚠ WARNING: Aliens are coming.**
+
+> **⚠️ WARNING: Aliens are coming.**
 > > A description of the colour, smell and dangerous behaviour of the aliens.
 
 ### Alert with Table
 
-| WARNING: be careful to baz the quux before initializing the retro encabulator! |
-| ------------------------------------------------------------------------------ |
+| WARNING: be careful! |
+| -------------------- |
 
-| :exclamation:  This is very important |
-| ------------------------------------- |
+| ❗️  This is very important |
+| ------------------------- |
 
-| :zap:        Ignore at your own risk! |
-| ------------------------------------- |
+| ⚡️        Ignore at your own risk! |
+| ---------------------------------- |
 
-| :memo:        | Take note of this       |
+| 📝        | Take note of this       |
 |---------------|:------------------------|
 
-| :point_up:    | Remember to not forget! |
-|---------------|:------------------------|
+| ☝️  | Remember to not forget! |
+| --- | :---------------------- |
 
-| :warning: WARNING     |
+| ⚠️ WARNING            |
 | :-------------------- |
 | I should warn you ... |
 
-| :boom: DANGER              |
+| 💥 DANGER                  |
 | :------------------------- |
 | Will explode when clicked! |
 
-## Drop Down List
+
+## Alert Symbol List
+
+💬 speech
+🌏️ globe
+⭐️ star
+🚀 rocket
+👣 footprints
+⚓️ anchor
+🔥 fire
+🎯 target
+📌 pin
+⛔ stop
+‼️ double warning
+⁉️ question
+✔️ check mark
+❌ cross
+ℹ️ info
+📧 email
+🌐 web
+
+## HTML Playground
+
+### Drop Down List
 
 <details>
   <summary>List</summary>
@@ -152,64 +177,13 @@ display: inline;
 </details>
 
 
-## Abbreviations
-
-Markdown Syntax:
-``
-The "HTML" specification is maintained by the "W3C".
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-``
-
-HTML Syntax:
-``
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
-``
-
-Markdown Display:
-
-The "HTML" specification is maintained by the "W3C".
-*[HTML]: Hyper Text Markup Language
-*[W3C]: World Wide Web Consortium
-
-HTML Display:
+### Abbreviation
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
 
-## Definition Lists
+### Definition
 
-Markdown Syntax:
-```
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
-```
-
-HTML Syntax:
-```
-<dl>
-<dt>First Term</dt>
-<dd>This is the definition of the first term.</dd>
-<dt>Second Term</dt>
-<dd>This is one definition of the second term. </dd>
-<dd>This is another definition of the second term.</dd>
-</dl>
-```
-
-Markdown Display:
-
-First Term
-: This is the definition of the first term.
-
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
-
-HTML Display:
 <dl>
 <dt>First Term</dt>
 <dd>This is the definition of the first term.</dd>
@@ -218,8 +192,30 @@ HTML Display:
 <dd>This is another definition of the second term.</dd>
 </dl>
 
-## Text Color
+### Summary
 
-<strong style="color:red;">bold red</strong>
+<details>
+  <summary>Term</summary>
+  <p>Term is explanation of something</p>
+</details>
 
+### Text Manipulation
 
+<font color=red>red color</font>
+<mark>highlight</mark>
+<del>strikethrough</del> 
+<ins>underline</ins>
+<small>smaller text</small>
+H<sub>2</sub>O
+x<sup>2</sup>+y<sup>2</sup>=0
+Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
+
+### Button
+
+<button type="button" onclick="alert('Hello world!')">Click Me!</button>
+
+### Dialog
+
+<dialog open>
+  <p> <strong>⚠️ WARNING:</strong> Aliens are coming. <br> Be Careful </p>
+</dialog>

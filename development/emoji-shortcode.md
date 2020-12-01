@@ -940,123 +940,93 @@ draft: false
 
 ## Activities
 
-[![Emojibase](_v_images/20201130234540480_1946.svg)**Emojibase**](https://emojibase.dev/)
 
-v5.0.0
-
-[Docs](https://emojibase.dev/docs)[Emoji table](https://emojibase.dev/emojis)[Shortcodes table](https://emojibase.dev/shortcodes)
-
-[GitHub](https://github.com/milesj/emojibase)
-
-Emoji versions
-
-Unicode versions
-
-## Emoji table
-
-Annotation
-
-Locale
-
-GroupSubgroup
-
-  
-
-#### Display
-
- Genders? Skin tones?
-
-#### Shortcode presets
-
- CLDR CLDR (native) Emojibase Emojibase (legacy) GitHub IamCal (Slack) JoyPixels (Discord)
-
-|  | Annotation | Shortcodes | Tags |
-| --- | --- | --- | --- |
-| 84 emojis |
-| 🎃 | jack-o-lantern | :jack\_o\_lantern: | celebration, halloween, jack, lantern |
-| 🎄 | Christmas tree | :christmas_tree: | celebration, christmas, tree |
-| 🎆 | fireworks | :fireworks: | celebration |
-| 🎇 | sparkler | :sparkler: | celebration, fireworks, sparkle |
-| 🧨 | firecracker | :firecracker: | dynamite, explosive, fireworks |
-| ✨ | sparkles | :sparkles: | *, sparkle, star |
-| 🎈 | balloon | :balloon: | celebration |
-| 🎉 | party popper | :tada: | celebration, party, popper, tada |
-| 🎊 | confetti ball | :confetti_ball: | ball, celebration, confetti |
-| 🎋 | tanabata tree | :tanabata_tree: | banner, celebration, japanese, tree |
-| 🎍 | pine decoration | :bamboo: | bamboo, celebration, japanese, pine |
-| 🎎 | Japanese dolls | :dolls: | celebration, doll, festival, japanese, japanese dolls |
-| 🎏 | carp streamer | :flags: | carp, celebration, streamer |
-| 🎐 | wind chime | :wind_chime: | bell, celebration, chime, wind |
-| 🎑 | moon viewing ceremony | :rice_scene: | celebration, ceremony, moon |
-| 🧧 | red envelope | :red_envelope: | gift, good luck, hóngbāo, lai see, money |
-| 🎀 | ribbon | :ribbon: | celebration |
-| 🎁 | wrapped gift | :gift: | box, celebration, gift, present, wrapped |
-| 🎗️ | reminder ribbon | :reminder_ribbon: | celebration, reminder, ribbon |
-| 🎟️ | admission tickets | :tickets: | admission, ticket |
-| 🎫 | ticket | :ticket: | admission |
-| 🎖️ | military medal | :medal_military: | celebration, medal, military |
-| 🏆️ | trophy | :trophy: | prize |
-| 🏅 | sports medal | :medal_sports: | medal |
-| 🥇 | 1st place medal | :1st\_place\_medal: | first, gold, medal |
-| 🥈 | 2nd place medal | :2nd\_place\_medal: | medal, second, silver |
-| 🥉 | 3rd place medal | :3rd\_place\_medal: | bronze, medal, third |
-| ⚽️ | soccer ball | :soccer: | ball, football, soccer |
-| ⚾️ | baseball | :baseball: | ball |
-| 🥎 | softball | :softball: | ball, glove, underarm |
-| 🏀 | basketball | :basketball: | ball, hoop |
-| 🏐 | volleyball | :volleyball: | ball, game |
-| 🏈 | american football | :football: | american, ball, football |
-| 🏉 | rugby football | :rugby_football: | ball, football, rugby |
-| 🎾 | tennis | :tennis: | ball, racquet |
-| 🥏 | flying disc | :flying_disc: | ultimate |
-| 🎳 | bowling | :bowling: | ball, game |
-| 🏏 | cricket game | :cricket_game: | ball, bat, game |
-| 🏑 | field hockey | :field_hockey: | ball, field, game, hockey, stick |
-| 🏒 | ice hockey | :ice_hockey: | game, hockey, ice, puck, stick |
-| 🥍 | lacrosse | :lacrosse: | ball, goal, stick |
-| 🏓 | ping pong | :ping_pong: | ball, bat, game, paddle, table tennis |
-| 🏸 | badminton | :badminton: | birdie, game, racquet, shuttlecock |
-| 🥊 | boxing glove | :boxing_glove: | boxing, glove |
-| 🥋 | martial arts uniform | :martial\_arts\_uniform: | judo, karate, martial arts, taekwondo, uniform |
-| 🥅 | goal net | :goal_net: | goal, net |
-| ⛳️ | flag in hole | :golf: | golf, hole |
-| ⛸️ | ice skate | :ice_skate: | ice, skate |
-| 🎣 | fishing pole | :fishing\_pole\_and_fish: | fish, pole |
-| 🤿 | diving mask | :diving_mask: | diving, scuba, snorkeling |
-| 🎽 | running shirt | :running\_shirt\_with_sash: | athletics, running, sash, shirt |
-| 🎿 | skis | :ski: | ski, snow |
-| 🛷 | sled | :sled: | sledge, sleigh |
-| 🥌 | curling stone | :curling_stone: | game, rock |
-| 🎯 | direct hit | :dart: | bullseye, dart, game, hit, target |
-| 🪀 | yo-yo | :yo_yo: | fluctuate, toy |
-| 🪁 | kite | :kite: | fly, soar |
-| 🎱 | pool 8 ball | :8ball: | 8, ball, billiard, eight, game |
-| 🔮 | crystal ball | :crystal_ball: | ball, crystal, fairy tale, fantasy, fortune, tool |
-| 🪄 | magic wand |  | magic, witch, wizard |
-| 🧿 | nazar amulet | :nazar_amulet: | bead, charm, evil-eye, nazar, talisman |
-| 🎮️ | video game | :video_game: | controller, game |
-| 🕹️ | joystick | :joystick: | game, video game |
-| 🎰 | slot machine | :slot_machine: | game, slot |
-| 🎲 | game die | :game_die: | dice, die, game |
-| 🧩 | puzzle piece | :jigsaw: | clue, interlocking, jigsaw, piece, puzzle |
-| 🧸 | teddy bear | :teddy_bear: | plaything, plush, stuffed, toy |
-| 🪅 | piñata |  | celebration, party |
-| 🪆 | nesting dolls |  | doll, nesting, russia |
-| ♠️ | spade suit | :spades: | card, game |
-| ♥️ | heart suit | :hearts: | card, game |
-| ♦️ | diamond suit | :diamonds: | card, game |
-| ♣️ | club suit | :clubs: | card, game |
-| ♟️ | chess pawn | :chess_pawn: | chess, dupe, expendable |
-| 🃏 | joker | :black_joker: | card, game, wildcard |
-| 🀄️ | mahjong red dragon | :mahjong: | game, mahjong, red |
-| 🎴 | flower playing cards | :flower\_playing\_cards: | card, flower, game, japanese, playing |
-| 🎭️ | performing arts | :performing_arts: | art, mask, performing, theater, theatre |
-| 🖼️ | framed picture | :framed_picture: | art, frame, museum, painting, picture |
-| 🎨 | artist palette | :art: | art, museum, painting, palette |
-| 🧵 | thread | :thread: | needle, sewing, spool, string |
-| 🪡 | sewing needle |  | embroidery, needle, sewing, stitches, sutures, tailoring |
-| 🧶 | yarn | :yarn: | ball, crochet, knit |
-| 🪢 | knot |  | rope, tangled, tie, twine, twist |
+|     |      Annotation       |         Shortcodes          |                         Tags                          |
+| --- | --------------------- | --------------------------- | ----------------------------------------------------- |
+| 🎃 | jack-o-lantern        | :jack\_o\_lantern:          | celebration, halloween, jack, lantern                 |
+| 🎄 | Christmas tree        | :christmas_tree:            | celebration, christmas, tree                          |
+| 🎆 | fireworks             | :fireworks:                 | celebration                                           |
+| 🎇 | sparkler              | :sparkler:                  | celebration, fireworks, sparkle                       |
+| 🧨 | firecracker           | :firecracker:               | dynamite, explosive, fireworks                        |
+| ✨ | sparkles              | :sparkles:                  | *, sparkle, star                                      |
+| 🎈  | balloon               | :balloon:                   | celebration                                           |
+| 🎉 | party popper          | :tada:                      | celebration, party, popper, tada                      |
+| 🎊 | confetti ball         | :confetti_ball:             | ball, celebration, confetti                           |
+| 🎋  | tanabata tree         | :tanabata_tree:             | banner, celebration, japanese, tree                   |
+| 🎍 | pine decoration       | :bamboo:                    | bamboo, celebration, japanese, pine                   |
+| 🎎 | Japanese dolls        | :dolls:                     | celebration, doll, festival, japanese, japanese dolls |
+| 🎏 | carp streamer         | :flags:                     | carp, celebration, streamer                           |
+| 🎐  | wind chime            | :wind_chime:                | bell, celebration, chime, wind                        |
+| 🎑 | moon viewing ceremony | :rice_scene:                | celebration, ceremony, moon                           |
+| 🧧 | red envelope          | :red_envelope:              | gift, good luck, hóngbāo, lai see, money              |
+| 🎀 | ribbon                | :ribbon:                    | celebration                                           |
+| 🎁 | wrapped gift          | :gift:                      | box, celebration, gift, present, wrapped              |
+| 🎗️  | reminder ribbon       | :reminder_ribbon:           | celebration, reminder, ribbon                         |
+| 🎟️ | admission tickets     | :tickets:                   | admission, ticket                                     |
+| 🎫 | ticket                | :ticket:                    | admission                                             |
+| 🎖️  | military medal        | :medal_military:            | celebration, medal, military                          |
+| 🏆️ | trophy                | :trophy:                    | prize                                                 |
+| 🏅 | sports medal          | :medal_sports:              | medal                                                 |
+| 🥇 | 1st place medal       | :1st\_place\_medal:         | first, gold, medal                                    |
+| 🥈 | 2nd place medal       | :2nd\_place\_medal:         | medal, second, silver                                 |
+| 🥉 | 3rd place medal       | :3rd\_place\_medal:         | bronze, medal, third                                  |
+| ⚽️ | soccer ball           | :soccer:                    | ball, football, soccer                                |
+| ⚾️ | baseball              | :baseball:                  | ball                                                  |
+| 🥎 | softball              | :softball:                  | ball, glove, underarm                                 |
+| 🏀 | basketball            | :basketball:                | ball, hoop                                            |
+| 🏐 | volleyball            | :volleyball:                | ball, game                                            |
+| 🏈 | american football     | :football:                  | american, ball, football                              |
+| 🏉 | rugby football        | :rugby_football:            | ball, football, rugby                                 |
+| 🎾 | tennis                | :tennis:                    | ball, racquet                                         |
+| 🥏 | flying disc           | :flying_disc:               | ultimate                                              |
+| 🎳 | bowling               | :bowling:                   | ball, game                                            |
+| 🏏 | cricket game          | :cricket_game:              | ball, bat, game                                          |
+| 🏑 | field hockey          | :field_hockey:              | ball, field, game, hockey, stick                        |
+| 🏒 | ice hockey            | :ice_hockey:                | game, hockey, ice, puck, stick                             |
+| 🥍 | lacrosse              | :lacrosse:                  | ball, goal, stick                                          |
+| 🏓 | ping pong             | :ping_pong:                 | ball, bat, game, paddle, table tennis                     |
+| 🏸 | badminton             | :badminton:                 | birdie, game, racquet, shuttlecock                       |
+| 🥊 | boxing glove          | :boxing_glove:              | boxing, glove                                           |
+| 🥋 | martial arts uniform  | :martial\_arts\_uniform:    | judo, karate, martial arts, taekwondo, uniform               |
+| 🥅 | goal net              | :goal_net:                  | goal, net                                               |
+| ⛳️ | flag in hole          | :golf:                      | golf, hole                                              |
+| ⛸️ | ice skate             | :ice_skate:                 | ice, skate                                              |
+| 🎣 | fishing pole          | :fishing\_pole\_and_fish:   | fish, pole                                              |
+| 🤿 | diving mask           | :diving_mask:               | diving, scuba, snorkeling                                |
+| 🎽  | running shirt         | :running\_shirt\_with_sash: | athletics, running, sash, shirt                         |
+| 🎿 | skis                  | :ski:                        | ski, snow                                              |
+| 🛷 | sled                  | :sled:                      | sledge, sleigh                                           |
+| 🥌 | curling stone         | :curling_stone:             | game, rock                                             |
+| 🎯 | direct hit            | :dart:                      | bullseye, dart, game, hit, target                           |
+| 🪀 | yo-yo                 | :yo_yo:                     | fluctuate, toy                                           |
+| 🪁 | kite                  | :kite:                       | fly, soar                                               |
+| 🎱 | pool 8 ball           | :8ball:                     | 8, ball, billiard, eight, game                              |
+| 🔮 | crystal ball          | :crystal_ball:              | ball, crystal, fairy tale, fantasy, fortune, tool         |
+| 🪄   | magic wand            |                             | magic, witch, wizard                                     |
+| 🧿 | nazar amulet          | :nazar_amulet:              | bead, charm, evil-eye, nazar, talisman                   |
+| 🎮️ | video game            | :video_game:                | controller, game                                        |
+| 🕹️ | joystick              | :joystick:                  | game, video game                                      |
+| 🎰 | slot machine          | :slot_machine:              | game, slot                                             |
+| 🎲 | game die              | :game_die:                  | dice, die, game                                         |
+| 🧩 | puzzle piece          | :jigsaw:                    | clue, interlocking, jigsaw, piece, puzzle                  |
+| 🧸 | teddy bear            | :teddy_bear:                | plaything, plush, stuffed, toy                             |
+| 🪅   | piñata                |                             | celebration, party                                       |
+| 🪆   | nesting dolls         |                             | doll, nesting, russia                                      |
+| ♠️   | spade suit            | :spades:                    | card, game                                             |
+| ♥️   | heart suit            | :hearts:                    | card, game                                             |
+| ♦️   | diamond suit          | :diamonds:                  | card, game                                             |
+| ♣️   | club suit             | :clubs:                     | card, game                                             |
+| ♟️  | chess pawn            | :chess_pawn:                | chess, dupe, expendable                                 |
+| 🃏  | joker                 | :black_joker:               | card, game, wildcard                                    |
+| 🀄️  | mahjong red dragon    | :mahjong:                   | game, mahjong, red                                      |
+| 🎴  | flower playing cards  | :flower\_playing\_cards:    | card, flower, game, japanese, playing                 |
+| 🎭️ | performing arts       | :performing_arts:           | art, mask, performing, theater, theatre                  |
+| 🖼️ | framed picture        | :framed_picture:            | art, frame, museum, painting, picture                    |
+| 🎨 | artist palette        | :art:                       | art, museum, painting, palette                           |
+| 🧵 | thread                | :thread:                    | needle, sewing, spool, string                              |
+| 🪡   | sewing needle         |                             | embroidery, needle, sewing, stitches, sutures, tailoring        |
+| 🧶 | yarn                  | :yarn:                      | ball, crochet, knit                                       |
+| 🪢   | knot                  |                             | rope, tangled, tie, twine, twist                             |
 
 ## Activities
 
