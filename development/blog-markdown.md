@@ -179,19 +179,23 @@ Notice that there are two spaces at the end above to make a new text under item.
     2. Item 3b
 8. Any number for item 4
 
+
+### 6.3. Offset in Oredered List
+- didn't work in Gitbook
+
 ***markdown***
 
 ```md
 57. will started with offset 57
 1. so it will be 58
-2. but unfortunately, this didn't work in Gitbook
+2. this is 59
 ```
 
 ***display***
 
 57. will started with offset 57
 1. so it will be 58
-2. but unfortunately, this didn't work in Gitbook
+2. this is 59
 
 ## 7. Elements in Lists
 
@@ -311,8 +315,6 @@ This is [link](https://example.com/)
 This is [link with title](https://example.com/ "title text!")
 https://example.com/  
 <https://www.markdownguide.org>  
-fake@example.com didn't work in Gatsby and Gitbook  
-<fake@example.com> worked  
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
@@ -327,14 +329,28 @@ This is [link](https://example.com/)
 This is [link with title](https://example.com/ "title text!")
 https://example.com/  
 <https://www.markdownguide.org>  
-fake@example.com didn't work in Gatsby and Gitbook  
-<fake@example.com> worked  
+
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
 But  `https://www.example.com`  
 but be careful with [%20 link](https://www.example.com/my%20great%20page)  
 example [without %20](https://www.example.com/my great page)
+
+### 9.1. Email Linkify
+- didn't work in Gatsby and Gitbook
+
+***markdown***
+
+```md
+fake@example.com 
+but <fake@example.com> is okay
+```
+
+**display**
+
+fake@example.com didn't work in Gatsby and Gitbook  
+<fake@example.com> worked  
 
 ## 10. Reference-style Links
 
@@ -404,20 +420,50 @@ It doesn't have [hobbit-hole][hh].
 \! exclamation mark
 
 ## 13. HTML Code
+- very restricted in Gitbook
+
+### 13.1. HTML: Bold, Italic, Strikethrough
 
 ***markdown***
-
 ```md
-This **word** is bold. This <em>word</em> is italic.  
-This item **bold red**{style="color:red"} didn't work in Gitbook  
+This <em>word</em> is italic.  
+This <strong>word</strong> is bold.  
+This <del>word</del> is deleted with strikethorouugh.
 ```
 
 ***display***
 
-This **word** is bold. This <em>word</em> is italic.  
-This item <strong style="color:red;">bold red</strong> didn't work in Gitbook  
+This <em>word</em> is italic.  
+This <strong>word</strong> is bold.  
+This <del>word</del> is deleted with strikethorouugh.
+
+### 13.2. Others HTML Code
+- didn't work in Gitbook
+
+***markdown***
+
+```md
+<font color=red>red color</font>  
+<mark>highlight</mark>  
+<ins>underline</ins>  
+<small>smaller text</small>  
+H<sub>2</sub>O  
+x<sup>2</sup>+y<sup>2</sup>=0  
+Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
+```
+
+***display***
+
+<font color=red>red color</font>  
+<mark>highlight</mark>  
+<ins>underline</ins>  
+<small>smaller text</small>  
+H<sub>2</sub>O  
+x<sup>2</sup>+y<sup>2</sup>=0  
+Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
 
 ## 14. Horizontal Rules
+- didn't work in Gitbook
 
 ***markdown***
 ```md
@@ -437,10 +483,9 @@ ___
 ---
 
 ***
-
-but only didn't work for Gitbook
 
 ## 15. Heading ID
+- didn't work for Gatsby
 
 ***markdown***
 
@@ -448,8 +493,6 @@ but only didn't work for Gitbook
 ### My Great Heading {#heading-ids}
 
 Link to [Heading IDs](#heading-ids)
-
-unfortunately didn't work for Gatsby
 ```
 
 ***display***
@@ -457,8 +500,6 @@ unfortunately didn't work for Gatsby
 ### My Great Heading {#heading-ids}
 
 Link to [Heading IDs](#heading-ids)
-
-unfortunately didn't work for Gatsby
 
 ## 16. Code Fencing and Highlighting
 
@@ -538,19 +579,31 @@ puts markdown.to_html
 | [Example](https://www.example.com/) |  **Title**  | `Here's this  is` |
 | Paragraph                           |    Text     |          And more |
 
-## 18. Strikethrough, Highlighting, Underline
+## 18. Text Formatting
+
+### 18.1. Strikethrough
 
 ***markdown***
 
 ```md
 ~~strikethrough~~  
+```
+
+***display***
+
+~~strikethrough~~  
+
+
+### 18.2. Highlighting and Underline
+- didn't work in Gitbook and Gatsby
+
+```md
 ==highlight, fail in Gitbook and Gatsby==  
 _underline, fail in Gitbook and Gatsby_  
 ```
 
 ***display***
 
-~~strikethrough~~  
 ==highlight, fail in Gitbook and Gatsby==  
 _underline, fail in Gitbook and Gatsby_  
 
@@ -571,31 +624,45 @@ _underline, fail in Gitbook and Gatsby_
 
 ## 20. Emojies
 
+### 20.1. Copy Pasted Emojies
+
 ***markdown***
 ```md
 Gone camping! ⛺ Be back soon.  
 That is so funny! 😂  
-Or with cassic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 ```
 
 ***display***
 
 Gone camping! ⛺ Be back soon.  
 That is so funny! 😂  
-Or with cassic markup: :wink: :crush: :cry: :tear: :laughing: :yum:
 
-## 21. Typographic replacements, superscript, subscript
+### 20.2. Shortcode Emoji
+- didn't work in Gitbook
+- in Gatsby and VNote, use Github Emoji Shortcode
 
 ***markdown***
 ```md
-autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-, didn't work in Gatsby and Gitbook  
-superscript x^2^ and subscript H~2~O also didn't work in Gatsby and Gitbook.
+Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 ```
 
 ***display***
 
-autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-, didn't work in Gatsby and Gitbook  
-superscript x^2^ and subscript H~2~O also didn't work in Gatsby and Gitbook.
+Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
+
+## 21. Typographic Replacements, Superscript, Subscript
+- dind't work in Gatsby and Gitbook
+
+***markdown***
+```md
+autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-  
+superscript x^2^ and subscript H~2~O
+```
+
+***display***
+
+autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-  
+superscript x^2^ and subscript H~2~O
 
 ## 22. HTML Entities and Character Codes
 
@@ -618,27 +685,257 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;
 ---
 ## 23. Latex
 
+### 23.1. Inline Equation
+- Equation with one dollar sign `$` works inline in Gatsby and VNote, but not in Gitbook
+- Equation with two dollar signs `$$` works inline in Gatsby and Gitbook, but not in VNote
+
 ***markdown***
 
 ```
-Equation with one dollar sign $E=mc^2$ works in Gatsby but not in Gitbook.
-In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in Gatsby.
+Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).
+Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
+```
 
-But for new line equation, it work well with two dollar sign.
+***display***
+
+Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).
+Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
+
+### 23.2. Newline Equation
+
+***markdown***
+
+```
+Newline equation with two dollar signs.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ```
 
 ***display***
 
-Equation with one dollar sign $E=mc^2$ works in Gatsby but not in Gitbook.
-In Gitbook, it should be with two dollar sign $$E=mc^2$$ which didn't work in VNote.
-
-But for new line equation, it work well with two dollar sign.
+Newline equation with two dollar signs.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
-## 24. Footnote
+## 24. Specific HTML Code
+- didn't work in Gitbook
+
+### 24.1. Drop Down List
+
+***markdown***
+
+```html
+<details>
+  <summary>Click this List ▶</summary>
+  <p>
+    <ul>
+      <li>irosyadi: https://irosyadi.netlify.app</li>
+      <li>irosyadi: https://irosyadi.gitbook.io</li>
+      <li>irosyadi: https://irosyadi.github.io</li>
+    </ul>
+  </p>
+</details>
+```
+
+***display***
+
+<details>
+  <summary>Click this List ▶</summary>
+  <p>
+    <ul>
+      <li>irosyadi: https://irosyadi.netlify.app</li>
+      <li>irosyadi: https://irosyadi.gitbook.io</li>
+      <li>irosyadi: https://irosyadi.github.io</li>
+    </ul>
+  </p>
+</details>
+
+### 24.2. Summary
+
+***markdown***
+
+```html
+<details>
+  <summary>Clik this Term ▶</summary>
+  <p>Term is explanation of something</p>
+</details>
+```
+
+***display***
+
+<details>
+  <summary>Clik this Term ▶</summary>
+  <p>Term is explanation of something</p>
+</details>
+
+### 24.3. Definition
+
+***markdown***
+
+```html
+<dl>
+<dt>First Term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition of the second term. </dd>
+<dd>This is another definition of the second term.</dd>
+</dl>
+```
+
+***display***
+
+<dl>
+<dt>First Term</dt>
+<dd>This is the definition of the first term.</dd>
+<dt>Second Term</dt>
+<dd>This is one definition of the second term. </dd>
+<dd>This is another definition of the second term.</dd>
+</dl>
+
+### 23.4. Abbreviation
+
+***markdown***
+
+```html
+The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+```
+
+***display***
+
+The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+
+## 26. CSS
+- didn't work in Gitbook
+
+### 26.1. Admonition with CSS
+
+***markdown***
+
+```css
+<div class="danger">
+  <p><strong>⛔ DANGER!</strong> Don't do this...</p>
+</div> 
+
+<div class="success">
+  <p><strong>🎯 SUCCESS!</strong> You are successfully...</p>
+</div>
+
+<div class="info">
+  <p><strong>📌 INFO!</strong> This is some information...</p>
+</div>
+
+<div class="warning">
+  <p><strong>⚠️ WARNING!</strong> This is a warning for you...</p>
+</div>
+
+<style>
+div {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+}
+
+.danger {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
+.success {
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+
+.warning {
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
+</style>
+```
+
+***display***
+
+<div class="danger">
+  <p><strong>⛔ DANGER!</strong> Don't do this...</p>
+</div> 
+
+<div class="success">
+  <p><strong>🎯 SUCCESS!</strong> You are successfully...</p>
+</div>
+
+<div class="info">
+  <p><strong>📌 INFO!</strong> This is some information...</p>
+</div>
+
+<div class="warning">
+  <p><strong>⚠️ WARNING!</strong> This is a warning for you...</p>
+</div>
+
+<style>
+div {
+  margin-bottom: 15px;
+  padding: 4px 12px;
+}
+
+.danger {
+  background-color: #ffdddd;
+  border-left: 6px solid #f44336;
+}
+
+.success {
+  background-color: #ddffdd;
+  border-left: 6px solid #4CAF50;
+}
+
+.info {
+  background-color: #e7f3fe;
+  border-left: 6px solid #2196F3;
+}
+
+
+.warning {
+  background-color: #ffffcc;
+  border-left: 6px solid #ffeb3b;
+}
+</style>
+
+### 26.2. Admonition with Quote
+- worked in everywhere
+
+***markdown***
+
+```md
+> **⚠️ WARNING!**
+> > This is a warning for you...
+```
+
+***display***
+
+> **⚠️ WARNING!**
+> > This is a warning for you...
+
+### 26.3. Admonition with Table
+*** markdown***
+
+```md
+| **⚠️ WARNING!**                |
+| :--------------------------- |
+| This is a warning for you... |
+```
+
+***display***
+
+| **⚠️ WARNING!**               |
+| :--------------------------- |
+| This is a warning for you... |
+
+
+## 27. Footnote
+- didn't work in Gitbook
 
 ***markdown***
 ```md

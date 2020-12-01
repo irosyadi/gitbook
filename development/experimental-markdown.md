@@ -19,35 +19,11 @@ Experimental markdown to check markdown parser compatibility between VNote+Viki,
 ### Alert in Markdown
 
 ::: alert-primary
-alert-primary
-:::
-
-::: alert-secondary
-alert-secondary
-:::
-
-::: alert-success
-alert-success
-:::
-
-::: alert-info
-**alert-info**
+alert-primary didn't work in Gatsby and Gitbook
 :::
 
 ::: alert-warning
 alert-warning
-:::
-
-::: alert-danger
-alert-danger
-:::
-
-::: alert-light
-alert-light
-:::
-
-::: alert-dark
-alert-dark
 :::
 
 ### Alert in HTML with jquery
@@ -64,51 +40,7 @@ alert-dark
   <i class="fas fa-warning-circle"></i> <strong>alert-warning</strong>
 </div>
 
-### Alert in HTML with Simple CSS
 
- <div class="danger">
-  <p><strong>Danger!</strong> Some text...</p>
-</div> 
-
-<div class="success">
-  <p><strong>Success!</strong> Some text...</p>
-</div>
-
-<div class="info">
-  <p><strong>Info!</strong> Some text...</p>
-</div>
-
-<div class="warning">
-  <p><strong>Warning!</strong> Some text...</p>
-</div>
-
-<style>
-div {
-  margin-bottom: 15px;
-  padding: 4px 12px;
-}
-
-.danger {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
-}
-
-.success {
-  background-color: #ddffdd;
-  border-left: 6px solid #4CAF50;
-}
-
-.info {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
-}
-
-
-.warning {
-  background-color: #ffffcc;
-  border-left: 6px solid #ffeb3b;
-}
-</style>
 
 ### Alert in HTML with Complex CSS
 
@@ -210,51 +142,25 @@ display: inline;
 🌐 web  
 ▶▷ triangle
 
-## HTML Playground
+## 14. Horizontal Rules
 
-### Drop Down List
+***markdown***
+```md
 
-<details>
-  <summary>Click this List</summary>
-  <p>
-    <ul>
-      <li>irosyadi: https://irosyadi.netlify.app</li>
-      <li>irosyadi: https://irosyadi.gitbook.io</li>
-      <li>irosyadi: https://irosyadi.github.io</li>
-    </ul>
-  </p>
-</details>
+***
 
+but only didn't work for Gitbook
+```
 
-### Abbreviation
+***display***
 
-The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
+***
+
+but only didn't work for Gitbook
 
 
-### Definition
+## Warning Gitbook Style
 
-<dl>
-<dt>First Term</dt>
-<dd>This is the definition of the first term.</dd>
-<dt>Second Term</dt>
-<dd>This is one definition of the second term. </dd>
-<dd>This is another definition of the second term.</dd>
-</dl>
-
-### Summary
-
-<details>
-  <summary>Clik this Term</summary>
-  <p>Term is explanation of something</p>
-</details>
-
-### Text Manipulation
-
-<font color=red>red color</font>  
-<mark>highlight</mark>  
-<del>strikethrough</del>  
-<ins>underline</ins>  
-<small>smaller text</small>  
-H<sub>2</sub>O  
-x<sup>2</sup>+y<sup>2</sup>=0  
-Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
+{% hint style="info" %}
+Hello world
+{% endhint %}
