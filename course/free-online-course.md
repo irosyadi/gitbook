@@ -30,7 +30,3 @@ draft: false
 - [DEEP LEARNING Course Yann LeCun & Alfredo Canziani](https://atcold.github.io/pytorch-Deep-Learning/) MATERIAL  [Google Drive](https://bitly.com/DLSP20), [Notebooks](https://github.com/Atcold/pytorch-Deep-Learning) [NYU Site](https://cds.nyu.edu/deep-learning/)
 - [AI Course: Elements of AI](https://www.elementsofai.com/)
 - [Complete ML Coursework](https://github.com/AbhishekSinhaCoder/Complete-ML-Coursework)
-
-## Programming
-- [Mike Dane](https://www.mikedane.com)
-- [Learn Programming](https://learnprogramming.online/)

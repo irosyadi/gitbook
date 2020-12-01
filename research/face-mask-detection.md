@@ -33,22 +33,21 @@ draft: false
 
 ## Paper
 
-- [A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386450/), Loey et. al. : Resnet(+DeepTree, SVN, Ensemble)
-- [Fighting against COVID-19: A novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection](https://pubmed.ncbi.nlm.nih.gov/33200063/), Loey et. al. : Resnet (+Yolo v2)
-- [Face Mask Detection using Transfer Learning of InceptionV3](https://arxiv.org/abs/2009.08369)  G. Jignesh Chowdary, et al. : InceptionV3 
-- [A Deep Learning Based Assistive System to Classify COVID-19  Face Mask  for Human Safety with YOLOv3](https://ieeexplore.ieee.org/abstract/document/9225384/), Md. Rafiuzzaman Bhuiyan et. al : Yolo v3
+- [A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386450/), Loey et.al. : Resnet(+DeepTree, SVN, Ensemble)
+- [Fighting against COVID-19: A novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection](https://pubmed.ncbi.nlm.nih.gov/33200063/), Loey et.al. : Resnet (+Yolo v2)
+- [Face Mask Detection using Transfer Learning of InceptionV3](c/articles/PMC7386450/)
+- [A Deep Learning Based Assistive System to Classify COVID-19  Face Mask  for Human Safety with YOLOv3](https://ieeexplore.ieee.org/abstract/document/9225384/), Md. Rafiuzzaman Bhuiyan et.al: Yolo v3
 - [Comparative Study of Deep Learning Methods in  Detection Face Mask  Utilization](https://osf.io/preprints/3gph4/) [PDF](https://osf.io/3gph4/download?format=pdf), Ivan Muhammad Siegfried:  MobileNetV2 vs ResNet50V2 vs Xception
-- [Covid-19  Face Mask Detection  Using TensorFlow, Keras and OpenCV](https://www.researchgate.net/profile/Rohini_Basak/publication/344725412_Covid-19_Face_Mask_Detection_Using_TensorFlow_Keras_and_OpenCV/links/5f8bee13a6fdccfd7b68b4ae/Covid-19-Face-Mask-Detection-Using-TensorFlow-Keras-and-OpenCV.pdf), Arjya Das et. al.: self CNN
+- [Covid-19  Face Mask Detection  Using TensorFlow, Keras and OpenCV](https://www.researchgate.net/profile/Rohini_Basak/publication/344725412_Covid-19_Face_Mask_Detection_Using_TensorFlow_Keras_and_OpenCV/links/5f8bee13a6fdccfd7b68b4ae/Covid-19-Face-Mask-Detection-Using-TensorFlow-Keras-and-OpenCV.pdf), Arjya Das et.al.: self CNN
 - [MACHINE LEARNING (CONVOLUTIONAL NEURAL NETWORKS) FOR  FACE MASK DETECTION  IN IMAGE AND VIDEO](https://core.ac.uk/download/pdf/328808130.pdf), Ramot Lubis : MobileNet
 - [RetinaMask: A  Face Mask  detector](https://arxiv.org/abs/2005.03950), Mingjie Jiang: RetinaFaceMask
-- [Real Time Multi-Scale Facial  Mask Detection  and Classification Using Deep Transfer Learning Techniques](https://www.researchgate.net/profile/Ssvr_Addagarla/publication/344252628_Real_Time_Multi-Scale_Facial_Mask_Detection_and_Classification_Using_Deep_Transfer_Learning_Techniques/links/5f60d961299bf1d43c05be95/Real-Time-Multi-Scale-Facial-Mask-Detection-and-Classification-Using-Deep-Transfer-Learning-Techniques.pdf),  Kumar Addagarla : Yolo v3 vs Resnet (+NASNetMobile)
+- [Real Time Multi-Scale Facial  Mask Detection  and Classification Using Deep Transfer Learning Techniques](https://www.researchgate.net/profile/Ssvr_Addagarla/publication/344252628_Real_Time_Multi-Scale_Facial_Mask_Detection_and_Classification_Using_Deep_Transfer_Learning_Techniques/links/5f60d961299bf1d43c05be95/Real-Time-Multi-Scale-Facial-Mask-Detection-and-Classification-Using-Deep-Transfer-Learning-Techniques.pdf),  Kumar Addagarla: Yolo v3 vs Resnet (+NASNetMobile)
 - [Real-Time  Facemask  Recognition with Alarm System using Deep Learning](https://ieeexplore.ieee.org/abstract/document/9232610/), Sammy V. Militante : VGG-16, Raspberry Pi
 - [ Mask Detection  Using Framework Tensorflow and Pre-Trained CNN Model Based on Raspberry Pi](http://iocscience.org/ejournal/index.php/mantik/article/view/946) [pdf](http://iocscience.org/ejournal/index.php/mantik/article/download/946/657), Acep Ansor: MobileNet, Raspberry Pi
 - [An Application of  Mask  Detector For Prevent Covid-19 in Public Services Area](https://iopscience.iop.org/article/10.1088/1742-6596/1641/1/012063) [pdf](https://iopscience.iop.org/article/10.1088/1742-6596/1641/1/012063/pdf),  Henderi: ???, Sipeed Maix
 - [ Face Mask  Detector](https://www.researchgate.net/profile/Akhyar_Ahmed/publication/344173985_Face_Mask_Detector/links/5f58c00ea6fdcc9879d8e6f7/Face-Mask-Detector.pdf), Akhyar Ahmed: MobileNet vs Resnet vs Exception
 - [A  FACEMASK  DETECTOR USING MACHINE LEARNING AND IMAGE PROCESSING TECHNIQUES.](https://www.researchgate.net/profile/Anurag_Sinha3/publication/345972030_A_FACEMASK_DETECTOR_USING_MACHINE_LEARNING_AND_IMAGE_PROCESSING_TECHNIQUES/links/5fb346be92851cf24cd84672/A-FACEMASK-DETECTOR-USING-MACHINE-LEARNING-AND-IMAGE-PROCESSING-TECHNIQUES.pdf), Amrit Kumar Bhadani: MobileNetV2
 - [Detecting masked faces in the wild with lle-cnns](http://openaccess.thecvf.com/content_cvpr_2017/html/Ge_Detecting_Masked_Faces_CVPR_2017_paper.html), [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_Detecting_Masked_Faces_CVPR_2017_paper.pdf), S Ge: LLE CNN
-- Identifying Facemask-Wearing Condition UsingImage Super-Resolution with Classification Networkto Prevent COVID-19, Bosheng Qin : SRCNet
 
 ## Ideas
 - with Face Presentation Attack Detection (in this case: mask with part of face)

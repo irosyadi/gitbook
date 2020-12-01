@@ -31,4 +31,3 @@ draft: false
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
-- [Sourcegraph Code Search](https://sourcegraph.com/search)

@@ -32,11 +32,6 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
 - [Kaomoji Japanese Emoticons](https://japaneseemoticons.me/) : Kaomoji, the Japanese emoticons
 (ノಠ益ಠ)ノ彡┻━┻ : angry table flip
-- [Emoji Base](https://emojibase.dev/) : emoji shortcode list
-- [Joypixels Emoji Convertion](https://demos.joypixels.com/latest/index.html)
-- [Github emoji](https://api.github.com/emojis) : emoji shortcode list
--  [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) : emoji almost universal shortcode list
-- [Emoji shortcode](https://gist.github.com/rxaviers/7360908)
 
 ## Unicode Tools
 - [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in an unicode text

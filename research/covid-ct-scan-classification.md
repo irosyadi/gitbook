@@ -11,49 +11,29 @@ draft: false
 
 # CT-Scan for Covid Classification using Machine Learning
 
-## Dataset
-- [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
-- [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
-- [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
-- [Dataset: CT Scan for Covid Classification](https://www.graviti.com/open-datasets/dataset-detail/CT_Scans_for_COVID-19_Classification)
-- [NCOV China](http://ncov-ai.big.ac.cn/download)
-
-## Notes
 - [Kaggle](https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19)
-- [Adrian Rosenbrerck](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) [Github Repo, work in progress](https://github.com/AleGiovanardi/covidhelper)
+- [Dataset: CT Scan for Covid Classification](https://www.graviti.com/open-datasets/dataset-detail/CT_Scans_for_COVID-19_Classification)
+- [Adrian Rosenbrerck](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) [Github Repo](https://github.com/AleGiovanardi/covidhelper)
+- [USCD](https://github.com/UCSD-AI4H/COVID-CT) dataset
 - [PaperswithCode](https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about)
 
 ## Github
-- [AlexTS1980/COVID-CT-Mask-Net](https://github.com/AlexTS1980/COVID-CT-Mask-Net) : Segmentation and Classification, category (COVID, pneumonia, normal), Mask R-CNN.
-    - [Presentation](https://github.com/AlexTS1980/COVID-CT-Mask-Net/blob/master/presentations/COVID_19_Presentation_Kent.pdf)
-    - [Lightweight Model For The Prediction of COVID-19 Through The Detection And Segmentation of Lesions in Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.10.30.20223586v2.full.pdf)
-    - [Detection and Segmentation of Lesion Areas in Chest CT Scans For The Prediction of COVID-19](https://www.medrxiv.org/content/10.1101/2020.10.23.20218461v2.full.pdf)
-    - [COVID-CT-Mask-Net: Prediction of COVID-19 From CT Scans Using Regional Features](https://www.medrxiv.org/content/10.1101/2020.10.11.20211052v2.full.pdf)
-- [bkong999/COVNet](https://github.com/bkong999/COVNet)
-    - [Artificial Intelligence Distinguishes COVID-19 from Community Acquired Pneumonia on Chest CT](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7233473/#SD1)
-    - [Using Artificial Intelligence to Detect COVID-19 and Community-acquired Pneumonia Based on Pulmonary CT: Evaluation of the Diagnostic Accuracy](https://pubs.rsna.org/doi/10.1148/radiol.2020200905)
-- [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR), historical project related CT scan usage for Covid Classification
-- [Covid-Net](https://github.com/lindawangg/COVID-Net), complete covid-net project (Covid-Net, CovidNet-S, CovidNet-CT, COVIDNet-CXR)
-    - [COVID-Net: a tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray images](https://www.nature.com/articles/s41598-020-76550-z)
-
-    - [COVIDNet-S: Towards computer-aided severity assessment via training and validation of deep neural networks for geographic extent and opacity extent scoring of chest X-rays for SARS-CoV-2 lung disease severity](https://arxiv.org/abs/2005.12855)
-    - [COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest CT Images](https://arxiv.org/abs/2009.05383), Github Repo [haydengunraj/COVIDNet-CT](https://github.com/haydengunraj/COVIDNet-CT) : COVIDNet-CT
-    - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19) : CovidNet with different architecture pretrained
-    - [iliasprc/COVIDNet](https://github.com/iliasprc/COVIDNet) : Pytorch Implementation of CovidNET
+- [AlexTS1980](https://github.com/AlexTS1980/COVID-CT-Mask-Net) Segmentation and Classification models for COVID CT scans (COVID, pneumonia, normal) based on Mask R-CNN. 
+- [Dataset](https://github.com/ieee8023/covid-chestxray-dataset)
+- [JordanMicahBennet](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR), complete list of project
+- [Covid-Net](https://github.com/lindawangg/COVID-Net), complete covid-net project
 - [Jeremykhon](https://github.com/jeremykohn/rid-covid), complete list of project
-- [kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans](https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans)
-- [JunMa11/COVID-19-CT-Seg-Benchmark](https://github.com/JunMa11/COVID-19-CT-Seg-Benchmark) CT Scan Segmentation
-- [rekalantar/covid19_detector](https://github.com/rekalantar/covid19_detector)
-- [aniruddh-1/COVID19_Pneumonia_detection](https://github.com/aniruddh-1/COVID19_Pneumonia_detection)
-- [rohilrg/COVID19-xray-classifier](https://github.com/rohilrg/COVID19-xray-classifier)
-- [KiLJ4EdeN/DeepCOVID](https://github.com/KiLJ4EdeN/DeepCOVID)
-- [sydney0zq/covid-19-detection](https://github.com/sydney0zq/covid-19-detection)
+- [Kaushik Jadav](https://github.com/kaushikjadhav01/COVID-19-Detection-Flask-App-based-on-Chest-X-rays-and-CT-Scans)
+- [Junma](https://github.com/JunMa11/COVID-19-CT-Seg-Benchmark) CT Scan Segmentation
+- [Rekalantar](https://github.com/rekalantar/covid19_detector)
+- [aniruddh](https://github.com/aniruddh-1/COVID19_Pneumonia_detection)
+- [rohilrg](https://github.com/rohilrg/COVID19-xray-classifier)
+- [Otsu Based](https://paperswithcode.com/paper/harmony-search-and-otsu-based-system-for)
+- [Covid_Web](https://github.com/KiLJ4EdeN/DeepCOVID?utm_source=catalyzex.com)
+- [Covid-19 with Weak](https://github.com/sydney0zq/covid-19-detection?utm_source=catalyzex.com)
 - [Paperswithcode](https://paperswithcode.com/paper/automatic-detection-of-coronavirus-disease)
-- [paper/harmony-search-and-otsu-based-system-for](https://paperswithcode.com/paper/harmony-search-and-otsu-based-system-for)
 
 ## Paper
-- [A Deep Learning System to Screen Novel Coronavirus Disease 2019 Pneumonia](https://www.sciencedirect.com/science/article/pii/S2095809920301636)
-    - [Deep learning system to screen coronavirus disease 2019 pneumonia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175452/) - similar with above paper
 - Imaging and clinical features of patients with 2019 novel coronavirus SARS-CoV-2, Xi Xu et.al.
 - Chest CT findings in patients with coronavirus disease 2019 (COVID-19): a comprehensive review, Jinkui Li et.al.
 - CT in coronavirus disease 2019 (COVID-19): a systematic review of chest CT findings in 4410 adult patients,
