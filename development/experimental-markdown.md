@@ -28,6 +28,8 @@ alert-warning
 
 ### Alert in HTML with jquery
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
 <div class="alert-warning">
 <p><em>alert-warning</em></p>
 </div>
@@ -39,7 +41,6 @@ alert-warning
 <div class="alert alert-warning">
   <i class="fas fa-warning-circle"></i> <strong>alert-warning</strong>
 </div>
-
 
 
 ### Alert in HTML with Complex CSS
@@ -142,25 +143,22 @@ display: inline;
 🌐 web  
 ▶▷ triangle
 
-## 14. Horizontal Rules
-
-***markdown***
-```md
-
-***
-
-but only didn't work for Gitbook
-```
-
-***display***
-
-***
-
-but only didn't work for Gitbook
-
-
 ## Warning Gitbook Style
 
 {% hint style="info" %}
 Hello world
 {% endhint %}
+
+
+## Warning CSS JSDelvr + Github
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info.css">
+
+<div class="danger">
+  <p><strong>⛔ DANGER!</strong> Don't do this...</p>
+</div> 
+
+<div class="success">
+  <p><strong>🎯 SUCCESS!</strong> You are successfully...</p>
+</div>
+

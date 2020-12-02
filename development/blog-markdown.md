@@ -329,7 +329,6 @@ This is [link](https://example.com/)
 This is [link with title](https://example.com/ "title text!")
 https://example.com/  
 <https://www.markdownguide.org>  
-
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
@@ -343,14 +342,14 @@ example [without %20](https://www.example.com/my great page)
 ***markdown***
 
 ```md
-fake@example.com 
-but <fake@example.com> is okay
+fake@example.com didn't work in Gatsby and Gitbook  
+<fake@example.com> is okay  
 ```
 
 **display**
 
 fake@example.com didn't work in Gatsby and Gitbook  
-<fake@example.com> worked  
+<fake@example.com> is okay  
 
 ## 10. Reference-style Links
 
@@ -686,19 +685,19 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;
 ## 23. Latex
 
 ### 23.1. Inline Equation
-- Equation with one dollar sign `$` works inline in Gatsby and VNote, but not in Gitbook
+- Equation with one dollar sign `$` works inline in Gatsby and VNote, but not in Gitbook 
 - Equation with two dollar signs `$$` works inline in Gatsby and Gitbook, but not in VNote
 
 ***markdown***
 
 ```
-Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).
+Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).  
 Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
 ```
 
 ***display***
 
-Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).
+Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).  
 Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
 
 ### 23.2. Newline Equation
@@ -792,7 +791,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 <dd>This is another definition of the second term.</dd>
 </dl>
 
-### 23.4. Abbreviation
+### 24.4. Abbreviation
 
 ***markdown***
 

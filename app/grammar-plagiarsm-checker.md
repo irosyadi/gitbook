@@ -17,6 +17,12 @@ draft: false
 - [Ginger](https://www.gingersoftware.com/grammarcheck)
 - [Language Tool](https://languagetool.org/)
 - [Linguix](https://linguix.com/grammar-check)
+- [Tipely](https://typely.com/) : beautiful essay editor and grammar checker
+- [Paperrater](https://www.paperrater.com/)
+- [eangel](https://eangel.me/online-paper-editing)
+- [easybib](https://www.easybib.com/grammar-and-plagiarism/)
+- [proofreadingtool](https://proofreadingtool.com/) : beautiful proofreading tools
+- [scribbr](https://www.scribbr.com/proofreading-editing/essay-editing-service/)
 
 ## Firefox Add Ons
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)
