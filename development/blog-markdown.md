@@ -807,100 +807,33 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 - didn't work in Gitbook
 
 ### 26.1. Admonition with CSS
+- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css>
 
 ***markdown***
 
 ```css
-<div class="danger">
-  <p><strong>⛔ DANGER!</strong> Don't do this...</p>
-</div> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css">
 
-<div class="success">
-  <p><strong>🎯 SUCCESS!</strong> You are successfully...</p>
-</div>
+  <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
 
-<div class="info">
-  <p><strong>📌 INFO!</strong> This is some information...</p>
-</div>
+  <div class="alert alert-info" role="alert"><strong>📌 INFO </strong> You're good......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
-<div class="warning">
-  <p><strong>⚠️ WARNING!</strong> This is a warning for you...</p>
-</div>
+  <div class="alert alert-warning" role="alert"><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
-<style>
-div {
-  margin-bottom: 15px;
-  padding: 4px 12px;
-}
-
-.danger {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
-}
-
-.success {
-  background-color: #ddffdd;
-  border-left: 6px solid #4CAF50;
-}
-
-.info {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
-}
-
-
-.warning {
-  background-color: #ffffcc;
-  border-left: 6px solid #ffeb3b;
-}
-</style>
+  <div class="alert alert-danger" role="alert"><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 ```
 
 ***display***
 
-<div class="danger">
-  <p><strong>⛔ DANGER!</strong> Don't do this...</p>
-</div> 
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css">
 
-<div class="success">
-  <p><strong>🎯 SUCCESS!</strong> You are successfully...</p>
-</div>
+  <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
 
-<div class="info">
-  <p><strong>📌 INFO!</strong> This is some information...</p>
-</div>
+  <div class="alert alert-info" role="alert"><strong>📌 INFO </strong> You're good......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
-<div class="warning">
-  <p><strong>⚠️ WARNING!</strong> This is a warning for you...</p>
-</div>
+  <div class="alert alert-warning" role="alert"><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
-<style>
-div {
-  margin-bottom: 15px;
-  padding: 4px 12px;
-}
-
-.danger {
-  background-color: #ffdddd;
-  border-left: 6px solid #f44336;
-}
-
-.success {
-  background-color: #ddffdd;
-  border-left: 6px solid #4CAF50;
-}
-
-.info {
-  background-color: #e7f3fe;
-  border-left: 6px solid #2196F3;
-}
-
-
-.warning {
-  background-color: #ffffcc;
-  border-left: 6px solid #ffeb3b;
-}
-</style>
+  <div class="alert alert-danger" role="alert"><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
 ### 26.2. Admonition with Quote
 - worked in everywhere
