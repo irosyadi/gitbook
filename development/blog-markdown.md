@@ -812,7 +812,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 ***markdown***
 
 ```css
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css">
 
   <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
 
@@ -825,7 +825,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 
 ***display***
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css">
 
   <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
 

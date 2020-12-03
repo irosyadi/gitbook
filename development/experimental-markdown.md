@@ -50,45 +50,9 @@ Hello world
 
 ## Warning CSS JSDelvr + Github
 
-### CSS1
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info.css">
-
-<div class="danger">
-  <p><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div> 
-
-<div class="warning">
-  <p><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
-<div class="success">
-  <p><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
-<div class="info">
-  <p><strong>📌 INFO </strong> You're good......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
-### CSS2
-
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info2.css">
-
-<div class="message  message--error">
-  <p> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
-<div class="message  message--warning">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
-<div class="message  message--success">
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-</div>
-
 ### CSS3
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css">
 
   <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
 
