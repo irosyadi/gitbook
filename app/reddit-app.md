@@ -21,6 +21,7 @@ draft: false
 - [Serializer.io](https://serializer.io/)
 - [Rdddeck](https://rdddeck.com/)
 - [Scrolldit](https://www.scrolldit.com/)
+- [Teddit](https://teddit.net/) : open source, non-javascript
 
 ## Reddit Images Frontends
 - [Reddpics](https://reddpics.com/)

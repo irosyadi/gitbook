@@ -11,6 +11,9 @@ draft: false
 
 # Search Engine App
 
+## Map
+- [Searchengine Map](https://www.searchenginemap.com/)
+
 ## Main Search Engines
 - [Google](https://www.google.com/)
 - [Bing](https://www.bing.com/)
@@ -28,6 +31,8 @@ draft: false
 - [Searx](https://searx.space/) - free selfhosted search engine, metasearch engine
 - [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
 - [Privado](https://www.privado.com/)
+- [Rightdao](https://rightdao.com/search) - minimalist search engine
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
+- [Sourcegraph Code Search](https://sourcegraph.com/search)

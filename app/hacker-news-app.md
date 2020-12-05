@@ -42,6 +42,7 @@ draft: false
 
 ## Hacker News Tools
 - [Shown HN List](https://showhn-dashboard.netlify.app/)
+- [Hacker News Top Best and New ](https://hn.sawirstudio.com/)
 
 ## Alternative to Hacker News
 - [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/)
@@ -51,3 +52,4 @@ draft: false
 - [Echo JS](https://www.echojs.com/) for javascript
 - [Nomad List](https://nomadlist.com/forum/) for traveling
 - [MLN](https://mln.dev/top/1) for machine learning
+- [Sqwok](https://sqwok.im/)
