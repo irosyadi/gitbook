@@ -9,7 +9,7 @@ tags: machine learning glossary
 draft: false
 ---
 
-These are references for upcoming book about terms in machine learning.
+These are references for an upcoming book about terms in machine learning.
 
 # Machine Learning Glossary
 
@@ -47,3 +47,6 @@ List:
 - [AI Lab](https://www.ailab.com.au/resources/ai-glossary/)
 - [Glossary](https://nisi.nl/nieuws-algemeen/structured-glossary-of-data-buzzwords)
 - [Data Quest](https://www.dataquest.io/blog/data-science-glossary/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTIxMzkzMzczMF19
+-->

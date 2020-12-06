@@ -11,7 +11,7 @@ draft: false
 
 # 100 Days Challenge
 
-100 days Challenge is a project to enhance programming capability by set the training in 100 days timeline.
+100 days challenge is a project to enhance programming capability by set the training in 100 days timeline.
 
 1. [100 days of X](https://www.100daysofx.com/)
 2. [100 days of Code](https://www.100daysofcode.com/resources/)
@@ -24,4 +24,4 @@ draft: false
 8. [James Priest Round 6](https://james-priest.github.io/100-days-log/log6.html) [Complete React Developer](https://www.udemy.com/complete-react-developer-zero-to-mastery/)
 9. [Reddit Daily Programmer](https://old.reddit.com/r/dailyprogrammer/)
 10. [PyBites 100 Days of Code](https://github.com/pybites/100DaysOfCode)
-11. [Enlighrt](https://enlight.nyc/)
+11. [Enlight](https://enlight.nyc/)

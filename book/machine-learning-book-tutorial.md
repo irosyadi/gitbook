@@ -42,7 +42,7 @@ draft: false
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) License: CC-BY-NC
 
 ### CC-BY-NC-ND Machine Learning Books
-- [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title), [Github Link](https://github.com/HelioML/HelioML) License: CC-BY-NC-ND 
+- [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title), [GitHub Link](https://github.com/HelioML/HelioML) License: CC-BY-NC-ND 
 - [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) License: CC-BY-NC-ND
 - [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) License: CC-BY-NC-ND 
 - [Reinforcement Learning: An Introduction, Second Edition](https://incompleteideas.net/sutton/book/the-book.html) License : CC-BY-NC-ND 
@@ -67,3 +67,6 @@ draft: false
 
 ## Articles about Machine Learning
 - [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1NDU0NzcxOV19
+-->

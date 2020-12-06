@@ -15,7 +15,7 @@ My upcoming planned books and tutorials.
 
 ## Monographs
 - Rooftop Solar System
-- Softsensor
+- Soft sensor
 - Rice Classification
 - DevOps for Embedded Systems
 
@@ -52,7 +52,7 @@ My upcoming planned books and tutorials.
 - [A Byte of Python](https://python.swaroopch.com/) License: CC-BY, already translated to Indonesia
 - [Python for Humanities](https://www.karsdorp.io/python-course/) License: CC-BY
 - [Akuli Python Tutorial](https://github.com/Akuli/python-tutorial) License: ZLIB
-- [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb), [Github](https://github.com/jakevdp/WhirlwindTourOfPython) License: CC0
+- [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb), [GitHub](https://github.com/jakevdp/WhirlwindTourOfPython) License: CC0
 - [Practical Python](https://github.com/dabeaz-course/practical-python) License: CC-BY
 - [Learning OOP Python](https://github.com/josharsh/Learning-Object-Oriented-Python) License: GPL
 - [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/index.html) License: CC-BY
@@ -61,18 +61,18 @@ My upcoming planned books and tutorials.
 - [Python 3: from None to Machine ](https://github.com/AstroMatt/book-python) [Web](https://python.astrotech.io/) License: CC-BY
 
 ### Machine Learning
-- [Practical Deep Learning for Coders, v3](https://course.fast.ai/), [Github](https://github.com/fastai/course-v3), License: Apache
+- [Practical Deep Learning for Coders, v3](https://course.fast.ai/), [GitHub](https://github.com/fastai/course-v3), License: Apache
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning), License: MIT
 - [Machine Learning with Octave](https://github.com/trekhleb/machine-learning-octave), License: MIT
 - [Free and Open Machine Learning Book](https://freeandopenmachinelearning.readthedocs.io/en/latest/#) License: CC-BY
 - [Introduction to Scientific Computing in Python](https://github.com/jrjohansson/scientific-python-lectures) License: CC-BY
-- [Scipy Lectures](https://scipy-lectures.org/) Lincense: CC-BY
+- [Scipy Lectures](https://scipy-lectures.org/) License: CC-BY
 - [Dive into Deep Learning](https://d2l.ai/) License: CC-BY
 - [Introduction to computing with Python for engineering and scientific applications](https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas) License: CC-BY
 - [Introduction to Deep Neural Networks with Keras and Tensorflow ](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
 - [CS 231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](https://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
-- [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](https://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, filetype: .tex
+- [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](https://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, file type: .tex
 - [Deep School IO](https://github.com/sachinruk/deepschool.io) License: Apache
 - [Keras Tutorial](https://github.com/jfsantos/keras-tutorial) License: MIT
 - [Notes on Deep Learning Book](https://github.com/hadrienj/deepLearningBook-Notes) License: MIT
@@ -122,3 +122,6 @@ My upcoming planned books and tutorials.
 
 ### Others
 - [Working-with-Climate-Data-in-Python](https://github.com/MarieHofmann/Working-with-Climate-Data-in-Python) License: CC-BY
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbOTA0MDA1MjM5XX0=
+-->

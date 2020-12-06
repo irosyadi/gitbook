@@ -43,10 +43,14 @@ draft: false
 - [rSoccer](https://rsoccer.live/) r/Soccer Video Highlights
 
 ## Reddit Tools
-- [Tryuneart](https://app.tryunearth.com/) manages saved reddit posts
-- [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums's search
+- [Tryuneart](https://app.tryunearth.com/) manages saved Reddit posts
+- [Forum Search](https://forumsearch.io/) : Reddit, HN, and many forums search
 
 ## Alternative to Reddit
-- [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [selfhosted](https://docs.tildes.net/instructions/development-setup)
+- [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [self-hosted](https://docs.tildes.net/instructions/development-setup)
 - [Lemmy](https://dev.lemmy.ml/)
 - [Raddle](https://raddle.me/)
+- [Gurlic](https://gurlic.com/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTg0MjYxNzE3OV19
+-->

@@ -25,7 +25,7 @@ draft: false
 11. [Open Text Books Hongkong](https://www.opentextbooks.org.hk/)
 12. [Oreilly Open Book](https://www.oreilly.com/openbook/)
 13. [Manitoba Open Textbooks](https://openedmb.ca/find-open-textbooks/)
-14. [OER](https://www.oercommons.org/hubs/open-textbooks) [OER](https://www.oercommons.org) : open content search engine
+14. [OER](https://www.oercommons.org/hubs/open-textbooks) 
 15. [Text Book Equity](https://www.textbookequity.org/)
 16. [Awesome Open Source Documents](https://github.com/hubtee/awesome-opensource-documents)
 17. [MIT Press Open](https://mitpress.mit.edu/mit-press-open)
@@ -68,3 +68,6 @@ Example of the books:
 ## List of Open Book
 1. [Open Text Books UMN](https://open.umn.edu/opentextbooks/)
 2. [CC Python Books](https://mksaad.wordpress.com/2019/04/03/open-source-python-programming-books-licensed-under-creative-commons/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMzI3MTcxNTVdfQ==
+-->

@@ -40,6 +40,9 @@ draft: false
 - [Facial-Emotion-Detection](https://github.com/PrudhviRaj12/Facial-Emotion-Detection-Using-Convolutional-Neural-Networks-and-Representational-Autoencoder-Units) This work showcases two independent methods for recognizing emotions from faces. The first method using representational autoencoder units, a fairly original idea, to classify an image among one of the seven different emotions. The second method uses a 8-layer convolutional neural network which has an original and unique design, and was developed from scratch. 
 - [Face INfo](https://github.com/juan-csv/Face_info) face recognition, detection of facial attributes (age, gender, emotion and race) 
 - [AIML](https://github.com/weblineindia/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction)  This is a Human Attributes Detection program with facial features extraction. It detects facial coordinates using FaceNet model and uses MXNet facial attribute extraction model for extracting 40 types of facial attributes. This solution also detects Emotion, Age and Gender along with facial attributes. 
-- [berksudan](https://github.com/berksudan/Real-Time-Emotion-Detection) Realtime emotion detection from facial expression using both machine learning and deep learning techniques. 
+- [berksudan](https://github.com/berksudan/Real-Time-Emotion-Detection) Real time emotion detection from facial expression using both machine learning and deep learning techniques. 
 - [AMER](https://github.com/m-elkhou/Facial_Expression_Detection)  This project was about providing an Android application that can help people take charge of their own emotional health by capturing their micro expressions such as happiness, sadness, anger, disgust, surprise, fear, and neutral. 
 - [realtime-facial-emotion-analizer](https://github.com/susantabiswas/realtime-facial-emotion-analyzer)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEwNjk5MzEyODFdfQ==
+-->

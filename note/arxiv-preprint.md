@@ -12,7 +12,7 @@ draft: false
 # Arxiv and Paper Preprint Sites
 
 ## List of Arxiv and Paper Preprint Sites
-- [Engrxiv](https://engrxiv.org/) Engienering
+- [Engrxiv](https://engrxiv.org/) Engineering
 - [Biorxiv](https://www.biorxiv.org/) Biological
 - [Arxiv](https://arxiv.org/) Physics Math Computer
 - [Medrxiv](https://www.medrxiv.org/) Medical
@@ -31,3 +31,6 @@ draft: false
 - [Arxiv Times](https://arxivtimes.herokuapp.com/) ML news from Arxiv
 - [Daily Arxiv](https://dailyarxiv.com/) check arxiv articles based on date
 - [Arxiv Search Engine](https://arxiv.aiindex.org/search) for AI articles
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTgxMTk5NjExN119
+-->

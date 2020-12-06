@@ -27,7 +27,7 @@ draft: false
 - org-mode
 - vim-org
 - [Trilium](https://github.com/zadam/trilium)
-- [Logseq](https://logseq.com/), notetaking web based local only and GitHub-hosted
+- [Logseq](https://logseq.com/), note taking web based local only and GitHub-hosted
 - [Typora](https://typora.io/), a nicely polished Markdown editor – has the best support for math input I’ve seen
 - [Obsidian](https://obsidian.md/features), a split-pane Markdown editor focused on bidirectional linking
 - [Zettlr](https://www.zettlr.com/) a Markdown editor focused on publishing / academics
@@ -40,6 +40,9 @@ draft: false
 - [Dendron](https://www.dendron.so/), a hierarchical note-taking editor based on VS Code
 - [kb](https://github.com/gnebbia/kb), a minimal text-oriented command-line note manager
 - [Notebag](https://notebag.app/) a minimal Markdown app with tag support
-- [Joplin](https://joplinapp.org/),  multiplatform (mobile. pc, terminal) has more features than practically every other note-taking app out there.
+- [Joplin](https://joplinapp.org/),  multiplatform (mobile, PC, terminal) has more features than practically every other note-taking app out there.
 - [Notion](https://notion.so/)
 - [Brick](https://brick.do/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTI2NTkzNTA4MF19
+-->

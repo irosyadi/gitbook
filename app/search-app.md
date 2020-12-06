@@ -25,10 +25,10 @@ draft: false
 - [Ecosia](https://www.ecosia.org/?c=en) - search engine which plant trees, powered by Bing
 - [Invinity Search](https://infinitysearch.co/) - privacy oriented search engine
 - [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines
-- [Startpage](https://startpage.com/) - metasearch engine
+- [Startpage](https://startpage.com/) - meta search engine
 - [Private](https://private.sh/) - privacy oriented search engine using proxies
-- [Yacy](https://yacy.net/) - decentralyzed web search
-- [Searx](https://searx.space/) - free selfhosted search engine, metasearch engine
+- [Yacy](https://yacy.net/) - decentralized web search
+- [Searx](https://searx.space/) - free self-hosted search engine, meta search engine
 - [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
 - [Privado](https://www.privado.com/)
 - [Rightdao](https://rightdao.com/search) - minimalist search engine
@@ -36,3 +36,6 @@ draft: false
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMDkyMDA3MDVdfQ==
+-->

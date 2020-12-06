@@ -16,9 +16,9 @@ draft: false
 
 ## Open Licensed Deep Learning Books and Tutorials
 - [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
-- [Practical Deep Learning for Coders](https://course.fast.ai/) [Github](https://github.com/fastai/course-v3) License: Apache
+- [Practical Deep Learning for Coders](https://course.fast.ai/) [GitHub](https://github.com/fastai/course-v3) License: Apache
 - [Dive into Deep Learning](https://d2l.ai/) License: CC-BY
-- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html), [Github](https://github.com/openai/spinningup) License: MIT
+- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html), [GitHub](https://github.com/openai/spinningup) License: MIT
 
 ## CC-BY-NC Deep Learning Books and Tutorials
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/) [Code at Github](https://github.com/mnielsen/neural-networks-and-deep-learning) License: CC-BY-NC
@@ -31,3 +31,6 @@ draft: false
 
 ## List of Deep Learning Books
 - [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTgxNjU2MjUxMF19
+-->

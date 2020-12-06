@@ -12,7 +12,7 @@ draft: false
 # Fundamentals of Electrical Engineering
 
 ## Free and Open References
--  [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) or its [All About Circuit Version](https://www.allaboutcircuits.com/textbook/) License: Design Science License
+-  [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/),  [All About Circuit Version](https://www.allaboutcircuits.com/textbook/) License: Design Science License
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/), [original worksheet](https://ibiblio.org/kuphaldt/socratic/doc/topical.html) License: CC-BY
 - [Modular Electronics Learning Project](https://ibiblio.org/kuphaldt/socratic/model/index.html) License: CC-BY
 - [Fundamentals of Electrical Engineering I (PDF) by Don H. Johnson](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) or [Fundamentals of Electrical Engineering in OpenStax](https://cnx.org/contents/d442r0wh@9.72:g9deOnx5@19/Themes) License: CC-BY
@@ -41,3 +41,6 @@ draft: false
 - [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
 - [Electrical Engineering Playlist by Reach](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5)
 - [Electrical Engineering Playlist by Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTc4NTIwMzYxOF19
+-->

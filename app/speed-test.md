@@ -17,7 +17,10 @@ draft: false
 - [speedtest](https://www.speedtest.net/) : from speedtest.net, also has CLI
 - [speedtest.cbn.id](https://speedtest.cbn.id/) : from speedtest.net
 - [biznet](https://speedtest.biznetnetworks.com/) : from speedtest.net direct measure
-- [Librespeed](https://librespeed.org/) : opensource
+- [Librespeed](https://librespeed.org/) : open source
 - [st3d unsoed](https://st3d.unsoed.ac.id/) : unsoed librespeed server
 - [Openspeedtest](https://openspeedtest.com/)
 - [speed of me](https://speedof.me/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTExMzA4OTk0OF19
+-->

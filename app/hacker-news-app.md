@@ -38,7 +38,7 @@ draft: false
 - [HNDex](https://hndex.org/) Hackernews content search
 - [HN Algolia](https://hn.algolia.com/) Hackernews comment and link search
 - [HNProfile](https://hnprofile.com/) Hackernews profile and topic search
-- [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums's search
+- [Forum Search](https://forumsearch.io/) : reddit, HN, and many forums search
 
 ## Hacker News Tools
 - [Shown HN List](https://showhn-dashboard.netlify.app/)
@@ -53,3 +53,7 @@ draft: false
 - [Nomad List](https://nomadlist.com/forum/) for traveling
 - [MLN](https://mln.dev/top/1) for machine learning
 - [Sqwok](https://sqwok.im/)
+- [Datatau](https://datatau.net/) for data science
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE4MTI5MDg4NzFdfQ==
+-->

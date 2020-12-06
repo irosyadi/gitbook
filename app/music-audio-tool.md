@@ -30,10 +30,13 @@ draft: false
 - [Deep Audio](https://github.com/adobe/Deep-Audio-Prior) : Audio Source Separation Without Any Training Data 
 - [SOTA for Music Separation](https://paperswithcode.com/sota/music-source-separation-on-musdb18)
 
-## Music Recognization
+## Music Recognition
 - [Audio Tag for recognize music](https://audiotag.info/)
 
 ## Melodies Creation and Sharing
 - [Beepbox](https://beepbox.co/) : BeepBox is an online tool for sketching and sharing instrumental melodies. 
-- [Jummbox](https://jummbus.bitbucket.io) : Jummbox is Beepbox modification (online tool for sketching and sharing chiptune melodies).
+- [Jummbox](https://jummbus.bitbucket.io) : Jummbox is Beepbox modification (online tool for sketching and sharing chip tune melodies).
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTM5MTA4ODc2MF19
+-->

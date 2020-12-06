@@ -17,7 +17,7 @@ draft: false
 - [Akuli](https://github.com/Akuli/python-tutorial) License: ZLIB
 - [Python 3 Workshop](https://github.com/ishpreet-singh/python3-workshop) License: MIT
 - [Data Snakes](https://github.com/datasnakes/python-hands-on-tutorial) License: MIT
-- [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb), [Github](https://github.com/jakevdp/WhirlwindTourOfPython) License: CC0
+- [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb), [GitHub](https://github.com/jakevdp/WhirlwindTourOfPython) License: CC0
 - [30 Seconds of Python ](https://github.com/30-seconds/30-seconds-of-python) License: CC0
 - [Fluent Python](https://github.com/cundi/fluent-python) License: CC0
 - [Practical Python](https://github.com/dabeaz-course/practical-python) License: CC-BY
@@ -46,9 +46,9 @@ draft: false
 
 ### CC-BY Python Books
 - [Python for Everybody](https://www.py4e.com/book) License: CC BY (NC for some case)
-- [Dive into Python](https://diveintopython3.problemsolving.io/) LIncese: CC-BY
-- [Python Book](https://goalkicker.com/PythonBook/) License: CC-BY Filetype:pdf
-- [Algorithmic Python](https://www.eecs.wsu.edu/~schneidj/swan/) License: CC-BY Filetype:pdf
+- [Dive into Python](https://diveintopython3.problemsolving.io/) License: CC-BY
+- [Python Book](https://goalkicker.com/PythonBook/) License: CC-BY, File type:pdf
+- [Algorithmic Python](https://www.eecs.wsu.edu/~schneidj/swan/) License: CC-BY, File type:pdf
 - [Python for Humanities](https://www.karsdorp.io/python-course/) License: CC-BY
 - [A Byte of Python](https://python.swaroopch.com/), [Indonesian Version](https://github.com/asofyan/byte_of_python) License: CC-BY
 
@@ -61,7 +61,7 @@ draft: false
 - [Modeling Simulation in Python](https://github.com/AllenDowney/ModSimPy) License: CC-BY-NC
 - [Physical Modeling in Matlab](https://github.com/AllenDowney/PhysicalModelingInMatlab) License: CC-BY-NC
 - [Automate the Boring Stuff](https://automatetheboringstuff.com/) License: CC-BY-NC
-- [Invent with Python](https://inventwithpython.com/invent4thed/) LIcense: CC-BY-NC
+- [Invent with Python](https://inventwithpython.com/invent4thed/) License: CC-BY-NC
 - [Making Games with Python and PyGame](https://inventwithpython.com/pygame/) License: CC-BY-NC
 - [Practical into Python Programming](https://www.brianheinold.net/python/python_book.html) License: CC-BY-NC
 - [Hands on Python Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial/ch-html) License: CC-BY-NC
@@ -77,3 +77,6 @@ draft: false
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQ3MzI5OTc1MV19
+-->

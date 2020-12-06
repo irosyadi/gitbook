@@ -11,7 +11,7 @@ draft: false
 
 # NCBI Papers with Code
 
-List of awesome NCBI Papers with Code Suplement.
+List of awesome NCBI Papers with Code Supplement.
 
 ## CNN
 
@@ -105,3 +105,6 @@ Code: https://github.com/AlexOlsen/DeepWeeds
 
 
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE3MTA3MTQ1OTddfQ==
+-->

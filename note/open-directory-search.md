@@ -11,7 +11,7 @@ draft: false
 
 # Open Directory Search
 
-Open Directories are unprotected directories of pics, vids, music, software and otherwise interesting files.
+Open Directories are unprotected directories of pics, videos, music, software and otherwise interesting files.
 
 ## Google Manual Search
 For videos/movies/tvshows :
@@ -33,7 +33,7 @@ intitle:"Search Term" (pdf|epub|mob) "name or title" -inurl:(jsp|pl|php|html|asp
 
 ## Google Drive Search
 
-You can also find google drive shared files similarly.  
+You can also find Google Drive shared files similarly.  
 [Shared folders](https://www.google.com/search?q=site%3Adrive.google.com+%2B%22drive%2Ffolders%22)  
 [Shared everything](https://www.google.com/search?q=site%3Adrive.google.com)  
 Works with other domains too.
@@ -103,7 +103,7 @@ Another [Linked Images Bookmarklet](https://web.archive.org/web/20180803113222/h
 - [wget A Noobs Guide (PDF)](https://chris.partridge.tech/data/wget-noobs.pdf) by [u/regravity](https://old.reddit.com/u/regravity)
 - [How to install wget on OSX](https://thomashunter.name/blog/install-wget-on-os-x-lion/) by [u/nucleocide](https://old.reddit.com/u/nucleocide)
 
-There are other softwares that provide wget with a GUI like [Gwget](https://projects-old.gnome.org/gwget/) and [WinWGet](https://winwget.sourceforge.net/) though I've never used them and hence can't comment on their reliability.
+There are other software programs that provide wget with a GUI like [Gwget](https://projects-old.gnome.org/gwget/) and [WinWGet](https://winwget.sourceforge.net/) though I've never used them and hence can't comment on their reliability.
 
 - [youtube-dl](https://github.com/rg3/youtube-dl) (Python) downloads videos from various sites. Just like wget you can find GUI frontend for this.
 - [RipMe](https://github.com/RipMeApp/ripme) (Java) is an album ripper for various websites.
@@ -130,3 +130,6 @@ You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is m
 - [Archive.org](https://archive.org)
 - [The Trove](https://thetrove.net)
 - [Telegram Channel](https://t.me/r_OpenDirectories)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTk2NzUxODY2N119
+-->

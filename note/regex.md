@@ -42,10 +42,13 @@ draft: false
 
 ## Regex Books and Tutorials
 - [Learn by Example](https://learnbyexample.github.io/books/)
-- [Refrf](https://refrf.shreyasminocha.me/), [Github](https://github.com/shreyasminocha/regex-for-regular-folk) License: CC-BY
+- [Refrf](https://refrf.shreyasminocha.me/), [GitHub](https://github.com/shreyasminocha/regex-for-regular-folk) License: CC-BY
 - [Regular Expression](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
 - [Regex Cheat Sheet](https://cheatography.com/davechild/cheat-sheets/regular-expressions/)
 - [Regex Visual](https://amitness.com/regex/)
 - [Regex for Noobs](https://www.janmeppe.com/blog/regex-for-noobs/) : regex learn with visualization
-- [Python Regex Cheatsheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
+- [Python Regex Cheat sheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
 - [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTExMDY2NTY0MTFdfQ==
+-->

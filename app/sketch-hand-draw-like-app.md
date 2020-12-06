@@ -21,10 +21,13 @@ draft: false
 - [Comix XKCD](https://cmx.io/edit/)
 - [XKCD Style Matplotlib](https://jakevdp.github.io/blog/2012/10/07/xkcd-style-plots-in-matplotlib/)
 
-## Typing Text in Hand Written Style
+## Typing Text in Handwritten Style
 - [Handwriting Generation](https://seanvasquez.com/handwriting-generation/)
 - [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/)
 - [Handwritten.js](https://alias-rahil.github.io/handwritten.js/)
 
 ## Font from Handwritten
 - [Calligraphr](https://www.calligraphr.com/en/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM2ODA3MTg2N119
+-->

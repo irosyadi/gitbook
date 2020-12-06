@@ -15,7 +15,7 @@ draft: false
 - [Hemingway](https://www.hemingwayapp.com/) : Free web based app, spellchecker with style and readability grading.
 - [Writefull ](https://writefull.com/) : Free web based and desktop app. Corrects grammar, vocabulary, punctuation, and more - aimed specifically at academic writing. 
 - [Ginger](https://www.gingersoftware.com/grammarcheck)
-- [Language Tool](https://languagetool.org/)
+- [LanguageTool](https://languagetool.org/)
 - [Linguix](https://linguix.com/grammar-check)
 - [Tipely](https://typely.com/) : beautiful essay editor and grammar checker
 - [Paperrater](https://www.paperrater.com/)
@@ -29,7 +29,7 @@ draft: false
 - [Grammarly for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
 - [Linguix](https://addons.mozilla.org/en-US/firefox/addon/linguix/)
 
-## MS Word Add Ons
+## MS Word Add-ons
 - [Writefull ](https://writefull.com/)
 - [Grammarly](https://app.grammarly.com/)
 
@@ -39,3 +39,6 @@ draft: false
 - [Chektext](https://www.checktext.org/)
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE2OTc1OTI1NF19
+-->

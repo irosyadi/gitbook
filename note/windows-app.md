@@ -11,7 +11,7 @@ draft: false
 
 # Awesome Windows Apps
 
-This is list of awesome apps for Windows 10.
+This is a list of awesome apps for Windows 10.
 
 ## File Tools
 - 7-Zip : file compression
@@ -30,13 +30,13 @@ This is list of awesome apps for Windows 10.
 ## File Downloader
 - PyIDM : download manager (portable, direct)
 - Youtube-DLG (youtube-dl-gui): video download manager
-- Libgen Desktop : ebook search and download manager
+- Libgen Desktop : e-book search and download manager
 - wget : file download (portable, direct, terminal)
 
 ## Image and Photo Tools
 - Microsoft Photos : photo manager and viewer
-- ShareX : screenshoot tools (complete)
-- Snip & Sketch : screenshoot tools (quick, simple, windows default)
+- ShareX : screenshot tools (complete)
+- Snip & Sketch : screenshot tools (quick, simple, windows default)
 
 ## Image Photo Editor Converter
 - paint.net : image editor (free, complete)
@@ -80,7 +80,7 @@ This is list of awesome apps for Windows 10.
 
 ## Computing Programming
 - Anaconda3 : numerical computation, python
-- Arduino : arduino programming
+- Arduino : Arduino programming
 - Julia : numerical computation
 - Kite : program linting
 - Microsoft Visual Studio Code : IDE
@@ -91,10 +91,10 @@ This is list of awesome apps for Windows 10.
 
 ## Hand Writing
 - Microsoft Whiteboard
-- Xournal++ : notetaking and PDF annotation tool
-- Microsoft Font Maker : convert hand writing to font
-- gInk : desktop hand writing (portable)
-- livedraw : desktop hand writing (portable)
+- Xournal++ : note taking and PDF annotation tool
+- Microsoft Font Maker : convert handwriting to font
+- gInk : desktop handwriting (portable)
+- livedraw : desktop handwriting (portable)
 
 ## Note Taking
 - Notepad++ : note taking, text editor
@@ -112,8 +112,8 @@ This is list of awesome apps for Windows 10.
 - Ditto : clipboard manager, copy-paste
 
 ## Islamic
-- OneQuran : complete quran, hadits
-- Quran : simple quran
+- OneQuran : complete Quran, hadith
+- Quran : simple Quran
 
 ## Windows Tools
 - AutoHotkey : automation for Windows
@@ -269,3 +269,6 @@ This is list of awesome apps for Windows 10.
 - [Youtube](https://www.youtube.com/watch?v=oAtamA8zSpw)
 - [Youtube](https://www.youtube.com/watch?v=7F1YZ4e-XKM)
 - [Crucial](https://www.crucial.com/compatible-upgrade-for/lenovo/ideapad-c340#ssd)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTQzNzQyMzk2MF19
+-->

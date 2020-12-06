@@ -24,10 +24,10 @@ draft: false
 - [Duck Duck Go Lite](https://duckduckgo.com/lite/) : simple search engine
 - [Wiby](https://wiby.me/) : text only search engine
 - [Pinboard Search](https://pinboard.in/search/)
-- [Read Spike](https://readspike.com/) : simple news agregator
-- [Skimfeed](https://skimfeed.com/) : news agregator
+- [Read Spike](https://readspike.com/) : simple news aggregator
+- [Skimfeed](https://skimfeed.com/) : news aggregator
 - [Weather](https://wttr.in/) : weather in text
-- [Words and Button](https://wordsandbuttons.online/) : collection of interactive tutorials, demos, and quizzes about maths, algorithms, and programming
+- [Words and Button](https://wordsandbuttons.online/) : collection of interactive tutorials, demos, and quizzes about math, algorithms, and programming
 - [Txti](https://txti.es/) : make a web page text only
 
 ## Text Only Blogs
@@ -47,3 +47,6 @@ draft: false
 ## List of Spartan Websites
 - [1MB Club ](https://1mb.club/) : performance-focused web pages found across the internet.
 - [Leanternet](https://www.leanternet.com/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEyOTU4NTg2MjFdfQ==
+-->

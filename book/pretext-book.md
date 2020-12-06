@@ -41,16 +41,19 @@ draft: false
 - [Precalculus: An Active Reading Approach: Elementary Functions](https://www.mhcc.edu/precalc1/) License: CC-BY
 - [Discrete Math 321 Class Notes ](https://www.math.wichita.edu/~hammond/class-notes/discrete-class-notes.html) License: CC (?)
 - [Discrete Mathematics](https://www.jiblm.org/mahavier/discrete/html/index.html) License: CC (?)
-- [Calculus I, II, and III: A Problem-Based Approach with Early Transcendentals](https://www.jiblm.org/mahavier/calculus/html/book-1.html) License: CC (?)
+- [Calculus I, II, and III: A Problem-Based Approach with Early Transcendental](https://www.jiblm.org/mahavier/calculus/html/book-1.html) License: CC (?)
 
 ### CC-BY-NC License
 - [Business Calculus with Excel](https://mathstat.slu.edu/~may/ExcelCalculus/) License: CC-BY-NC
 - [Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) License: CC-BY-NC
 - [Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) License: CC-BY-NC
 - [Discrete Mathematics for Computer Science](https://icsatkcc.github.io/Discrete-Math-for-Computer-Science/frontmatter.html) License: CC-BY-NC
-- [PCC SLC Math Resources Basic Math](https://spot.pcc.edu/slc/mathresources/output/html/) Lincense: CC-BY
+- [PCC SLC Math Resources Basic Math](https://spot.pcc.edu/slc/mathresources/output/html/) License: CC-BY
 
 ### Other License
 - [The Story of 8](https://mphitchman.com/eight/index.html)
 - [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html) License: -
 - [W214 Linear Algebra](https://math.sun.ac.za/bbartlett/w214-lin-alg/html/w214-lin-alg.html) License: -
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzM0MDEyNjk3XX0=
+-->

@@ -42,8 +42,8 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Flags](https://www.flags.net/)
 - [Wikipedia Flag](https://data.world/pbi/country-flag-database-from-wikipedia)
 - [UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Flags)
-- [Country Flags](https://hjnilsson.github.io/country-flags/) [Github](https://github.com/hjnilsson/country-flags)
-- [Country Flags #2](https://cristiroma.github.io/countries/) [Github](https://github.com/cristiroma/countries)
+- [Country Flags](https://hjnilsson.github.io/country-flags/) [GitHub](https://github.com/hjnilsson/country-flags)
+- [Country Flags #2](https://cristiroma.github.io/countries/) [GitHub](https://github.com/cristiroma/countries)
 - [Kaggle](https://www.kaggle.com/skrzym/world-flags)
 - [Wikipedia List of Flags](https://www.wikiwand.com/en/Lists_of_flags)
 
@@ -57,3 +57,6 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Toko3 Bendera Meja](https://www.tokopedia.com/apdlawyershop/bendera-meja-negara-dunia-lengkap-semua-negara-ada-plus-tiang-kayu-ok?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D17_catid%3D4374_bmexp%3D48&whid=0)
 - [Toko4 Bendera Kapal](https://www.tokopedia.com/silverior/bendera-kibar-kain-negara-dunia-ship-flag-bendera-kapal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D40_catid%3D4374_bmexp%3D48&whid=0)
 - [Bendera Kecil](https://www.tokopedia.com/depuspa/bendera-dunia-kecil-100-pcs-bendera-negara-negara-dunia?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D42_catid%3D4374_bmexp%3D48&whid=0)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU3NTcyMTY3N119
+-->

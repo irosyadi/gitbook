@@ -11,7 +11,7 @@ draft: false
 
 # NLP Models
 
-## List Excellent NLP Pretrained Models
+## List of Excellent NLP Pretrained Models
 [List Pretrained Models NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/):  
 - **Multi-Purpose NLP Models**
     - ULMFiT
@@ -24,3 +24,6 @@ draft: false
     - Flair
 - **Other Pretrained Models**
     - StanfordNLP
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjcwOTIxNzU3XX0=
+-->

@@ -11,7 +11,7 @@ draft: false
 
 #  Experimental Markdown
 
-Experimental markdown to check markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
+Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
 
 ## Symbol List
@@ -61,3 +61,6 @@ Hello world
   <div class="alert alert-warning" role="alert"><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
 
   <div class="alert alert-danger" role="alert"><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzODcxNjU0NTJdfQ==
+-->

@@ -47,13 +47,16 @@ draft: false
 1. [Introduction of Networking: How Internet Works](https://www.net-intro.com/) CC-BY-NC (print)
 1. [The Shape of Design](https://shapeofdesignbook.com/), [French Translation](https://github.com/eric-brechemier/the-shape-of-design-french-translation) CC-BY-NC
 1. [Pro Git](https://git-scm.com/book/en/v2) CC-BY-NC
-1. [Problem Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) CC-BY-NC
+1. [Problem-Solving with Algorithms and Data Structures using Python](https://runestone.academy/runestone/books/published/pythonds/index.html) CC-BY-NC
 1. [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) CC-BY-NC
 1. [Nature of Code](https://natureofcode.com/book/)[Code](https://github.com/nature-of-code) CC-BY-NC
-1. [Introduction to Autonomus Robot](https://github.com/correll/Introduction-to-Autonomous-Robots) License: CC BY-NC
+1. [Introduction to Autonomous Robot](https://github.com/correll/Introduction-to-Autonomous-Robots) License: CC BY-NC
 1. [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/) License: CC BY-NC-SA
 
 ## CC-BY-NC-ND Licensed Books
 1. [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
 1. [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
 1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) CC-BY-NC-ND
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTYyNzc5MTMxMV19
+-->

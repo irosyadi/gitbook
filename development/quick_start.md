@@ -46,15 +46,15 @@ You can write...
 $ npm run post
 ```
 
-## 4. Fix meta data
+## 4. Fix metadata
 
-You can fix meta data of blog in `/gatsby-meta-config.js` file.
+You can fix metadata of blog in `/gatsby-meta-config.js` file.
 
 ## 5. Publish with [netlify](https://netlify.com)
 
 [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JaeYeopHab/gatsby-starter-bee)
 
-:bulb: if you want to deploy github pages, add following script to package.json
+:bulb: if you want to deploy GitHub pages, add the following script to package.json
 
 ```json
 "scripts": {
@@ -116,3 +116,6 @@ src/styles
 
 > Welcome to gatsby-starter-bee!
 > Happy blogging! 👻
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTM1NDcxMDI0N119
+-->

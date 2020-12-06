@@ -15,7 +15,7 @@ draft: false
 - [Hands-On Machine Learning with R](https://koalaverse.github.io/homlr/)
 - [Python Data Science](https://github.com/jakevdp/PythonDataScienceHandbook)
 - [Learning Scipy](https://github.com/rojassergio/Learning-Scipy)
-- [Think LIke a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
+- [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [Data Science from the Scratch](https://github.com/joelgrus/data-science-from-scratch)
 - [Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/book.html)
 
@@ -23,3 +23,6 @@ draft: false
 # Blog of ML
 - [ML at Berkeley](https://ml.berkeley.edu/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU1MjIxMzM5N119
+-->

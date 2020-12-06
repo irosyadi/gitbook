@@ -1,15 +1,15 @@
 ---
 layout: default
 author: irosyadi
-title:  Ebook Search Engine
+title:  E-Book Search Engine
 date: 2020-11-28 08:37:00
 path: /book
 category: book
-tags: ebook search engine
+tags: e-book search engine
 draft: false
 ---
 
-# Ebook Search Engine
+# E-Book Search Engine
 
 - [http://185.39.10.101/](http://185.39.10.101/)
 - [genlib.rus](https://gen.lib.rus.ec)
@@ -22,3 +22,6 @@ draft: false
 - [bookfi.net](https://en.bookfi.net)
 - [z-lib](https://z-lib.org/)
 - [Archive.org Texts](https://archive.org/details/texts)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTE5Nzk0OTMxNzBdfQ==
+-->

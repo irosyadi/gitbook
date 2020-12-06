@@ -87,9 +87,9 @@ draft: false
 
 - [Earthquake Track](https://earthquaketrack.com/) - Map of earthquakes.
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
-- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyber attacks.
+- [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyberattacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
-- [Missilemap](https://nuclearsecrecy.com/missilemap/) - Simulate of missile reachs
+- [Missilemap](https://nuclearsecrecy.com/missilemap/) - Simulate of missile reaches
 
 ## Historic
 
@@ -118,7 +118,7 @@ draft: false
 
 ### Mars
 
-- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the mars.
+- [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the Mars.
 
 ### Solar System
 
@@ -142,3 +142,6 @@ draft: false
 - [Leaflet JS](https://leafletjs.com/)
 - [Umap](https://umap.openstreetmap.fr/en/)
 - [Draw Poligon on Map](https://www.keene.edu/campus/maps/tool/)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMzk5MTc2OTI2XX0=
+-->

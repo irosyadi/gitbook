@@ -120,7 +120,7 @@ Force Google to show map results for a locational search.
 **Example:** **[map:silicon valley](https://www.google.com/search?q=map%3Asilicon+valley)**
 
 ### movie:
-Find information about a specific movie. Also finds movie showtimes if the movie is currently showing near you.
+Find information about a specific movie. Also finds movie show times if the movie is currently showing near you.
 **Example:** **[movie:steve jobs](https://www.google.com/search?q=movie%3Asteve+jobs)**
 
 ### in
@@ -134,3 +134,6 @@ Find news results from a certain source in Google News.
 ### _
 Not exactly a search operator, but acts as a wildcard for Google Autocomplete.
 **Example: apple CEO _ jobs**
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTUzMzc3NzQ1MV19
+-->

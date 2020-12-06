@@ -29,7 +29,7 @@ draft: false
 ## CC-BY-NC Data Science Book
 - [Data Science with R](https://github.com/jmstanto/data-science-r) License: CC-BY-NC
 - [Data Science with R: A Resource Compendium](https://bookdown.org/martin_monkman/DataScienceResources_book/) License: CC-BY-NC
-- [A Programmer's Guide to Data Mining](https://guidetodatamining.com/) LIcense CC-BY-NC
+- [A Programmer's Guide to Data Mining](https://guidetodatamining.com/) License: CC-BY-NC
 
 ## CC-BY-ND Data Science Book
 - [Data Science at the Command Line](https://www.datascienceatthecommandline.com/) License: CC-BY-ND
@@ -37,9 +37,9 @@ draft: false
 - [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro.html) CC-BY-ND-NC
 - [Computational and Inferential Thinking The Foundations of Data Science](https://www.inferentialthinking.com/chapters/intro) License: CC-BY-NC-ND
 - [Julia for Data Science](https://www.david-anthoff.com/jl4ds/stable/) License CC-BY-NC-ND
-- [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro) LIcense CC-BY-NC-ND
+- [Principles and Techniques of Data Science](https://www.textbook.ds100.org/intro) License CC-BY-NC-ND
 - [Probability for Data Science](https://prob140.org/textbook/README.html) CC-BY-NC-ND
-- [Data Course by University of Barkeley](https://data8.org/) [Data BArkeley](https://data.berkeley.edu/data-science-all) License: CC-BY-NC-ND
+- [Data Course by University of Berkeley](https://data8.org/) [Data Berkeley](https://data.berkeley.edu/data-science-all) License: CC-BY-NC-ND
 
 ## Free Data Science Book
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
@@ -53,10 +53,13 @@ draft: false
 The Best for Learning
 - [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
 
-- [Python for Data Analysis Book](https://wesmckinney.com/pages/book.html) [Github](https://github.com/wesm/pydata-book)
+- [Python for Data Analysis Book](https://wesmckinney.com/pages/book.html) [GitHub](https://github.com/wesm/pydata-book)
 
 ## List of Data Science Books
 - [Learn Data Sci](https://www.learndatasci.com/free-data-science-books/) List of Free Data Science Book
 - [List Free Data Science Book](https://www.datasciencecentral.com/profiles/blogs/50-must-read-free-books-for-every-data-scientist-in-2020-1)
 - [List Data Science Book with Bookdown](https://bookdown.org/)
 - [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbNjE4NjEyMTM2XX0=
+-->
