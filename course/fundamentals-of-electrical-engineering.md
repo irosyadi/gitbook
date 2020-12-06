@@ -41,6 +41,3 @@ draft: false
 - [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
 - [Electrical Engineering Playlist by Reach](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5)
 - [Electrical Engineering Playlist by Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NTIwMzYxOF19
--->

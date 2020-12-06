@@ -77,6 +77,3 @@ draft: false
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3MzI5OTc1MV19
--->

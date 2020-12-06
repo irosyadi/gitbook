@@ -67,6 +67,3 @@ draft: false
 
 ## Articles about Machine Learning
 - [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDU0NzcxOV19
--->

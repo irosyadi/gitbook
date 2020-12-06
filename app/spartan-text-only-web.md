@@ -47,6 +47,3 @@ draft: false
 ## List of Spartan Websites
 - [1MB Club ](https://1mb.club/) : performance-focused web pages found across the internet.
 - [Leanternet](https://www.leanternet.com/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTU4NTg2MjFdfQ==
--->

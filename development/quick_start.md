@@ -116,6 +116,3 @@ src/styles
 
 > Welcome to gatsby-starter-bee!
 > Happy blogging! 👻
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NDcxMDI0N119
--->

@@ -43,6 +43,3 @@ draft: false
 - [Joplin](https://joplinapp.org/),  multiplatform (mobile, PC, terminal) has more features than practically every other note-taking app out there.
 - [Notion](https://notion.so/)
 - [Brick](https://brick.do/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI2NTkzNTA4MF19
--->

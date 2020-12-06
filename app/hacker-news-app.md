@@ -54,6 +54,3 @@ draft: false
 - [MLN](https://mln.dev/top/1) for machine learning
 - [Sqwok](https://sqwok.im/)
 - [Datatau](https://datatau.net/) for data science
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTI5MDg4NzFdfQ==
--->

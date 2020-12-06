@@ -71,6 +71,3 @@ Vineeta Ojha et al.
 - [Benchmarking Deep Learning Models and Automated Model Design for COVID-19 Detection with Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.06.08.20125963v1) [GitHub](https://github.com/arthursdays/HKBU_HPML_COVID-19)
 - A Novel and Reliable Deep Learning Web-Based Tool to Detect COVID-19 Infection from Chest CT-Scan, [Arxiv](https://arxiv.org/abs/2006.14419) [GitHub](https://github.com/KiLJ4EdeN/COVID_WEB)
 - [Radiologist-Level COVID-19 Detection Using CT Scans with Detail-Oriented Capsule Networks](https://arxiv.org/pdf/2004.07407.pdf) [GitHub](https://github.com/amobiny/DECAPS_for_COVID19)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzM5NTYyNzRdfQ==
--->

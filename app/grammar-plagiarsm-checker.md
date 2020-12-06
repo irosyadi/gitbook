@@ -39,6 +39,3 @@ draft: false
 - [Chektext](https://www.checktext.org/)
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2OTc1OTI1NF19
--->

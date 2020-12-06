@@ -23,6 +23,3 @@ draft: false
 # Blog of ML
 - [ML at Berkeley](https://ml.berkeley.edu/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1MjIxMzM5N119
--->

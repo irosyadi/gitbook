@@ -269,6 +269,3 @@ This is a list of awesome apps for Windows 10.
 - [Youtube](https://www.youtube.com/watch?v=oAtamA8zSpw)
 - [Youtube](https://www.youtube.com/watch?v=7F1YZ4e-XKM)
 - [Crucial](https://www.crucial.com/compatible-upgrade-for/lenovo/ideapad-c340#ssd)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzNzQyMzk2MF19
--->

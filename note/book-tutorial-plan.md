@@ -122,6 +122,3 @@ My upcoming planned books and tutorials.
 
 ### Others
 - [Working-with-Climate-Data-in-Python](https://github.com/MarieHofmann/Working-with-Climate-Data-in-Python) License: CC-BY
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbOTA0MDA1MjM5XX0=
--->

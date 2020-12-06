@@ -51,6 +51,3 @@ So, here are my workflow:
 - No first line texxt in Gitbook. We should start with Header to make Gitbook display the correct Header.
 - In Gitbook, you cannot have two Header 1's or more.
 - In Gatsby, you need a title. So if you have both title and Header 1, both will be displayed in Gatsby site.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzNTMyOTc0OF19
--->

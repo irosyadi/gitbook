@@ -54,6 +54,3 @@ Note that the role that the interpreter plays in the case of a mixed-mode execut
 Reference:
 [Interpreter vs JIT](https://pediaa.com/what-is-the-difference-between-interpreter-and-jit-compiler/)
 
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4ODc0NTg5N119
--->

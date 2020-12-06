@@ -64,6 +64,3 @@ draft: false
 ### Time Management
 - Mind the Time : Keep track of how much time you spend on the web, and where you spend it. 
 - Pomodoro clock : A simple pomodoro clock in your browser to hack your productivity.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzU5ODU4OV19
--->

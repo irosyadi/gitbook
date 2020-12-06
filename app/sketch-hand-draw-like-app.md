@@ -28,6 +28,3 @@ draft: false
 
 ## Font from Handwritten
 - [Calligraphr](https://www.calligraphr.com/en/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2ODA3MTg2N119
--->

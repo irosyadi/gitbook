@@ -102,9 +102,3 @@ Code: https://github.com/p2irc/deepplantphenomics
 Paper: https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6375952/
 Code: https://github.com/AlexOlsen/DeepWeeds
 
-
-
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3MTA3MTQ1OTddfQ==
--->

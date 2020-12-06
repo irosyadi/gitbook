@@ -43,6 +43,3 @@ draft: false
 - [berksudan](https://github.com/berksudan/Real-Time-Emotion-Detection) Real time emotion detection from facial expression using both machine learning and deep learning techniques. 
 - [AMER](https://github.com/m-elkhou/Facial_Expression_Detection)  This project was about providing an Android application that can help people take charge of their own emotional health by capturing their micro expressions such as happiness, sadness, anger, disgust, surprise, fear, and neutral. 
 - [realtime-facial-emotion-analizer](https://github.com/susantabiswas/realtime-facial-emotion-analyzer)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk5MzEyODFdfQ==
--->

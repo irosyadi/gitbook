@@ -49,6 +49,3 @@ draft: false
 - [Regex for Noobs](https://www.janmeppe.com/blog/regex-for-noobs/) : regex learn with visualization
 - [Python Regex Cheat sheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
 - [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDY2NTY0MTFdfQ==
--->

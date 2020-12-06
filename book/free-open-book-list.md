@@ -68,6 +68,3 @@ Example of the books:
 ## List of Open Book
 1. [Open Text Books UMN](https://open.umn.edu/opentextbooks/)
 2. [CC Python Books](https://mksaad.wordpress.com/2019/04/03/open-source-python-programming-books-licensed-under-creative-commons/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzI3MTcxNTVdfQ==
--->

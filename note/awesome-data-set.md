@@ -12,7 +12,3 @@ draft: false
 # Awesome Data Set
 
 - [MediaPipe Objectron by Google](https://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html) The model was designed for real-time 3D object detection for mobile devices. This model was trained on a fully annotated, real-world 3D dataset and could predict objects' 3D bounding boxes. [GitHub](https://github.com/google-research-datasets/Objectron/)
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMzk4NDIzNl19
--->

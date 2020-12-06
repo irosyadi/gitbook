@@ -142,6 +142,3 @@ draft: false
 - [Leaflet JS](https://leafletjs.com/)
 - [Umap](https://umap.openstreetmap.fr/en/)
 - [Draw Poligon on Map](https://www.keene.edu/campus/maps/tool/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzk5MTc2OTI2XX0=
--->

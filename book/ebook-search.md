@@ -22,6 +22,3 @@ draft: false
 - [bookfi.net](https://en.bookfi.net)
 - [z-lib](https://z-lib.org/)
 - [Archive.org Texts](https://archive.org/details/texts)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzk0OTMxNzBdfQ==
--->

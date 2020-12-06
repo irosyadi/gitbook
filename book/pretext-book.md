@@ -54,6 +54,3 @@ draft: false
 - [The Story of 8](https://mphitchman.com/eight/index.html)
 - [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html) License: -
 - [W214 Linear Algebra](https://math.sun.ac.za/bbartlett/w214-lin-alg/html/w214-lin-alg.html) License: -
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMzM0MDEyNjk3XX0=
--->

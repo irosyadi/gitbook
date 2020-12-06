@@ -60,6 +60,3 @@ The Best for Learning
 - [List Free Data Science Book](https://www.datasciencecentral.com/profiles/blogs/50-must-read-free-books-for-every-data-scientist-in-2020-1)
 - [List Data Science Book with Bookdown](https://bookdown.org/)
 - [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE4NjEyMTM2XX0=
--->

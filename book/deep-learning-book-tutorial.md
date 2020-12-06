@@ -31,6 +31,3 @@ draft: false
 
 ## List of Deep Learning Books
 - [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNjU2MjUxMF19
--->

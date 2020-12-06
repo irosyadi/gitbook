@@ -57,6 +57,3 @@ draft: false
 1. [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
 1. [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
 1. [Computational and Inferential Thinking](https://www.inferentialthinking.com/chapters/intro) CC-BY-NC-ND
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYyNzc5MTMxMV19
--->

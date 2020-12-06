@@ -77,6 +77,3 @@ draft: false
 - Octave -software featuring a high-level programming language, primarily intended for numerical computations. Basically free MATLAB Alternative
 - R- programming language -free software environment for statistical computing and graphics
 - W3Schools - The world's largest Web Development learning site.
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjI0NTQ2NF19
--->

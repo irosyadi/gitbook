@@ -36,7 +36,3 @@ draft: false
 ## Melodies Creation and Sharing
 - [Beepbox](https://beepbox.co/) : BeepBox is an online tool for sketching and sharing instrumental melodies. 
 - [Jummbox](https://jummbus.bitbucket.io) : Jummbox is Beepbox modification (online tool for sketching and sharing chip tune melodies).
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5MTA4ODc2MF19
--->

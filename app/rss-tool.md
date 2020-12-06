@@ -27,6 +27,3 @@ List of RSS Tools.
 
 ## Discussion
 1. [Hacker News](https://news.ycombinator.com/item?id=23583629)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTU0NDgyOTZdfQ==
--->

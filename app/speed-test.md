@@ -21,6 +21,3 @@ draft: false
 - [st3d unsoed](https://st3d.unsoed.ac.id/) : unsoed librespeed server
 - [Openspeedtest](https://openspeedtest.com/)
 - [speed of me](https://speedof.me/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMzA4OTk0OF19
--->

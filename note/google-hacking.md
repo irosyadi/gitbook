@@ -134,6 +134,3 @@ Find news results from a certain source in Google News.
 ### _
 Not exactly a search operator, but acts as a wildcard for Google Autocomplete.
 **Example: apple CEO _ jobs**
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzMzc3NzQ1MV19
--->

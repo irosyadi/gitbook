@@ -47,6 +47,3 @@ draft: false
 - [Board New](https://board.new/)
 - [Aww App](https://awwapp.com)
 - [List of the App](https://zapier.com/blog/best-online-whiteboard/)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbNzk0MzE0MjkyXX0=
--->
