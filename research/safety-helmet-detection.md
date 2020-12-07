@@ -12,28 +12,37 @@ draft: false
 # Safety Helmet and Plate Detection
 
 ## Safety Helmet Detection Github Repos
-- [Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset)
-- [helmet-detection](https://github.com/wujixiu/helmet-detection)
-- [yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection)
-- [automatic-helmet-detection](https://github.com/iamdsc/automatic-helmet-detection)
-- [safety-helmet-detection-in-real-time-video](https://github.com/Angericky/safety-helmet-detection-in-real-time-video)
-- [Helmet-Detection-](https://github.com/AyazSaiyed/Helmet-Detection-)
-- [Yolo-Training-GoogleColab](https://github.com/rafiuddinkhan/Yolo-Training-GoogleColab)
-- [CenterNet-MobileNetV3](https://github.com/YaphetS-X/CenterNet-MobileNetV3)
-- [Smart_Construction](https://github.com/PeterH0323/Smart_Construction)
-- [Safety_Detection](https://github.com/mohanrajmit/Safety_Detection)
-- [Object-Detection_HelmetDetection](https://github.com/weimin17/Object-Detection_HelmetDetection)
+- [njvisionpower/Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset) : safety helmet dataset, segmented by Yolo
+- [wujixiu/helmet-detection](https://github.com/wujixiu/helmet-detection) : SSD-MobileNet, Faster-RCNN, TinyYOLO etc. [Paper](https://authors.elsevier.com/c/1ZOzK_L4MYHLYO)
+- [BlcaKHat/yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection) : YOLOv3, image
+- [iamdsc/automatic-helmet-detection](https://github.com/iamdsc/automatic-helmet-detection) : realtime, SSD-MobileNet
+- [Angericky/safety-helmet-detection-in-real-time-video](https://github.com/Angericky/safety-helmet-detection-in-real-time-video): realtime, YOLO
+- [AyazSaiyed/Helmet-Detection-](https://github.com/AyazSaiyed/Helmet-Detection-): image, YOLO
+- [rafiuddinkhan/Yolo-Training-GoogleColab](https://github.com/rafiuddinkhan/Yolo-Training-GoogleColab): realtime, YOLO
+- [YaphetS-X/CenterNet-MobileNetV3](https://github.com/YaphetS-X/CenterNet-MobileNetV3): realtime, CenterNet-MobileNet
+- [PeterH0323/Smart_Construction](https://github.com/PeterH0323/Smart_Construction): realtime, YOLOv5
+- [mohanrajmit/Safety_Detection](https://github.com/mohanrajmit/Safety_Detection): realtime, YOLO
+- [Object-Detection_HelmetDetection](https://github.com/weimin17/Object-Detection_HelmetDetection): image (video?), Contex RCNN
 
 ## Plate Lincense Detection Github Repos
-- [openalpr](https://github.com/openalpr/openalpr)
-- [License_Plate_Detection_Pytorch](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
-- [Tensorflow-License-Plate-Detection](https://github.com/Dharun/Tensorflow-License-Plate-Detection)
-- [alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained)
-- [LicensePlateRecognition](https://github.com/TheophileBuy/LicensePlateRecognition)
-- [CRNN-Keras](https://github.com/qjadud1994/CRNN-Keras)
-- [License-plate-detection](https://github.com/ThorPham/License-plate-detection)
-- [LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch)
-- [License_Plate_Detection_Pytorch](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch)
+- [openalpr/openalpr](https://github.com/openalpr/openalpr) : OpenALPR is an open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.
+- [xuexingyu24/License_Plate_Detection_Pytorch](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch) : This is a two stage lightweight and robust license plate recognition in MTCNN and LPRNet using Pytorch. MTCNN is a very well-known real-time detection model primarily designed for human face recognition. It is modified for license plate detection. LPRNet, another real-time end-to-end DNN, is utilized for the subsquent recognition. 
+- [Dharun/Tensorflow-License-Plate-Detection](https://github.com/Dharun/Tensorflow-License-Plate-Detection) : ssd-mobilenet + tasseract OCR
+- [sergiomsilva/alpr-unconstrained](https://github.com/sergiomsilva/alpr-unconstrained), [paper](http://sergiomsilva.com/pubs/alpr-unconstrained/)
+- [TheophileBuy/LicensePlateRecognition](https://github.com/TheophileBuy/LicensePlateRecognition) : Yolo+Edge Detection+CNN
+- [qjadud1994/CRNN-Keras](https://github.com/qjadud1994/CRNN-Keras) : CNN (for character recognition) + RNN (for number sequence detection), image
+- [lyl8213/Plate_Recognition-LPRnet](https://github.com/lyl8213/Plate_Recognition-LPRnet), [paper](https://arxiv.org/pdf/1806.10447v1.pdf) : CNN + CTC, image
+    - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch), LPRNet implementation in Pytorch
+
+## Ideas
+- Real Time Helmet Detection: video based, handheld based.
+- upgrade [wujixiu/helmet-detection](https://github.com/wujixiu/helmet-detection) : SSD-MobileNet, Faster-RCNN, TinyYOLO etc. [Paper](https://authors.elsevier.com/c/1ZOzK_L4MYHLYO)
+- upgrade [iamdsc/automatic-helmet-detection](https://github.com/iamdsc/automatic-helmet-detection) : realtime, SSD-MobileNet
+- upgrade [rafiuddinkhan/Yolo-Training-GoogleColab](https://github.com/rafiuddinkhan/Yolo-Training-GoogleColab): realtime, YOLO
+- upgrade [YaphetS-X/CenterNet-MobileNetV3](https://github.com/YaphetS-X/CenterNet-MobileNetV3): realtime, CenterNet-MobileNet
+- upgrade [PeterH0323/Smart_Construction](https://github.com/PeterH0323/Smart_Construction): realtime, YOLOv5
+- upgrade [mohanrajmit/Safety_Detection](https://github.com/mohanrajmit/Safety_Detection): realtime, YOLO
+- combined with plate identification?
 
 ## Safety Helmet Detection Paper
 - [An Enhanced Approach for Detecting Helmet on Motorcyclists Using Image Processing and Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-0680-8_11) [Github Repo](https://github.com/abhijeet-talaulikar/Automatic-Helmet-Detection)
