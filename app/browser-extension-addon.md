@@ -13,9 +13,17 @@ draft: false
 
 ## Firefox Browser Add-On
 
+### Download
+- DownThemAll! : The Mass Downloader for your browser
+
+### Github
+- Enhanced GitHub : Display repo size, size of each file, download link and option to copy file contents
+- Gitako - GitHub file tree : File tree for GitHub, and more than that.
+
 ### Search Tools
 - Add custom search engine : Add a custom search engine to the list of available search engines in the search bar.
-- Swift Selection Search : Swiftly access your search engines in a popup panel when you select text in a webpage.
+- Selection Context Search : Right click on a selected text and choose the search website from the popup window or the context menu.
+    - Swift Selection Search : Swiftly access your search engines in a popup panel when you select text in a webpage.
 
 ### Tab Management
 - Auto Tab Discard : Increase browser speed and reduce memory load and when you have numerous open tabs.
@@ -37,17 +45,25 @@ draft: false
 - ClearURLs : Remove tracking elements from URLs.
 - HTTPS Everywhere : Encrypt the Web! Automatically use HTTPS security on many sites.
 - uBlock Origin : Finally, an efficient blocker. Easy on CPU and memory.
+- Google Direct : Remove tracking links from Google Search results
+
 
 ### Site Enhancement
 - Refined Hacker News : Add useful features and tweak a little stuff to make the HN experience better without changing the look and feel
-- Reddit Enhancement Suite : A suite of modules that enhance your Reddit browsing experience
-- Enhanced GitHub : Display repo size, size of each file, download link and option to copy file contents
 - Dark Reader : Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
 - Wikiwand: Wikipedia Modernized : Good old Wikipedia gets a great new look
 - Violentmonkey : An open source user script manager that supports a lot of browsers
 
+### Reddit
+- Epiverse : View Reddit and Hacker News comments on all webpages.
+    - Thredd - Useful Advice from Reddit : Get reviews for the page you're reading or recommendations for similar content - crowdsourced from Reddit!
+- Reddit Enhancement Suite : A suite of modules that enhance your Reddit browsing experience
+
+### Research
+- Find Code for Research Papers - CatalyzeX : Find code implementations for machine learning research papers with code directly on Google, Arxiv, Scholar, Twitter, Github, etc.
+
 ### Page Information
-- Thredd - Useful Advice from Reddit : Get reviews for the page you're reading or recommendations for similar content - crowdsourced from Reddit!
+
 - What Hacker News Says : Easily find Hacker News threads about the page you're currently browsing.
 
 ### Browsing Tools

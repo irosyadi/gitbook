@@ -35,7 +35,6 @@ draft: false
 - [JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR](https://github.com/JordanMicahBennett/SMART-CT-SCAN_BASED-COVID19_VIRUS_DETECTOR), historical project related CT scan usage for Covid Classification
 - [Covid-Net](https://github.com/lindawangg/COVID-Net), complete covid-net project (Covid-Net, CovidNet-S, CovidNet-CT, COVIDNet-CXR)
     - [COVID-Net: a tailored deep convolutional neural network design for detection of COVID-19 cases from chest X-ray images](https://www.nature.com/articles/s41598-020-76550-z)
-
     - [COVIDNet-S: Towards computer-aided severity assessment via training and validation of deep neural networks for geographic extent and opacity extent scoring of chest X-rays for SARS-CoV-2 lung disease severity](https://arxiv.org/abs/2005.12855)
     - [COVIDNet-CT: A Tailored Deep Convolutional Neural Network Design for Detection of COVID-19 Cases from Chest CT Images](https://arxiv.org/abs/2009.05383), GitHub Repo [haydengunraj/COVIDNet-CT](https://github.com/haydengunraj/COVIDNet-CT) : COVIDNet-CT
     - [zeeshannisar/COVID-19](https://github.com/zeeshannisar/COVID-19) : CovidNet with different architecture pretrained
