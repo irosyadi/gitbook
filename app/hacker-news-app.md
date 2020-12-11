@@ -45,7 +45,7 @@ draft: false
 - [Hacker News Top Best and New ](https://hn.sawirstudio.com/)
 
 ## Alternative to Hacker News
-- [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/)
+- [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/) selfhosted
 - [Hubski](https://hubski.com/)
 - [laarc](https://www.laarc.io/)
 - [Spane](https://www.spane.org/) for social entrepreneur
@@ -54,3 +54,4 @@ draft: false
 - [MLN](https://mln.dev/top/1) for machine learning
 - [Sqwok](https://sqwok.im/)
 - [Datatau](https://datatau.net/) for data science
+- [Free Post](https://freepo.st/) [open source](https://notabug.org/zPlus/freepost) selfhosted

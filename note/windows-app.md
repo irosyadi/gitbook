@@ -195,12 +195,6 @@ This is a list of awesome apps for Windows 10.
 - ProtonVPN : VPN
 - Cloudflare WARP* : VPN
 
-## DNS
-- NextDNS :
-- YogaDNS :
-- Simple DNSCrypt
-- Technitium DNS Server*
-
 ## Framework
 - Node.js
 - Ruby

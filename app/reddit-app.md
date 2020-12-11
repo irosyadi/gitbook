@@ -49,6 +49,6 @@ draft: false
 
 ## Alternative to Reddit
 - [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [self-hosted](https://docs.tildes.net/instructions/development-setup)
-- [Lemmy](https://dev.lemmy.ml/)
+- [Lemmy](https://dev.lemmy.ml/) : open source self hosted
 - [Raddle](https://raddle.me/)
 - [Gurlic](https://gurlic.com/)

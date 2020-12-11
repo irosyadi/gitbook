@@ -32,7 +32,9 @@ draft: false
 - [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
 - [Privado](https://www.privado.com/)
 - [Rightdao](https://rightdao.com/search) - minimalist search engine
+- [typesense](https://typesense.org/) - open source
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
+- [Recipe Search](https://recipe-search.typesense.org/) : recipe search

@@ -76,93 +76,25 @@ Hello world
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
 
 
+### Footnote v1
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/footnote.min.css">`
+`<link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/footnote.css">`
 
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/footnote.min.css">
 
-## SVG
-```
-<svg fill="none" viewBox="0 0 400 200" width="400" height="200" xmlns="http://www.w3.org/2000/svg">
-	<foreignObject width="100%" height="100%">
-		<div xmlns="http://www.w3.org/1999/xhtml">
-			<style>
-				@keyframes rotate {
-					0% {
-						transform: rotate(3deg);
-					}
-					100% {
-						transform: rotate(-3deg);
-					}
-				}
-				@keyframes gradientBackground {
-					0% {
-						background-position: 0% 50%;
-					}
-					50% {
-						background-position: 100% 50%;
-					}
-					100% {
-						background-position: 0% 50%;
-					}
-				}
-				@keyframes fadeIn {
-					0% {
-						opacity: 0;
-					}
-					66% {
-						opacity: 0;
-					}
-					100% {
-						opacity: 1;
-					}
-				}
-				.container {
-					font-family:
-						system-ui,
-						-apple-system,
-						'Segoe UI',
-						Roboto,
-						Helvetica,
-						Arial,
-						sans-serif,
-						'Apple Color Emoji',
-						'Segoe UI Emoji';
-					display: flex;
-					flex-direction: column;
-					align-items: center;
-					justify-content: center;
-					margin: 0;
-					width: 100%;
-					height: 200px;
-					background: linear-gradient(-45deg, #fc5c7d, #6a82fb, #05dfd7);
-					background-size: 600% 400%;
-					animation: gradientBackground 10s ease infinite;
-					border-radius: 10px;
-					color: white;
-					text-align: center;
-				}
-				h1 {
-					font-size: 50px;
-					line-height: 1.3;
-					letter-spacing: 5px;
-					text-transform: lowercase;
-					text-shadow:
-						0 1px 0 #efefef,
-						0 2px 0 #efefef,
-						0 3px 0 #efefef,
-						0 4px 0 #efefef,
-						0 12px 5px rgba(0, 0, 0, 0.1);
-					animation: rotate ease-in-out 1s infinite alternate;
-				}
-				p {
-					font-size: 20px;
-					text-shadow: 0 1px 0 #efefef;
-					animation: 5s ease 0s normal forwards 1 fadeIn;
-				}
-			</style>
-			<div class="container">
-				<h1>irosyadi</h1>
-				<p>a note of life</p>
-			</div>
-		</div>
-	</foreignObject>
-</svg>
-```
+<p class="inline"> This inline note <input id="id1" type="checkbox"><label for="id1">1</label><small>the note is here</small> is very good. This is the second <input id="id2" type="checkbox"><label for="id2">2</label><small>reference of second</small> reference. </p>
+
+<p class="block">Block type,<input id="b1" type="checkbox"><label for="b1">1</label><small> Bautts, T., Dawson, T. & Purdy G. (2005)
+  </small> type with block <input id="b2" type="checkbox"><label for="b2">2</label><small>Raymond, Eric S. (1996) </small> </p>
+
+<p class="hover">(…) in computer programming,<input id="h1" type="checkbox"><label for="h1">1</label><small>  Bautts, T., Dawson, T. & Purdy G. (2005)</small> </p>
+
+### Footnote v2
+`<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/inline.min.css">`
+`<link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/inline.css">`
+
+<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/inline.min.css">
+
+<body>
+The most cited work in history, is a 1951 paper<details><summary>[1]</summary> Lowry, O. H., Rosebrough, N. J., Farr, A. L. & Randall, R. J. J. Biol. Chem. 193, 265–275 (1951).</details> describing an assay to determine the amount of protein in a solution.
+</body>
