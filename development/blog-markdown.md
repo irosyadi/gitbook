@@ -803,37 +803,31 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
-## 26. CSS
-- didn't work in Gitbook
+## 26. Admonition Styles
 
 ### 26.1. Admonition with CSS
-- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/info3.css>
+- CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css>
+- didn't work in Gitbook
 
 ***markdown***
 
-```css
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css">
+```html
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.min.css">
 
-  <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
-
-  <div class="alert alert-info" role="alert"><strong>📌 INFO </strong> You're good......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-
-  <div class="alert alert-warning" role="alert"><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-
-  <div class="alert alert-danger" role="alert"><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+<div class="alert alert-success"><strong>🎯 SUCCESS!</strong> <br> Success text. </div>  
+<div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
+<div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
+<div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
 ```
 
 ***display***
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.min.css">
 
-  <div class="alert alert-success" role="alert"><strong>🎯 SUCCESS!</strong> You are successfully.....<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. </div>
-
-  <div class="alert alert-info" role="alert"><strong>📌 INFO </strong> You're good......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-
-  <div class="alert alert-warning" role="alert"><strong>⚠️ WARNING!</strong> This is a warning......<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
-
-  <div class="alert alert-danger" role="alert"><strong>⛔ DANGER!</strong> Don't do this...<br> Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</div>
+<div class="alert alert-success"><strong>🎯 SUCCESS!</strong> <br> Success text. </div>  
+<div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
+<div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
+<div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
 
 ### 26.2. Admonition with Quote
 - worked in everywhere
@@ -851,6 +845,8 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 > > This is a warning for you...
 
 ### 26.3. Admonition with Table
+- worked in everywhere
+
 *** markdown***
 
 ```md

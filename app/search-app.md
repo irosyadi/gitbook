@@ -33,6 +33,7 @@ draft: false
 - [Privado](https://www.privado.com/)
 - [Rightdao](https://rightdao.com/search) - minimalist search engine
 - [typesense](https://typesense.org/) - open source
+- [Mojeek](https://www.mojeek.com/) - privacy oriented
 
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
