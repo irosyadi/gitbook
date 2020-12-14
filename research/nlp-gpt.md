@@ -28,3 +28,4 @@ draft: false
 - [GPT-2 for French](https://medium.com/@timohear/retraining-gpt-2-to-write-love-letters-in-french-92ae938bc452)
 - [GPT AI Free Pretrained Models](https://www.booste.io/pretrained-models)
 - [Free GPT 2 Pretrained in C](https://bellard.org/nncp/gpt2tc.html)
+

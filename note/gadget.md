@@ -58,3 +58,7 @@ draft: false
 
 ### Storage
 - 500GB 2.5" External Drive
+
+### CCTV
+- Xiaofang 1080 Camera
+- V380 Camera

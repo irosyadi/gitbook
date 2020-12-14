@@ -25,7 +25,6 @@ draft: false
 - [OCW MIT](https://ocw.mit.edu/index.htm)
 - [Free Code Camp](https://www.freecodecamp.org/)
 - [The Odin Project Free Web Learn](https://www.theodinproject.com/)
-- [Cyber Security Learn](https://www.cybrary.it/)
 - [Audio Tools](https://www.audiotool.com/)
 - [Every Browser Know](https://webkay.robinlinus.com/)
 - [Hey Lingo](https://www.heylingo.com/)

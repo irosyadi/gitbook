@@ -22,6 +22,7 @@ draft: false
 <div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
 <div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
 <div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Danger text. </div>  
+<p class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Danger text. </p>  
 ```
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.min.css">
@@ -30,20 +31,24 @@ draft: false
 <div class="alert alert-info"><strong>📌 INFO</strong> <br> Info text. </div>  
 <div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
 <div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Danger text. </div>  
+<p class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Danger text. </p>  
 
-## Inline Reference
+## Inline Reference with `<summary>`
 
 ```html
-<link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/inline3.css">
+<link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/inline3.css">
 ```
 
 ```html
-  
-This paper<details><summary>1</summary> Lowry, O. H., Rosebrough, et al. Biol. Chem. 193, 265–275 (1951).</details> describing an assay to determine the amount of protein in a solution.  
+<div>
+OK. This paper<details><summary>1</summary> Lowry, O. H., Rosebrough, et al. Biol. Chem. 193, 265–275 (1951).</details> describing an assay to determine the amount of protein in a solution.  
 The sun is molten gold<details><summary>2</summary> it is not, actually</details> and a star.  
+</div>
 
 - The moon is a silver planet<details><summary>3</summary> according to nobody</details> and a star slave.
 - This is another reference<details><summary>[4]</summary> something to refer</details>, thank you.
+- Don't minify this css
+- Put paragraph with `<div>` tag
 ```
 
 <link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/inline3.css">
@@ -57,6 +62,58 @@ The sun is molten gold<details><summary>2</summary> it is not, actually</details
 - This is another reference<details><summary>[4]</summary> something to refer</details>, thank you.
 - Don't minify this css
 - Put paragraph with `<div>` tag
+
+## Inline Reference with Tufte CSS
+
+```html
+<link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/tufte-im.css">
+```
+
+```html
+<p class="inline">(…) The lack of a clear definition
+<input id="i1" type="checkbox"><label for="i1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="i2" type="checkbox"><label for="i2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
+
+<p class="block">(…) The lack of a clear definition
+<input id="b1" type="checkbox"><label for="b1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="b2" type="checkbox"><label for="b2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
+
+<p class="hover">(…) The lack of a clear definition
+<input id="h1" type="checkbox"><label for="h1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="h2" type="checkbox"><label for="h2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
+```
+
+<link rel="stylesheet" type="text/css" href="https://rosyadi.com/file/css/tufte-im.css">
+
+<p class="inline">(…) The lack of a clear definition
+<input id="i1" type="checkbox"><label for="i1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="i2" type="checkbox"><label for="i2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
+
+<p class="block">(…) The lack of a clear definition
+<input id="b1" type="checkbox"><label for="b1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="b2" type="checkbox"><label for="b2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
+
+<p class="hover">(…) The lack of a clear definition
+<input id="h1" type="checkbox"><label for="h1">1</label>
+<small>Bautts, T. (2005) </small> is worrying.  The problem as said
+<input id="h2" type="checkbox"><label for="h2">2</label>
+<small> Raymond, Eric S. (1996) The New Hacker's Dictionary</small> should be addressed.
+</p>
 
 ## Hover CSS
 ```html
@@ -272,10 +329,30 @@ The sun is molten gold<details><summary>2</summary> it is not, actually</details
 <a href="#" class="button hvr-curl-bottom-right">Curl Bottom Right</a>  
 <a href="#" class="button hvr-curl-bottom-left">Curl Bottom Left</a>  
 
-### Working with `<div>` tag
+### Working with  `<div>` and `<p>` tag
 
-<div class="button hvr-curl-bottom-left"><strong>📌 INFO</strong> <br> Info text. </div>  
+<div>
+<p class="hvr-sweep-to-right">Sweep to Right. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>
+</div>
 
-<div class="button hvr-round-corners"><strong>🎯 SUCCESS!</strong> <br> Success text.  </div>  
+<div>
+<p class="hvr-bounce-to-right">Bounce to Right. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>  
+<div>
 
-<div class="button hvr-float-shadow"><strong>⛔ DANGER!</strong> <br> Danger text. </div>  
+<div>
+<p class="hvr-shutter-in-vertical">Shutter in Vertical. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>  
+<div>
+
+<div>
+<p class="button hvr-curl-bottom-left">Curl Bottom Left. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>  
+<div>
+
+<div>
+<p class="button hvr-outline-in">Outline In. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>  
+<div>
+
+<div>
+<p class="button hvr-float-shadow">Float Shadow. We know it will be a long paragraph.<br> This new line indicates it is what will be happened. </p>  
+<div>
+
+

@@ -18,9 +18,11 @@ draft: false
 ## List of Free Online Course
 - [Resume Worded](https://resumeworded.com/free-online-courses/)
 - [Class Central](https://www.classcentral.com/collection/top-free-online-courses)
+    - [Providers](https://www.classcentral.com/providers)
 - [Free Udemy Courses](https://www.udemyfreebies.com/)
 - [Course List by Abakcus](https://abakcus.com/courses/)
 - [Course List by Brilliant](https://brilliant.org/courses/)
+- [Course List by Tombasche](https://github.com/tombasche/professional-development)
 
 ## Hacking Satellite Course
 - [Crash Course for Hacking Satellite](https://nyan-sat.com/chapter0.html)
@@ -30,3 +32,7 @@ draft: false
 - [DEEP LEARNING Course Yann LeCun & Alfredo Canziani](https://atcold.github.io/pytorch-Deep-Learning/) MATERIAL  [Google Drive](https://bitly.com/DLSP20), [Notebooks](https://github.com/Atcold/pytorch-Deep-Learning) [NYU Site](https://cds.nyu.edu/deep-learning/)
 - [AI Course: Elements of AI](https://www.elementsofai.com/)
 - [Complete ML Coursework](https://github.com/AbhishekSinhaCoder/Complete-ML-Coursework)
+
+## Programming
+- [Mike Dane](https://www.mikedane.com)
+- [Learn Programming](https://learnprogramming.online/)

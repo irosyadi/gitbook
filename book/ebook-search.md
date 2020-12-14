@@ -11,7 +11,10 @@ draft: false
 
 # E-book and Paper Search Engine
 
-## E-book search engine
+## E-book search engine (archive.org, openlibrary)
+- [Book Search](https://books-search.typesense.org/)
+
+## E-book search engine (libgen)
 - [http://185.39.10.101/](http://185.39.10.101/)
 - [genlib.rus](https://gen.lib.rus.ec)
 - [libgen.rs](https://libgen.rs/)
@@ -24,7 +27,7 @@ draft: false
 - [z-lib](https://z-lib.org/)
 - [Archive.org Texts](https://archive.org/details/texts)
 
-## Paper search engine
+## Paper search engine (scihub)
 - [sci-hub.ee](https://sci-hub.ee/) or [sci-hub.st](https://sci-hub.st/) or [sci-hub.se](https://sci-hub.se/) or [sci-hub.do](https://sci-hub.do/)
 - [scimag](http://gen.lib.rus.ec/scimag/) or [scimag](http://libgen.rs/scimag/) or [scimag](https://libgen.fun/scimag)
 - [telegram](https://telegram.me/scihubot)

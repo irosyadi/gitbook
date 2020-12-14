@@ -9,10 +9,10 @@ tags: google hacking dorking advanced search
 draft: false
 ---
 
+# Google Hacking
+
 Google hacking, also named Google dorking or Google advanced search, is a hacker technique that uses Google Search and other Google applications to find security holes in the configuration and computer code that websites use.
 Basics. "Google hacking" involves using advanced operators in the Google search engine to locate specific strings of text within search results.
-
-# Google Hacking
 
 ## List of Google Dorking
 - [Ahrefs](https://ahrefs.com/blog/google-advanced-search-operators/)

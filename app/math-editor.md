@@ -12,5 +12,5 @@ draft: false
 # Mathematics Editor
 
 - [Matcha](https://www.mathcha.io/) plus desktop app
-- [Online Latex Codecogs](https://www.codecogs.com/latex/eqneditor.php)
+- [Codecogs Equation Editor](https://www.codecogs.com/latex/eqneditor.php) : online Latex equation editor
 - [Mathup](https://runarberg.github.io/mathup/)

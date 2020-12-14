@@ -25,6 +25,8 @@ draft: false
 - [DOAJ Search](https://doaj.org/)
 - [OAJ Impact Factor](https://www.omicsonline.org/open-access-journals-impact-factors.php)
 - [Frontiers](https://www.frontiersin.org/about/journal-impact-factors)
+- [Taylor and Francis](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/)
+- [F1000](https://f1000research.com/for-authors/article-processing-charges)
 
 ## Article Processing Charge (APC)
 - [APC for IOP](https://publishingsupport.iopscience.iop.org/questions/article-publication-charge-pricing-and-the-costs-of-open-access-publishing/)

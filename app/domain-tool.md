@@ -85,21 +85,21 @@ Check
 [Whois History](https://whois-history.whoisxmlapi.com/api)
 
 ## DNS Leak Tester
-Check what is our DNS Resolver. [LIst of the Tester](https://routersecurity.org/testdns.php)
+- [List of the Tester](https://routersecurity.org/testdns.php) : check what is our DNS Resolver.
 - [DNS Leak Test](https://www.dnsleaktest.com)
 - `nslookup myip.dnsfilter.com. 103.247.36.36`
 - `nslookup -type=TXT whoami.ds.akahelp.net`
 - `ipconfig /all`
 - [DNS Leak](https://dnsleak.com)
 - [Express VPN DNS Leak Test](https://www.expressvpn.com/dns-leak-test)
-- [IP Leak](https://ipleak.net/) check DNS Server
-- [Whats My DNS Server](https://www.whatsmydnsserver.com/) check DNS server
-- [Who is My DNS](https://whoismydns.com/) check DNS server
+- [IP Leak](https://ipleak.net/) : check DNS Server
+- [Whats My DNS Server](https://www.whatsmydnsserver.com/) : check DNS server
+- [Who is My DNS](https://whoismydns.com/) : check DNS server
 - [My NextDNS](https://my.nextdns.io/)
-- [Browserleks](https://browserleaks.com/ip) scroll down to reveal
-- [DNS Leaktest Pervect Privacy](https://www.perfect-privacy.com/en/tests/dns-leaktest)
-- [DNS Lekat Test from DNSAdblock](https://dnsadblock.com/dns-leak-test/)
-- [Tenta.com Test](https://tenta.com/test/) the most complete
+- [Browserleks](https://browserleaks.com/ip) : scroll down to reveal
+- [DNS Leak Test by Pervect Privacy](https://www.perfect-privacy.com/en/tests/dns-leaktest)
+- [DNS Leakt Test by DNSAdblock](https://dnsadblock.com/dns-leak-test/)
+- [Tenta.com Test](https://tenta.com/test/) : the most complete
 - [Encrypt DNS](https://www.toptal.com/web/encrypted-safe-with-esni-doh-dot)
 - [Which Nameservers](https://which.nameserve.rs/) check DNS server
 - [DNS Server Comparison](https://www.grc.com/dns/benchmark.htm)

@@ -71,6 +71,8 @@ This is a list of awesome apps for Windows 10.
 - DocFetcher : file content search
 - Everything : file search
 - Listary : file search (embedded in Windows Explorer)
+- fzf ([Github Repo](https://github.com/junegunn/fzf))
+- rga ([Github Repo](https://github.com/phiresky/ripgrep-all))
 
 ## Music and Audio
 - AIMP : music audio player

@@ -47,7 +47,6 @@ draft: false
 - uBlock Origin : Finally, an efficient blocker. Easy on CPU and memory.
 - Google Direct : Remove tracking links from Google Search results
 
-
 ### Site Enhancement
 - Refined Hacker News : Add useful features and tweak a little stuff to make the HN experience better without changing the look and feel
 - Dark Reader : Dark mode for every website. Take care of your eyes, use dark theme for night and daily browsing.
