@@ -47,12 +47,6 @@ Here is the comment:
 ☝️ remember  
 ⚡️ flash
 
-## Warning: Gitbook Style
-
-{% hint style="info" %}
-Hello world
-{% endhint %}
-
 ## Iframe
 ```
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSfP28laIeF0CUrqvfDKBCQp8vp-SHgHpouZ5O7xVREVK0ky7WiGuGdmsJRS13caF9Fh3y3fuAzvFlM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>

@@ -22,25 +22,26 @@ tags: open free license
 - [Unlicense](https://unlicense.org/)
 
 
-|    License    | Attribution | Derivative  | Commercial | Free-Open |
-| ------------- | ----------- | ----------- | ---------- | --------- |
-| CC0           | N           | Y           | Y          | Y         |
-| CC BY         | Y           | Y (CC)      | Y          | Y         |
-| CC BY-SA      | Y           | Y (SA)      | Y          | Y         |
-| CC BY-ND      | Y           | N           | Y          | N         |
-| CC BY-NC      | Y           | Y (NC)      | N          | N         |
-| CC BY-NC-SA   | Y           | Y (NC-SA)   | N          | N         |
-| CC BY-NC-ND   | Y           | N           | N          | N         |
-| MIT           | Y           | Y           | Y          | Y         |
-| BSD           | Y           | Y           | Y          | Y         |
-| ZLIB          | Y           | Y           | Y          | Y         |
-| DWTFYWPL      | N           | Y           | Y          | Y         |
-| AFL           | Y           | Y           | Y          | Y         |
-| Apache        | Y           | Y           | Y          | Y         |
-| GNU GPL v3.0  | Y           | Y (GNU GPL) | Y          | Y         |
-| GNU LGPL v3.0 | Y           | Y (similar) | Y          | Y         |
-| GNU FDL       | Y           | Y           | Y          | Y         |
-| Mozilla MPL   | Y           | Y (similar) | Y          | Y         |
+|    License    | Attribution |  Derivative  | Commercial | Free-Open |
+| ------------- | ----------- | ------------ | ---------- | --------- |
+| CC0           | N           | Y            | Y          | Y         |
+| CC BY         | Y           | Y (CC)       | Y          | Y         |
+| CC BY-SA      | Y           | Y (SA)       | Y          | Y         |
+| CC BY-ND      | Y           | N            | Y          | N         |
+| CC BY-NC      | Y           | Y (NC)       | N          | N         |
+| CC BY-NC-SA   | Y           | Y (NC-SA)    | N          | N         |
+| CC BY-NC-ND   | Y           | N            | N          | N         |
+| MIT           | Y           | Y            | Y          | Y         |
+| BSD           | Y           | Y            | Y          | Y         |
+| ZLIB          | Y           | Y            | Y          | Y         |
+| DWTFYWPL      | N           | Y            | Y          | Y         |
+| AFL           | Y           | Y            | Y          | Y         |
+| Apache        | Y           | Y            | Y          | Y         |
+| GNU GPL v3.0  | Y           | Y (GNU GPL)  | Y          | Y         |
+| GNU LGPL v3.0 | Y           | Y (similar)  | Y          | Y         |
+| GNU FDL       | Y           | Y            | Y          | Y         |
+| GNU AGPL      | Y           | Y (GNU AGPL) | Y          | Y         |
+| Mozilla MPL   | Y           | Y (similar)  | Y          | Y         |
 
 
 

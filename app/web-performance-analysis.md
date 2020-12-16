@@ -16,7 +16,7 @@ draft: false
 - [Pingdom](https://tools.pingdom.com)
 - [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
 - [Dotcom Tools](https://www.dotcom-tools.com/website-speed-test.aspx)
-- [Web Page Test](https://www.webpagetest.org/)
+- [Web Page Test](https://www.webpagetest.org/) : lighthouse
 - [Web Bloat Score](https://www.webbloatscore.com/)
 - [Web Hint](https://webhint.io/)
 - [Dotcom Tools](https://www.dotcom-tools.com/website-speed-test.aspx)

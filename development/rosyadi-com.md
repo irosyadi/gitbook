@@ -35,6 +35,9 @@ draft: false
 - [Video Downloader](https://rosyadi.com/videodl/): video downloader [powered by Alltube](https://github.com/Rudloff/alltube)
 - [Proxy](https://rosyadi.com/proxy/): proxy [powered by PHPProxy](https://www.php-proxy.com/)
 - [File Share](https://rosyadi.com/send/): file share [powered by Jirafeau](https://gitlab.com/mojo42/Jirafeau)
-- [Fulltext RSS](https://rosyadi.com/fullrss/): get full text RSS [powered by FIvefilters](https://www.fivefilters.org/full-text-rss/)
+- [Fulltext RSS](https://rosyadi.com/fullrss/): get full text RSS [powered by Fivefilters](https://www.fivefilters.org/full-text-rss/)
+
+<!-- 
 - [Load File](https://rosyadi.com/load-file/) : simple PHP script for uploading file to server
 - [Load URL](https://rosyadi.com/load-url/) : simple PHP script for transferring to server
+-->

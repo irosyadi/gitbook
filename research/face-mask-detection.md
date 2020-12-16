@@ -32,7 +32,6 @@ draft: false
 - [Cabani](https://github.com/cabani/MaskedFace-Net)
 
 ## Paper
-
 - [A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386450/), Loey et. al. : Resnet(+DeepTree, SVN, Ensemble)
 - [Fighting against COVID-19: A novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection](https://pubmed.ncbi.nlm.nih.gov/33200063/), Loey et. al. : Resnet (+Yolo v2)
 - [Face Mask Detection using Transfer Learning of InceptionV3](https://arxiv.org/abs/2009.08369)  G. Jignesh Chowdary, et al. : InceptionV3 
@@ -58,6 +57,16 @@ draft: false
 - upgrade [datarootsio/face-mask-detection](https://github.com/datarootsio/face-mask-detection) : RetinaFace (RetinaNetMobileNetV1) for face detection, MobileNetV1 for face classification
 - upgrade [Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection](https://github.com/Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection): ResNet18 on Jetson Nano
 
+## Project in Progress
+- Deep Learning for Face Detection in Real Time
+- Face Detection : SSD ResNet10 dan MTCNN
+- Mask Classification : MobileNetV2 dan VGG16Net
+- Android and PC Deployment
+- Metric for Performance Analysis :
+    - Accuracy, Precision, Recall, F1
+    - mAP@0.5 (Mean Average Precision)
+    - FPS
+
 ## Object Detection
 - Object Detection is Object Localization and Object Classification
 - Model for Object Detection: Fast R-CNN, Faster R-CNN, Histogram of Oriented Gradients (HOG), Region-based Convolutional Neural Networks (R-CNN), Region-based Fully Convolutional Network (R-FCN), Single Shot Detector (SSD), Spatial Pyramid Pooling (SPP-net), YOLO (You Only Look Once)
@@ -68,6 +77,7 @@ draft: false
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 - [What is YOLO Object Detection?](https://appsilon.com/object-detection-yolo-algorithm/)
+- [Introduction to Yolo](https://appsilon.com/object-detection-yolo-algorithm/)
 
 ## TinyYolo for Mobile App
 - [TinyYolo for Knife Detection](http://publication.petra.ac.id/index.php/teknik-informatika/article/view/10527)
@@ -88,3 +98,18 @@ draft: false
 - [Yolo and YoloTiny Colab](https://github.com/theAIGuysCode/YOLOv3-Cloud-Tutorial), [Google Colab](https://colab.research.google.com/drive/1Mh2HP_Mfxoao6qNFbhfV3u28tG8jAVGk)
 - [A Guide To Build Your Own Custom Object Detector Using YoloV3](https://medium.com/analytics-vidhya/custom-object-detection-with-yolov3-8f72fe8ced79), [Github Repo](https://github.com/TheCaffeineDev/YoloV3-Custom-Object-Detection)
 - [https://github.com/ratulKabir/Custom-Object-Detection-using-Darkflow](https://github.com/ratulKabir/Custom-Object-Detection-using-Darkflow)
+
+## SSD
+- [Convolutional SSD](https://medium.com/@amadeusw6/variations-of-ssd-understanding-deconvolutional-single-shot-detectors-c0afb8686d03)
+- [SSD Original Paper](https://arxiv.org/abs/1512.02325)
+- [Sefiks](https://sefiks.com/2020/08/25/deep-face-detection-with-opencv-in-python/)
+- [Sefiks: Face Recognition](https://sefiks.com/2020/05/01/a-gentle-introduction-to-face-recognition-in-deep-learning/)
+
+## Widerface
+- [WiderFace and Comparison](http://shuoyang1213.me/WIDERFACE/index.html)
+
+## Model Zoo
+- [Open CV Deep Learning](https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV)
+- [ONNX](https://github.com/onnx/models)
+- [Caffe](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+- [Caffe2](https://caffe2.ai/docs/zoo.html)

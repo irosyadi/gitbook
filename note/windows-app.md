@@ -72,7 +72,6 @@ This is a list of awesome apps for Windows 10.
 - Everything : file search
 - Listary : file search (embedded in Windows Explorer)
 - fzf ([Github Repo](https://github.com/junegunn/fzf))
-- rga ([Github Repo](https://github.com/phiresky/ripgrep-all))
 
 ## Music and Audio
 - AIMP : music audio player
@@ -250,6 +249,7 @@ This is a list of awesome apps for Windows 10.
 - AsciidocFX : note taking, asciidoc (why: asciidoc is rarely used)
 - Ubuntu : ubuntu on top Windows 10 (why: unstable, rarely used, storage limitation)
 - SAM (System Advisor Model) : PV System Planner (why: not used anymore)
+- rga ([Github Repo](https://github.com/phiresky/ripgrep-all)) : take huge database storage
 
 ## My Computer
 - IdeaPad C340-14API 9AID
