@@ -8,8 +8,6 @@ tags: rss tool
 draft: false
 ---
 
-List of RSS Tools.
-
 # RSS Tools
 
 ## App to get RSS from Non-RSS Web

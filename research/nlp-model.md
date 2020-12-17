@@ -23,3 +23,4 @@ draft: false
     - Flair
 - **Other Pretrained Models**
     - StanfordNLP
+- [Reimplementation of NLP models in Jupyter](https://github.com/will-thompson-k/deeplearning-nlp-models)

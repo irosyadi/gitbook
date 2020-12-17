@@ -8,8 +8,6 @@ tags: gif tool
 draft: false
 ---
 
-List of GIF tools.
-
 # GIF Tools
 
 ## How to pronounce gif?'

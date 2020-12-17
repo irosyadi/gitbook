@@ -8,9 +8,9 @@ tags: vexillology flag
 draft: false
 ---
 
-Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and usage of flags or, by extension, any interest in flags in general.
-
 # Vexillology - Science about Flag
+
+Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and usage of flags or, by extension, any interest in flags in general.
 
 ## Books
 - [The World Encyclopedia of Flags](https://www.goodreads.com/book/show/15932248-the-world-encyclopedia-of-flags) - [Albert Znamierowski](https://en.wikipedia.org/wiki/Alfred_Znamierowski) (2013)

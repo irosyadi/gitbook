@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  List Book with Code
+title: Book with Code
 date: 2020-08-10 19:36:12
 category: book
-tags: book code 
+tags: book code
 draft: false
 ---
 
-# List Book with Code
+# Book with Code
 
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition), [Slide](https://github.com/dmitriydligach/PyMLSlides)
 - [Hands-On Machine Learning with R](https://koalaverse.github.io/homlr/)

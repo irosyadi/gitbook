@@ -3,11 +3,12 @@ layout: default
 author: irosyadi
 title:  Awesome NLP Projects
 date: 2020-12-14 15:30:14
-path: /research
 category: research
 tags: awesome NLP
 draft: false
 ---
+
+# Awesome NLP Projects
 
 ## Learn NLP
 - [Learn NLP 365 Days](https://ryanong.co.uk/natural-language-processing-365/)

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Safety Helmet Detection
 date: 2020-11-29 19:37:58
-path: /research
 category: research
 tags: safety helmet detection
 draft: false
@@ -23,6 +22,7 @@ draft: false
 - [PeterH0323/Smart_Construction](https://github.com/PeterH0323/Smart_Construction): realtime, YOLOv5
 - [mohanrajmit/Safety_Detection](https://github.com/mohanrajmit/Safety_Detection): realtime, YOLO
 - [Object-Detection_HelmetDetection](https://github.com/weimin17/Object-Detection_HelmetDetection): image (video?), Contex RCNN
+- [BlcaKHat/yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection) : Yolo
 
 ## Plate Lincense Detection Github Repos
 - [openalpr/openalpr](https://github.com/openalpr/openalpr) : OpenALPR is an open source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.

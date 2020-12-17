@@ -8,8 +8,6 @@ tags: awesome map
 draft: false
 ---
 
- A curated list of awesome online maps
-
 # Awesome Maps
 
 ## General Purpose
@@ -99,6 +97,7 @@ draft: false
 
 - [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
+- [Blue Marble](https://bluemarble.nitk.in/static.html)
 
 ## Social Humanity
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.

@@ -8,9 +8,9 @@ tags: compiler interpreter
 draft: false
 ---
 
-An *interpreter* for language **X** is a program (or a machine, or just some kind of mechanism in general) that executes any program **p** written in language **X** such that it performs the effects and evaluates the results as prescribed by the specification of **X**. CPUs are usually interpreters for their respective instructions sets, although modern high-performance workstation CPUs are actually more complex than that; they may actually have an underlying proprietary private instruction set and either translate (compile) or interpret the externally visible public instruction set.
-
 # About Compiler and Interpreter
+
+An *interpreter* for language **X** is a program (or a machine, or just some kind of mechanism in general) that executes any program **p** written in language **X** such that it performs the effects and evaluates the results as prescribed by the specification of **X**. CPUs are usually interpreters for their respective instructions sets, although modern high-performance workstation CPUs are actually more complex than that; they may actually have an underlying proprietary private instruction set and either translate (compile) or interpret the externally visible public instruction set.
 
 A *compiler* from **X** to **Y** is a program (or a machine, or just some kind of mechanism in general) that translates any program **p** from some language **X** into a semantically equivalent program **p′** in some language **Y** in such a way that the semantics of the program are preserved, i.e. that interpreting **p′** with an interpreter for **Y** will yield the same results and have the same effects as interpreting **p** with an interpreter for **X**. (Note that **X** and **Y** may be the same language.)
 

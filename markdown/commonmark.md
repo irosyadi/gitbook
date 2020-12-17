@@ -21,7 +21,6 @@ Source: [Commonmark](https://spec.commonmark.org/0.29/)
 
 Markdown syntax:
 ```md
-# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
@@ -30,7 +29,6 @@ Markdown syntax:
 ```
 HTML code:
 ```html
-<h1>h1 Heading</h1>
 <h2>h2 Heading</h2>
 <h3>h3 Heading</h3>
 <h4>h4 Heading</h4>
@@ -40,7 +38,6 @@ HTML code:
 
 Markdown display:
 
-# h1 Heading
 ## h2 Heading
 ### h3 Heading
 #### h4 Heading
