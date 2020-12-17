@@ -10,7 +10,6 @@ draft: false
 
 # Spartan and Text Only Websites
 
-
 ## Text Only Newssites
 - [CSM](https://www.csmonitor.com/layout/set/text/textedition)
 - [Text Only NPR](https://text.npr.org/)
