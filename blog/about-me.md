@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Imron Rosyadi
 date: 2020-05-01 13:49:51
-path: /blog
 category: blog
 tags: about me imron rosyadi
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Jupyter Notebooks
 date: 2020-07-10 20:28:02
-path: /note
 category: note
 tags: awesome jupyter notebook
 draft: false

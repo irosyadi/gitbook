@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  List of Open Data Set
 date: 2020-07-23 20:31:53
-path: /note
 category: note
 tags: list open data set
 draft: false

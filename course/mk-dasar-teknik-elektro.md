@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  MK Dasar Teknik Elektro
 date: 2020-08-31 13:58:37
-path: /course
 category: course
 tags: dasar teknik elektro
 draft: false

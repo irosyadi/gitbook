@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Hosted Open Source Services
 date: 2020-10-11 21:39:17
-path: /app
 category: app
 tags: hosted open source services
 draft: false

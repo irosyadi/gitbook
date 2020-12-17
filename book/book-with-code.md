@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  List Book with Code
 date: 2020-08-10 19:36:12
-path: /book
 category: book
 tags: book code 
 draft: false

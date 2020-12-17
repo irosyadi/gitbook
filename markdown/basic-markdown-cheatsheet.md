@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Basic Markdown Cheatsheet
 date: 2020-11-26 21:10:40
-path: /markdown
 category: markdown
 tags: basic markdown cheatsheet
 draft: false

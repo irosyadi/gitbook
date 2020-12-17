@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Color Science
 date: 2020-10-11 21:00:05
-path: /note
 category: note
 tags: color
 draft: false

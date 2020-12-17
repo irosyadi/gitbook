@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Extended Markdown Cheatsheet
 date: 2020-11-26 21:10:41
-path: /markdown
 category: markdown
 tags: extended markdown cheatsheet
 draft: false

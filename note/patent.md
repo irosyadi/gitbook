@@ -3,8 +3,8 @@ layout: default
 author: irosyadi
 title:  Paten
 date: 2020-06-18 20:24:57
-path: /note
 tags: paten
+draft: false
 ---
 
 # Paten

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  List of Extension in Markdown
 date: 2020-07-01 21:17:24
-path: /markdown
 category: markdown
 tags: markdown extension
 draft: false

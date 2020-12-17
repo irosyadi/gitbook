@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Free Cloud Compute Infrastructure
 date: 2020-11-14 08:32:12
-path: /app
 category: app
 tags: free cloud compute infrastructure
 draft: false

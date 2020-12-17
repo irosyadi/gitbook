@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Machine Learning for Sport Pose Analysis
 date: 2020-10-11 21:21:34
-path: /research
 category: research
 tags: machine learning sport pose
 draft: false

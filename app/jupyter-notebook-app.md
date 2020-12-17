@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Jupyter Notebook Apps
 date: 2020-11-14 05:43:50
-path: /app
 category: app
 tags: jupyter notebook
 draft: false

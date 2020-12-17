@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Maps
 date: 2020-06-16 19:51:58
-path: /app
 category: app
 tags: awesome map
 draft: false

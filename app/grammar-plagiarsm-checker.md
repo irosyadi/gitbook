@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Writing Assistants, Grammar and Plagiarsm Checker
 date: 2020-11-20 08:24:13
-path: /app
 category: app
 tags: writing, grammar, plagiarsm
 draft: false

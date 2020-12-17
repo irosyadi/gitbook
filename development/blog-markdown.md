@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Markdown for This Blog
 date: 2020-11-26 21:10:40
-path: /development
 category: development
 tags: markdown cheatsheet
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Alternative Frontend of Popular Websites
 date: 2020-06-27 19:56:20
-path: /app
 category: app
 tags: alternative frontend website
 draft: false

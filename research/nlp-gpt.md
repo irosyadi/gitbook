@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  NLP with GPT
 date: 2020-10-11 21:12:55
-path: /research
 category: research
 tags: nlp gpt
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Writing in Plain Englsih
 date: 2020-10-11 21:10:21
-path: /note
 category: note
 tags: writing plain english
 draft: false

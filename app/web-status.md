@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Web Status Checker
 date: 2020-11-13 06:23:07
-path: /app
 category: app
 tags: web status check
 draft: false

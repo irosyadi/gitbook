@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  About Compiler Interpreter
 date: 2020-07-03 20:26:29
-path: /note
 category: note
 tags: compiler interpreter
 draft: false

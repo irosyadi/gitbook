@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Free Apps for Students
 date: 2020-09-14 10:41:48
-path: /app
 category: app
 tags: free app student
 draft: false

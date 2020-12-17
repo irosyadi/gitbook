@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  CSS for the Blog
 date: 2020-12-12 15:25:37
-path: /development
 category: development
 tags: css cheatsheet
 draft: false

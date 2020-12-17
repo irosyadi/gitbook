@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Music and Audio Tools
 date: 2020-11-20 08:55:01
-path: /app
 category: app
 tags: music audio tool
 draft: false

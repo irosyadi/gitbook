@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Open Glossary
 date: 2020-11-28 03:42:30
-path: /book
 category: book
 tags: open glossary
 draft: false

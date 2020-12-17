@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Open Directory Search
 date: 2020-08-12 08:18:07
-path: /note
 category: note
 tags: open directory search
 draft: false

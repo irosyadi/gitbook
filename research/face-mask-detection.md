@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Face Mask Detection with Machine Learning
 date: 2020-11-29 17:33:08
-path: /research
 category: research
 tags: face mask detection
 draft: false

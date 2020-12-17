@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Regex
 date: 2020-11-14 20:12:07
-path: /note
 category: note
 tags: regex
 draft: false

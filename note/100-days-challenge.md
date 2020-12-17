@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  100 Days Challenge
 date: 2020-06-28 20:08:44
-path: /note
 category: note
 tags: 100 day challenge programming
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Style Guide for Markdown Writing
 date: 2020-07-01 21:16:10
-path: /markdown
 category: markdown
 tags: markdown writing style
 draft: false

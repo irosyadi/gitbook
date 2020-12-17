@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  List of Library for Commonmark
 date: 2020-07-01 21:19:04
-path: /markdown
 category: markdown
 tags: commonmark extension
 draft: false

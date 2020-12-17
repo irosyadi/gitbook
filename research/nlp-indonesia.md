@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  NLP for Bahasa Indonesia
 date: 2020-10-11 21:14:37
-path: /research
 category: research
 tags: nlp bahasa indonesia
 draft: false

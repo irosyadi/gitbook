@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Control Systems
 date: 2020-08-31 13:57:57
-path: /course
 category: course
 tags: control system
 draft: false

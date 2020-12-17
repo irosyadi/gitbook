@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Machine Learning for Satellite Images
 date: 2020-10-11 21:18:50
-path: /research
 category: research
 tags: machine learning satellite image
 draft: false

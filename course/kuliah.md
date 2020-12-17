@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Kuliah
 date: 2020-08-31 13:58:33
-path: /course
 category: course
 tags: kuliah
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Search Engine App
 date: 2020-08-08 11:55:46
-path: /note
 category: app
 tags: search
 draft: false

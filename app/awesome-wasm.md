@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome WASM App
 date: 2020-12-14 15:09:46
-path: /app
 category: app
 tags: awesome wasm
 draft: false

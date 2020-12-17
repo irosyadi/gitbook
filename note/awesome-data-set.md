@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Data Set
 date: 2020-11-14 05:55:08
-path: /note
 category: note
 tags: awesome data set
 draft: false

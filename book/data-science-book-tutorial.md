@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Data Science Book Tutorial
 date: 2020-07-11 19:44:34
-path: /book
 category: book
 tags: data science book tutorial
 draft: false

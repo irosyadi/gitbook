@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  List of Exobrain Blogs and Digital Gardens
 date: 2020-06-29 19:59:38
-path: /app
 category: app
 tags: exobrain digital garden
 draft: false

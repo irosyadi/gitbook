@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  All about Unicode
 date: 2020-08-17 20:33:28
-path: /note
 category: note
 tags: unicode punycode emoji kaomoji
 draft: false

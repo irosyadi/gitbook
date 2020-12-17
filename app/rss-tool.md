@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  RSS Tools
 date: 2020-06-21 19:53:54
-path: /app
 category: app
 tags: rss tool
 draft: false

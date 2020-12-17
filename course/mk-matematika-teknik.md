@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  MK Matematika Teknik
 date: 2020-08-31 13:58:32
-path: /course
 category: course
 tags: matematika teknik
 draft: false

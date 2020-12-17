@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Services on rosyadi.com
 date: 2020-12-13 04:17:16
-path: /development
 category: development
 tags: service rosyadi.com
 draft: false

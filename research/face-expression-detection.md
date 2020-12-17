@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Face Expression and Detection
 date: 2020-11-20 09:00:27
-path: /research
 category: research
 tags: tag tag
 draft: false

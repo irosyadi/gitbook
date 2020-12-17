@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Reddit Apps
 date: 2020-11-13 06:26:27
-path: /app
 category: app
 tags: reddit
 draft: false

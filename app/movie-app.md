@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Movie App
 date: 2020-10-11 20:53:41
-path: /app
 category: app
 tags: movie app
 draft: false

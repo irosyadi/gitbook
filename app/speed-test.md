@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Network Speed Test
 date: 2020-10-11 21:50:29
-path: /app
 category: app
 tags: network speed test
 draft: false

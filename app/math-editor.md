@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Mathematics Editor
 date: 2020-07-06 20:02:42
-path: /app
 category: app
 tags: math editor
 draft: false

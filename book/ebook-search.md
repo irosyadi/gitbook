@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  E-book and Paper Search Engine
 date: 2020-11-28 08:37:00
-path: /book
 category: book
 tags: e-book paper article search engine
 draft: false

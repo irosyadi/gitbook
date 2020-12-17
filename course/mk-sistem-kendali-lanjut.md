@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Sistem Kendali Lanjut
 date: 2020-08-31 14:57:57
-path: /course
 category: course
 tags: sistem kendali lanjut
 draft: false

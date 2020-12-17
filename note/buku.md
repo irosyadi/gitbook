@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Kategorisasi Buku untuk Dosen
 date: 2020-07-10 20:28:43
-path: /note
 category: note
 tags: buku
 draft: false

@@ -1,11 +1,11 @@
 ---
 layout: default
 author: irosyadi
-title:  About Markdown
+title:  About Research
 date: 2020-06-01 20:09:34
-category: markdown
-tags: about markdown
+category: research
+tags: about research
 draft: false
 ---
 
-# About Markdown
+# About Book

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Free Stuffs from Internet
 date: 2020-07-17 20:30:25
-path: /note
 category: note
 tags: awesome web
 draft: false

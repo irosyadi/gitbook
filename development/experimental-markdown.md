@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Experimental Markdown
 date: 2020-11-26 21:10:40
-path: /development
 category: development
 tags: experimental markdown
 draft: false
@@ -56,18 +55,10 @@ Here is the comment:
 
 ## Internal Reference
 
-Content of the up folder (without .md):
-- [Hello](development/hello)
-- [Blog](blog/blog)
-
-Content of the up folder (with ./ and without .md):
+Content of the up folder (with ../ and without .md):
 - [Hello](./development/hello)
 - [Blog](./blog/blog)
 
-Content of the up folder (with .md):
-- [Hello](development/hello.md)
-- [Blog](blog/blog.md)
-
-Content of the up folder (with ./ and .md):
-- [Hello](./development/hello.md)
-- [Blog](./blog/blog.md)
+Content of the up folder (with ../ and .md): (working on Viki)
+- [Hello](../development/hello.md)
+- [Blog](../blog/blog.md)

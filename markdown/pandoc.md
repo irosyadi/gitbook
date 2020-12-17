@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Pandoc
 date: 2020-07-12 21:20:48
-path: /markdown
 category: markdown
 tags: about pandoc
 draft: false

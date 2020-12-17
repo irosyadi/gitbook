@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  NLP Models
 date: 2020-10-11 21:15:53
-path: /research
 category: research
 tags: nlp model
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  My Workflow
 date: 2020-11-22 16:49:22
-path: /development
 category: development
 tags: workflow
 draft: false

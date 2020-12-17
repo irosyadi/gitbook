@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Octave Online Server
 date: 2020-11-14 08:30:33
-path: /app
 category: app
 tags: octave online server
 draft: false

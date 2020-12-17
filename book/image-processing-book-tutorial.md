@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Image Processing Book and Tutorial
 date: 2020-07-11 19:45:18
-path: /book
 category: book
 tags: image processing book tutorial
 draft: false

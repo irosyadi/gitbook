@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Arxiv and Paper Preprint Sites
 date: 2020-10-11 22:31:46
-path: /note
 category: note
 tags: arxiv paper preprint
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Google Hacking
 date: 2020-08-10 07:30:29
-path: /note
 category: note
 tags: google hacking dorking advanced search
 draft: false

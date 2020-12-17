@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  File Converter App
 date: 2020-10-11 21:48:47
-path: /app
 category: app
 tags: file converter app
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Book and Tutorial Plan
 date: 2020-07-25 20:32:39
-path: /note
 category: note
 tags: book tutorial plan
 draft: false

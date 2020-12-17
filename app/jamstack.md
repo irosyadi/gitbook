@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Jamstack
 date: 2020-08-12 22:13:16
-path: /app
 category: app
 tags: jamstack
 draft: false

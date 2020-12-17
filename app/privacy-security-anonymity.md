@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Privacy, Security and Anonymity Apps
 date: 2020-12-14 15:33:53
-path: /app
 category: app
 tags: privacy security anonymity
 draft: false

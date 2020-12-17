@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Online Drawing Tools and Whiteboard Apps
 date: 2020-09-14 11:04:15
-path: /app
 category: app
 tags: drawing tool whiteboard app
 draft: false

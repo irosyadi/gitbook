@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Windows Apps
 date: 2020-08-05 20:34:24
-path: /note
 category: note
 tags: awesome windows app
 draft: false

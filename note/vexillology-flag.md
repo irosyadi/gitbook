@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Vexillology - Science about Flag
 date: 2020-07-29 20:33:36
-path: /note
 category: note
 tags: vexillology flag
 draft: false

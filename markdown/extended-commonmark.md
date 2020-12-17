@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Extended Commonmark
 date: 2020-07-01 21:18:09
-path: /markdown
 category: markdown
 tags: extension commonmark
 draft: false

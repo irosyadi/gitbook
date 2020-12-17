@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Free and Open Electrical Engineering Books
 date: 2020-07-26 19:46:47
-path: /book
 category: book
 tags: free open electrical engineering book
 draft: false

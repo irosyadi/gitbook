@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Robotic Simulator
 date: 2020-10-11 22:09:56
-path: /research
 category: research
 tags: robotic simulator
 draft: false

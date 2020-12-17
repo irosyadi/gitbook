@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Zettelkasten
 date: 2020-07-03 20:27:20
-path: /note
 category: note
 tags: zettelkasten
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Getting Started about Markdown
 date: 2020-07-01 21:14:33
-path: /markdown
 category: markdown
 tags: markdown
 draft: false

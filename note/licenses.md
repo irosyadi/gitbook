@@ -3,8 +3,9 @@ layout: default
 author: irosyadi
 title:  Open and Free Licenses
 date: 2020-06-28 20:25:26
-path: /note
+category: note
 tags: open free license
+draft: false
 ---
 
 # Open and Free Licenses

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Animation App
 date: 2020-09-12 21:08:05
-path: /app
 category: app
 tags: animation app
 draft: false

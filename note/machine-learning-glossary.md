@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Machine Learning Glossary
 date: 2020-07-11 20:29:35
-path: /note
 category: note
 tags: machine learning glossary
 draft: false

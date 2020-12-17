@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Free Apps for Developers
 date: 2020-09-14 10:44:06
-path: /app
 category: app
 tags: free app developer
 draft: false

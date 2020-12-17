@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  CT-Scan for Covid Classification using Machine Learning
 date: 2020-11-29 14:44:52
-path: /research
 category: research
 tags: covid classification machine learning
 draft: false

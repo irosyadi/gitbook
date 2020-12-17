@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Peer to Peer File Sharing and Transfer
 date: 2020-11-20 08:52:22
-path: /app
 category: app
 tags: peer, file, sharing
 draft: false

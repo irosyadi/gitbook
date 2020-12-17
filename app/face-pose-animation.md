@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Face Motion
 date: 2020-11-20 08:57:13
-path: /app
 category: app
 tags: face motion avatar
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Open Healthcare Library
 date: 2020-07-20 20:31:10
-path: /note
 category: note
 tags: open healthcare library
 draft: false

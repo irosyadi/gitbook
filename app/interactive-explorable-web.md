@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Interactive and Explorable Websites
 date: 2020-06-29 19:58:21
-path: /app
 category: app
 tags: interactive website
 draft: false

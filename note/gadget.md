@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Awesome Gadget
 date: 2020-12-11 19:31:06
-path: /note
 category: note
 tags: awesome gadget
 draft: false

@@ -3,7 +3,6 @@ layout: default
 author: irosyadi
 title:  Graph Tools
 date: 2020-10-11 20:55:28
-path: /app
 category: app
 tags: graph tool app
 draft: false
