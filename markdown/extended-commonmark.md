@@ -4,7 +4,7 @@ author: irosyadi
 title:  Extended Commonmark
 date: 2020-07-01 21:18:09
 category: markdown
-tags: extension commonmark
+tags: ["markdown", "commonmark"]
 draft: false
 ---
 

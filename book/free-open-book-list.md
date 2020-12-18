@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free and Open Books Repository and Provider
 date: 2020-06-28 19:20:37
 category: book
-tags: free open book
+tags: ["free", "open", "book"]
 draft: false
 ---
 

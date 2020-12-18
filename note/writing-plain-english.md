@@ -4,7 +4,7 @@ author: irosyadi
 title:  Writing in Plain Englsih
 date: 2020-10-11 21:10:21
 category: note
-tags: writing plain english
+tags: ["writing", "english"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Domain Tool
 date: 2020-06-16 19:52:40
 category: app
-tags: awesome domain tool
+tags: ["domain"]
 draft: false
 ---
 

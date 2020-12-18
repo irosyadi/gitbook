@@ -4,7 +4,7 @@ author: irosyadi
 title:  NLP for Bahasa Indonesia
 date: 2020-10-11 21:14:37
 category: research
-tags: nlp bahasa indonesia
+tags: ["nlp", "indonesia"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  CSS for the Blog
 date: 2020-12-12 15:25:37
 category: development
-tags: css cheatsheet
+tags: ["css"]
 draft: false
 ---
 

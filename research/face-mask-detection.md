@@ -4,7 +4,7 @@ author: irosyadi
 title:  Face Mask Detection with Machine Learning
 date: 2020-11-29 17:33:08
 category: research
-tags: face mask detection
+tags: ["face detection", "machine learning"]
 draft: false
 ---
 

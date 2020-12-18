@@ -4,7 +4,7 @@ author: irosyadi
 title:  Emotion Detection with Machine Learning
 date: 2020-11-29 18:28:53
 category: research
-tags: emotion detection
+tags: ["emotion detection", "machine learning"]
 draft: false
 ---
 

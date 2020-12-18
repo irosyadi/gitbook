@@ -4,7 +4,7 @@ author: irosyadi
 title:  Open Glossary
 date: 2020-11-28 03:42:30
 category: book
-tags: open glossary
+tags: ["open", "glossary"]
 draft: false
 ---
 

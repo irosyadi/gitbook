@@ -4,7 +4,7 @@ author: irosyadi
 title:  CT-Scan for Covid Classification using Machine Learning
 date: 2020-11-29 14:44:52
 category: research
-tags: covid classification machine learning
+tags: ["covid", "machine learning"]
 draft: false
 ---
 

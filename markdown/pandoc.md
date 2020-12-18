@@ -4,7 +4,7 @@ author: irosyadi
 title:  Pandoc
 date: 2020-07-12 21:20:48
 category: markdown
-tags: about pandoc
+tags: ["pandoc"]
 draft: false
 ---
 

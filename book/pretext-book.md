@@ -4,7 +4,7 @@ author: irosyadi
 title:  Pretext Book
 date: 2020-07-12 19:46:07
 category: book
-tags: pretext open book
+tags: ["free", "open", "book"]
 draft: false
 ---
 

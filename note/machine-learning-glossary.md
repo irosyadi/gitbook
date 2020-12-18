@@ -4,7 +4,7 @@ author: irosyadi
 title:  Machine Learning Glossary
 date: 2020-07-11 20:29:35
 category: note
-tags: machine learning glossary
+tags: ["machine learning", "glossary"]
 draft: false
 ---
 

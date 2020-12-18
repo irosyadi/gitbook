@@ -4,7 +4,7 @@ author: irosyadi
 title:  List of Python Resources
 date: 2020-06-28 19:43:34
 category: book
-tags: list python resource
+tags: ["python"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Machine Learning Books and Tutorials
 date: 2020-06-19 19:38:14
 category: book
-tags: machine learning book tutorial
+tags: ["machine learning", "book", "tutorial"]
 draft: false
 ---
 

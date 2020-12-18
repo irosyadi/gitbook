@@ -4,7 +4,7 @@ author: irosyadi
 title:  Linear Algebra
 date: 2020-08-31 13:58:32
 category: course
-tags: linear algebra
+tags: ["linear algebra"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Machine Learning for Sport Pose Analysis
 date: 2020-10-11 21:21:34
 category: research
-tags: machine learning sport pose
+tags: ["machine learning", "sport", "pose estimation"]
 draft: false
 ---
 

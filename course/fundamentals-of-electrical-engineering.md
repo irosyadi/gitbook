@@ -4,7 +4,7 @@ author: irosyadi
 title:  Fundamentals of Electrical Engineering
 date: 2020-08-31 13:57:15
 category: course
-tags: fundamental electrical engineering
+tags: ["electrical engineering"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Spartan and Text Only Websites
 date: 2020-11-14 08:36:37
 category: app
-tags: text website
+tags: ["text only"]
 draft: false
 ---
 

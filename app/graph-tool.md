@@ -4,7 +4,7 @@ author: irosyadi
 title:  Graph Tools
 date: 2020-10-11 20:55:28
 category: app
-tags: graph tool app
+tags: ["graph"]
 draft: false
 ---
 

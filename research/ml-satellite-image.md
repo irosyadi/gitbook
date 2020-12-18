@@ -4,7 +4,7 @@ author: irosyadi
 title:  Machine Learning for Satellite Images
 date: 2020-10-11 21:18:50
 category: research
-tags: machine learning satellite image
+tags: ["machine learning", "satellite"]
 draft: false
 ---
 

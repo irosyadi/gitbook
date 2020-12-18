@@ -4,7 +4,7 @@ author: irosyadi
 title:  Hacker News Apps
 date: 2020-11-13 06:26:27
 category: app
-tags: hacker news
+tags: ["hacker news"]
 draft: false
 ---
 

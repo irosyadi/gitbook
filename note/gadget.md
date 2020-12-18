@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Gadget
 date: 2020-12-11 19:31:06
 category: note
-tags: awesome gadget
+tags: ["imron", "gadget"]
 draft: false
 ---
 

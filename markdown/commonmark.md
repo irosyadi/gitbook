@@ -4,7 +4,7 @@ author: irosyadi
 title:  Markdown with Commonmark
 date: 2020-07-01 21:16:49
 category: markdown
-tags: markdown commonmark
+tags: ["markdown", "commonmark"]
 draft: false
 ---
 

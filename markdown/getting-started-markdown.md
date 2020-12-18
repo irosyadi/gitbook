@@ -4,7 +4,7 @@ author: irosyadi
 title:  Getting Started about Markdown
 date: 2020-07-01 21:14:33
 category: markdown
-tags: markdown
+tags: ["markdown"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Dasar Teknik Elektro
 date: 2020-08-31 13:58:37
 category: course
-tags: dasar teknik elektro
+tags: ["teknik elektro", "electrical engineering", "kuliah"]
 draft: false
 ---
 

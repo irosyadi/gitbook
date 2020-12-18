@@ -4,7 +4,7 @@ author: irosyadi
 title:  Notetaking Tools
 date: 2020-06-29 20:00:31
 category: app
-tags: list notetaking tool
+tags: ["notetaking"]
 draft: false
 ---
 

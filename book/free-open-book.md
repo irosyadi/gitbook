@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free and Open Books
 date: 2020-08-10 19:35:41
 category: book
-tags: free open book
+tags: ["free", "open", "book"]
 draft: false
 ---
 

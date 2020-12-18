@@ -4,7 +4,7 @@ author: irosyadi
 title:  Machine Learning
 date: 2020-08-31 13:58:59
 category: course
-tags: machine learning
+tags: ["machine learning"]
 draft: false
 ---
 

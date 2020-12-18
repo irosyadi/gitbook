@@ -4,7 +4,7 @@ author: irosyadi
 title:  List of Static Web Generator
 date: 2020-07-06 20:01:55
 category: app
-tags: static web generator
+tags: ["static web"]
 draft: false
 ---
 

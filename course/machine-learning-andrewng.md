@@ -3,9 +3,8 @@ layout: default
 author: irosyadi
 title:  Machine Learning by Andrew Ng Resources
 date: 2020-11-11 13:58:59
-path: /course
 category: course
-tags: machine learning
+tags: ["machine learning"]
 draft: false
 ---
 

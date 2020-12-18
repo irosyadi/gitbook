@@ -4,7 +4,7 @@ author: irosyadi
 title:  Zettelkasten
 date: 2020-07-03 20:27:20
 category: note
-tags: zettelkasten
+tags: ["zettelkasten", "writing", "note taking"]
 draft: false
 ---
 

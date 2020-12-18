@@ -4,7 +4,7 @@ author: irosyadi
 title:  Writing Assistants, Grammar and Plagiarsm Checker
 date: 2020-11-20 08:24:13
 category: app
-tags: writing, grammar, plagiarsm
+tags: ["writing", "grammar", "plagiarsm"]
 draft: false
 ---
 

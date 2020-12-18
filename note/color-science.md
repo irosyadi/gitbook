@@ -4,7 +4,7 @@ author: irosyadi
 title:  Color Science
 date: 2020-10-11 21:00:05
 category: note
-tags: color
+tags: ["color"]
 draft: false
 ---
 

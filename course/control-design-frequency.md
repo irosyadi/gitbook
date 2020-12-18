@@ -1,8 +1,14 @@
-
-
+---
+layout: default
+author: irosyadi
+title:  Control Design with Frequency Method
+date: 2020-08-31 13:57:57
+category: course
+tags: ["control system"]
+draft: false
+---
 
 # Control Design with Frequency Method
-
 
 ## Perbandingan Metode Root Locus (RL) dan Respon Frekuensi (RF)
 - Pada desain respon transien dan stabilitas dengan pengaturan gain (*gain adjustment*)

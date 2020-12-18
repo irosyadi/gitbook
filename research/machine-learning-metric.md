@@ -3,9 +3,8 @@ layout: default
 author: irosyadi
 title:  Machine Learning Metrics
 date: 2020-12-15 14:08:52
-path: /research
 category: research
-tags: machine learning metric
+tags: ["machine learning"]
 draft: false
 ---
 

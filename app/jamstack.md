@@ -4,7 +4,7 @@ author: irosyadi
 title:  Jamstack
 date: 2020-08-12 22:13:16
 category: app
-tags: jamstack
+tags: ["jamstack"]
 draft: false
 ---
 

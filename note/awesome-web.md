@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Free Stuffs from Internet
 date: 2020-07-17 20:30:25
 category: note
-tags: awesome web
+tags: ["free", "service", "website"]
 draft: false
 ---
 

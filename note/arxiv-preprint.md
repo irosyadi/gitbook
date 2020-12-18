@@ -4,7 +4,7 @@ author: irosyadi
 title:  Arxiv and Paper Preprint Sites
 date: 2020-10-11 22:31:46
 category: note
-tags: arxiv paper preprint
+tags: ["arxiv", "paper", "preprint"]
 draft: false
 ---
 

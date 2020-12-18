@@ -4,7 +4,7 @@ author: irosyadi
 title:  Control Systems
 date: 2020-08-31 13:57:57
 category: course
-tags: control system
+tags: ["control system"]
 draft: false
 ---
 

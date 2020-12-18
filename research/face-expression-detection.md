@@ -4,7 +4,7 @@ author: irosyadi
 title:  Face Expression and Detection
 date: 2020-11-20 09:00:27
 category: research
-tags: tag tag
+tags: ["face expression", "machine learning"]
 draft: false
 ---
 

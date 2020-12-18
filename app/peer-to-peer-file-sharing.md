@@ -4,7 +4,7 @@ author: irosyadi
 title:  Peer to Peer File Sharing and Transfer
 date: 2020-11-20 08:52:22
 category: app
-tags: peer, file, sharing
+tags: ["peer to peer", "file sharing"]
 draft: false
 ---
 

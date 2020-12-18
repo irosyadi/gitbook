@@ -4,7 +4,7 @@ author: irosyadi
 title:  Imron Rosyadi
 date: 2020-05-01 13:49:51
 category: blog
-tags: about me imron rosyadi
+tags: ["imron"]
 draft: false
 ---
 

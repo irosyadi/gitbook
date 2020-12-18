@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free Apps for Developers
 date: 2020-09-14 10:44:06
 category: app
-tags: free app developer
+tags: ["free", "developer"]
 draft: false
 ---
 

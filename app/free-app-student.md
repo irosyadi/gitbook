@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free Apps for Students
 date: 2020-09-14 10:41:48
 category: app
-tags: free app student
+tags: ["free", "student"]
 draft: false
 ---
 

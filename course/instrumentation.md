@@ -4,7 +4,7 @@ author: irosyadi
 title:  Instrumentation
 date: 2020-09-14 11:35:20
 category: course
-tags: instrumentation
+tags: ["instrumentation"]
 draft: false
 ---
 

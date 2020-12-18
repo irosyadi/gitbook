@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free Cloud Compute Infrastructure
 date: 2020-11-14 08:32:12
 category: app
-tags: free cloud compute infrastructure
+tags: ["free", "cloud", "compute"]
 draft: false
 ---
 

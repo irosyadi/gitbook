@@ -4,7 +4,7 @@ author: irosyadi
 title:  Online Drawing Tools and Whiteboard Apps
 date: 2020-09-14 11:04:15
 category: app
-tags: drawing tool whiteboard app
+tags: ["drawing", "whiteboard"]
 draft: false
 ---
 

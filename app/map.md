@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Maps
 date: 2020-06-16 19:51:58
 category: app
-tags: awesome map
+tags: ["map"]
 draft: false
 ---
 

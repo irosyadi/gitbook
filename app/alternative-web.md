@@ -4,7 +4,7 @@ author: irosyadi
 title:  Alternative to Popular Websites
 date: 2020-06-28 19:57:18
 category: app
-tags: alternative to popular website
+tags: ["alternative", "website"]
 draft: false
 ---
 

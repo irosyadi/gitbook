@@ -4,7 +4,7 @@ author: irosyadi
 title:  Style Guide for Markdown Writing
 date: 2020-07-01 21:16:10
 category: markdown
-tags: markdown writing style
+tags: ["markdown", "writing"]
 draft: false
 ---
 

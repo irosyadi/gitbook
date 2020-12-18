@@ -4,7 +4,7 @@ author: irosyadi
 title:  NLP with GPT
 date: 2020-10-11 21:12:55
 category: research
-tags: nlp gpt
+tags: ["nlp", "gpt"]
 draft: false
 ---
 

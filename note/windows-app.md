@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Windows Apps
 date: 2020-08-05 20:34:24
 category: note
-tags: awesome windows app
+tags: ["windows", "imron", "app"]
 draft: false
 ---
 

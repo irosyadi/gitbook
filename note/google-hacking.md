@@ -4,7 +4,7 @@ author: irosyadi
 title:  Google Hacking
 date: 2020-08-10 07:30:29
 category: note
-tags: google hacking dorking advanced search
+tags: ["google", "hacking", "dorking",  "search"]
 draft: false
 ---
 

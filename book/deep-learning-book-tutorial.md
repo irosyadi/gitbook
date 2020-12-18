@@ -4,7 +4,7 @@ author: irosyadi
 title:  Deep Learning Book and Tutorial
 date: 2020-08-17 17:08:47
 category: book
-tags: deep learning book tutorial
+tags: ["deep learning", "book", "tutorial"]
 draft: false
 ---
 

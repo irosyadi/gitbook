@@ -4,7 +4,7 @@ author: irosyadi
 title:  Interactive and Explorable Websites
 date: 2020-06-29 19:58:21
 category: app
-tags: interactive website
+tags: ["interactive"]
 draft: false
 ---
 

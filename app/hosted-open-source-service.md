@@ -4,7 +4,7 @@ author: irosyadi
 title:  Hosted Open Source Services
 date: 2020-10-11 21:39:17
 category: app
-tags: hosted open source services
+tags: ["self-hosted", "open source"]
 draft: false
 ---
 

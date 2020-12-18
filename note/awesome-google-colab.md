@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Google Colab Notebooks
 date: 2020-11-14 05:31:42
 category: note
-tags: awesome google colab notebook
+tags: ["google", "colab", "notebook"]
 draft: false
 ---
 

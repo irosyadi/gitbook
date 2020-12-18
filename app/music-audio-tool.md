@@ -4,7 +4,7 @@ author: irosyadi
 title:  Music and Audio Tools
 date: 2020-11-20 08:55:01
 category: app
-tags: music audio tool
+tags: ["music", "audio"]
 draft: false
 ---
 

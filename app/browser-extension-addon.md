@@ -4,7 +4,7 @@ author: irosyadi
 title:  Browser Extension and Add-On
 date: 2020-08-16 19:57:52
 category: app
-tags: browser extension add-on
+tags: ["browser", "extension", "add-on"]
 draft: false
 ---
 

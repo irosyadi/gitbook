@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Jupyter Notebooks
 date: 2020-07-10 20:28:02
 category: note
-tags: awesome jupyter notebook
+tags: ["jupyter", "notebook"]
 draft: false
 ---
 

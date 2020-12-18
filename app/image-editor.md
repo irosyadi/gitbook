@@ -4,7 +4,7 @@ author: irosyadi
 title:  Image Editor
 date: 2020-06-16 16:12:32
 category: app
-tags: image editor
+tags: ["image", "editor"]
 draft: false
 ---
 

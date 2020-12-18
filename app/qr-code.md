@@ -4,7 +4,7 @@ author: irosyadi
 title:  QR Code App
 date: 2020-08-15 04:10:11
 category: app
-tags: QR code
+tags: ["QR Code"]
 draft: false
 ---
 

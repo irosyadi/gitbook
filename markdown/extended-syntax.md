@@ -4,7 +4,7 @@ author: irosyadi
 title:  Extended Syntax of Markdown
 date: 2020-07-01 21:13:34
 category: markdown
-tags: extended syntax markdown
+tags: ["markdown"]
 draft: false
 ---
 

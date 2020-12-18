@@ -4,7 +4,7 @@ author: irosyadi
 title:  E-book and Paper Search Engine
 date: 2020-11-28 08:37:00
 category: book
-tags: e-book paper article search engine
+tags: ["e-book", "paper", "search"]
 draft: false
 ---
 

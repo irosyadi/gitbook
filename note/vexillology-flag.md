@@ -4,7 +4,7 @@ author: irosyadi
 title:  Vexillology - Science about Flag
 date: 2020-07-29 20:33:36
 category: note
-tags: vexillology flag
+tags: ["vexillology", "flag"]
 draft: false
 ---
 

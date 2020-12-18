@@ -4,7 +4,7 @@ author: irosyadi
 title:  Regex
 date: 2020-11-14 20:12:07
 category: note
-tags: regex
+tags: ["regex"]
 draft: false
 ---
 

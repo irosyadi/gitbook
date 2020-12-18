@@ -4,7 +4,7 @@ author: irosyadi
 title:  Open and Free Licenses
 date: 2020-06-28 20:25:26
 category: note
-tags: open free license
+tags: ["open", "free", "license"]
 draft: false
 ---
 

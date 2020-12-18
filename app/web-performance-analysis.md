@@ -4,7 +4,7 @@ author: irosyadi
 title:  Web Performance Analysis
 date: 2020-11-20 05:51:43
 category: app
-tags: web bloat performance analysis
+tags: ["web", "performance", "test"]
 draft: false
 ---
 

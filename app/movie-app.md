@@ -4,7 +4,7 @@ author: irosyadi
 title:  Movie App
 date: 2020-10-11 20:53:41
 category: app
-tags: movie app
+tags: ["movie"]
 draft: false
 ---
 

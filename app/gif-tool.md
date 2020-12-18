@@ -4,7 +4,7 @@ author: irosyadi
 title:  GIF Tools
 date: 2020-06-25 19:54:46
 category: app
-tags: gif tool
+tags: ["gif"]
 draft: false
 ---
 

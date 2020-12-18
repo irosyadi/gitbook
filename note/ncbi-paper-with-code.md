@@ -4,7 +4,7 @@ author: irosyadi
 title:  NCBI Papers with Code
 date: 2020-06-17 20:07:45
 category: note
-tags: ncbi paper code
+tags: ["ncbi", "paper", "code"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Data Set
 date: 2020-11-14 05:55:08
 category: note
-tags: awesome data set
+tags: ["data set"]
 draft: false
 ---
 

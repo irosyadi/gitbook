@@ -4,7 +4,7 @@ author: irosyadi
 title:  Markdown for This Blog
 date: 2020-11-26 21:10:40
 category: development
-tags: markdown cheatsheet
+tags: ["markdown"]
 draft: false
 ---
 

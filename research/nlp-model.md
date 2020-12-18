@@ -4,7 +4,7 @@ author: irosyadi
 title:  NLP Models
 date: 2020-10-11 21:15:53
 category: research
-tags: nlp model
+tags: ["nlp", "machine learning"]
 draft: false
 ---
 

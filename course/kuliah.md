@@ -4,7 +4,7 @@ author: irosyadi
 title:  Kuliah
 date: 2020-08-31 13:58:33
 category: course
-tags: kuliah
+tags: ["kuliah"]
 draft: false
 ---
 

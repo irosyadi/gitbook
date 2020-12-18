@@ -4,7 +4,7 @@ author: irosyadi
 title:  Vlog Tools
 date: 2020-10-11 22:06:16
 category: note
-tags: vlog tool
+tags: ["vlog"]
 draft: false
 ---
 

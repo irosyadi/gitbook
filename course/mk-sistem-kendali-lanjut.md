@@ -4,7 +4,7 @@ author: irosyadi
 title:  Sistem Kendali Lanjut
 date: 2020-08-31 14:57:57
 category: course
-tags: sistem kendali lanjut
+tags: ["sistem kendali", "control system", "kuliah"]
 draft: false
 ---
 

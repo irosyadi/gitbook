@@ -4,7 +4,7 @@ author: irosyadi
 title:  Awesome Open Source Documents
 date: 2020-07-28 19:47:45
 category: book
-tags: awesome open source document
+tags: ["open source", "document"]
 draft: false
 ---
 

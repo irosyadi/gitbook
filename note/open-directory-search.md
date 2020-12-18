@@ -4,7 +4,7 @@ author: irosyadi
 title:  Open Directory Search
 date: 2020-08-12 08:18:07
 category: note
-tags: open directory search
+tags: ["open directory", "search"]
 draft: false
 ---
 

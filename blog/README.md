@@ -4,7 +4,7 @@ author: irosyadi
 title:  About Blog
 date: 2020-06-01 20:09:34
 category: blog
-tags: about blog
+tags: ["writing"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Extended Markdown Cheatsheet
 date: 2020-11-26 21:10:41
 category: markdown
-tags: extended markdown cheatsheet
+tags: ["markdown"]
 draft: false
 ---
 

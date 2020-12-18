@@ -4,7 +4,7 @@ author: irosyadi
 title:  Sketch and Hand Draw Web App
 date: 2020-08-12 22:00:34
 category: app
-tags: sketch hand draw
+tags: ["sketch", "hand draw"]
 draft: false
 ---
 

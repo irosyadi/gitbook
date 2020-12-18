@@ -4,7 +4,7 @@ author: irosyadi
 title:  Google Sheet Tools
 date: 2020-07-08 20:03:26
 category: app
-tags: google sheet tool
+tags: ["google sheet"]
 draft: false
 ---
 

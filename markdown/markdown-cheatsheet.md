@@ -4,7 +4,7 @@ author: irosyadi
 title:  Markdown Cheatsheet
 date: 2020-07-01 21:15:25
 category: markdown
-tags: markdown cheatsheet
+tags: ["markdown"]
 draft: false
 ---
 

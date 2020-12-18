@@ -4,7 +4,7 @@ author: irosyadi
 title:  Safety Helmet Detection
 date: 2020-11-29 19:37:58
 category: research
-tags: safety helmet detection
+tags: ["object detection", "machine learning"]
 draft: false
 ---
 

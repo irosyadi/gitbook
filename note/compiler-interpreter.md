@@ -4,7 +4,7 @@ author: irosyadi
 title:  About Compiler Interpreter
 date: 2020-07-03 20:26:29
 category: note
-tags: compiler interpreter
+tags: ["compiler", "interpreter"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Alternative Frontend of Popular Websites
 date: 2020-06-27 19:56:20
 category: app
-tags: alternative frontend website
+tags: ["alternative", "frontend"]
 draft: false
 ---
 

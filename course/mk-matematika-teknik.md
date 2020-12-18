@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Matematika Teknik
 date: 2020-08-31 13:58:32
 category: course
-tags: matematika teknik
+tags: ["matematika teknik", "linear algebra", "kuliah"]
 draft: false
 ---
 
