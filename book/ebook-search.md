@@ -20,11 +20,13 @@ draft: false
 - [library.lol](https://library.lol)
 - [libgen.lc](https://libgen.lc)
 - [libgen.li](http://libgen.li/)
-- [b-ok](https://b-ok.cc)
 - [libgen.me](https://libgen.me)
+- [b-ok](https://b-ok.cc)
 - [bookfi.net](https://en.bookfi.net)
 - [z-lib](https://z-lib.org/)
 - [Archive.org Texts](https://archive.org/details/texts)
+- [Freeread](https://freeread.org/ipfs/) : Libgen in IFPS
+- [Skyhub](https://github.com/frrad/skyhub) : Skyhub provides a way of accessing the libgen scimag / sci-hub torrent archive on a one-off basis. It stands up what looks like a local copy of sci-hub.
 
 ## Paper search engine (scihub)
 - [sci-hub.ee](https://sci-hub.ee/) or [sci-hub.st](https://sci-hub.st/) or [sci-hub.se](https://sci-hub.se/) or [sci-hub.do](https://sci-hub.do/)

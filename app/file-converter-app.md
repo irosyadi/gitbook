@@ -10,7 +10,7 @@ draft: false
 
 # File Converter App
 
-## Online File Converter
+## Cloud-based File Converter
 - [mp4.to](https://mp4.to/) : video file converter
 - [pdf.to](https://pdf.to/) : document file converter
 - [word.to](https://word.to/) : document file converter
@@ -27,9 +27,12 @@ draft: false
 - [Online Convert](https://www.online-convert.com/) : many types of files
 - [Cloud COnvert](https://cloudconvert.com/)
 
+## WASM File Converter
+- [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter
+
 ## Offline File Converter Apps
 - [File Converter](https://file-converter.org/) : Windows app
 - [NCH tools file converter](https://www.nchsoftware.com/software/converters.html)
 - Pandoc
 - [Handbrake ](https://handbrake.fr/) : Video converter
-- [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter
+- [Pazeera](https://www.pazera-software.com/)

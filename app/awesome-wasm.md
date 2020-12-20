@@ -38,7 +38,7 @@ draft: false
 ## Text and Document Processing
 - [PDFTRon](https://www.pdftron.com/webviewer/demo/) : document manipulation
 - [SwiftLatex](https://www.swiftlatex.com/) : Latex processing
-- [Markdown Editor](https://rsms.me/markdown-wasm/), [Github](https://github.com/rsms/markdown-wasm)
+- [Markdown Editor](https://rsms.me/markdown-wasm/), [Github Repo](https://github.com/rsms/markdown-wasm)
 
 ## File Converter
 - [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter

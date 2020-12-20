@@ -1,18 +1,18 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Markdown Tools
+title:  Markdown Tools and Apps
 date: 2020-08-10 21:12:55
 category: markdown
 tags: ["markdown", "app"]
 draft: false
 ---
 
-# List of Markdown Tools
+# Markdown Tools and Apps
 
-* [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)
+- [Markdown Table Generator](https://www.tablesgenerator.com/markdown_tables)
 
-## Online Markdown Viewer
+## Online Markdown Editor
 - [Pandoc](https://pandoc.org/try/)
 - [Markdown Live Preview](https://markdownlivepreview.com/)
 - [Dilinger](https://dillinger.io/)
@@ -37,31 +37,29 @@ draft: false
 - [Word to Markdown](https://word2md.com/)
 - [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
-
 ## Markdown Linter
 - [Markdown Lint](https://dlaa.me/markdownlint/)
 
-
 ## Markdown References
-1. [Markdown Guide](https://www.markdownguide.org/), [Github](https://github.com/mattcone/markdown-guide)
-2. [Common Mark](https://commonmark.org/), [Latest Specification](https://spec.commonmark.org/)
-  3. [List Common Mark Implementation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
-  4. [List Commonmark Application](https://github.com/commonmark/commonmark-spec/wiki/Applications-supporting-CommonMark)
-  5. [Deployed Extensions](https://github.com/commonmark/commonmark-spec/wiki/Deployed-Extensions) Not yet in Commonmark but available in other flavors. Some of it still in [discussion](https://github.com/commonmark/commonmark-spec/wiki/Proposed-Extensions) and this [discussion](https://github.com/commonmark/commonmark-spec/wiki/Proposed-Extensions-to-CommonMark)
-4. [Gitlab Markdown](https://about.gitlab.com/handbook/markdown-guide/)
-5. [Github Flavored Markdown](https://github.github.com/gfm/)
-6. [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
-7. [MD Tutorial](https://agea.github.io/tutorial.md/)
-8. [List Markdown Flavors](https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors)
-9. [Arctic Studio](https://arcticicestudio.github.io/styleguide-markdown/)
+- [Markdown Guide](https://www.markdownguide.org/), [Github](https://github.com/mattcone/markdown-guide)
+- [Common Mark](https://commonmark.org/), [Latest Specification](https://spec.commonmark.org/)
+- [List Common Mark Implementation](https://github.com/commonmark/commonmark-spec/wiki/List-of-CommonMark-Implementations)
+- [List Commonmark Application](https://github.com/commonmark/commonmark-spec/wiki/Applications-supporting-CommonMark)
+- [Deployed Extensions](https://github.com/commonmark/commonmark-spec/wiki/Deployed-Extensions) Not yet in Commonmark but available in other flavors. Some of it still in [discussion](https://github.com/commonmark/commonmark-spec/wiki/Proposed-Extensions) and this [discussion](https://github.com/commonmark/commonmark-spec/wiki/Proposed-Extensions-to-CommonMark)
+- [Gitlab Markdown](https://about.gitlab.com/handbook/markdown-guide/)
+- [Github Flavored Markdown](https://github.github.com/gfm/)
+- [Markdown Extra](https://michelf.ca/projects/php-markdown/extra/)
+- [MD Tutorial](https://agea.github.io/tutorial.md/)
+- [List Markdown Flavors](https://github.com/commonmark/commonmark-spec/wiki/Markdown-Flavors)
+- [Arctic Studio](https://arcticicestudio.github.io/styleguide-markdown/)
 
 ## Markdown Parsing Comparisons
-3. [Babelmark](https://johnmacfarlane.net/babelmark2/) for Markdown Guide Comparison, [FAQ](https://johnmacfarlane.net/babelmark2/faq.html)
-4. [Babelmark 3](https://babelmark.github.io/)
+- [Babelmark](https://johnmacfarlane.net/babelmark2/) for Markdown Guide Comparison, [FAQ](https://johnmacfarlane.net/babelmark2/faq.html)
+- [Babelmark 3](https://babelmark.github.io/)
 
 ## Markdown Style Guide
-8. [Markdown Style Guide](https://cirosantilli.com/markdown-style-guide/) [Github](https://github.com/cirosantilli/cirosantilli.github.io/blob/dev/markdown-style-guide.md)
-9. [Google Style Guide](https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md)
+- [Markdown Style Guide](https://cirosantilli.com/markdown-style-guide/) [Github](https://github.com/cirosantilli/cirosantilli.github.io/blob/dev/markdown-style-guide.md)
+- [Google Style Guide](https://github.com/google/styleguide/blob/3591b2e540cbcb07423e02d20eee482165776603/docguide/style.md)
 
 ## List Markdown Parser
 - [CSS Tricks](https://css-tricks.com/choosing-right-markdown-parser/)
@@ -80,7 +78,7 @@ draft: false
 - [Marked](https://marked.js.org/#/README.md#specifications)
 - [MultiMarkdown](https://fletcherpenney.net/multimarkdown/features/)
 - [Maruku Markdown](https://github.com/bhollis/maruku/blob/master/docs/markdown_syntax.md) [Maruku](https://golem.ph.utexas.edu/~distler/maruku/)
-- 
+
 ## Discussion
 - [Criticism for markdown](https://www.ericholscher.com/blog/2016/mar/15/dont-use-markdown-for-technical-docs/)
 - [Why we need other markup lang](https://dev.to/practicalprogramming/we-need-a-new-document-markup-language---here-is-why-5d4c)
@@ -100,15 +98,11 @@ List at [wiki](https://www.wikiwand.com/en/Lightweight_markup_language)
 ## Comparison
 - [Asciidoc vs Markdown](https://mister-gold.pro/posts/en/asciidoc-vs-markdown/)
 
-
 ## Markdown Editor
-### Offline
 - [Mindforger](https://github.com/dvorka/mindforger/releases)
 - Ghostwriter
 - [Stackedit](https://stackedit.io)
 - [Editor.md](https://pandao.github.io/editor.md/en.html)
-
-
 
 ## Markdown Tools
 - Paste as Markdown: [clipboard2markdown](https://euangoddard.github.io/clipboard2markdown/)

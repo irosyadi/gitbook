@@ -27,7 +27,6 @@ draft: false
 - [ISSE](https://github.com/linuxmao-org/ISSE)
 - [SUDO RM RF](https://github.com/etzinis/sudo_rm_rf) : SUccessive DOwnsampling and Resampling of Multi-Resolution Features which enables a more efficient way of separating sources from mixtures
 - [Deep Audio](https://github.com/adobe/Deep-Audio-Prior) : Audio Source Separation Without Any Training Data 
-- [SOTA for Music Separation](https://paperswithcode.com/sota/music-source-separation-on-musdb18)
 
 ## Music Recognition
 - [Audio Tag for recognize music](https://audiotag.info/)

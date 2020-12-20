@@ -27,7 +27,7 @@ draft: false
 - vim-org
 - [Trilium](https://github.com/zadam/trilium)
 - [Logseq](https://logseq.com/), note taking web based local only and GitHub-hosted
-- [Typora](https://typora.io/), a nicely polished Markdown editor – has the best support for math input I’ve seen
+- [Typora](https://typora.io/), a nicely polished Markdown editor – has the best support for math input I've seen
 - [Obsidian](https://obsidian.md/features), a split-pane Markdown editor focused on bidirectional linking
 - [Zettlr](https://www.zettlr.com/) a Markdown editor focused on publishing / academics
 - [RemNote](https://www.remnote.io/) converts your notes into spaced-repetition flash cards, similar to [Anki](https://apps.ankiweb.net/)
