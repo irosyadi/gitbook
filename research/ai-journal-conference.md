@@ -4,7 +4,7 @@ author: irosyadi
 title:  AI Journals and Conferences
 date: 2020-12-20 22:49:42
 category: research
-tags: ["AI", "journal, "conference"]
+tags: ["AI", "journal", "conference"]
 draft: false
 ---
 
