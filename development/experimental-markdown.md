@@ -57,24 +57,36 @@ Here is the comment:
 
 ### Internal Reference : Outside Folder
 
-Content of the up folder (`[Blog Markdown](../development/blog-markdown.md)`)
-- [Blog Markdown](../development/blog-markdown.md) : working on jekyll-rtd, gitbook, fail on gatsby
+Content of the up folder (`[Markdown](../development/blog-markdown.md)`)
+- [Markdown](../development/blog-markdown.md) : working on jekyll-rtd, gitbook, fail on gatsby
 - [Blog](../blog/readme.md) : working on jekyll-rtd, fail on gitbook, fail on gatsby
 
-Content of the up folder (`[Hello](../development/blog-markdown)`)
-- [Hello](../development/blog-markdown)  : working on jekyll-rtd, fail on gitbook, fail on gatsby
+Content of the up folder (`[Markdown](../development/blog-markdown)`)
+- [Markdown](../development/blog-markdown)  : working on jekyll-rtd, fail on gitbook, fail on gatsby
 - [Blog](../blog/readme) : fail on jekyll-rtd, fail gitbook, fail on gatsby
 
-Content of the up folder (`[Hello](../development/blog-markdown/)`)
-- [Hello](../development/blog-markdown/) : working on jekyll-rtd, fail on gitbook, fail on gatsby
+Content of the up folder (`[Markdown](../development/blog-markdown/)`)
+- [Markdown](../development/blog-markdown/) : working on jekyll-rtd, fail on gitbook, fail on gatsby
 - [Blog](../blog/readme/) : fail on jekyll-rtd, fail on gitbook, fail on gatsby
+
+Content of the up folder (`[Markdown](.../development/blog-markdown/)`)
+- [Markdown](.../development/blog-markdown/)
+- [Blog](.../blog/readme/)
+- [Markdown](.../development/blog-markdown)
+- [Blog](.../blog/readme)
+- [Markdown](.../development/blog-markdown.md)
+- [Blog](.../blog/readme.md)
 
 - Gatsby understands only link under its folder
 
 ### Internal Reference : Inside Folder
-- [My Workflow](my-workflow.md) `[My Workflow](my-workflow.md)`
-- [My Workflow](my-workflow) `[My Workflow](my-workflow)`
+- [My Workflow](my-workflow.md) `[My Workflow](my-workflow.md)` : working on gitbook, jekyll-rtd
+- [My Workflow](my-workflow) `[My Workflow](my-workflow)` : working on jekyll-rtd
 - [My Workflow](my-workflow/) `[My Workflow](my-workflow/)`
+- [My Workflow](./my-workflow/) `[My Workflow](./my-workflow/)`
+- [My Workflow](./my-workflow) `[My Workflow](./my-workflow)`
+- [My Workflow](../my-workflow/) `[My Workflow](../my-workflow/)` : working on gatsby
+- [My Workflow](../my-workflow) `[My Workflow](../my-workflow)` : working on gatsby 
 
 ## Image Hosting in Github
 
