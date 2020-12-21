@@ -23,6 +23,8 @@ draft: false
 - [NTLK](https://www.nltk.org/book/) License: CC-BY-NC-ND (Note: consider replace by Gensim or Spacy)
 - [Ipyton Notebooks of Andrew Ng ](https://github.com/jdwittenauer/ipython-notebooks) License: -
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course) License: -
+- Notes for the [Reinforcement Learning course](https://github.com/dalmia/David-Silver-Reinforcement-learning) by David Silver along with implementation of various algorithms.
+
 
 ## Machine Learning Books
 
@@ -39,6 +41,7 @@ draft: false
 
 ### CC-BY-NC Machine Learning Books
 - [Interpretable Machine Learning: A Guide for Making Black Box Models Explainable](https://christophm.github.io/interpretable-ml-book/) License: CC-BY-NC
+- [Pablo Caceres Notes](https://pabloinsente.github.io/archive) License: CC-BY-NC, [Project Web](https://pablocaceres.org/projects/), [Github](https://github.com/pabloinsente) License: MIT
 
 ### CC-BY-NC-ND Machine Learning Books
 - [Machine Learning, Statistics, and Data Mining for Heliophysics](https://helioml.org/title), [GitHub Link](https://github.com/HelioML/HelioML) License: CC-BY-NC-ND 
@@ -56,6 +59,10 @@ draft: false
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Machine Lerning Book](https://www.cs.ubc.ca/~murphyk/MLbook/)
 
+### Proprietary Machine Learning Books
+- [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)
+- [Machine Learning Engineering](https://www.mlebook.com/wiki/doku.php) by Andriy Burkov
+
 ## List of Machine Learning Books
 - [List NN Book Open](https://www.freetechbooks.com/neural-networks-f58.html)
 - [Free Tech Books](https://www.freetechbooks.com/licenses?page=1)
@@ -63,6 +70,7 @@ draft: false
 - [Dive into Machine Learning](https://github.com/hangtwenty/dive-into-machine-learning)
 - [List ML Books](https://www.readthistwice.com/lists/best-machine-learning-books?s=rlearnmachinelearning)
 - [Cool Machine Learning Books](https://matpalm.com/blog/cool_machine_learning_books/)
+- [Free Machine Learning Resource](https://www.marktechpost.com/free-resources/)
 
 ## Articles about Machine Learning
 - [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)

@@ -3,8 +3,8 @@ layout: default
 author: irosyadi
 title:  Github Apps
 date: 2020-12-20 22:05:13
-category: category
-tags: ["tag", "tag"]
+category: app
+tags: ["github"]
 draft: false
 ---
 

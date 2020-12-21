@@ -19,6 +19,7 @@ draft: false
 
 ## Open Source Documents
 - [Awesome Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
+- [Awesome Open Source](https://awesomeopensource.com/)
 
 ## Open AI Project
 - [OpenCog](https://wiki.opencog.org/w/The_Open_Cognition_Project)

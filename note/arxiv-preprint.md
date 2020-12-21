@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Arxiv and Paper Preprint Sites
+title:  Arxiv, Paper Preprint, and Curated Paper Sites
 date: 2020-10-11 22:31:46
 category: note
 tags: ["arxiv", "paper", "preprint"]
 draft: false
 ---
 
-# Arxiv and Paper Preprint Sites
+# Arxiv, Paper Preprint, and Curated Paper Sites
 
 ## List of Arxiv and Paper Preprint Sites
 - [Engrxiv](https://engrxiv.org/) Engineering
@@ -30,3 +30,9 @@ draft: false
 - [Arxiv Times](https://arxivtimes.herokuapp.com/) ML news from Arxiv
 - [Daily Arxiv](https://dailyarxiv.com/) check arxiv articles based on date
 - [Arxiv Search Engine](https://arxiv.aiindex.org/search) for AI articles
+
+## Curated Papers
+- [42 Papers](https://42papers.com/) Trending papers in AI and Computer Science
+- [Papers with Code](https://paperswithcode.com/)
+- [Deep AI org](https://deepai.org/) AI News and AI Curated Papers
+- [Deep Learn](https://deeplearn.org/) AI News and AI Curated Papers

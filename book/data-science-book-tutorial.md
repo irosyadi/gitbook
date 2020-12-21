@@ -48,11 +48,9 @@ draft: false
 - [The Elements of Statistical Learning: Data Mining, Inference, and Prediction.](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - [Information Theory, Inference and Learning Algorithm](https://www.inference.org.uk/itila/book.html) with Octave companion
 - [Data Science Bookcamp](https://www.manning.com/books/data-science-bookcamp)
-
-The Best for Learning
 - [Data Science from Scratch](https://github.com/joelgrus/data-science-from-scratch)
-
 - [Python for Data Analysis Book](https://wesmckinney.com/pages/book.html) [GitHub](https://github.com/wesm/pydata-book)
+- [Data Science Self Learn](https://github.com/ossu/data-science)
 
 ## List of Data Science Books
 - [Learn Data Sci](https://www.learndatasci.com/free-data-science-books/) List of Free Data Science Book

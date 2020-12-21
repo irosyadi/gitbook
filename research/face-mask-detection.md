@@ -56,27 +56,36 @@ draft: false
 - upgrade [datarootsio/face-mask-detection](https://github.com/datarootsio/face-mask-detection) : RetinaFace (RetinaNetMobileNetV1) for face detection, MobileNetV1 for face classification
 - upgrade [Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection](https://github.com/Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection): ResNet18 on Jetson Nano
 
-## Project in Progress
+## Project in Progress (by Rozi)
 - Deep Learning for Face Detection in Real Time
 - Face Detection : SSD ResNet10 dan MTCNN
-- Mask Classification : MobileNetV2 dan VGG16Net
-- Android and PC Deployment
+- Mask Classification : CNN with MobileNetV2 dan VGG16Net
+- PC and Android Deployment
+- Variation :
+    - distance
+    - lighting
+    - mask variation (+face attack)
 - Metric for Performance Analysis :
-    - Accuracy, Precision, Recall, F1
-    - mAP@0.5 (Mean Average Precision)
-    - FPS
+    - Accuracy, Precision, Recall, F1 for image analysis
+    - mAP@0.5 (Mean Average Precision) for image analysis
+    - FPS for video analysis
+- Reference:
+    - [Face detection benchmark](https://github.com/nodefluxio/face-detector-benchmark), [Medium](https://medium.com/nodeflux/performance-showdown-of-publicly-available-face-detection-model-7c725747094a)
+    - [Real-Time Multi-Scale Face Detector on Embedded Devices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6539187/)
 
 ## Object Detection
 - Object Detection is Object Localization and Object Classification
 - Model for Object Detection: Fast R-CNN, Faster R-CNN, Histogram of Oriented Gradients (HOG), Region-based Convolutional Neural Networks (R-CNN), Region-based Fully Convolutional Network (R-FCN), Single Shot Detector (SSD), Spatial Pyramid Pooling (SPP-net), YOLO (You Only Look Once)
 
 ## YOLO
+- Redmond developed YOLO v1, YOLO v2, YOLO v3, but YOLO v4 and YOLO v5 were developed by [others](https://blog.roboflow.ai/yolov4-versus-yolov5/)
 - [Yolo at Darknet](https://pjreddie.com/darknet/yolo/), [Github Repo](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
 - [How to Perform Object Detection With YOLOv3 in Keras](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/)
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [YOLO object detection with OpenCV](https://www.pyimagesearch.com/2018/11/12/yolo-object-detection-with-opencv/)
 - [What is YOLO Object Detection?](https://appsilon.com/object-detection-yolo-algorithm/)
 - [Introduction to Yolo](https://appsilon.com/object-detection-yolo-algorithm/)
+- [High-performance multiple object tracking based on YOLOv4, Deep SORT, and optical flow ](https://github.com/GeekAlexis/FastMOT)
 
 ## TinyYolo for Mobile App
 - [TinyYolo for Knife Detection](http://publication.petra.ac.id/index.php/teknik-informatika/article/view/10527)

@@ -12,6 +12,7 @@ draft: false
 
 ## Free Course in Deep Learning
 - [Coursera: Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning)
+- [Yann Le Cun Pytorch Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/), [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq), [Github](https://github.com/Atcold/pytorch-Deep-Learning)
 
 ## Open Licensed Deep Learning Books and Tutorials
 - [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT

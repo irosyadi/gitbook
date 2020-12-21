@@ -23,6 +23,9 @@ draft: false
 - [Cortexlabs](https://github.com/cortexlabs/cortex/tree/master/examples) [Cortex](https://www.cortex.dev/)
 - [Easily build web apps for ML and DS projects](https://www.streamlit.io/)
 
+## Machine Learning Versioning Control
+- [Replicate AI](https://replicate.ai/) versioning control for AI
+- [Comet ML](https://www.comet.ml/site/) versioning control for ML
 
-## Data
+## Data Studio
 - [Data Studio Google](https://datastudio.google.com/navigation/reporting)
