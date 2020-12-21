@@ -20,6 +20,7 @@ draft: false
 - [Craftwork](https://craftwork.design/)
 - [Webpixels](https://webpixels.io/illustrations)
 - [Pixeltrue](https://www.pixeltrue.com/frontliner-heroes)
+- [Artify](https://www.artify.co/illustrations/)
 
 ## Free Image
 - [Unsplash](https://unsplash.com/) free image

@@ -34,6 +34,7 @@ draft: false
 - [Taylor and Francis](https://authorservices.taylorandfrancis.com/publishing-open-access/open-access-cost-finder/)
 - [F1000](https://f1000research.com/for-authors/article-processing-charges)
 - [IEEE Open](https://open.ieee.org/index.php/about-ieee-open-access/faqs/)
+- [Open Access Journal Processing Fee](https://www.openaccess.cam.ac.uk/publishing-open-access/how-much-do-publishers-charge-open-access)
 
 ### APC and IF relationship
 - [APC and IF Tables](http://csircentral.net/oa_j-2015-sci-e-only-new.pdf)

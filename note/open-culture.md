@@ -15,6 +15,7 @@ draft: false
 - [OPen Science Handbook](https://open-science-training-handbook.gitbook.io/book/)
 - [OSF.io](https://osf.io/)
 - [Open Source Sustainability Technology](https://opensustain.tech/), [Github Repo](https://github.com/protontypes/awesome-sustainable-technology)
+- [Console](https://console.substack.com/)
 
 ## Open Source Documents
 - [Awesome Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)

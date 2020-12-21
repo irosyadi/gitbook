@@ -45,3 +45,4 @@ draft: false
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
+- [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
