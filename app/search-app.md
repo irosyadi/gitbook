@@ -34,6 +34,13 @@ draft: false
 - [typesense](https://typesense.org/) - open source
 - [Mojeek](https://www.mojeek.com/) - privacy oriented
 
+## Archive.org Search Engine
+- [Archive.org Book Search](https://archive.org/details/texts)
+- [Archive.org Movie Search](https://archive.org/details/movies)
+- [Archive.org Audio Search](https://archive.org/details/audio)
+- [Archive.org Software Search](https://archive.org/details/software)
+- [Archive.org Image Search](https://archive.org/details/image)
+
 ## Specific Search Engine
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [Sourcegraph Code Search](https://sourcegraph.com/search)

@@ -29,6 +29,8 @@ draft: false
 - [Google Python Tutorial](https://developers.google.com/edu/python/) License: CC-BY
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) License: CC-BY
 - [Cambridge Engineering](https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas) License: CC-BY
+- [Python 101 ](https://www.davekuhlman.org/python_101.html) License: MIT
+- [2700 slides for programming with 1000 slides for Python](https://marko-knoebl.github.io/slides/) [GitHub](https://github.com/marko-knoebl/slides) License: CC-BY
 
 ## Python Tutorials
 - [zhiyzuo](https://github.com/zhiyzuo/python-tutorial) License: -
@@ -50,6 +52,7 @@ draft: false
 - [Algorithmic Python](https://www.eecs.wsu.edu/~schneidj/swan/) License: CC-BY, File type:pdf
 - [Python for Humanities](https://www.karsdorp.io/python-course/) License: CC-BY
 - [A Byte of Python](https://python.swaroopch.com/), [Indonesian Version](https://github.com/asofyan/byte_of_python) License: CC-BY
+- [Learning with Python 2nd Edition (Using Python 2.x) by Jeffrey Elkner](https://www.openbookproject.net/thinkcs/python/english2e/#) License: GFDL
 
 ### CC-BY-NC Python Books
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) License: CC-BY-NC
@@ -76,3 +79,9 @@ draft: false
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
+
+## List of Python Books
+- [List of Python BOoks](https://pythonbooks.revolunet.com/)
+- [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
+- [Python Getting Started](https://www.python.org/about/gettingstarted/)
+

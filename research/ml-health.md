@@ -23,3 +23,6 @@ draft: false
 
 ## Deep Learning for Medical Image Segmentation
 - [How to Choose a Neural Net Architecture for Medical Image Segmentation](https://innolitics.com/articles/medical-image-segmentation-overview/)
+
+## Healthcare Apps
+- [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)

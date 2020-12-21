@@ -9,7 +9,7 @@ draft: false
 ---
 
 
-# Free Animation App
+# Animation Apps
 
 ## 3D Animation
 - [Blender](https://www.blender.org/) : Motion Capture, Keyframe Animation 
@@ -27,10 +27,11 @@ draft: false
 - [Synfig Studio](https://www.synfig.org/) : 2D Animation
 - [Houdini Apprentice](https://www.sidefx.com/) : Motion Capture, Keyframe Animation
 
-## Animation Engine for Math
+## Animation Engine for Interactive Math
 - [Manim](https://github.com/3b1b/manim) [Tutorial](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/) [Docs](https://eulertour.com/docs/)
 - [Mathbox](https://github.com/unconed/mathbox) Animation engine for explanatory math videos 
 - [Manim Community](https://github.com/ManimCommunity/manim) Community fork of manim
+- [Vega-Lite – A Grammar of Interactive Graphics ](https://vega.github.io/vega-lite/)
 
 ## Online Animation Editor
 - [Animatron](https://www.animatron.com/) Online Animation Editor

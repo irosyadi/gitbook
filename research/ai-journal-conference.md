@@ -31,6 +31,8 @@ draft: false
 - [EPAI](http://dmip.webs.upv.es/EPAI2020/)
 - [AI Deadlines](https://aideadlin.es/?sub=ML,CV,NLP,RO,SP,DM)
 - [Top Conferences](http://www.guide2research.com/topconf/machine-learning)
+- NeurIPS
+    - [Beyond Backprop @NeurIPS](https://beyondbackprop.github.io/)
 
 ## AI Journals
 - [Springer Progress in AI](https://www.springer.com/journal/13748)

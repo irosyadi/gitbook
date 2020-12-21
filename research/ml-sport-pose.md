@@ -10,6 +10,9 @@ draft: false
 
 # Machine Learning for Sport Pose Analysis
 
+## Pose Estimation
+- [Pose Estimation in Jetson Device](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) [Blog](https://developer.nvidia.com/blog/creating-a-human-pose-estimation-application-with-deepstream-sdk/)
+
 ## Sport Pose Analysis
 - [Badminton Pose Analysis](https://github.com/deepaktalwardt/badminton-pose-analysis)
 - [Action Dataset (Tennis and Badminton)](https://www.cvssp.org/acasva/Downloads)
