@@ -10,9 +10,17 @@ draft: false
 
 # Kosa Kata KBBI untuk Teknik Elektro
 
+## Kata berikut (ternyata) kosa kata bahasa Indonesia
+- *plan* : rencana
+
 ## Kata Baku dan Tidak Baku
 - *analisis* : bentuk tidak baku *analisa*
+- *diode* : bentuk tidak baku *dioda*
+- *foto* : bentuk tidak baku *photo*
+- *furniture* : bentuk tidak baku *furnitur*
+- *algoritme* : bentuk tidak baku *algoritma*
 
 ## Terjemah Kata Bahasa Inggris
 - *server* : peladen
 - *overview* : ikhtisar, ijmal
+- *diode* : diode

@@ -36,3 +36,5 @@ draft: false
 - [Papers with Code](https://paperswithcode.com/)
 - [Deep AI org](https://deepai.org/) AI News and AI Curated Papers
 - [Deep Learn](https://deeplearn.org/) AI News and AI Curated Papers
+- [Best AI Paper 2020](https://github.com/louisfb01/Best_AI_paper_2020)
+- [reddit r/machinelearning: what are you reading](https://teddit.net/r/MachineLearning/comments/ijjcep/d_machine_learning_wayr_what_are_you_reading_week/)

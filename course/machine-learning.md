@@ -19,3 +19,9 @@ draft: false
 ## Machine Learning Course
 - [Machine Learning at CUNI NZ](https://ufal.mff.cuni.cz/courses/npfl129/2021-winter#lectures)
 - [Elements of AI](https://course.elementsofai.com/)
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0), [Github](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd), License: Apache
+- [CS231n Stanford](http://cs231n.stanford.edu/syllabus.html), [CS231n Github](https://cs231n.github.io/)
+
+## Practical Deep Learning
+- [rajatkb/Practical-Deep-Learning](https://github.com/rajatkb/Practical-Deep-Learning)
+- [sjchoi86/dl_tutorials](https://github.com/sjchoi86/dl_tutorials): Deep Learning Presentation and Tutorial License: MIT
