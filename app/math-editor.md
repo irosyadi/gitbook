@@ -17,6 +17,7 @@ draft: false
 ## Math Equation and Formula
 - [Whats That Formula](https://whatsthatformula.com/#)
 - [Equplus](https://equplus.net/)
+- [DLMF NIST](https://dlmf.nist.gov/)
 
 ## Mathematical Symbols
 - [List of Math Symbols](https://mathvault.ca/hub/higher-math/math-symbols)

@@ -17,6 +17,7 @@ draft: false
 - [jpeg.to](https://jpeg.to/) : image file converter
 - [mp3.to](https://mp3.to/) : audio file converter
 - [PDF to Excel by Adobe](https://www.adobe.com/sea/acrobat/online/pdf-to-excel.html)
+- [PDF to Excel by PDFTables](https://pdftables.com/)
 - [Convertio](https://convertio.co/id/)
 - [Zamzar](https://www.zamzar.com/)
 - [Free File Convert](https://www.freefileconvert.com/)
@@ -25,7 +26,11 @@ draft: false
 - [File Zig Zag](https://www.filezigzag.com/)
 - [All Docs File Converter](https://alldocs.app/) : open source, pandoc based
 - [Online Convert](https://www.online-convert.com/) : many types of files
-- [Cloud COnvert](https://cloudconvert.com/)
+- [Cloud Convert](https://cloudconvert.com/)
+- [Docs Zone](https://docs.zone/)
+- [Small PDF](https://smallpdf.com/)
+- [FreePDFConvert](https://www.freepdfconvert.com/)
+- [Online2PDF](https://online2pdf.com/)
 
 ## WASM File Converter
 - [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter

@@ -106,3 +106,11 @@ Output: Geolocation, Ownership
 ## Domain Search
 - [Instant Domain Search](https://instantdomainsearch.com/)
 - [Domain search](https://dotcomagain.com)
+
+## Domain Tools
+- [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/)
+
+## Pentest
+- [Pentest-Tools.com | Powerful Pentesting Tools, Easy to Use](https://pentest-tools.com/home)
+
+

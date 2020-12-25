@@ -32,6 +32,7 @@ draft: false
     - Language tools local HTTP server, [help](https://dev.languagetool.org/http-server):
         - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin "*"`
         - Test the server with [http://localhost:8081/v2/check?language=en-US&text=my+text](http://localhost:8081/v2/check?language=en-US&text=my+text)
+        - In windows, run on `cmd` not `powershell`.
 
 ## Firefox Add Ons
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)
@@ -63,3 +64,4 @@ draft: false
 - [Chektext](https://www.checktext.org/)
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)
+- [Plagly](https://plagly.com/)

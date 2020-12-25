@@ -18,6 +18,21 @@ draft: false
 - [Trix Editor](https://trix-editor.org/)
 - [Editpad](https://www.editpad.org/): write, save, download
 - [Zen](https://zen.unit.ms/): write, save, download
+- [Note Rosyadi.com](http://file.rosyadi.com/note.html)
+- `data:text/html, <body contenteditable style="font: 2rem/1.5 monospace;max-width:60rem;margin:0 auto;padding:4rem;">` : work for LanguageTools
+- `data:text/html, <body contenteditable style="font-size:2rem;line-height:1.4;max-width:60rem;margin:0 auto;padding:4rem;>`
+- `data:text/html;charset=utf-8, <title>TextEditor</title><body contenteditable style="font-size:2rem;font-family:monaco;line-height:1.4;max-width:60rem;margin:0 auto;padding:4rem;" spellcheck="false">`
+- `data:text/html,<html contentEditable>` : work for Grammarly
+- `data:text/html;charset=utf-8, <html contenteditable></code>`
+- `data:text/html, <textarea style="font-size: 1.5em; width: 100%; height: 100%; border: none; outline: none" autofocus>`
+- `data:text/html,<button onClick="SaveTextArea()">Save</button> <script language="javascript" type="text/javascript"> function SaveTextArea() { window.location = "data:application/octet-stream," + escape(txtBody.value); } </script> <textarea id="txtBody" style="font-size: 1.5em; width: 100%; height: 100%; boarder: none; outline: none" autofocus> </textarea>`: with save button
+- `data:text/html,<pre onkeyup="(function(d,t){d[t]('iframe')[0].contentDocument.body.innerHTML = d[t]('pre')[0].textContent;})(document,'getElementsByTagName')" style="width:100%;height:48%;white-space:pre-wrap;overflow:auto;" contenteditable></pre><iframe style="width:100%;height:48%">` : with live preview
+
+## In Browser Markdown Editor: Progressive Web App
+- [MD Nico](https://md.nico.dev/) : with local access, Chrome
+- [Marcdown](https://liyasthomas.github.io/marcdown/) [Github](https://github.com/liyasthomas/marcdown)
+- [BestMarkdownEditor](https://www.bestmarkdowneditor.com/)
+- [Stackedit](https://stackedit.io/app#) via import export file
 
 ## Web based markdown editor
 - [Stackedit](https://stackedit.io/)

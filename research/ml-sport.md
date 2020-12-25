@@ -14,6 +14,7 @@ draft: false
 - [Baseball Pitching Overlay](https://github.com/chonyy/ML-auto-baseball-pitching-overlay)
     - [Alternative in OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_lucas_kanade/py_lucas_kanade.html)
     - [Alternative #2 in OpenCV](https://opencv-python-tutroals.readthedocs.io/en/latest/py_tutorials/py_video/py_bg_subtraction/py_bg_subtraction.html)
+- [Basketball Analysis](https://github.com/chonyy/AI-basketball-analysis)
 
 ## Soccer
 - [Soccer Data Set](https://github.com/sportdb/sport.db.sources/tree/master/footballdata-12xpert)

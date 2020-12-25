@@ -36,6 +36,9 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Github emoji](https://api.github.com/emojis) : emoji short code list
 -  [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) : emoji almost universal shortcode list
 - [Emoji shortcode](https://gist.github.com/rxaviers/7360908)
+* [Facebook Symbols (cool text signs, emoticons, text pictures tool & Smiley)](http://www.megaemoji.com/)
+* [Symbols ☯ Emoji](https://fsymbols.com/)
+
 
 ## Unicode Tools
 - [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in a Unicode text

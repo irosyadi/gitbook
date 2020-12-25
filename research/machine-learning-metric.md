@@ -10,6 +10,17 @@ draft: false
 
 # Machine Learning Metrics
 
+## Accuracy and Loss
+- Loss (not in %) can be seen as a distance between the true values of the problem and the values predicted by the model. Greater the loss is, more huge is the errors you made on the data.
+- Loss is often used in the training process to find the "best" parameter values for your model (e.g. weights in neural network). It is what you try to optimize in the training by updating weights.
+- Accuracy (in %) can be seen as the number of error you made on the data.
+- Accuracy is more from an applied perspective. Once you find the optimized parameters above, you use this metrics to evaluate how accurate your model's prediction is compared to the true data.
+- That means :
+    - a low accuracy and huge loss means you made huge errors on a lot of data
+    - a low accuracy but low loss means you made little errors on a lot of data
+    - a great accuracy with low loss means you made low errors on a few data (best case)
+
+## Prediction
 - Condition Positive (P) : the number of real positive cases in the data
 - Condition Negative (N) : the number of real negative cases in the data
 - True Positive or Hit
@@ -22,7 +33,6 @@ draft: false
 ![TP TN FP FN](https://miro.medium.com/max/462/1*7EYylA6XlXSGBCF77j_rOA.png)
 
 ![TP TN FP FN](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/350px-Precisionrecall.svg.png)
-
 
 
 ## Accuracy

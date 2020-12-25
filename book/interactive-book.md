@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Interactive Books
+title:  Interactive Books
 date: 2020-08-10 19:36:40
 category: book
 tags: ["interactive", "book"]
 draft: false
 ---
 
-# List of Interactive Books
+# Interactive Books
 
 - [Immersive Math Linear Algebra](https://immersivemath.com/ila/index.html)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)

@@ -17,8 +17,4 @@ draft: false
 - [Think Like a Data Scientist](https://www.manning.com/books/think-like-a-data-scientist)
 - [Data Science from the Scratch](https://github.com/joelgrus/data-science-from-scratch)
 - [Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/book.html)
-
-
-# Blog of ML
-- [ML at Berkeley](https://ml.berkeley.edu/)
 - [Python Data Science Handbook](https://github.com/jakevdp/PythonDataScienceHandbook)
