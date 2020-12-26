@@ -34,6 +34,8 @@ draft: false
 - [https://data.worldbank.org/](https://data.worldbank.org/)
 - [https://data.gov.in/](https://data.gov.in/)
 - [https://www.data.gov/](https://www.data.gov/)
+- [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
+- [Harvard Dataverse](https://dataverse.harvard.edu/)
 
 ## Dataset Tool
 - [Datasette](https://datasette.io/) An open-source multi-tool for exploring and publishing data

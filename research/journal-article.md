@@ -41,3 +41,6 @@ draft: false
 - [APC and IF Tables](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCfhHbtTQhnjdd0LmUwUZ6lMGSbCDQC_cx2qFjmw2v983pccv9k3yHJooQEcZNIn4BTOLV-9mGBpRM/pubhtml)
 - [Article: Processing Charge Hyperinflation and Price Insensitivity: An Open Access Sequel to the Serials Crisis](https://www.liberquarterly.eu/articles/10.18352/lq.10280/)
 - [Article: BMC sharp APC](https://sustainingknowledgecommons.org/2019/04/30/biomed-central-in-2019-sharp-increase-in-article-processing-charge/)
+
+## Journal Search
+- [Tandfonline Open Journal Search](https://www.tandfonline.com/openaccess/openjournals)

@@ -30,6 +30,8 @@ draft: false
 - [Arxiv Times](https://arxivtimes.herokuapp.com/) ML news from Arxiv
 - [Daily Arxiv](https://dailyarxiv.com/) check arxiv articles based on date
 - [Arxiv Search Engine](https://arxiv.aiindex.org/search) for AI articles
+- [Scirate: Top arXiv Papers](https://scirate.com/)
+
 
 ## Curated Papers
 - [42 Papers](https://42papers.com/) Trending papers in AI and Computer Science
@@ -38,3 +40,7 @@ draft: false
 - [Deep Learn](https://deeplearn.org/) AI News and AI Curated Papers
 - [Best AI Paper 2020](https://github.com/louisfb01/Best_AI_paper_2020)
 - [reddit r/machinelearning: what are you reading](https://teddit.net/r/MachineLearning/comments/ijjcep/d_machine_learning_wayr_what_are_you_reading_week/)
+
+## Paper Search
+- [Semantic Scholar](https://www.semanticscholar.org/)
+- [SHARE](https://share.osf.io/)

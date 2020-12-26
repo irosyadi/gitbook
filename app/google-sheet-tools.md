@@ -10,7 +10,6 @@ draft: false
 
 # Google Sheet Tools
 
-
 ## Turn Google Sheet into a Website
 - [SheetUI](https://sheetui.com/)
 - [Sheet2Site](https://www.sheet2site.com/)
@@ -21,3 +20,6 @@ draft: false
 - [Glide](https://www.glideapps.com/)
 - [Stein HQ](https://steinhq.com/)
 - [Awesome Table](https://awesome-table.com/)
+
+## Sheet Alternatives
+* [Causal: replace your spreadsheet and slide deck](https://www.causal.app/)

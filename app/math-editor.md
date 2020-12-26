@@ -25,3 +25,4 @@ draft: false
 ## Online Math Calculator
 - [Wolfram Alpha](https://www.wolframalpha.com/)
 - [Desmos](https://www.desmos.com/)
+- [Insect](https://insect.sh/)

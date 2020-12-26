@@ -24,3 +24,7 @@ draft: false
 - **Other Pretrained Models**
     - StanfordNLP
 - [Reimplementation of NLP models in Jupyter](https://github.com/will-thompson-k/deeplearning-nlp-models)
+
+
+## NLP Course
+- [CS224n](https://web.stanford.edu/class/cs224n/index.html) : Natural Language Processing with Deep Learning

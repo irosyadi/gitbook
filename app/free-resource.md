@@ -35,6 +35,7 @@ draft: false
 - [Freesound.org](https://freesound.org/)
 - [Mugle](http://mugle.io/) Free Audio Music Search Youtube
 - [Free Download QuranicAudio](https://download.quranicaudio.com/)
+- [Soundcloud](https://soundcloud.com)
 
 ## Free Animation Asset
 - [Piskelapp](https://www.piskelapp.com/) free online editor for animated sprites & pixel art

@@ -95,27 +95,27 @@ rlocus(sys)
 
 
 ### Tugas
-1. Persiapan
-- Silakan presensi dulu di Eldiru pada tanggal 26 Desember
-- Akses situs [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
-- Buat akun ICCT, cek email untuk mendapatkan username dan password
-- Login ke [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
-- Untuk mempermudah silakan akses [video berikut](https://drive.google.com/file/d/19T4VmsvNd7Swl5SyaDELVoFXkNYOAzbx/view)
-2. Latihan Jupyter Notebook di ICCT
-- Anda akan berinteraksi dengan Jupyter Notebook di ICCT
-- Klik folder ICCT pada Jupyter Notebook, lalu klik `Table-of-Contents-ICCT.ipynb`
-- Klik kanan, open di new tab file Link `1.1.1 Complex Numbers in Cartesian Form` di  folder `1.1 Complex Numbers`
-- Anda berada di Jupyter Notebook `M-01_Complex_numbers_Cartesian_form.ipynb`
-- Pilih menu <button>Kernel</button> lalu <button>Restart and Run All</button>
-- Silakan baca Notebook-nya, baca penjelasan atau penugasaannya.
-- Lalu anda ubah nilai bilangan kompleksnya, tekan <button>Plot z1</button> atau <button>Plot z2</button>
-- Lalu anda variasikan operasinya seperti <button>Add</button>, <button>Substract</button> dll.
-- Anda bisa unduh atau screenshoot citranya.
-- Pilih menu <button>Kernel</button> lalu <button>Shutdown</button> untuk mematikan Jupyter Notebook.
-3. Tugas (dengan waktu 2 pekan)
-- Sesuai dengan distribusi (terlampir di bawah), lakukan hal sebagai berikut:
+- Persiapan  
+    - Silakan presensi dulu di Eldiru pada tanggal 26 Desember
+    - Akses situs [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
+    - Buat akun ICCT, cek email untuk mendapatkan username dan password
+    - Login ke [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
+    - Untuk mempermudah silakan akses [video berikut](https://drive.google.com/file/d/19T4VmsvNd7Swl5SyaDELVoFXkNYOAzbx/view)
+- Latihan Jupyter Notebook di ICCT  
+    - Anda akan berinteraksi dengan Jupyter Notebook di ICCT
+    - Klik folder ICCT pada Jupyter Notebook, lalu klik `Table-of-Contents-ICCT.ipynb`
+    - Klik kanan, open di new tab file Link `1.1.1 Complex Numbers in Cartesian Form` di  folder `1.1 Complex Numbers`
+    - Anda berada di Jupyter Notebook `M-01_Complex_numbers_Cartesian_form.ipynb`
+    - Pilih menu <button>Kernel</button> lalu <button>Restart and Run All</button>
+    - Silakan baca Notebook-nya, baca penjelasan atau penugasaannya.
+    - Lalu anda ubah nilai bilangan kompleksnya, tekan <button>Plot z1</button> atau <button>Plot z2</button>
+    - Lalu anda variasikan operasinya seperti <button>Add</button>, <button>Substract</button> dll.
+    - Anda bisa unduh atau screenshoot citranya.
+    - Pilih menu <button>Kernel</button> lalu <button>Shutdown</button> untuk mematikan Jupyter Notebook.
+- Tugas (dengan waktu 2 pekan)  
+    - Sesuai dengan distribusi (terlampir di Eldiru), lakukan hal sebagai berikut:
     - Jalankan berkas Jupyter Notebook sebagaimana yang didistribusikan kepada anda.
     - Untuk setiap berkas Jupyter Notebook buat laporan mini dalam berkas `.docx` atau `.odt` yang terdiri dari:
         - Judul, disertai penjelasan (dalam terjemah bahasa Indonesia) dari berkas Jupyter Notebook. (Kode Python pada Jupyter Notebook tak perlu disertakan.)
         - Pembahasan. Pembahasan ringkas dari aktivitas yang anda lakukan, jika perlu lengkapi unduhan gambar (screenshot).
-        - Simpan setiap berkas dalam nama `NIM-TugasXXX.docx` misalnya `H1A018091-Tugas385.odt`. Gabungkan ketiga berkas penugasan dalam file `.zip` lalu unggah ke laman *Assignment* di Eldiru.
+    - Simpan setiap berkas dalam nama `NIM-TugasXXX.docx` misalnya `H1A018091-Tugas385.odt`. Gabungkan ketiga berkas penugasan dalam file `.zip` lalu unggah ke laman *Assignment* di Eldiru.

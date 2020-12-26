@@ -10,12 +10,13 @@ draft: false
 
 # Blog Resources
 
-## CSS
+## Classless CSS - No Javascript
 - [List of Classless CSS](https://github.com/dbohdan/classless-css)
 - [Classless CSS Demo](https://dohliam.github.io/dropin-minimal-css/)
 - [Element CSS](https://elementcss.neocities.org/) a classless CSS
 - [MVP](https://andybrewer.github.io/mvp/) a classless CSS
 - [SPCSS](https://github.com/susam/spcss)
+- [Uisual](https://github.com/uisual/freebies)
 
 ## Gatsby Starter
 - [Developer Diary](https://www.gatsbyjs.com/starters/willjw3/gatsby-starter-developer-diary)
@@ -41,3 +42,10 @@ draft: false
 - [Jekyll Doc Theme](https://github.com/aksakalli/jekyll-doc-theme) : honoring folder structure
 - [Text Theme](https://tianqi.name/jekyll-TeXt-theme/)
 - [Docsify](https://michaelcurrin.github.io/docsify-js-template/#/) [Docsify](https://docsify.js.org/#/), example [Docsify Open Publishin](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+
+## Hugo Theme
+- [Slick](https://themes.gohugo.io/slick/)
+- [Zerostatic](https://github.com/zerostaticthemes/hugo-whisper-theme)
+- [Tokiwa](https://github.com/heyeshuang/hugo-theme-tokiwa)
+- [Adam Eve](https://github.com/blankoworld/hugo_theme_adam_eve/blob/master/exampleSite/content/design/materials.md)
+- [Flex](https://github.com/scivision/hugo-flex-example/blob/master/README.md)

@@ -43,5 +43,9 @@ draft: false
 - [Reuters Mobile](https://mobile.reuters.com/)
 
 ## List of Spartan Websites
-- [1MB Club ](https://1mb.club/) : performance-focused web pages found across the internet.
+- [1MB Club](https://1mb.club/) : performance-focused web pages found across the internet.
+- [10kb Club](https://10kbclub.com/)
+    - [John.Doe](https://john-doe.neocities.org/), [John Doe Jekyll](https://github.com/bradleytaunt/john-doe-jekyll),  [Void in PHP](https://github.com/josephernest/void), [Yellow in PHP](https://datenstrom.se/yellow/)
+    - [Kerkour](https://kerkour.fr/), [Hugo Blog](https://github.com/bloom42/blog)
 - [Leanternet](https://www.leanternet.com/)
+

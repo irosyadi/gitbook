@@ -12,6 +12,22 @@ draft: false
 
 Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
+## Number and Bullet
+
+1. One
+2. Two
+- Three
+    - Three.a
+    - Three.b
+
+4. Four
+5. Five
+
+
+- List A
+2. List B
+- List C
+
 ## Keyboard
 <kbd>imron</kbd>
 

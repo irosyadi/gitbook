@@ -82,6 +82,7 @@ Output: Geolocation, Ownership
 ## Domain History
 - [Who is request](https://whoisrequest.com/history/)
 - [Whois History](https://whois-history.whoisxmlapi.com/api)
+- [DNS Trails](https://securitytrails.com/dns-trails#/)
 
 ## DNS Leak Tester
 - [List of the Tester](https://routersecurity.org/testdns.php) : check what is our DNS Resolver.

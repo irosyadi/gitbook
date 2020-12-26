@@ -39,6 +39,12 @@ draft: false
 
 ## Python
 * [First Python Notebook — First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
+* [Free Python Books](https://github.com/oddsun/Free-Python-Books)
+* [Free ML Books](https://www.pythonstacks.com/free-books/category/machine-learning)
+* [Free JS Books](https://www.pythonstacks.com/free-books/category/javascript)
+* [Free CS Books](https://www.pythonstacks.com/free-books/category/computer-science)
+* [Free Deep Learning Books](https://www.pythonstacks.com/free-books/category/deep-learning)
+* [Python Library](https://www.pythonstacks.com/python-packages/)
 
 ## Arabic
 * [Arabic Transliteration - Online Romanization - Latin Script - LEXILOGOS](https://www.lexilogos.com/keyboard/arabic_latin.htm)
@@ -53,12 +59,6 @@ draft: false
 ## Learning
 [Free Code Camp](https://www.freecodecamp.org/learn/)
 
-## RSS
-[DatoRSS](https://www.datorss.com/) RSS Search Engine
-
-## Github
-[Gitlocalize](https://gitlocalize.com/) Translation Git Project
-
 ## WebTools
 [Miniweb Tools](https://miniwebtool.com/)
 
@@ -66,14 +66,9 @@ draft: false
 - [Centralops](https://centralops.net/co/)
 * [Comprehensive IP address data, IP geolocation API and database - IPinfo.io](https://ipinfo.io/)
 
-
-## Sheet
-* [Causal: replace your spreadsheet and slide deck](https://www.causal.app/)
-
 ## Islam
 * [Islamway](https://en.islamway.net/)
 * [.:. shirathal-mustaqim.org .:.](http://shirathal-mustaqim.org/) : Qur'an Hadits
-
 
 ## VHDL
 * [VHDL CLASS](https://web.cecs.pdx.edu/~mperkows/CLASS_VHDL/)
@@ -81,7 +76,6 @@ draft: false
 
 ## Competition
 * [imaginecup.microsoft.com/en-us/Events?id=0](https://imaginecup.microsoft.com/en-us/Events?id=0)
-
 
 ## eBook
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
@@ -124,10 +118,6 @@ draft: false
 * [Galaxy Community Hub](https://galaxyproject.org/)
 * [Machine Learning Algorithm Cheat Sheet - designer - Azure Machine Learning | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 
-## Dataset
-* [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
-* [Harvard Dataverse](https://dataverse.harvard.edu/)
-
 ## IoT
 - [Shodan](https://www.shodan.io/%0D)
 
@@ -147,16 +137,103 @@ draft: false
 * [AF | Adaptation Fund](https://www.adaptation-fund.org/)
 * [Engineering For Change | By Engineers, For Everyone](https://www.engineeringforchange.org/)
 
-## Paper
-* [Arxiv Sanity Preserver](http://www.arxiv-sanity.com/)
-* [Top arXiv papers](https://scirate.com/)
-* [SHARE](https://share.osf.io/)
+## News Aggregator
+- [Alltop](https://alltop.com/)
+- [PopUrls](http://popurls.com/)
+- [Use Panda](https://app.usepanda.com/#/)
+- [JimmyR](http://www.jimmyr.com/)
+- [Techmeme](http://www.techmeme.com/)
+- [Skimfeed](https://skimfeed.com/)
 
+## Depth News
+- [Longform](https://longform.org/) Depth News Aggregator
 
+## Personal Startpage
+- [Start Me](https://start.me/start/int/startpage)
+- [Netvibes](https://www.netvibes.com/en)
+- [Protopage](https://www.protopage.com/)
 
+## Q&A Site
+- [StakExchange Network](https://stackexchange.com/sites#)
 
+## Newsletter
+- [Betterdev](https://betterdev.link/), [Github](https://github.com/yeo/betterdev.link)
+- [Usefulinternweb](https://usefulinterweb.com/)
+- [Aldaily](https://www.aldaily.com/)
 
+## Innovation
+- [Springwise](https://www.springwise.com/) Innovation idea
 
+## Coding for Kids
+* [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
+* [Learn | Code.org](https://code.org/learn)
+* [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 
+## Electronic Simulator
+- [Everycircuit](https://everycircuit.com/app/)
+- [Partsim](https://www.partsim.com/)
+- [EDA Playground](https://www.edaplayground.com/) : Verilog, VHDL
+- [library.io](https://library.io/)
+- [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
 
+## Electronic
+- [Electronic Lab](https://www.electronics-lab.com/) : Electronic Forum
+- [Electronic Tutorials](https://www.electronics-tutorials.ws/)
+- [Learn Sparkfun](https://learn.sparkfun.com/)
+- [All About Circuits](https://www.allaboutcircuits.com/education/)
+- [Talking Electronics](http://www.talkingelectronics.com/)
 
+## Bahasa Indonesia
+- [Kateglo](http://kateglo.com/) kamus, tesaurus, dan glosarium bahasa Indonesia
+
+## MOOC
+- [Openstax](https://openstax.org/) MOOC Platform
+- [MOOC Fi](https://www.mooc.fi/) MOOC Platform
+- [CNX](https://cnx.org/) MOOC Platform
+- [Microsoft Learn](https://docs.microsoft.com/en-us/learn/)
+- [Programming Historian](https://programminghistorian.org/) MOOC Platform
+- [CS50 Harvard](https://cs50.harvard.edu/college/2021/spring/)
+- [Elements of AI](https://www.elementsofai.com/)
+- [Ethics of AI](https://ethics-of-ai.mooc.fi/)
+- [Hands on Science Computing](https://handsonscicomp.readthedocs.io/en/latest/)
+- [Data Analysis with Python](https://csmastersuh.github.io/data_analysis_with_python_2020/#)
+- [Wolfram Programming Lab](https://www.wolfram.com/programming-lab/)
+
+## Robotics
+- [Robotic Simulation](http://aer525.aerospace.utoronto.ca/mars/index.html)
+- [List Robotic Courses](https://www.eng.yale.edu/grablab/roboticscourseware/courses.html)
+- [OROCOS](https://orocos.org/) Open Robot Control Software
+- [Robot Operating Systems](https://www.ros.org/)
+    - [Moveit ROS](https://moveit.ros.org/)
+- [Metabot](http://www.metabot.fr/en/) : Metabot is a DIY open-source legged robotics platform.
+- [Poppy](https://www.poppy-project.org/en/) Open Source Robotic Platform
+
+## Numerical Computation
+- [SageMath](https://www.sagemath.org/)
+
+## Python
+- [Python Tutor](http://www.pythontutor.com/)
+
+## Embedded System
+- [Embedded System Course](http://ee402.eeng.dcu.ie/)
+
+## Map
+- [LearnOSM](https://learnosm.org/en/)
+- [uMap](https://umap.openstreetmap.fr/en/) mapping on top OSM
+- [Mapchart](https://mapchart.net/) custom map for graphs
+- [Fieldpapers](http://fieldpapers.org/) drawing map on top OSM
+- [Open Address](https://openaddresses.io/)
+- [Open Aerial Map](https://openaerialmap.org/)
+- [Open Layers](https://openlayers.org/) map layers on website
+- [Leaflet JS](https://leafletjs.com/) Javascript for Map
+- [Maperitive](http://maperitive.net/) Desktop app for map drawing
+- [Sepiatown](http://www.sepiatown.com/) Old picture over recent map
+
+## Open Research
+- [Open Research Central](https://openresearchcentral.org/)
+- [Reproducible Analysis](https://reproducible-analysis-workshop.readthedocs.io/en/latest/)
+- [Rscience](https://rescience.github.io/)
+- [Reproducible Research Platform](https://epfl-lts2.github.io/rrp-html/)
+- [Reproducible Research](https://reproducibleresearch.net/)
+- [Zenodo](https://zenodo.org/) Paper and Data Search
+- [Figshare](https://figshare.com/) figshare is a repository where users can make all of their research outputs available in a citable, shareable and discoverable manner

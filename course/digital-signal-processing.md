@@ -13,6 +13,7 @@ draft: false
 ## DSP Books
 - [DSP Illustration](https://dspillustrations.com/pages/index.html)
 - [The Scientist and Engineer's Guide to Digital Signal Processing by Steven W. Smith, Ph.D.](https://www.dspguide.com/)
+- [SP4Comm: Signal Processing for Communication](https://www.sp4comm.org/)
 
 ## DSP Interactive
 - [Fourier Transform](https://www.jezzamon.com/fourier/index.html)

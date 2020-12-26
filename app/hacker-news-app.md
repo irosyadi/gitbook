@@ -42,6 +42,10 @@ draft: false
 ## Hacker News Tools
 - [Shown HN List](https://showhn-dashboard.netlify.app/)
 - [Hacker News Top Best and New ](https://hn.sawirstudio.com/)
+- [Serializer](http://serializer.io/) : Hacker News, Reddit, Lobster Aggregator
+- [Forum Search](https://forumsearch.io/) : Reddit, HN, and many forums search
+- [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past
+- [Headlines](https://github.com/headllines) : RSS on HN, Github and ProductHunt
 
 ## Alternative to Hacker News
 - [Lobsters](https://lobste.rs/) [open source](https://github.com/lobsters/) selfhosted
@@ -54,3 +58,8 @@ draft: false
 - [Sqwok](https://sqwok.im/)
 - [Datatau](https://datatau.net/) for data science
 - [Free Post](https://freepo.st/) [open source](https://notabug.org/zPlus/freepost) selfhosted
+- [Barnacles](https://barnacl.es/)
+
+## Learning Source
+- [Metacademy](https://metacademy.org/)
+- [Learn Anything](https://learn-anything.xyz/)
