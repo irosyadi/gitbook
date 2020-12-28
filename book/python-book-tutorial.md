@@ -81,7 +81,12 @@ draft: false
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
 
 ## List of Python Books
-- [List of Python BOoks](https://pythonbooks.revolunet.com/)
+- [List of Python Books](https://pythonbooks.revolunet.com/)
 - [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [Python Getting Started](https://www.python.org/about/gettingstarted/)
+- [Free Python Books](https://github.com/oddsun/Free-Python-Books)
 
+
+## Python Documentation and Tools
+- [First Python Notebook — First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
+- [Python Library Search](https://www.pythonstacks.com/python-packages/)

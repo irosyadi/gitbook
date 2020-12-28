@@ -42,6 +42,9 @@ draft: false
 - [Redv](https://redv.co/) Video Downloader
 - [rSoccer](https://rsoccer.live/) r/Soccer Video Highlights
 
+## Reddit Music Frontends
+- [Music Player for Reddit | A Free and Open-Source Music Player](https://reddit.musicplayer.io/)
+
 ## Reddit Tools
 - [Tryuneart](https://app.tryunearth.com/) manages saved Reddit posts
 - [Forum Search](https://forumsearch.io/) : Reddit, HN, and many forums search

@@ -12,11 +12,11 @@ draft: false
 
 ## Regex Lesson
 - [Regexone](https://regexone.com/) : interactive regex lesson
-- [Regexr](https://regexr.com/) : online tool to learn, build, & test regex
 - [Regex 101](https://regex101.com/) : online interactive regex lesson
 - [Regex Info](https://www.regular-expressions.info/) : regex learning
 - [Rexegg](https://rexegg.com/) : regex learning
 - [Regexbuddy](https://www.regexbuddy.com/)
+- [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) : online tool to learn, build, & test regex
 
 ## Regex Testing
 - [Debuggex](https://www.debuggex.com/)

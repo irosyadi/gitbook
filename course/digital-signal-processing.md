@@ -14,6 +14,7 @@ draft: false
 - [DSP Illustration](https://dspillustrations.com/pages/index.html)
 - [The Scientist and Engineer's Guide to Digital Signal Processing by Steven W. Smith, Ph.D.](https://www.dspguide.com/)
 - [SP4Comm: Signal Processing for Communication](https://www.sp4comm.org/)
+- [Free DSP Books](https://www.dsprelated.com/freebooks.php)
 
 ## DSP Interactive
 - [Fourier Transform](https://www.jezzamon.com/fourier/index.html)
@@ -27,4 +28,5 @@ draft: false
 - [Music Information Retrieval](https://musicinformationretrieval.com/) License: MIT
 
 ## Speech Recognition
-- [Libre ASR](https://github.com/iceychris/LibreASR): An On-Premises, Streaming Speech Recognition System 
+- [Libre ASR](https://github.com/iceychris/LibreASR): An On-Premises, Streaming Speech Recognition System
+

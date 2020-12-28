@@ -15,6 +15,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 ## Unicode List
 - [Unicode Charts](https://www.unicode.org/charts/) formal Unicode chart (in PDF)
 - [Unicode Blocks](https://www.fileformat.info/info/unicode/block/index.htm)
+- [Complete Character List for UTF-8](https://www.fileformat.info/info/charset/UTF-8/list.htm)
 
 ## Unicode Font
 - [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing Unicode
@@ -39,7 +40,8 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Facebook Symbols (cool text signs, emoticons, text pictures tool & Smiley)](http://www.megaemoji.com/)
 - [Symbols ☯ Emoji](https://fsymbols.com/)
 - [Emoji Homepage](http://emojihomepage.com/)
-
+- [Lunicode](https://lunicode.com/flip)
+- [😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
 
 ## Unicode Tools
 - [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in a Unicode text

@@ -8,9 +8,9 @@ tags: ["service", "self-hosted", "imron"]
 draft: false
 ---
 
-# Services on rosyadi.com
+# Services on rosyadi.com and irosyadi Blog Networks
 
-## Personal Services
+## Personal Services on rosyadi.com
 - [Dashboard](https://rosyadi.com/dash/) : access all personal sites in rosyadi.com
 - [Organizer](https://rosyadi.com/organ/) : Homelab services organizer, [powered by Organizr](https://github.com/causefx/organizr)
 - [Cloud Drive](https://rosyadi.com/drive/) : Cloud drive, [powered by Nextcloud](https://nextcloud.com/)
@@ -26,9 +26,11 @@ draft: false
 - [Online IDE](https://rosyadi.com/code/lib/login.php) : online IDE [powered by Icecoder](https://icecoder.net/)
 - [Form](https://rosyadi.com/form/) : online form [powered by Formtools](https://formtools.org/)
 
-## Blogs
+## Blogs on rosyadi.com
 - [Bludit](https://rosyadi.com/bludit/) : static web [powered by Bludit](https://www.bludit.com/)
 - [Masjid Hamzah](https://rosyadi.com/masjid/) : web for masjid Hamzah, powered by Wordpress
+- info.rosyadi.com
+- blog.rosyadi.com
 
 ## Internal Services
 - [Video Downloader](https://rosyadi.com/videodl/): video downloader [powered by Alltube](https://github.com/Rudloff/alltube)
@@ -40,3 +42,11 @@ draft: false
 - [Load File](https://rosyadi.com/load-file/) : simple PHP script for uploading file to server
 - [Load URL](https://rosyadi.com/load-url/) : simple PHP script for transferring to server
 -->
+
+
+## irosyadi Blog Networks
+* [irosyadi – note of a life](https://imronrosyadi.wordpress.com/)
+
+## Host Management
+* [Yandex Connect](https://connect.yandex.com/portal/home) : mail management
+<!-- [CPanel](https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951) -->
