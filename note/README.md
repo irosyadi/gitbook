@@ -8,4 +8,4 @@ tags: ["readme", "note"]
 draft: false
 ---
 
-# About Note
+# Note

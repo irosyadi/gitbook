@@ -8,7 +8,7 @@ tags: ["writing"]
 draft: false
 ---
 
-# About Blog
+# Blog
 
 This folder contains my monthly notes for everything I found and thought. They will be messed notes since my approach is *just write*. So they are just like semi-*zettelkasten* or even just bookmark handlers. Sometimes I will write in English, in the other times it will in Indonesian.
 

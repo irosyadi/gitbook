@@ -8,4 +8,4 @@ tags: ["readme", "research"]
 draft: false
 ---
 
-# About Research
+# Research

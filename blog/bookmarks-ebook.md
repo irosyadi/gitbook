@@ -17,7 +17,6 @@ draft: false
 * [Ebookee: Free Download eBooks Search Engine!](https://www.ebookee.com/)
 * [hypertextbook](https://hypertextbook.com/)
 
-
 ## Free Ebook
 ### Free Book on Neural Network (Artificial Intelligence)
 - [Neural Nets](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)[,](http://www.shef.ac.uk/psychology/gurney/notes/download.html) Kevin Gurney

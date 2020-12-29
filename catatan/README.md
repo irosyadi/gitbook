@@ -8,4 +8,4 @@ tags: ["readme", "catatan"]
 draft: false
 ---
 
-# Tentang Catatan
+# Catatan

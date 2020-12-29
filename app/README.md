@@ -8,4 +8,4 @@ tags: ["readme", "app"]
 draft: false
 ---
 
-# About App
+# App

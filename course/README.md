@@ -8,4 +8,4 @@ tags: ["readme", "course"]
 draft: false
 ---
 
-# About Course
+# Course

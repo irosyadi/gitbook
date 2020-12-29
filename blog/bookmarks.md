@@ -128,7 +128,6 @@ draft: false
 * [Learn | Code.org](https://code.org/learn)
 * [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 
-
 ## Bahasa Indonesia
 - [Kateglo](http://kateglo.com/) kamus, tesaurus, dan glosarium bahasa Indonesia
 
