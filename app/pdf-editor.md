@@ -23,3 +23,7 @@ draft: false
 
 ## Extract Table from PDF
 - [List and Comparison](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools#pdfplumber)
+
+## Automatich Highlighting
+* [Ailight](https://anishthite.github.io/ailight/)
+* [Tuchu – Automatically highlight a document](https://tuchu.app/)

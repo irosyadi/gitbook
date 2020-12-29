@@ -10,6 +10,10 @@ draft: false
 
 # Services on rosyadi.com and irosyadi Blog Networks
 
+## Public Services on rosyadi.com
+- [Nonpersistent Kanban Board](https://rosyadi.com/kanban/)
+- [Nonpersistent Notepad](https://rosyadi.com/kanban/note/)
+
 ## Personal Services on rosyadi.com
 - [Dashboard](https://rosyadi.com/dash/) : access all personal sites in rosyadi.com
 - [Organizer](https://rosyadi.com/organ/) : Homelab services organizer, [powered by Organizr](https://github.com/causefx/organizr)

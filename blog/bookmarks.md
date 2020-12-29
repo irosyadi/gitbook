@@ -100,14 +100,6 @@ draft: false
 * [AF | Adaptation Fund](https://www.adaptation-fund.org/)
 * [Engineering For Change | By Engineers, For Everyone](https://www.engineeringforchange.org/)
 
-## News Aggregator
-- [Alltop](https://alltop.com/)
-- [PopUrls](http://popurls.com/)
-- [Use Panda](https://app.usepanda.com/#/)
-- [JimmyR](http://www.jimmyr.com/)
-- [Techmeme](http://www.techmeme.com/)
-- [Skimfeed](https://skimfeed.com/)
-
 ## Depth News
 - [Longform](https://longform.org/) Depth News Aggregator
 
@@ -118,6 +110,10 @@ draft: false
 
 ## Q&A Site
 - [StakExchange Network](https://stackexchange.com/sites#)
+
+## Learning Source
+- [Metacademy](https://metacademy.org/)
+- [Learn Anything](https://learn-anything.xyz/)
 
 ## Newsletter
 - [Betterdev](https://betterdev.link/), [Github](https://github.com/yeo/betterdev.link)

@@ -26,6 +26,3 @@ draft: false
 
 ## RSS Search
 - [DatoRSS](https://www.datorss.com/) RSS Search Engine
-
-## Discussion
-- [Hacker News](https://news.ycombinator.com/item?id=23583629)
