@@ -19,6 +19,7 @@ draft: false
 - [Full Hacker News](https://www.fullhn.com/) : Hacker News with full post contents
 - [hckr news - Hacker News sorted by time](https://hckrnews.com/) : Hacker News with time setting
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/) : Hacker News daily top stories
+- [HackerDaily](https://hackerdaily.io/) : Hacker News daily top stories
 - [Hacker News Premii](https://hn.premii.com/)
 - [HackerWeb](https://hackerweb.app/#/) : Hacker News mobile friendly format
 - [Hacker News](https://hack.ernews.info/) : Hacker News mobile friendly format

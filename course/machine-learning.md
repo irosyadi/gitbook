@@ -28,8 +28,7 @@ draft: false
 - [rajatkb/Practical-Deep-Learning](https://github.com/rajatkb/Practical-Deep-Learning)
 - [sjchoi86/dl_tutorials](https://github.com/sjchoi86/dl_tutorials): Deep Learning Presentation and Tutorial License: MIT
 
-
-## Visualizing Backpropagation
+### Visualizing Backpropagation
 - [HMKCode](https://hmkcode.com/ai/backpropagation-step-by-step/)
 - [MattMazur](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [JeremyJordan](https://www.jeremyjordan.me/neural-networks-training/)
