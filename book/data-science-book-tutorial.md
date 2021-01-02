@@ -18,6 +18,7 @@ draft: false
 - [Python for Data Science](https://github.com/gumption/Python_for_Data_Science) License: -
 - [Python Data Science](https://github.com/leriomaggio/python-data-science) License: LGPL
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0), [Github](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd) License: Apache
 - [Foundations of Computational Linguistics](https://foundations-computational-linguistics.github.io/)
 
 ## CC-BY Data Science Book

@@ -22,7 +22,6 @@ draft: false
 - [Neural Nets](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)[,](http://www.shef.ac.uk/psychology/gurney/notes/download.html) Kevin Gurney
 - [An Introduction to Artificial Neural Networks](http://arxiv.org/PS_cache/astro-ph/pdf/0102/0102224v1.pdf), C.A.L. Bailer-Jones berg, R. Gupta, H.P. Singh
 - [Neural Networks](http://www.willamette.edu/~gorr/classes/cs449/intro.html), Genevieve Orr
-    
 4. [Introduction to Neural Networks](http://www.neuralnetworksolutions.com/resources.php)
     
 5. [Machine Learning, Neural and Statistical Classification](http://www.maths.leeds.ac.uk/~charles/statlog/whole.pdf), D. Michie, D.J. Spiegelhalter, C.C. Taylor

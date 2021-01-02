@@ -55,6 +55,7 @@ draft: false
 - [Jupyterhub](https://github.com/jupyterhub/jupyterhub) : Multi-user server for Jupyter notebooks 
 - [List Jupyter Extensions](https://jupyter-contrib-nbextensions.readthedocs.io/en/latest/)
 - [IPyCanvas](https://github.com/martinRenou/ipycanvas) : draw over Jupyter Notebook
+- [nir/jupylet: Python game programming in Jupyter notebooks.](https://github.com/nir/jupylet)
 
 ## Alternative to Jupyter Notebook (Reactive Notebook)
 - [Starboard](https://starboard.gg/) Javascript Notebooks (client side)

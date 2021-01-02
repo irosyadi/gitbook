@@ -52,6 +52,7 @@ draft: false
 1. [Second Brain](https://github.com/KasperZutterman/Second-Brain)
 2. [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge)
 3. [Wiki Workflow](https://wiki.nikitavoloboev.xyz/other/wiki-workflow)
+4. [Google Sheet List](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 
 ## Apps for Second Brain Blog
 - Gitbook

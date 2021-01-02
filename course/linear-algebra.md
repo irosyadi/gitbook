@@ -40,6 +40,7 @@ draft: false
 ## Proprietary Books
 - [Handbook of Linear Algebra by Leslie Hogben](https://www.google.com/books/edition/_/5HxcAgAAQBAJ?hl=en)
 - [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares by Stephen Boyd](https://www.cambridge.org/core/books/introduction-to-applied-linear-algebra/4D69AF22E38303FE20FFEEFDCE0E7F96)
+    - [Python Language Companion to Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares](https://ses.library.usyd.edu.au/handle/2123/21370)
 - [Linear Algebra and Its Applications by David C. Lay](https://books.google.co.id/books?id=apXfrQEACAAJ&redir_esc=y)
 - [Elementary Linear Algebra: Application Version by Howard Anton](https://books.google.co.id/books?id=loRbAgAAQBAJ&redir_esc=y)
 - [Elementary Linear Algebra by Ron Larson](https://books.google.co.id/books/about/Elementary_Linear_Algebra.html?id=rqWCVMYk5mEC&redir_esc=y)

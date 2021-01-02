@@ -17,6 +17,10 @@ draft: false
 
 ## Sumber Referensi
 - Materi [Kuliah dari Andrew Ng](https://irosyadi.netlify.app/course/machine-learning-andrewng/)
+- [Python Data Science](https://github.com/leriomaggio/python-data-science)
+- [Python ML Course](https://github.com/leriomaggio/python-ml-course)
+- [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0), [Github](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
+- [CS231n Github](https://cs231n.github.io/), [CS231n GIthub Source](https://github.com/cs231n/cs231n.github.io)
 
 ## Kuliah
 ### Pekan 7-9
@@ -48,6 +52,7 @@ draft: false
 - [HMKCode](https://hmkcode.com/ai/backpropagation-step-by-step/)
 - [MattMazur](https://mattmazur.com/2015/03/17/a-step-by-step-backpropagation-example/)
 - [JeremyJordan](https://www.jeremyjordan.me/neural-networks-training/)
+- [NN](https://github.com/adityamarella/neuralnetwork/blob/master/NN.m)
 
 ### Pekan 14 : Deep Learning Introduction
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0), [Github](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)

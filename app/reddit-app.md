@@ -21,6 +21,7 @@ draft: false
 - [Rdddeck](https://rdddeck.com/)
 - [Scrolldit](https://www.scrolldit.com/)
 - [Teddit](https://teddit.net/) : open source, non-javascript
+- [Libreddit](https://libredd.it/) : private front end
 - [Reddium](https://reddium.vercel.app/) : reddium in medium like interface
 
 ## Reddit Images Frontends

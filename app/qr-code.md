@@ -10,6 +10,7 @@ draft: false
 
 # QR Code App
 
+## QR Code Generator
 - [QR Picture](https://www.qrpicture.com/) - make QR Code from realistic picture
 - [QR Code JS](https://www.bitcat.cc/webapp/awesome-qr/#) - QR Code with realistic picture background
 - [QArt Code](https://research.swtch.com/qart) - QR Code with logo
@@ -17,3 +18,13 @@ draft: false
 - [QR Code Monkey](https://www.qrcode-monkey.com/) - QR Code Generator with Customization
 - [QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Unitag](https://www.unitag.io/qrcode)
+
+## QR Code Decoder
+- [Zxing](https://zxing.org/w/decode.jspx)
+- [BarcodeReader](https://www.onlinebarcodereader.com/)
+- [Jeroen Steeman](https://jeroen.steeman.org/QRCode-Reader)
+- [QR4](https://blog.qr4.nl/Online-QR-Code-Decoder.aspx)
+- [Inlite](https://online-barcode-reader.inliteresearch.com/)
+- [Ginifab](https://www.ginifab.com/feeds/qr_code/qr_code_scanner.html)
+- [ImgOnline](https://www.imgonline.com.ua/eng/scan-qr-bar-code.php)
+- [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/qrcode-generator-and-reader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)

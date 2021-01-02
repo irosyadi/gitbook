@@ -20,3 +20,10 @@ Learn:
 - [Pandoc Wiki](https://github.com/jgm/pandoc/wiki)
 - [Authoring articles with Pandoc](https://outde.xyz/2019-03-09/authoring-articles-with-pandoc.html)
 - [Scientific Paper Tutorial](https://github.com/AlanRynne/Scientific-Paper-Tutorial)
+
+## Pandoc Wrapper
+- [Pandoc wrappers and interfaces · jgm/pandoc Wiki](https://github.com/jgm/pandoc/wiki/Pandoc-wrappers-and-interfaces)
+- [PanWriter](https://panwriter.com/)
+- [Panconvert - a Markup Document Converter](http://panconvert.sourceforge.net/)
+- [PanDocElectron - Wikiversity](https://en.wikiversity.org/wiki/PanDocElectron)
+

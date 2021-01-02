@@ -17,7 +17,7 @@ draft: false
 ## Open Licensed Deep Learning Books and Tutorials
 - [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Practical Deep Learning for Coders](https://course.fast.ai/) [GitHub](https://github.com/fastai/course-v3) License: Apache
-- [Dive into Deep Learning](https://d2l.ai/) License: CC-BY
+- [Dive into Deep Learning](https://d2l.ai/), [Github](https://github.com/d2l-ai/d2l-en) License: CC-BY
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html), [GitHub](https://github.com/openai/spinningup) License: MIT
 
 ## CC-BY-NC Deep Learning Books and Tutorials

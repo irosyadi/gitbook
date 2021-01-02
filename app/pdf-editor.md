@@ -11,9 +11,10 @@ draft: false
 # PDF Editor
 
 ## Online
-1. [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
-2. [Tools PDF24](https://tools.pdf24.org/en/)
-3. [Smallpdf](https://smallpdf.com/)
+- [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
+- [Tools PDF24](https://tools.pdf24.org/en/)
+- [Smallpdf](https://smallpdf.com/)
+- [Foxit PDF Tools](https://www.foxitsoftware.com/pdf-converter/)
 
 ## Offline
 1. Inkscape
