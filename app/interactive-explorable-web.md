@@ -29,3 +29,6 @@ draft: false
 - [Fourier Transform](https://www.jezzamon.com/fourier/index.html)
 - [Premier on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html), [Github](https://github.com/jackschaedler/circles-sines-signals), License: Eclipse Public License
 - [Experiments with Google](https://experiments.withgoogle.com/collection/chrome)
+- [Mathigon](https://github.com/mathigon) : License MIT
+    - [mathigon/mathigon.io: Mathigon's Open Source Website](https://github.com/mathigon/mathigon.io)
+    - [Mathigon – Textbook of the Future](https://mathigon.org/)

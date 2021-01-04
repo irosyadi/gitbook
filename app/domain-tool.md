@@ -40,6 +40,7 @@ Output: IP
 - [WhatisMyIPAddress](https://whatismyipaddress.com/hostname-ip)
 - [Check Host](https://check-host.net/ip-info?)*
 - [DNS Checker](https://dnschecker.org/#A/) Check DNS Propagation
+- [host.io](https://host.io/)
 
 ## Privacy Check
 Input: -

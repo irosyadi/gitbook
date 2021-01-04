@@ -70,3 +70,6 @@ draft: false
 - [Datatau](https://datatau.net/) for data science
 - [Free Post](https://freepo.st/) [open source](https://notabug.org/zPlus/freepost) selfhosted
 - [Barnacles](https://barnacl.es/)
+
+## Hacker News Browser Extension/Add-on
+- [Newsit](https://newsit.benwinding.com/) : reddit and HN comment in any links
