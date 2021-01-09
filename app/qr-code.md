@@ -18,6 +18,7 @@ draft: false
 - [QR Code Monkey](https://www.qrcode-monkey.com/) - QR Code Generator with Customization
 - [QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Unitag](https://www.unitag.io/qrcode)
+- [My-Qr.art - Create custom QR codes for free!](https://my-qr.art/)
 
 ## QR Code Decoder
 - [Zxing](https://zxing.org/w/decode.jspx)

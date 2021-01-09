@@ -33,6 +33,15 @@ draft: false
         - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin "*"`
         - Test the server with [http://localhost:8081/v2/check?language=en-US&text=my+text](http://localhost:8081/v2/check?language=en-US&text=my+text)
         - In windows, run on `cmd` not `powershell`.
+* [Grammar Check - Free Essay Checker | Virtual Writing Tutor](https://virtualwritingtutor.com/)
+* [Online Text Correction](https://www.onlinecorrection.com/)
+* [Online Editor – Grammar Checker](https://www.grammarcheck.net/editor/)
+* [Free Grammar Checker Online – Ginger Software](https://www.gingersoftware.com/grammarcheck)
+* [Hemingway Editor](http://www.hemingwayapp.com/)
+* [Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
+* [After the Deadline - Spell, Style, and Grammar Checker for WordPress, Firefox, TinyMCE, jQuery, and CKEditor](https://www.afterthedeadline.com/)
+* [Writefull](https://writefull.com/)
+
 
 ## Firefox Add Ons
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)

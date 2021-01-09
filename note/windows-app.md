@@ -238,6 +238,12 @@ This is a list of awesome apps for Windows 10.
 - xournal
 - xsltproc
 
+## Command Line Interface
+- speedtest: `speedtest`
+- gping: `gping example.com`
+- [is-up](https://github.com/sindresorhus/is-up-cli): `is-up example.com`
+
+
 ## Others
 - Nimbletext : text batch manipulation
 - curl

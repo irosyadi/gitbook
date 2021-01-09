@@ -20,7 +20,14 @@ draft: false
 - [Python Data Science](https://github.com/leriomaggio/python-data-science)
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course)
 - [TensorFlow, Keras and deep learning, without a PhD](https://codelabs.developers.google.com/codelabs/cloud-tensorflow-mnist#0), [Github](https://github.com/GoogleCloudPlatform/tensorflow-without-a-phd)
-- [CS231n Github](https://cs231n.github.io/), [CS231n GIthub Source](https://github.com/cs231n/cs231n.github.io)
+- [CS231n Github](https://cs231n.github.io/), [CS231n Github Source](https://github.com/cs231n/cs231n.github.io)
+- [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) in Python License: MIT
+- [Machine Learning Octave](https://github.com/trekhleb/machine-learning-octave) in Octave License: MIT
+- [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) License: MIT
+
+## Tools
+- [Colabify](https://chrome.google.com/webstore/detail/github-colabify/enfgannencjofjonlojjahlblnjnfhon/related?hl=en)
+- [Notebook Buddy](https://chrome.google.com/webstore/detail/notebook-buddy/kmhoiofjdpbiodaggadcibdkicfgplcl)
 
 ## Kuliah
 ### Pekan 7-9

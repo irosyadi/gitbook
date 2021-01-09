@@ -24,6 +24,8 @@ draft: false
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Descript | Create podcasts, videos, and transcripts](https://www.descript.com/)
 - [Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica](https://replicastudios.com/)
+- [15.ai: Natural TTS with minimal data](https://15.ai/)
+- [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
 
 ## Study
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)

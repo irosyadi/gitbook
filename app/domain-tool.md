@@ -105,9 +105,20 @@ Output: Geolocation, Ownership
 - [Which Nameservers](https://which.nameserve.rs/) check DNS server
 - [DNS Server Comparison](https://www.grc.com/dns/benchmark.htm)
 
-## Domain Search
-- [Instant Domain Search](https://instantdomainsearch.com/)
-- [Domain search](https://dotcomagain.com)
+## Domain Name Search
+* [NameStat - gTLD Stats, Metrics and Analysis](https://namestat.org/)
+* [Domain Name Generator For Perfectionists](https://www.namemesh.com/)
+* [Domain Name Search](https://instantdomainsearch.com/)
+* [Domain Name Generator](https://www.domainnamesoup.com/)
+* [Domain Name Search](https://domize.com/)
+* [Domainr: fast, free, domain name search, short URLs, new gTLDs, whois](https://domainr.com/)
+* [Lean Domain Search – Search for and register available domain names in seconds.](https://leandomainsearch.com/)
+* [DomainsBot - Tools, Data and Insights for your domain business](https://domainsbot.com/)
+* [Domainling](https://domainling.com/)
+* [Domain Name Generator (Instant Ideas, no Ads) - DomainWheel](https://domainwheel.com/)
+* [Fast Domain Name Search | namegrep](https://namegrep.com/)
+* [Wordoid: Get a Short and Catchy Name for Your Business](https://wordoid.com/)
+* [Compare Prices of All Top-Level Domains | TLD List](https://tld-list.com/)
 
 ## Domain Tools
 - [DNSdumpster.com - dns recon and research, find and lookup dns records](https://dnsdumpster.com/)

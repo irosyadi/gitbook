@@ -24,6 +24,7 @@ draft: false
 - [Object-Detection_HelmetDetection](https://github.com/weimin17/Object-Detection_HelmetDetection): image (video?), Contex RCNN
 - [BlcaKHat/yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection) : YOLO
 - [AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT): YOLO, deepsort
+- [iamdsc/automatic-helmet-detection](https://github.com/iamdsc/automatic-helmet-detection)
 
 ## Plate License Detection Github Repos
 - [openalpr/openalpr](https://github.com/openalpr/openalpr): OpenALPR is an open-source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.
