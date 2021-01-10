@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  About Blog
+title:  Blog
 date: 2020-06-01 20:09:34
 category: blog
 tags: ["writing"]

@@ -1,7 +1,7 @@
 ---
 layout: default
 author: irosyadi
-title:  About Course
+title:  Course
 date: 2020-06-01 20:09:34
 category: course
 tags: ["readme", "course"]
