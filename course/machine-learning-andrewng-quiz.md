@@ -69,7 +69,7 @@ draft: false
 
 1. Consider the problem of predicting how well a student does in her second year of college/university, given how well she did in her first year. Specifically, let x be equal to the number of “A” grades (including A-. A and A+ grades) that a student receives in their first year of college (freshmen year). We would like to predict the value of y, which we define as the number of “A” grades they get in their second year (sophomore year).  
     Here each row is one training example. Recall that in linear regression, our hypothesis is $h_\theta(x)=\theta_0+\theta_1x$ to denote the number of training examples.  
-    ![enter image description here](_v_images/20210106042809097_6366.png)  
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253270_20210106042809097_6366.png)  
     For the training set given above (note that this training set may also be referenced in other questions in this $m$)? In the box below, please enter your answer (which should be a number between 0 and 10).  
     
     ```
@@ -77,7 +77,7 @@ draft: false
     ```
 2. Many substances that can burn (such as gasoline and alcohol) have a chemical structure based on carbon atoms; for this reason they are called hydrocarbons. A chemist wants to understand how the number of carbon atoms in a molecule affects how much energy is released when that molecule combusts (meaning that it is burned). The chemist obtains the dataset below. In the column on the right, “kJ/mol” is the unit measuring the amount of energy released.  
       
-    ![enter image description here](_v_images/20210106042807663_5970.png)  
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253268_20210106042807663_5970.png)  
       
      You would like to use linear regression $h_\theta(x) = \theta_0 + \theta_1x$ to estimate the amount of energy released (y) as a function of the number of carbon atoms (x). Which of the following do you think will be the values you obtain for $\theta_0$ and $\theta_1$ ? You should be able to select the right answer without actually implementing linear regression.  
 
@@ -109,7 +109,7 @@ Which of the following statements are true? (Check all that apply.)
     - ☐ No matter how $\theta_0$ and $\theta_1$ are initialized, so long as $\alpha$ is sufficiently small, we can safely expect gradient descent to converge to the same solution.
     - 🗹  If the first few iterations of gradient descent cause $f(\theta_0 , \theta_1)$ to increase rather than decrease, then the most likely cause is that we have set the learning rate $\alpha$ to too large a value.
 5. In the given figure, the cost function $J(\theta_0, \theta_1)$ has been plotted against $\theta_0$ and $\theta_1$, as shown in ‘Plot 2’. The contour plot for the same cost function is given in ‘Plot 1’. Based on the figure, choose the correct options (check all that apply).
-![Plots for Cost Function](_v_images/20210106045949479_13558.png)
+![Plots for Cost Function](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253271_20210106045949479_13558.png)
     - ☐ If we start from point B, gradient descent with a well-chosen learning rate will eventually help us reach at or near point A, as the value of cost function $J(\theta_0, \theta_1)$ is maximum at point A.
     - ☐ If we start from point B, gradient descent with a well-chosen learning rate will eventually help us reach at or near point C, as the value of cost function $J(\theta_0, \theta_1)$ is minimum at point C.
     - 🗹 Point P (the global minimum of plot 2) corresponds to point A of Plot 1.
@@ -132,8 +132,8 @@ so that $h_{\theta}(x) = 0$
     - ☐ Our estimate for P(y = 0|x; θ) is 0.2.
 2. Suppose you have the following training set, and fit a logistic regression classifier $h_\theta(x) = g(\theta_0 + \theta_1x_1 + \theta_2x_2)$.
 Which of the following are true? Check all that apply.
-![](_v_images/20210106083228677_5192.png)
-![](_v_images/20210106083244202_2232.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253274_20210106083228677_5192.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253275_20210106083244202_2232.png)
     - 🗹 Adding polynomial features (e.g., instead using $h_\theta(x) = g(\theta_0 + \theta_1 x_1 + \theta_2 x_2 + \theta_3 x_1^2 + \theta_4 x_1 x_2 + \theta_5 x_2^2 ))$ could increase how well we can fit the training data.
     - 🗹 At the optimal value of θ (e.g., found by fminunc), we will have $J(θ) ≥ 0$.
     - ☐ Adding polynomial features (e.g., instead using $h_\theta(x) = g(\theta_0 + \theta_1 x_1 + \theta_2 x_2 + \theta_3 x_1^2 + \theta_4 x_1 x_2 + \theta_5 x_2^2 ))$ would increase $J(θ)$ because we are now summing over more terms.
@@ -150,13 +150,13 @@ Which of the following are true? Check all that apply.
     - ☐ Since we train one classifier when there are two classes, we train two classifiers when there are three classes (and we do one-vs-all classification).
 5. Suppose you train a logistic classifier $h_\theta(x) = g(\theta_0 + \theta_1x_1 + \theta_2x_2)$. Suppose $\theta_0 = 6$, $\theta_1 = -1$, $\theta_2 = 0$. Which of the following figures represents the decision boundary found by your classifier?
     - 🗹  Figure:
-![](_v_images/20210106084140048_15600.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253276_20210106084140048_15600.png)
     - ☐  Figure:
-![](_v_images/20210106084157413_13022.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253277_20210106084157413_13022.png)
     - ☐  Figure:
-![](_v_images/20210106084209408_957.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253279_20210106084209408_957.png)
     - ☐  Figure:
-![](_v_images/20210106084222258_31191.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253280_20210106084222258_31191.png)
 
 ### Regularization
 1. You are training a classification model with logistic regression. Which of the following statements are true? Check all that apply.
@@ -179,22 +179,22 @@ Which of the following are true? Check all that apply.
     - 🗹 Using too large a value of $\lambda$ can cause your hypothesis to underfit the data; this can be avoided by reducing $\lambda$.
 4. In which one of the following figures do you think the hypothesis has **overfit** the training set?
     - 🗹 Figure:  
-    ![enter image description here](_v_images/20210106085327397_3544.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253285_20210106085327397_3544.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085326883_11633.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253284_20210106085326883_11633.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085326168_15899.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253283_20210106085326168_15899.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085325553_12712.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253281_20210106085325553_12712.png)
 5. In which one of the following figures do you think the hypothesis has **underfit** the training set?
     - 🗹 Figure:  
-    ![enter image description here](_v_images/20210106085459252_8922.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253290_20210106085459252_8922.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085458644_4792.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253288_20210106085458644_4792.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085457929_4685.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253287_20210106085457929_4685.png)
     - ☐ Figure:  
-    ![enter image description here](_v_images/20210106085457521_31575.png)
+    ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253286_20210106085457521_31575.png)
 
 ## Week 5
 ### Neural Networks - Representation :
@@ -205,29 +205,29 @@ Which of the following are true? Check all that apply.
    - 🗹 The activation values of the hidden units in a neural network, with the sigmoid activation function applied at every layer, are always in the range (0, 1).
 2. Consider the following neural network which takes two binary-valued inputs 
 $x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?
-![](_v_images/20210106090915082_15939.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253291_20210106090915082_15939.png)
     - 🗹 AND
     - ☐ NAND (meaning “NOT AND”)
     - ☐ OR
     - ☐ XOR (exclusive OR)
 3. Consider the following neural network which takes two binary-valued inputs
 $x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?
-![](_v_images/20210106091216256_21503.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253292_20210106091216256_21503.png)
     - ☐ AND
     - ☐ NAND (meaning “NOT AND”)
     - 🗹 OR
     - ☐ XOR (exclusive OR)
 4. Consider the neural network given below. Which of the following equations correctly computes the activation $a_1^{(3)}$? Note: $g(z)$ is the sigmoid activation function.
-![](_v_images/20210106091606930_29779.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253294_20210106091606930_29779.png)
     - 🗹 $a_1^{(3)} = g(\theta_{1,0}^{(2)}a_0^{(2)}+\theta_{1,1}^{(2)}a_1^{(2)}+\theta_{1,2}^{(2)}a_2^{(2)})$
     - ☐ $a_1^{(3)} = g(\theta_{1,0}^{(2)}a_0^{(1)}+\theta_{1,1}^{(2)}a_1^{(1)}+\theta_{1,2}^{(2)}a_2^{(1)})$
     - ☐ $a_1^{(3)} = g(\theta_{1,0}^{(1)}a_0^{(2)}+\theta_{1,1}^{(1)}a_1^{(2)}+\theta_{1,2}^{(1)}a_2^{(2)})$
     - ☐ $a_1^{(3)} = g(\theta_{2,0}^{(2)}a_0^{(2)}+\theta_{2,1}^{(2)}a_1^{(2)}+\theta_{2,2}^{(2)}a_2^{(2)})$
 5. You have the following neural network:
-![](_v_images/20210106092659353_25197.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253296_20210106092659353_25197.png)
 You’d like to compute the activations of the hidden layer $a^{(2)} \ \epsilon \ R^3$. One way to do
 so is the following Octave code:
-![](_v_images/20210106092714486_4049.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253297_20210106092714486_4049.png)
 You want to have a vectorized implementation of this (i.e., one that does not use for loops). Which of the following implementations correctly compute ? Check all
 that apply.
     - 🗹 `z = Theta1 * x; a2 = sigmoid (z);`
@@ -235,7 +235,7 @@ that apply.
     - ☐ `a2 = sigmoid (Theta2 * x);`
     - ☐ `z = sigmoid(x); a2 = sigmoid (Theta1 * z);`
 6. You are using the neural network pictured below and have learned the parameters $\theta^{(1)} = \begin{bmatrix} 1 & 1 & 2.4\\ 1 & 1.7 & 3.2 \end{bmatrix}$ (used to compute $a^{(2)}$) and $\theta^{(2)} = \begin{bmatrix} 1 & 0.3 & -1.2 \end{bmatrix}$ (used to compute $a^{(3)}$ as a function of $a^{(2)}$). Suppose you swap the parameters for the first hidden layer between its two units so $\theta^{(1)} = \begin{bmatrix} 1 & 1.7 & 3.2 \\ 1 & 1 & 2.4 \end{bmatrix}$ and also swap the output layer so $\theta^{(2)} = \begin{bmatrix} 1 & -1.2 & 0.3 \end{bmatrix}$. How will this change the value of the output $h_\theta(x)$?
-![](_v_images/20210106100117145_12734.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253299_20210106100117145_12734.png)
     - 🗹 It will stay the same.
     - ☐ It will increase.
     - ☐ It will decrease
@@ -277,12 +277,12 @@ for every i,j. Which of the following is a correct vectorization of this step?
 ## Week 6
 ### Advice for Applying Machine Learning :
 1. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?
-![](_v_images/20210106114811822_23068.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253301_20210106114811822_23068.png)
     - ☐ High variance
     - ☐ Neither
     - 🗹 High bias
 2. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?
-![](_v_images/20210106115114688_20798.png)
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253302_20210106115114688_20798.png)
     - 🗹 High variance
     - ☐ Neither
     - ☐ High bias

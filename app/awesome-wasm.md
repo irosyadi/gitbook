@@ -34,6 +34,7 @@ draft: false
 
 ## Image Processing
 - [Squoosh by Google](https://squoosh.app/) : image compression
+- [JPEG.rocks: Privacy-aware JPEG optimizer](https://jpeg.rocks/) : jpeg optimizer
 
 ## Text and Document Processing
 - [PDFTRon](https://www.pdftron.com/webviewer/demo/) : document manipulation

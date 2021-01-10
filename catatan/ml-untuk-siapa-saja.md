@@ -35,27 +35,28 @@ Itulah yang menjadi asal muasal lahirnya pembelajaran mesin (_machine learning_)
 
 ## Tiga Komponen Pembelajaran Mesin
 
-Without all the AI-bullshit, the only goal of machine learning is to predict results based on incoming data. That's it. All ML tasks can be represented this way, or it's not an ML problem from the beginning.
+Tujuan sebenarnya dari pembelajaran mesin adalah untuk memprediksi hasil berdasarkan data yang disediakan. Semua pekerjaan pembelajaran mesin harus dapat dinyatakan dengan cara seperti ini. Kalau tidak seperti itu berarti sejak awal itu bukan merupakan pekerjaan dari pembelajaran mesin.
 
-The greater variety in the samples you have, the easier it is to find relevant patterns and predict the result. Therefore, we need three components to teach the machine:
+Semakin banyak variasi dari sampel yang kita punya, maka akan menjadi lebih mudah bagi mesin untuk mencari pola yang relevan dan memperkirakan hasilnya.  Oleh karena itu, kita membutuhkan 3 komponen untuk mengajar mesin untuk bisa belajar.
 
-Data Want to detect spam? Get samples of spam messages. Want to forecast stocks? Find the price history. Want to find out user preferences? Parse their activities on Facebook (no, Mark, stop collecting it, enough!). The more diverse the data, the better the result. Tens of thousands of rows is the bare minimum for the desperate ones.
+### Data
+Kita ingin mesin mendeteksi spam?  Maka carilah pesan atau email yang berisi spam.  Kita ingin mesin bisa meramalkan harga saham?  Maka  carilah data harga saham sebanyak-banyaknya.  Kita ingin mencari pola pengguna internet? Maka kumpulkan data aktivitas mereka di Facebook (eh Mark Zuckerberg, jangan terus mengumpulkan data kita terus dong!). Semakin banyak variasi dari data kita maka semakin baik hasil peramalannya. Sebagai patokan, puluhan ribu baris data adalah syarat minimum bagi yang menginginkan peramalan yang baik.
 
 [![](https://i.vas3k.ru/7sg.jpg)](https://i.vas3k.ru/7sg.jpg)
 
-There are two main ways to get the data — manual and automatic. Manually collected data contains far fewer errors but takes more time to collect — that makes it more expensive in general.
+Maka ada dua cara utama untuk mendapatkan data: manual dan otomatis. Data yang dikumpulkan secara manual akan memiliki kesalahan yang lebih sedikit akan tetapi akan membutuhkan waktu yang lebih banyak untuk mengumpulkannya sehingga membuat biayanya secara umum lebih mahal.
+Pengumpulan data secara otomatis itu secara umum lebih murah, yaitu kita cukup mengumpulkan segala apapun yang kamu dapat kita temukan dan berharap itu data yang kita kumpulkan itu adalah yang terbaik.
 
-Automatic approach is cheaper — you're gathering everything you can find and hope for the best.
+Orang pintar seperti misalnya yang bekerja di Google bisa memberdayakan konsumen mereka sendiri untuk memberikan label data bagi mereka secara gratis. Anda ingat ‘ReCaptcha’? Itu loh yang kadang memaksa kita untuk memilih mana gambar lampu lalu lintas, mana gambar mobil dll.? Nah, itulah adalah yang mereka lakukan pada kita. Kita menjadi buruh yang gratis! Keren kan?
+Pada dasarnya untuk mengumpulkan data yang bagus (biasanya disebut sebagai dataset) itu sangat sulit. Maka mudah kita pahami, mengapa kita lebih banyak menemukan algoritme atau kode program untuk pembelajaran mesin, tetapi jarang menemukan dataset-nya..
 
-Some smart asses like Google use their own customers to label data for them for free. Remember ReCaptcha which forces you to "Select all street signs"? That's exactly what they're doing. Free labour! Nice. In their place, I'd start to show captcha more and more. Oh, wait...
+### Fitur
+Atau dikenal juga dengan istilah parameter atau variabel.  Fitur dapat berbentuk jenis kelamin pengguna, harga saham, atau frekuensi kata di dalam sebuah teks.  Dengan kata lain, fitur adalah faktor-faktor yang perlu dilihat dan diperhatikan oleh mesin.
 
-It's extremely tough to collect a good collection of data (usually called a dataset). They are so important that companies may even reveal their algorithms, but rarely datasets.
+Saat data disimpan dalam tabel, fitur dapat dengan mudah diletakkan sebagai nama kolom. Akan tetapi, bagaimana jika kita memiliki koleksi dataset gambar kucing sebesar 100 GB? Kita tidak dapat secara sembrono menggunakan setiap pixel sebagai sebuah fitur. Itu mengapa memilih fitur yang tepat biasanya membutuhkan waktu yang lebih panjang daripada semua waktu yang dibutuhkan dalam berbagai tahapan dari pembelajaran mesin. Hal tersebut juga merupakan sumber kesalahan yang paling utama. Manusia itu selalu subjektif, mereka memilih fitur-fitur yang mereka sukai atau yang mereka anggap penting.
 
-Features Also known as parameters or variables. Those could be car mileage, user's gender, stock price, word frequency in the text. In other words, these are the factors for a machine to look at.
-
-When data stored in tables it's simple — features are column names. But what are they if you have 100 Gb of cat pics? We cannot consider each pixel as a feature. That's why selecting the right features usually takes way longer than all the other ML parts. That's also the main source of errors. Meatbags are always subjective. They choose only features they like or find "more important". Please, avoid being human.
-
-Algorithms Most obvious part. Any problem can be solved differently. The method you choose affects the precision, performance, and size of the final model. There is one important nuance though: if the data is crappy, even the best algorithm won't help. Sometimes it's referred as "garbage in – garbage out". So don't pay too much attention to the percentage of accuracy, try to acquire more data first.
+### Algoritme
+Ini adalah bagian yang paling jelas. Setiap masalah dapat diselesaikan dengan cara yang berbeda. Metode yang kita pilih akan berdampak kepada presisi, unjuk kerja, dan ukuran dari model (algoritme) yang akhirnya kita pakai. Akan tetapi ada ada hal yang penting untuk diperhatikan: jika data kita itu jelek, maka algoritme yang terbaik sekalipun tidak akan menolong. Hal itu disebut sebagai "sampah yang masuk - sampah yang keluar" (garbage in - garbage out). Jadi jangan terlalu memberikan perhatian yang yang terlalu besar kepada persentase akurasi, akan tetapi usahakan untuk mendapatkan data yang lebih banyak terlebih dahulu.
 
 [![](https://i.vas3k.ru/7r8.jpg)](https://i.vas3k.ru/7r8.jpg)
 

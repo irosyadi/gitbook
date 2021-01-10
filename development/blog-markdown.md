@@ -684,20 +684,20 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;
 ## 23. Latex
 
 ### 23.1. Inline Equation
-- Equation with one dollar sign `$` works inline in Gatsby and VNote, but not in Gitbook 
-- Equation with two dollar signs `$$` works inline in Gatsby and Gitbook, but not in VNote
+- Equation with one dollar sign `$` works inline in VNote
+- Equation with two dollar signs `$$` works inline in Jekyll and Gitbook, but not in VNote
 
 ***markdown***
 
 ```
-Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).  
-Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
+Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
+Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
 ```
 
 ***display***
 
-Inline equation with one dollar sign: $E=mc^2$ (worked in Gatsby and VNote).  
-Inline equation with one dollar sign: $$E=mc^2$$ (worked in Gatsby and Gitbook).
+Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
+Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
 
 ### 23.2. Newline Equation
 
