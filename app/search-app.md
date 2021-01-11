@@ -33,6 +33,7 @@ draft: false
 - [Rightdao](https://rightdao.com/search) - minimalist search engine
 - [typesense](https://typesense.org/) - open source
 - [Mojeek](https://www.mojeek.com/) - privacy oriented
+- [Okeano - The search engine that cleans the ocean and respects your privacy](https://okeano.com/)
 
 ## Archive.org Search Engine
 - [Archive.org Book Search](https://archive.org/details/texts)

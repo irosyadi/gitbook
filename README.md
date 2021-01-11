@@ -1,4 +1,4 @@
-# irosyadi
+# Imron Rosyadi
 
 _Notes of a life_
 
