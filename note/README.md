@@ -9,3 +9,5 @@ draft: false
 ---
 
 # Note
+
+{% include list.liquid %}

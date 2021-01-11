@@ -18,7 +18,10 @@ Universitas Jenderal Soedirman
 Jl. Mayjen Sungkono Km. 5, Blater, Kalimanah, Purbalingga, Jawa Tengah, Indonesia 53371  
 Telp/Fax: 0281-6596700  
 Email: [imron.rosyadi@unsoed.ac.id](mailto:imron.rosyadi@unsoed.ac.id)  
-Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
+Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)  
+Page:   
+[1] http://elektro.ft.unsoed.ac.id/imron-rosyadi/  
+[2] https://irosyadi.netlify.app/
 
 #### Academic Profiles
 
@@ -38,7 +41,8 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 *   [Page at University](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 *   [Blog at Netlify](https://irosyadi.netlify.app/)
 *   [Knowledge Base at Gitbook](https://irosyadi.gitbook.io/)
-*   [Blog (not maintained)](https://irosyadi.blog.unsoed.ac.id/)
+*   [Knowledge Base at Github](https://irosyadi.github.io/)
+*   [Blog at Unsoed (not maintained)](https://irosyadi.blog.unsoed.ac.id/)
 *   [Linkedin](https://www.linkedin.com/in/irosyadi)
 *   [Matlab Central](https://www.mathworks.com/matlabcentral/profile/authors/1778067-imron-rosyadi)
 *   [Github](https://github.com/irosyadi), [Github Page](https://irosyadi.github.io/)
@@ -100,8 +104,9 @@ Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)
 
 #### Seminar (Conferences)
 
-*   **Imron Rosyadi**, Vidi Fitriansyah Hidarlan, Farida Asriani, and Rifah Ediati, 2020. _A Deep Learning for Varieties Classification of Bulk Samples of Rice_, 2020 International Conference on Engineering, Technology and Innovative Researches.
+*   **Imron Rosyadi**, Vidi Fitriansyah Hidarlan, Farida Asriani, and Rifah Ediati, 2020. _A Deep Learning for Varieties Classification of Bulk Samples of Rice_, 2020 International Conference on Engineering, Technology and Innovative Researches (ICETIR).
 *   **Imron Rosyadi**, Fendy Prayogi, Farida Asriani, Rifah Ediati, 2020. _Rice Fields Classification among Google Earth Sattelite Images using Convolutional Neural Network_, 2020 The 2nd International Conference On Sustainable Agriculture For Rural Development (2nd ICSARD).
+*  **Imron Rosyadi**, Noer Aditama, Rifah Ediati, 2020. _Deep Learning for Rice Quality Classification_, 3rd International Conference on Multidisciplinary Approaches for Sustainable Rural Development 2020 (3rd ICMA-SURE 2020).
 *   Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Iwan Setiawan, 2018. [_Pemanfaatan Sistem Lampu Cerdas pada Untuk Peningkatan Efisiensi Energi_](https://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/view/703), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VIII.
 *   Azis Wisnu Widhi Nugraha, Iwan Setiawan, **Imron Rosyadi**, 2017. [_Pemanfaatan Raspberry Pi dan Perangkat Lunak Bebas Terbuka (FOSS) pada Pendidikan Dasar untuk Mengatasi Kesenjangan Digital_](https://jurnal.lppm.unsoed.ac.id/ojs/index.php/Prosiding/article/viewFile/423/347), Prosiding Seminar Nasional Pengembangan Sumber Daya Perdesaan dan Kearifan Lokal Berkelanjutan VII.
 *   Winasis, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Miftakhul Baehaki, 2016. [_Node Nirkabel Berbasis Internet of Things untuk Pemantauan Beban Arus Bolak Balik Pembangkit Listrik Tenaga Surya_](https://www.researchgate.net/publication/314355263_NODE_NIRKABEL_BERBASIS_INTERNET_OF_THINGS_UNTUK_PEMANTAUAN_BEBAN_ARUS_BOLAK_BALIK_PEMBANGKIT_LISTRIK_TENAGA_SURYA). Proceeding Seminar Nasional Teknologi Terapan 2016, ISBN 978-602-1159-18-7, Hal. 393 – 398. ([alternative link 1: full](https://ee.unsoed.ac.id/~awwn/publikasi/seminar/10%202016%20Node%20Nirkabel%20Berbasis%20Internet%20of%20Things%20untuk%20Pemantauan%20Beban%20Arus%20Bolak%20Balik%20Pembangkit%20Listrik%20Tenaga%20Surya/) )

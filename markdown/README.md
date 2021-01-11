@@ -9,3 +9,5 @@ draft: false
 ---
 
 # Markdown
+
+{% include list.liquid %}

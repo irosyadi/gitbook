@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Octave How to
+title:  Octave How To
 date: 2020-12-20 21:28:08
 category: howto
 tags: ["octave"]
 draft: false
 ---
 
-# Octave How to
+# Octave How To
 
 ## Draw pole, zero, grid, sgrid
 ```octave

@@ -26,3 +26,7 @@ draft: false
 
 ## RSS Search
 - [DatoRSS](https://www.datorss.com/) RSS Search Engine
+
+## RSS to HTML
+- [RSS 2 HTML](https://rss.bloople.net/)
+- [FREE Feed Widget. Fully Customisable and Easy To Use. Up to 5 feeds](https://surfing-waves.com/feed.htm)

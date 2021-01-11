@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  MATLAB How to
+title:  MATLAB How To
 date: 2020-12-20 21:28:08
 category: howto
 tags: ["matlab"]
 draft: false
 ---
 
-# MATLAB How to
+# MATLAB How To
 
 ## Uninstall Toolbox in MATLAB
 - Toolboxes are managed from the Add-On Manager. To open the Add-On Manager:

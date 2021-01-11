@@ -9,3 +9,5 @@ draft: false
 ---
 
 # App
+
+{% include list.liquid %}
