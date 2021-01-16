@@ -18,6 +18,7 @@ draft: false
 
 ## Web Apps
 - [Cloudflare Connection Information](https://1.1.1.1/help) : check DoH, DoT, WARP
+- [Cloudflare Encrypted](https://www.cloudflare.com/ssl/encrypted-sni/) : check DoH, DNSSEC, TLS, Encrypted SNI
 - [Cover Your Tracks by EFF](https://coveryourtracks.eff.org/) : Test your browser to see how well you are protected from tracking and fingerprinting.
 - [Blacklight](https://themarkup.org/blacklight) : Real-Time Website Privacy Inspector
 - [Privacy Analyzer](https://privacy.net/analyzer/) : Check what data is exposed from browser

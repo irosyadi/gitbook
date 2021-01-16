@@ -38,6 +38,7 @@ draft: false
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications
 - [Improve Hacker News](https://hackerbits.com/hacker-news/improve-hacker-news-ui/) List of ways to read Hacker News
+- [Read Hacker News](https://readhacker.news/)
 
 ## Hacker News Search Engine
 - [HN Search powered by Algolia](https://hn.algolia.com/) Hacker News comment and link search
