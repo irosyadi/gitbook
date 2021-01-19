@@ -46,6 +46,7 @@ draft: false
 22. [Mike Tannenbaum](https://mind.miketannenbaum.com/) 
 23. [David Seah](https://davidseah.gitbook.io/davidseah/) Stacks: Gitbook
 24. [Mental Nodes](https://www.mentalnodes.com/) Stacks: Tiddlywiki
+25. [Home · Scott Spence](https://scottspence.com/) Stacks: Gatsby
 
 
 ## List of Second Brain Blog

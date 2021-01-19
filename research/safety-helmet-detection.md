@@ -25,6 +25,13 @@ draft: false
 - [BlcaKHat/yolov3-Helmet-Detection](https://github.com/BlcaKHat/yolov3-Helmet-Detection) : YOLO
 - [AnshulSood11/PPE-Detection-YOLO-Deep_SORT](https://github.com/AnshulSood11/PPE-Detection-YOLO-Deep_SORT): YOLO, deepsort
 - [iamdsc/automatic-helmet-detection](https://github.com/iamdsc/automatic-helmet-detection)
+- [abhijeet-talaulikar/Automatic-Helmet-Detection: Designing a system that can automatically detect the absence of helmet on motorcyclists by processing live video streams from a surveillance camera.](https://github.com/abhijeet-talaulikar/Automatic-Helmet-Detection)
+- [abhishekbhutra1/Motorcyclist-Detection: Detection of Motorcyclist without helmet](https://github.com/abhishekbhutra1/Motorcyclist-Detection)
+- [RajaSudalai/Motorcyclist_Helmet_Detection: Automatic traffic violation detection of Motorcyclist not wearing Helmet - Instance Segmentation using Mask R-CNN](https://github.com/RajaSudalai/Motorcyclist_Helmet_Detection)
+- [ashish2050/Smart-Traffic-Surveillance-System-: a model built using YOLOv4 and Darknet to detect helmet and licence plate of a motorcyclist](https://github.com/ashish2050/Smart-Traffic-Surveillance-System-)
+- [SachinHR/Automatic-number-plate-recognition-for-motorcyclists-riding-without-helmet.: Automatic number plate recognition for motorcyclists riding without helmet with OpenCV.](https://github.com/SachinHR/Automatic-number-plate-recognition-for-motorcyclists-riding-without-helmet.)
+- [Tejaswini1399/Detection-of-Motorcyclists-without-helmet](https://github.com/Tejaswini1399/Detection-of-Motorcyclists-without-helmet)
+- [PardeshiSourabh/ObjectDetectionHaar: Object Detection using Haar-like features to enforce helmet check for motorcyclists and improve rider safety](https://github.com/PardeshiSourabh/ObjectDetectionHaar)
 
 ## Plate License Detection Github Repos
 - [openalpr/openalpr](https://github.com/openalpr/openalpr): OpenALPR is an open-source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.

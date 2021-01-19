@@ -116,6 +116,7 @@ draft: false
 - [List Color Naming Dictionaries](https://people.csail.mit.edu/jaffer/Color/Dictionaries)
 - [Color Naming](https://www.chrisharrison.net/index.php/Fun/ColorPerception) or [this](https://johnthemathguy.blogspot.com/2016/12/unambiguous-regions-in-color-space-for.html)
 - [Handpicked Color Names](https://github.com/meodai/color-names)
+- [Colorize](https://alexbeals.com/projects/colorize/) Color name mapped to color
 
 ## Colorimetry Notes
 - HSV/HSL are cylindrical representation of RGB
