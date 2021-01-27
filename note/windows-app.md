@@ -62,7 +62,6 @@ This is a list of awesome apps for Windows 10.
 ## Video Editor
 - FFmpeg : video processing library/engine
 - Handbrake : video converter
-- kdenlive : video editor
 - HitFilm Express* : video editor (complete editing)
 
 ## File Search
@@ -159,7 +158,6 @@ This is a list of awesome apps for Windows 10.
 - Microsoft OneDrive
 
 ## Graphic Editor
-- draw.io : graphic editor
 - Microsoft Visio: diagram and vector graphic drawing and editor from Microsoft
 - Graphviz : graphics and drawing package (library)
 
@@ -242,6 +240,8 @@ This is a list of awesome apps for Windows 10.
 - speedtest: `speedtest`
 - gping: `gping example.com`
 - [is-up](https://github.com/sindresorhus/is-up-cli): `is-up example.com`
+- mtr: `mtr example.com`
+
 
 
 ## Others
@@ -249,12 +249,16 @@ This is a list of awesome apps for Windows 10.
 - curl
 
 ## Uninstalled Apps
+- Brave : browser
+- Opentoonz
 - Persepolis : aria-based download manager (why: PyIDM is better and faster)
 - MindForger : note taking, zettelkasten, markdown (why: too complex)
 - AsciidocFX : note taking, asciidoc (why: asciidoc is rarely used)
 - Ubuntu : ubuntu on top Windows 10 (why: unstable, rarely used, storage limitation)
 - SAM (System Advisor Model) : PV System Planner (why: not used anymore)
 - rga ([Github Repo](https://github.com/phiresky/ripgrep-all)) : take huge database storage
+- kdenlive : video editor (inferior to hitman express)
+- draw.io : graphic editor (inferior to Visio)
 
 ## My Computer
 - IdeaPad C340-14API 9AID

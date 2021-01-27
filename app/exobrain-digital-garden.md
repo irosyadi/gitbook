@@ -65,3 +65,6 @@ draft: false
    - [Mathieu Dutour](https://mathieudutour.github.io/gatsby-digital-garden/) [Gatsby Digital Garden](https://github.com/mathieudutour/gatsby-digital-garden/)
    - [Zettels](https://github.com/crisrojas/Zettels) [Hugokasten](https://hugokasten.netlify.app/features.html)
    - [Neuron Template](https://github.com/srid/neuron-template) [Neuron Zettel](https://neuron.zettel.page/)
+* [binyamin/eleventy-garden: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
+* [crisrojas/Zettels: Zettels Hugo Theme](https://github.com/crisrojas/Zettels)
+    * [Punto de entrada - crisrojas](https://www.crisrojas.com/notes/)

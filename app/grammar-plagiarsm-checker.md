@@ -41,6 +41,7 @@ draft: false
 * [Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
 * [After the Deadline - Spell, Style, and Grammar Checker for WordPress, Firefox, TinyMCE, jQuery, and CKEditor](https://www.afterthedeadline.com/)
 * [Writefull](https://writefull.com/)
+* [amperser/proselint: A linter for prose.](https://github.com/amperser/proselint) writing assistant
 
 
 ## Firefox Add Ons

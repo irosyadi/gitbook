@@ -17,6 +17,7 @@ draft: false
 - [Everycircuit](https://everycircuit.com/app/)
 - [Partsim](https://www.partsim.com/)
 - [library.io](https://library.io/)
+- [Tejotron](https://www.tejotron.com/)
 - [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
 
 ## EDA Simulator

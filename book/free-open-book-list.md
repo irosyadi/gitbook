@@ -37,11 +37,26 @@ draft: false
 - [Ubiquity Press](https://www.ubiquitypress.com/site/)
 - [Bookboon](https://bookboon.com/en/textbooks)
 - [de Gruyter](https://www.degruyter.com/)
+- [Saylor Academy Open Textbooks - Saylor Academy](https://www.saylor.org/books/)
 
 ## Repository of Free Books
 - [Learn Anything](https://github.com/learn-anything/books)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
 - [Free Data Science Book](https://www.learndatasci.com/free-data-science-books/)
+- [https://jsbooks.revolunet.com/](https://jsbooks.revolunet.com/)
+- [https://exploringjs.com/](https://exploringjs.com/)
+- [https://pythonbooks.revolunet.com/](https://pythonbooks.revolunet.com/)
+- [https://www.syncfusion.com/ebooks](https://www.syncfusion.com/ebooks)
+- [https://devfreebooks.github.io/](https://devfreebooks.github.io/)
+- [https://www.freetechbooks.com/](https://www.freetechbooks.com/)
+- [https://www.onlineprogrammingbooks.com/](https://www.onlineprogrammingbooks.com/)
+
+And some git repositories :
+
+1. [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
+2. [https://github.com/ab-anand/programming-books](https://github.com/ab-anand/programming-books)
+
+​
 
 ## CC-BY Books Provider
 - [Data Journalism](https://datajournalism.com/) CC-BY
@@ -66,6 +81,7 @@ draft: false
 ## List of Open Book
 - [Open Text Books UMN](https://open.umn.edu/opentextbooks/)
 - [CC Python Books](https://mksaad.wordpress.com/2019/04/03/open-source-python-programming-books-licensed-under-creative-commons/)
+- [EbookFoundation/free-science-books: Inspired by free-programming-books, here's free-science-books](https://github.com/EbookFoundation/free-science-books)
 
 ## Out of Copyright Books
 - [Ebook Fondation](https://ebookfoundation.org/)
