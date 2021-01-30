@@ -1,0 +1,37 @@
+{
+  "version": "1.0.0",
+  "keywords": [
+    "textlintrule"
+  ],
+  "main": "lib/index.js",
+  "files": [
+    "lib/",
+    "src/"
+  ],
+  "scripts": {
+    "test": "textlint-scripts test",
+    "build": "textlint-scripts build",
+    "prepublish": "npm run --if-present build"
+  },
+  "devDependencies": {
+    "textlint-scripts": "^1.2.2"
+  },
+  "name": "textlint-rule-languagetool",
+  "description": "Analyzes text using the node-languagetool",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UFOMelkor/textlint-rule-languagetool.git"
+  },
+  "author": "Oskar Pfeifer-Bley <oskar@programming-php.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UFOMelkor/textlint-rule-languagetool/issues"
+  },
+  "homepage": "https://github.com/UFOMelkor/textlint-rule-languagetool",
+  "dependencies": {
+    "node-languagetool": "^0.4.1"
+  }
+}

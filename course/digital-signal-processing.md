@@ -15,6 +15,10 @@ draft: false
 - [The Scientist and Engineer's Guide to Digital Signal Processing by Steven W. Smith, Ph.D.](https://www.dspguide.com/)
 - [SP4Comm: Signal Processing for Communication](https://www.sp4comm.org/)
 - [Free DSP Books](https://www.dsprelated.com/freebooks.php)
+- [Think DSP](https://greenteapress.com/thinkdsp/html/index.html) License: CC-BY-NC
+
+## DSP Lectures
+- [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY
 
 ## DSP Interactive
 - [Fourier Transform](https://www.jezzamon.com/fourier/index.html)

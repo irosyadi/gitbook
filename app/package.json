@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "dictionary-en": "^3.1.0",
+    "textlint-rule-spelling": "^0.3.0"
+  }
+}

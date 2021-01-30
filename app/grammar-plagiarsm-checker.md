@@ -41,7 +41,11 @@ draft: false
 * [Slick Write | Check your grammar. Proofread online.](https://www.slickwrite.com/#!home)
 * [After the Deadline - Spell, Style, and Grammar Checker for WordPress, Firefox, TinyMCE, jQuery, and CKEditor](https://www.afterthedeadline.com/)
 * [Writefull](https://writefull.com/)
-* [amperser/proselint: A linter for prose.](https://github.com/amperser/proselint) writing assistant
+* [amperser/proselint: A linter for prose.](https://github.com/amperser/proselint) writing assistant (dead project)
+* [textlint · The pluggable linting tool for text and markdown](https://textlint.github.io/)
+    * [textlint: Proofreader - Chrome Web Store](https://chrome.google.com/webstore/detail/textlint-proofreader/hdongmdneapmhfblomidbafplpanpdmm)
+    * [Collection of textlint rule · textlint/textlint Wiki](https://github.com/textlint/textlint/wiki/Collection-of-textlint-rule)
+* [guardian/prosemirror-typerighter: The client-side companion to Typerighter. Match ranges with spellchecker-like semantics in Prosemirror documents.](https://github.com/guardian/prosemirror-typerighter)  a plug in
 
 
 ## Firefox Add Ons

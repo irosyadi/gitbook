@@ -1,0 +1,11 @@
+<project>
+  <target name="compile">
+    <javac srcdir="resources" destdir="resources">
+      <classpath>
+        <fileset dir="lt/libs">
+          <include name="**/*.jar" />
+        </fileset>
+      </classpath>
+    </javac>
+  </target>
+</project>
