@@ -24,3 +24,4 @@ draft: false
 - [Wav2vec 2.0: Learning the structure of speech from raw audio](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
 - [Huggingface](https://huggingface.co/) : On a mission to solve NLP, provide many NLP models.
     - [transformer](https://transformer.huggingface.co/) : text generation using transformer GPT2
+- [Spacy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy/)

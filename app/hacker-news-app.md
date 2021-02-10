@@ -55,6 +55,7 @@ draft: false
 - [Show HN projects — Browse the best projects posted on Show HN](https://showhn-dashboard.netlify.app/) : Hacker News Show HN post list
 - [Hacker News Rankings](http://hnrankings.info/) : Hacker News post ranking
 - [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
+- [HN Books | The Best Books of Hacker News](https://yahnd.com/books/)
 
 ## Hacker News Aggregator
 - [Serializer](http://serializer.io/) : Hacker News, Reddit, Lobster Aggregator

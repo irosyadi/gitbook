@@ -74,3 +74,8 @@ Here is the comment:
 ## Image Hosting in Github
 
 ![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png)
+
+
+## SVG
+![crocodile](http://snapsvg.io/assets/images/crocodile.svg)
+![Garuda Pancasila](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/indonesia.svg)
