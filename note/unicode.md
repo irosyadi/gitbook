@@ -27,6 +27,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Fileformat Unicode Search](https://www.fileformat.info/info/unicode/char/search.htm)
 - [Unicode Character Recognition](https://shapecatcher.com/)
 - [Copy Character](https://copychar.cc/)
+- [Copy and Paste Symbols 🔥 HotSymbol](https://www.hotsymbol.com/)
 
 ## Emoji
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation

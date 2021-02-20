@@ -22,6 +22,7 @@ draft: false
 - [WASM and JS comparison for video processing](https://d2jta7o2zej4pf.cloudfront.net/)
 - [Video Converter](https://w3reality.github.io/async-thread-worker/examples/wasm-ffmpeg/index.html)
 - [Modfy](https://app.modfy.video/) Offline Web Based Video Converter, but still WASM slower than native app
+- [Shrink my video!](https://acailly.github.io/shrink-my-video/)
 
 ## Audio Processing
 - [Amped Studio](https://ampedstudio.com/) : audio processing, need login

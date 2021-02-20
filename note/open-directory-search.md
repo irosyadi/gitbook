@@ -120,13 +120,48 @@ Other download helpers you should try :
 You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is made by a redditor who posted it [here](https://www.reddit.com/r/opendirectories/comments/913ojc/i_wrote_a_fuse_filesystem_that_allows_you_to/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage) to mount the remote directory as mountpoint. It even appears to be somewhat faster than "rclone mount".
 
 #### OpenDirectoryDownloader
-
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories listings in 75+ supported formats.
 
 
 ## Sites
-
 - [The-Eye](https://the-eye.eu/)
 - [Archive.org](https://archive.org)
 - [The Trove](https://thetrove.net)
 - [Telegram Channel](https://t.me/r_OpenDirectories)
+
+## Search Tools
+### Search And index Engines DDLs :-
+[https://filepursuit.com/](https://filepursuit.com/)
+[https://weboas.is/](https://weboas.is/)
+[https://filesearch.download/](https://filesearch.download/)
+[https://www.filesearch.link/](https://www.filesearch.link/)
+[https://ipfs-search.com/](https://ipfs-search.com/)
+
+###  Search GDrive:-
+[https://www.dedigger.com/](https://www.dedigger.com/)
+[https://whatintheworld.xyz/](https://whatintheworld.xyz/)
+[https://w3abhishek.github.io/torrentables/](https://w3abhishek.github.io/torrentables/)
+[https://eyedex.org/](https://eyedex.org/) (Search The Eye)
+
+###  Search Open Directory DDLs :-
+[https://odcrawler.xyz/](https://odcrawler.xyz/)
+[https://www.filechef.com/](https://www.filechef.com/)
+[https://opendirsearch.abifog.com/](https://opendirsearch.abifog.com/)
+[http://palined.com/search/](http://palined.com/search/)
+[https://ewasion.github.io/opendirectory-finder/](https://ewasion.github.io/opendirectory-finder/)
+[https://open-directories.reecemercer.dev/](https://open-directories.reecemercer.dev/)
+[https://lumpysoft.com/](https://lumpysoft.com/)
+[https://www.eyeofjustice.com/od/](https://www.eyeofjustice.com/od/)
+[https://sites.google.com/view/l33tech/tools/ods](https://sites.google.com/view/l33tech/tools/ods)
+[http://lendx.org/](http://lendx.org/)
+
+### Archiving And Searching Engines:-
+[https://the-eye.eu/](https://the-eye.eu/) (archives and indexes Web Pages)
+[http://archive.ph/](http://archive.ph/) (archives web snapshots)
+[https://archive.org/](https://archive.org/) ( The Internet Archive)
+[https://archive.org/web/](https://archive.org/web/) (The Wayback Machine)
+
+### FTP Indexers:-
+[https://www.mmnt.ru/int/](https://www.mmnt.ru/int/)
+[https://www.catfiles.net/](https://www.catfiles.net/)
+[https://sites.google.com/view/l33tech/tools/pasteskimmer](https://sites.google.com/view/l33tech/tools/pasteskimmer) (Paste search tool)

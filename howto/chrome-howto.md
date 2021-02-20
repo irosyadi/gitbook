@@ -21,3 +21,11 @@ draft: false
     1. Visit [1.1.1.1 help pageOpen external link](https://1.1.1.1/help)
     2. Verify that `Using DNS over HTTPS (DoH)` is `Yes`
     3. Or visit [Cloudflare Security Check](https://www.cloudflare.com/ssl/encrypted-sni/)
+
+## Browser Action
+- Clear Browsing Data - type ‘delete history’, ‘clear cache ‘ or ‘wipe cookies’
+- Manage Payment Methods - type ‘edit credit card’ or ‘update card info’
+- Open Incognito Window - type ‘launch incognito mode‘ or ‘incognito’
+- Manage Passwords - type ‘edit passwords’ or ‘update credentials’
+- Translate Page - type ‘ translate this’ or ‘ translate this page’
+

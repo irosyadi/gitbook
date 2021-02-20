@@ -24,3 +24,7 @@ draft: false
 - *server* : peladen
 - *overview* : ikhtisar, ijmal
 - *diode* : diode
+- *transfer function* : fungsi alih
+- *time-invariant* : waktu tak berubah
+- *Cartesian* : Cartesian
+- *output* : keluaran

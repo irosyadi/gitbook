@@ -12,11 +12,17 @@ draft: false
 
 ## Dataset
 - [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
+    - [Paper](https://www.medrxiv.org/node/76881.external-links.html)
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
 - [Kaggle](https://www.kaggle.com/paultimothymooney/chest-xray-pneumonia)
 - [Dataset: CT Scan for Covid Classification](https://www.graviti.com/open-datasets/dataset-detail/CT_Scans_for_COVID-19_Classification)
 - [NCOV China](http://ncov-ai.big.ac.cn/download)
-
+- [haydengunraj/COVIDNet-CT: COVID-Net Open Source Initiative - Models and Data for COVID-19 Detection in Chest CT](https://github.com/haydengunraj/COVIDNet-CT)
+    - [DAtaset](https://www.kaggle.com/hgunraj/covidxct) : three categories (Covid, Control, Pneunomia)
+- [COVID-19 CT Lung and Infection Segmentation Dataset | Zenodo](https://zenodo.org/record/3757476#.X62Iw2hKiUk)
+- [Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets | Nature Communications](https://www.nature.com/articles/s41467-020-17971-2)
+    - [Clara Deploy AI COVID-19 Classification | NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:clara:ai-covid-19): two categories (Covid, Normal)
+- [LIDC-IDRI - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
 ## Notes
 - [Kaggle](https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19)
 - [Adrian Rosenbrerck](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) [GitHub Repo, work in progress](https://github.com/AleGiovanardi/covidhelper)
