@@ -21,7 +21,7 @@ Email: [imron.rosyadi@unsoed.ac.id](mailto:imron.rosyadi@unsoed.ac.id)
 Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)  
 Page:   
 [1] http://elektro.ft.unsoed.ac.id/imron-rosyadi/  
-[2] https://irosyadi.netlify.app/
+[2] https://irosyadi-lp.netlify.app/
 
 #### Academic Profiles
 
@@ -39,6 +39,7 @@ Page:
 #### Personal Links
 
 *   [Page at University](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+*   [Landing Page](https://irosyadi-lp.netlify.app/)
 *   [Blog at Netlify](https://irosyadi.netlify.app/)
 *   [Knowledge Base at Gitbook](https://irosyadi.gitbook.io/)
 *   [Knowledge Base at Github](https://irosyadi.github.io/)
@@ -51,21 +52,23 @@ Page:
 
 #### Kuliah (Courses)
 
-*   Machine Learning
-*   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering)](https://elektro.ft.unsoed.ac.id/akademik/kurikulum/mata-kuliah/dasar-teknik-elektro/)
+*   [Machine Learning](https://irosyadi.netlify.app/course/mk-machine-learning/)
+*   [Sistem Kendali Lanjut (Advanced of Control Systems)](https://irosyadi.netlify.app/course/mk-sistem-kendali-lanjut/)
+*   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering) 2019](https://elektro.ft.unsoed.ac.id/akademik/kurikulum/mata-kuliah/dasar-teknik-elektro/)
+*   [Matematika Teknik (Engineering Mathematics)](https://irosyadi.netlify.app/course/mk-matematika-teknik/)
+*   [Dasar Teknik Elektro (Fundamentals of Electrical Engineering) 2020](https://irosyadi.netlify.app/course/mk-dasar-teknik-elektro/)
 *   [Pengolahan Sinyal Digital (Digital Signal Processing)](https://elektro.ft.unsoed.ac.id/pengolahan-sinyal-digital/)
 *   [Sistem Kendali (Control System)](https://elektro.ft.unsoed.ac.id/sistem-kendali/)
 *   [Sistem Kendali Cerdas (Intelligent Control System)](https://elektro.ft.unsoed.ac.id/sistem-kendali-cerdas/)
 *   [Internet of Things](https://elektro.ft.unsoed.ac.id/internet-of-things/)
 *   Instrumentasi (Instrumentation)
 *   Sistem Kendali Digital (Digital Control System)
-*   Matematika Teknik (Engineering Mathematics)
 *   Proyek Keteknikan (Capstone Design)
 
 #### Kelompok Riset (Research Groups)
 
-*   [Machine Learning Research Group](https://github.com/Soedirman-Machine-Learning)
-*   DevOps for Embedded Systems Research Group
+*   [Soedirman Machine Learning Research Group](https://soedirman-machine-learning.github.io/)
+*   [Soedirman Internet of Things Research Group](https://soedirman-iot.github.io/)
 *   Image and Signal Processing Research Group
 
 #### Penelitian (Research Projects)
