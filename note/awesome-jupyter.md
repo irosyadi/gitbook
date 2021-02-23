@@ -262,21 +262,6 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 
 * [Mining the Social Web (3rd Edition)](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition). A complete collection of notebooks accompanying [Matthew Russell and Mikhail Klassen's book](https://shop.oreilly.com/product/0636920056751.do) by O'Reilly.
 
-### Signal Processing
-
-* [Sound Analysis with the Fourier Transform](https://github.com/calebmadrigal/FourierTalkOSCON). A set of IPython Notebooks by [Caleb Madrigal](https://calebmadrigal.com) to explain what the Fourier Transform is and how to use it for basic audio processing applications.
-
-* [An introduction to Compressed Sensing](https://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Compressive_Sampling.ipynb), part of [Python for Signal Processing](https://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing): an entire book (and [blog](https://python-for-signal-processing.blogspot.com)) on the subject by Jose Unpingco.
-`ádasd`
-* [Kalman and Bayesian Filters in Python](https://nbviewer.ipython.org/github/rlabbe/Kalman-and-Bayesian-Filters-in-Python/blob/master/table_of_contents.ipynb). A textbook and accompanying filtering library on the topic of Kalman filtering and other related Bayesian filtering techniques.
-
-* [Classify human movements using Dynamic Time Warping & K Nearest Neighbors:](https://nbviewer.ipython.org/github/markdregan/K-Nearest-Neighbors-with-Dynamic-Time-Warping/blob/master/K_Nearest_Neighbor_Dynamic_Time_Warping.ipynb) Signals from a smart phone gyroscope and accelerometer are used to classify if the person is running, walking, sitting standing etc. This IPython notebook contains a python implementation of DTW and KNN algorithms along with explanations and a practical application.
-
-* [Digital Signal Processing](https://github.com/spatialaudio/digital-signal-processing-lecture) A collection of notebooks that accompanies a masters course on the topic.
-
-* [An introduction to openCV](https://github.com/handee/opencv-gettingstarted) An introduction course into using openCV for computer vision in python
-
-* [Signal: Filtering, STFT, and Laplace Transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) Filtering signal with a butterworth low-pass filter and plotting the STFT of it with a Hanning window and then plotting the Laplace transform.
 
 ### Engineering Education
 

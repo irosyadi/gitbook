@@ -25,6 +25,8 @@ draft: false
 - [Color Theory for Designers 1](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) [Part 2](https://www.smashingmagazine.com/2010/02/color-theory-for-designers-part-2-understanding-concepts-and-terminology/) [Part 3](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
 - [rgbcmyk](https://rgbcmyk.com.ar)
 - [Color Reasoning](http://notes.neeasade.net/color-spaces.html)
+- [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
+~~ ~~
 
 ## Color Format Converter
 - [Colorizer](https://colorizer.org/) online color format converter

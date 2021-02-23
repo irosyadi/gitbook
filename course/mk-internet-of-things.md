@@ -13,4 +13,4 @@ draft: false
 - Kode: TKE194945 Internet of Things
 - SKS: 3 SKS
 - Jadwal
-    - Kelas A: Ruang E-205, Kamis 13.00
+    - Kelas A: Ruang E-205, Kamis 13.00, 4 mhs, 1 mhs MBKM
