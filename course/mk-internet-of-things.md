@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Internet of Things
 date: 2021-02-21 19:09:05
 category: course
-tags: ["internet of things"]
+tags: ["internet of things", "kuliah"]
 draft: false
 ---
 
@@ -13,4 +13,4 @@ draft: false
 - Kode: TKE194945 Internet of Things
 - SKS: 3 SKS
 - Jadwal
-    - Kelas A: Ruang E-205, Kamis 13.00, 4 mhs, 1 mhs MBKM
+    - Kelas A: Ruang E-205, Kamis 13.00, 12 mhs, 1 mhs MBKM

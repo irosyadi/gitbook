@@ -97,3 +97,9 @@ draft: false
 - [MaP for Object Detection](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 - [Mathews Correlation COefficent](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
 - [IoU better detection](https://towardsdatascience.com/iou-a-better-detection-evaluation-metric-45a511185be1)
+
+Multiclass Metrics
+- [Multi-Class Metrics Made Simple, Part I: Precision and Recall | by Boaz Shmueli | Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
+- [Beyond Accuracy: Precision and Recall | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+- [How to Calculate Precision, Recall, and F-Measure for Imbalanced Classification](https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
+- [Metrics to Evaluate your Machine Learning Algorithm | by Aditya Mishra | Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)

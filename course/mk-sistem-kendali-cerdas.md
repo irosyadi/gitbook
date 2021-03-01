@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Sistem Kendali Cerdas
 date: 2021-02-21 19:08:55
 category: course
-tags: ["kendali", "control systems"]
+tags: ["kendali", "control systems", "kuliah"]
 draft: false
 ---
 
@@ -13,7 +13,7 @@ draft: false
 - Kode : TKE194941 Sistem Kendali Cerdas
 - SKS : 3 SKS
 - Jadwal:
-    - Kelas A : Ruang E-201, Jum'at 13.55, 7 mhs
+    - Kelas A : Ruang E-201, Jum'at 13.55, 3 mhs
 
 
 #### Identitas

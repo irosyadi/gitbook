@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Sistem Kendali
 date: 2021-02-21 19:08:54
 category: course
-tags: ["kendali", "control systems"]
+tags: ["kendali", "control systems", "kuliah"]
 draft: false
 ---
 
@@ -16,8 +16,8 @@ draft: false
 - Semester Mata Kuliah: 4
 - Sifat Mata Kuliah: Teknik Elektro Inti (TEI)
 - Jadwal :
-    - Kelas A : Ruang C-201, Selasa 07.55, 47 mhs
-    - Kelas B : Ruang C-201, Selasa 10.40, 43 mhs
+    - Kelas A : Ruang C-201, Selasa 07.55, 45 mhs
+    - Kelas B : Ruang C-201, Selasa 10.40, 47 mhs
 
 ## Referensi
 - Norman S. Nise, Control Systems Engineering \[[website](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
@@ -37,8 +37,7 @@ draft: false
 - [MATLAB Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 
 ## Kuliah
-
-### Pertemuan 1
+### 01-Pendahuluan Sistem Kendali
 #### Interactive Course for Control Theory
 - Akses situs [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - Buat akun ICCT, cek email untuk mendapatkan username dan password
