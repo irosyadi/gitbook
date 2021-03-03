@@ -29,10 +29,17 @@ draft: false
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 
-## Link
-- [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
+## Software
+- [GNU Octave](https://www.gnu.org/software/octave/index)
 - [Octave Online](https://octave-online.net/)
+- [MATLAB - MathWorks - MATLAB & Simulink](https://www.mathworks.com/products/matlab.html)
+- Python and Jupyter Notebook in [Anaconda.org](https://anaconda.org/) or in [Google Colab](https://colab.research.google.com/)
+
+## Interactive Learning
+- [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+
+## Video
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
 - [MATLAB Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 

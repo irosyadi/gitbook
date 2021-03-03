@@ -40,6 +40,7 @@ draft: false
 - Roland S Burns, Advanced Control Engineering (Chapter 10) \[[website](https://www.sciencedirect.com/book/9780750651004/advanced-control-engineering#book-description)\]
 - Hung T. Nguyen & Nadipuram R. Prasad & Carol L. Walker & Elbert A. Walker, A First Course in Fuzzy and Neural Control \[[website](https://www.crcpress.com/A-First-Course-in-Fuzzy-and-Neural-Control/Nguyen-Prasad-Walker-Walker/p/book/9781584882442)\]
 - Ali Zilouchian & Mo Jamshidi, Intelligent Control Systems Using Soft Computing Methodologies, \[[website](https://www.crcpress.com/Intelligent-Control-Systems-Using-Soft-Computing-Methodologies/Zilouchian-Jamshidi/p/book/9780849318757)\]\[[ebook download](http://www.wacong.org/freepublicationsbymojamshidi/)\]
+- Adrian A. Hopgood, Intelligent Systems for Engineers and Scientists, [websites](https://www.routledge.com/Intelligent-Systems-for-Engineers-and-Scientists/Hopgood/p/book/9781138374287)
 - Adedeji Bodunde Badiru, Fuzzy Engineering Expert Systems With Neural Network Applications
 - Ahmad M. Ibrahim, Fuzzy Logic for Embedded Systems Applications \[[website](https://www.sciencedirect.com/book/9780750676052/fuzzy-logic-for-embedded-systems-applications)\]
 - Erdal Kayacan & Mojtaba Ahmadieh, Fuzzy Neural Networks for Real Time Control Applications: Concepts, Modeling and Algorithms for Fast Learning \[[website](https://www.elsevier.com/books/fuzzy-neural-networks-for-real-time-control-applications/kayacan/978-0-12-802687-8)\]
