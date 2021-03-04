@@ -44,6 +44,23 @@ draft: false
 - [MATLAB Channel: Understanding Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 - [MATLAB Channel: Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
+## Control Theory Interactive
+[ICCT](https://icct.cafre.unipi.it/)
+- Control Systems Academy - http://www.controlsystemsacademy.com/
+- CBE30338: https://jckantor.github.io/CBE30338/
+- Linear Physica l Systems Analysis: https://lpsa.swarthmore.edu/
+- Python in Education (Institute of Control Theory): https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en
+[Computational Methods for Control of Infinite-dimensional Systems | Institute for Mathematics and its Applications](http://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
+
+## Python Control
+- [Python Control Systems Library — Python Control Systems Library dev documentation](https://python-control.readthedocs.io/en/latest/)
+- [mpc.pytorch: A fast and differentiable MPC solver for PyTorch](https://locuslab.github.io/mpc.pytorch/)
+
+## Intelligent Control
+- [About the Book | DATA DRIVEN SCIENCE & ENGINEERING](http://www.databookuw.com/)
+    - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton http://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
+    - [dylewsky/Data_Driven_Science_Python_Demos: IPython notebooks with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton](https://github.com/dylewsky/Data_Driven_Science_Python_Demos)
+
 
 ## Control Systems Online Curriculum
 

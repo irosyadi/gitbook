@@ -33,7 +33,7 @@ draft: false
 - [Tejaswini1399/Detection-of-Motorcyclists-without-helmet](https://github.com/Tejaswini1399/Detection-of-Motorcyclists-without-helmet)
 - [PardeshiSourabh/ObjectDetectionHaar: Object Detection using Haar-like features to enforce helmet check for motorcyclists and improve rider safety](https://github.com/PardeshiSourabh/ObjectDetectionHaar)
 
-## Plate License Detection Github Repos
+## License Plate Detection Github Repos
 - [openalpr/openalpr](https://github.com/openalpr/openalpr): OpenALPR is an open-source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.
 - [xuexingyu24/License_Plate_Detection_Pytorch](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch): This is a two-stage lightweight and robust license plate recognition in MTCNN and LPRNet using Pytorch. MTCNN is a very well-known real-time detection model primarily designed for human face recognition. It is modified for license plate detection. LPRNet, another real-time end-to-end DNN, is utilized for subsequent recognition.
 - [Dharun/Tensorflow-License-Plate-Detection](https://github.com/Dharun/Tensorflow-License-Plate-Detection) : ssd-mobilenet + tasseract OCR
@@ -43,6 +43,20 @@ draft: false
 - [lyl8213/Plate_Recognition-LPRnet](https://github.com/lyl8213/Plate_Recognition-LPRnet), [paper](https://arxiv.org/pdf/1806.10447v1.pdf) : CNN + CTC, image
 - [sirius-ai/LPRNet_Pytorch](https://github.com/sirius-ai/LPRNet_Pytorch), LPRNet implementation in Pytorch
 - [Tensorflow Plate Reader](https://github.com/cortexlabs/cortex/tree/master/examples/tensorflow/license-plate-reader)
+- [Dharun/Tensorflow-License-Plate-Detection: The project developed using TensorFlow to recognize the License Plate from a car and to detect the charcters from it.](https://github.com/Dharun/Tensorflow-License-Plate-Detection)
+* [sergiomsilva/alpr-unconstrained: License Plate Detection and Recognition in Unconstrained Scenarios](https://github.com/sergiomsilva/alpr-unconstrained)
+* [zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9: works in real-time with detection and recognition accuracy up to 99.8% for Chinese license plates: 100 ms/plate](https://github.com/zhubenfu/License-Plate-Detect-Recognition-via-Deep-Neural-Networks-accuracy-up-to-99.9)
+* [detectRecog/CCPD: ECCV 2018 CCPD: a diverse and well-annotated dataset for license plate detection and recognition](https://github.com/detectRecog/CCPD)
+* [ThorPham/License-plate-detection: This project using yolo3 to detection license plate in street](https://github.com/ThorPham/License-plate-detection)
+* [Sardhendu/License-Plate-Detection: {Python}: Detect and extract the license plate of vehicles using Machine Learning and Image Processing Techniques](https://github.com/Sardhendu/License-Plate-Detection)
+* [stevefielding/tensorflow-anpr: Automatic Number (License) Plate Recognition using Tensorflow Object Detection API](https://github.com/stevefielding/tensorflow-anpr) ANLPR Tensorflow
+* [NanoNets/number-plate-detection: Automatic License Plate Reader using tensorflow attention OCR](https://github.com/NanoNets/number-plate-detection)
+* [SarthakV7/AI-based-indian-license-plate-detection](https://github.com/SarthakV7/AI-based-indian-license-plate-detection) : Haar Cascade
+* [anuj200199/licenseplatedetection: License plate Object Detection through YOLOv3 and Recognition through pytesseract](https://github.com/anuj200199/licenseplatedetection): YOLO + Tasseract
+* [mshoush/ALPR: Automatic License Plate Detection and Recognition from Videos (Real Time)](https://github.com/mshoush/ALPR) Video
+* [muskan269/License-Plate-Detection: This project detects and recognizes license plate of vehicles from an image or a video.](https://github.com/muskan269/License-Plate-Detection)Video
+* [AKowshik/License-Plate-Detection-Using-YOLO: A license plate detector that extracts plate information in real-time.](https://github.com/AKowshik/License-Plate-Detection-Using-YOLO) Yolo-Tasseract
+
 
 ## Ideas
 - Real-Time Helmet Detection: video-based, handheld based.

@@ -28,6 +28,8 @@ draft: false
 - Pao C. Chau, Process Control: A First Course With MATLAB \[[website](https://www.cambridge.org/id/academic/subjects/engineering/chemical-engineering/process-control-first-course-matlab?format=PB)\]
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
+- [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
+
 
 ## Software
 - [GNU Octave](https://www.gnu.org/software/octave/index)
