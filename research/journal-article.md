@@ -48,6 +48,7 @@ draft: false
 - [Journal Finder](https://thejournalfinder.com/): Journal, Publisher, Index, SJR Rank, Q, Country, Acceptance Rate, Time To Decicion, APC.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/)
 - [Find journals | Elsevier® JournalFinder](https://journalfinder.elsevier.com/)
+- [Internet Archive Scholar](https://scholar.archive.org/) Scholar Archive
 
 ## Journal Publisher List
 * [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)

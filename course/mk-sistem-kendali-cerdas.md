@@ -10,31 +10,31 @@ draft: false
 
 # MK Sistem Kendali Cerdas
 
+## Identitas
 - Kode : TKE194941 Sistem Kendali Cerdas
 - SKS : 3 SKS
 - Jadwal:
     - Kelas A : Ruang E-201, Jum'at 13.55, 3 mhs
-
-
-#### Identitas
-
-- Kode Mata Kuliah: TKE194941
-- SKS Mata Kuliah: 3 SKS
+- Metode: Case-based dan Project-based Learning
 - Semester Mata Kuliah: 6
 - Sifat Mata Kuliah: Teknik Elektro Pendalaman (TED)
 
 #### Materi
 
-1. Pendahuluan Sistem Kendali Cerdas
-2. Logika Fuzzy dan Sistem Inferensi Fuzzy
-3. Fuzzy Logic Control
-4. Project 1
-5. Project 2
-6. Neural Network
-7. Neural Network in Control
-8. ANFIS
-9. Model Predictive Control
-10. 
+1. Pendahuluan
+1. Dasar-dasar Logika Fuzzy
+1. Sistem Inferensi Fuzzy
+1. Sistem Inferensi Fuzzy untuk Sistem Kendali
+1. Proyek Sistem Inferensi Fuzzy untuk Sistem Kendali
+1. Proyek Sistem Inferensi Fuzzy untuk Sistem Kendali
+1. Pendahuluan Neural Network
+1. Neural Network dalam Sistem Kendali
+1. Neural Network dalam Sistem Kendali
+1. Neural Network dalam Sistem Kendali
+1. Sistem Neuro-Fuzzy
+1. Sistem Neuro-Fuzzy untuk Sistem Kendali
+1. Proyek Sistem Neuro-Fuzzy untuk Sistem Kendali 
+1. Proyek Sistem Neuro-Fuzzy untuk Sistem Kendali 
 
 #### Referensi Utama
 - Liu Jinkun, Intelligent Control Design and MATLAB Simulation \[[website](https://www.springer.com/gp/book/9789811052620#reviews)\] \[[m-file download](http://shi.buaa.edu.cn/liujinkun/zh_CN/jxzy/8049/content/1217.htm#jxzy)\]
@@ -66,11 +66,29 @@ draft: false
 
 #### Video Links
 - [Neural Network | Online Course | MATLAB Helper - YouTube](https://www.youtube.com/playlist?list=PLmyWlxlLCcz8ct8rKtIO0ESXgEDvh7f5N)
-- [Artificial Intelligence Tutorial [2020] - YouTube](https://www.youtube.com/playlist?list=PLkmvobsnE0GEeD8ICPS5iwz0GCNhyqSre)
+- [Artificial Intelligence Tutorial - YouTube](https://www.youtube.com/playlist?list=PLkmvobsnE0GEeD8ICPS5iwz0GCNhyqSre)
 - [Data-Driven Control with Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 
-
 #### E-learning Link
-
 - [E-learning Sistem Kendali Cerdas 201920202 – A](https://eldiru.unsoed.ac.id/course/view.php?id=62)
 - [Github Classroom](https://classroom.github.com/classrooms/61479455-sistem-kendali-cerdas-classroom-1)
+
+## Neuro-fuzzy in Python
+### Libraries
+- numpy `conda install -c conda-forge numpy`, `pip install numpy`
+- scipy `conda install -c conda-forge scipy`, `pip install scipy`
+- scikit fuzzy `conda install -c conda-forge scikit-fuzzy`, `pip install scikit-fuzzy`
+- scikit learn `conda install -c conda-forge scikit-learn`, `pip install scikit-learn`
+- fuzzylite `pip install pyfuzzylite`
+- pandas `conda install -c conda-forge pandas`, `pip install pandas`
+- statsmodels `conda install -c conda-forge statsmodels`,`pip install statsmodels`
+- keras `conda install -c conda-forge keras`, `pip install keras`
+- anfis `pip install anfis`
+- bokeh `conda install -c conda-forge bokeh`, `pip install bokeh`
+- fuzzycmeans `pip install fuzzycmeans`
+
+### Downgrade Python for installing keras and tensorflow
+- `python --version`
+- `conda search python` : check installed version of python
+- `conda install python=3.6.0`: downgrade to your preferred python
+

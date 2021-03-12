@@ -41,6 +41,7 @@ draft: false
 - [Archive.org Audio Search](https://archive.org/details/audio)
 - [Archive.org Software Search](https://archive.org/details/software)
 - [Archive.org Image Search](https://archive.org/details/image)
+- [Decentralized Internet Archive](https://dweb.archive.org/details/home)
 
 ## Specific Search Engine
 - [Sourcegraph Code Search](https://sourcegraph.com/search)

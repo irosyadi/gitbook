@@ -19,3 +19,4 @@ draft: false
 ## Package management
 - `conda search mypackage`: search a `package`in conda directory
 - `conda install mypackage` : install `mypackage`
+- `conda update --all`
