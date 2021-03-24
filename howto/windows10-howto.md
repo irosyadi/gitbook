@@ -18,3 +18,6 @@ draft: false
 
 ### Squirrel Temporary in Windows 10
 - [Squirrel](https://github.com/Squirrel/Squirrel.Windows) is a framework used for installing/updating Windows apps. So, probably some of the apps, installed on your PC are using it, no need to worry. 
+
+#### Access Point Change
+- [How to change WiFi Roaming Aggressiveness or Sensitivity in Windows 10](https://www.thewindowsclub.com/wifi-roaming-sensitivity-aggressiveness)

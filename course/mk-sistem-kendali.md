@@ -29,6 +29,7 @@ draft: false
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
+- [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
 
 
 ## Software
@@ -36,6 +37,7 @@ draft: false
 - [Octave Online](https://octave-online.net/)
 - [MATLAB - MathWorks - MATLAB & Simulink](https://www.mathworks.com/products/matlab.html)
 - Python and Jupyter Notebook in [Anaconda.org](https://anaconda.org/) or in [Google Colab](https://colab.research.google.com/)
+- [Visual Model Q](https://www.visualmodelq.com/download.html)
 
 ## Interactive Learning
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)

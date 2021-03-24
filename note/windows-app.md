@@ -17,9 +17,11 @@ This is a list of awesome apps for Windows 10.
 - File Converter : file converter
 - FileMenu Tools : file menu tools
 - TreeSize : file, folder, drive mapper
+- Wiztree : file, folder, drive mapper
 - QTTabbar : tab extension for file explorer
 - FormatFactory : file converter
 - WinMerge : file folder comparison
+- Quicklook : file viewer
 
 ## File Sync
 - SyncFolder : file folder sync
@@ -70,12 +72,17 @@ This is a list of awesome apps for Windows 10.
 - Everything : file search
 - Listary : file search (embedded in Windows Explorer)
 - fzf ([Github Repo](https://github.com/junegunn/fzf))
+- Fileseek : file content search
+- Wizfile : file search
 
 ## Music and Audio
 - AIMP : music audio player
 - Groove Music : music audio player (Windows 10)
 - Audacity : audio editor
 - Voice Recorder : audio voice recorder (Windows 10)
+- Equalizer APO : audio equalizer/filter
+- Peace : GUI for Equalizer APO
+- Spobrify : Youtube listener
 
 ## Computing Programming
 - Anaconda3 : numerical computation, python
@@ -87,6 +94,8 @@ This is a list of awesome apps for Windows 10.
 - Matlab Polyspace : complete numerical computation
 - SpeedCrunch : simple numerical computation, calculator
 - Calculator : calculator (Windows 10)
+- Math Inspector : visual programming environment
+- Sourcetrail : code and program visualizer
 
 ## Hand Writing
 - Microsoft Whiteboard
@@ -102,26 +111,34 @@ This is a list of awesome apps for Windows 10.
 - Zettlr : note taking, zettelkasten, markdown
 - Obsidian : note taking, zettelkasten, markdown
 - VNote : note taking, zettelkasten, markdown
+- Markdown Monsters : note taking, wordpress integration
 
 ## Writing Tools
+- Grammarly : grammar checker
 - Grammarly for MS Office Suite : grammar checker
+- Languagetool MS Word Add in : grammar checker, open source
 - Writefull for Word : grammar checker
 - Lightkey : AI writing recommendation
 - Espanso : text expansion
 - Ditto : clipboard manager, copy-paste
+- Harzing's Publish or Perish : scientific writing helper
 
 ## Islamic
 - OneQuran : complete Quran, hadith
 - Quran : simple Quran
 
-## Windows Tools
+## Windows and Dekstop Tools
 - AutoHotkey : automation for Windows
 - CCEnhancer : enhancer for CCleaner
 - CCleaner : junk, storage cleaner
 - Wise System Monitor : system monitoring
+- XMeters : system monitoring
 - Wox : application launcher
 - WSCC (Windows System Control Center) : windows mini tools collection
-- CPU-Z : hardware information
+- CPUID CPU-Z : hardware information
+- DeskPins : pin windows on top
+- PowerToys : windows enhancement
+- Windows Terminal : the best terminal for windows
 
 ## Software Application Manager
 - Chocolatey : software application manager
@@ -142,9 +159,10 @@ This is a list of awesome apps for Windows 10.
 
 ## Ebook and Document Converter
 - calibre : ebook manager
-- Pandoc : document converter engine
+- Pandoc : document converter engine (tex, latex, md, word, odt)
 - pandoc-crossref : reference plugin for pandoc
 - wkhtmltopdf : document converter
+- Panwriter : GUI for Pandoc (tex, latex, md, word, odt)
 
 ## Citation Manager
 - Mendeley Desktop : citation manager
@@ -153,6 +171,10 @@ This is a list of awesome apps for Windows 10.
 ## Office Suite
 - LibreOffice : open source office suite (Writer, Calc, Impress, Draw, Math, Base)
 - Microsoft Office : office suite from Microsoft (Word, Excel, Powerpoint, Access)
+
+## Accesibility
+- Microsoft Learning Tools OneNote Addon : immersive reader
+- Immersive Reader Offline Extension
 
 ## Cloud Storage
 - Microsoft OneDrive
@@ -176,6 +198,7 @@ This is a list of awesome apps for Windows 10.
 - Microsoft Edge : browser from Microsoft
 - Mozilla Firefox : privacy oriented browser
 - Opera : browser with VPN
+- Slimjet : lightweight chrome-based browser
 - Chrome Remote Dekstop : remote desktop
 
 ## Network Tools
@@ -187,7 +210,7 @@ This is a list of awesome apps for Windows 10.
 - speedtest : network speed test (portable, direct, terminal)
 - HostsMan : file host editor
 - Telerik Fiddler : web debug
-- IPFS Desktop*
+- IPFS Desktop* : decentralized file system
 
 ## VPN
 - ProtonVPN : VPN
@@ -242,11 +265,10 @@ This is a list of awesome apps for Windows 10.
 - [is-up](https://github.com/sindresorhus/is-up-cli): `is-up example.com`
 - mtr: `mtr example.com`
 
-
-
 ## Others
 - Nimbletext : text batch manipulation
 - curl
+- V380 : Webcam monitoring
 
 ## Uninstalled Apps
 - Brave : browser

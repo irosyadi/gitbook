@@ -30,7 +30,3 @@ draft: false
 
 ## Avatar Generation
 - [Avatar SDK](https://avatarsdk.com/)
-
-## Photo Generation
-- [Photo Generation for profile pics](https://generated.photos/anonymizer)
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/)

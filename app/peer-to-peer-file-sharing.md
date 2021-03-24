@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Peer to Peer File Sharing and Transfer
+title:  Peer to Peer File Sharing and File Transfer
 date: 2020-11-20 08:52:22
 category: app
 tags: ["peer to peer", "file sharing"]
 draft: false
 ---
 
-# Peer to Peer File Sharing and Transfer
+# Peer to Peer File Sharing and File Transfer
 
 ## Local Peer to Peer File Sharing - Transfer
 - [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
@@ -21,6 +21,7 @@ draft: false
 * [FilePizza - Your files, delivered.](https://file.pizza/) - over BitTorrent over WebRTC
 * [WebDrop - Easily share files across devices!](https://webdrop.space/#/)  WebTorrent trackers 
 * [drop.lol](https://drop.lol/) - Local WebRTC
+* [SendFiles](https://sendfiles.dev/) with WebRTC
 
 ## Cloud based Peer to Peer File Sharing - Transfer
 - [Jirafeu](https://jirafeau.net/) [github ](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer

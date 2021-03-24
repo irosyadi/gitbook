@@ -108,6 +108,9 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM](https://github.com/Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM)
 - [How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Pollution](https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/)
 
+## Prophet from Facebook
+- [Time-Series Forecasting with Facebook Prophet and OmniSci](https://www.omnisci.com/blog/time-series-forecasting-with-facebook-prophet-and-omnisci?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=time-series-forecasting-with-facebook-prophet-and-omnisci&utm_content=blog)
+
 ## Note on Multivariate and Univariate
 - [On the Suitability of Long Short-Term Memory Networks for Time Series Forecasting](https://machinelearningmastery.com/suitability-long-short-term-memory-networks-time-series-forecasting/)
 - [A Comparative Study between Univariate and Multivariate Linear Stationary Time Series Models](http://article.sapub.org/10.5923.j.ajms.20160605.02.html)

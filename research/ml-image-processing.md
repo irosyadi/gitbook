@@ -31,8 +31,10 @@ draft: false
 ## Computer Vision Data Manipulation
 - [cvdata](https://github.com/monocongo/cvdata) (MIT)  : Tools for creating and manipulating computer vision datasets: resize images, rename files, annotation format conversion, image format conversion, Split dataset into training, validation, and test subsets and much more.
 
-## Image Generator
+## Image and Photo Generator
 - [Artbreeder](https://artbreeder.com/)
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+- [Photo Generation for profile pics](https://generated.photos/anonymizer)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
 
 ## ML-based Image Processor

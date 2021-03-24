@@ -355,3 +355,87 @@ The sun is molten gold<details><summary>2</summary> it is not, actually</details
 <div>
 
 
+## Graph CSS
+
+- [https://rbitr.github.io/ChartS.css/](https://rbitr.github.io/ChartS.css/)
+- advanced alternatives: [Charts.css](https://chartscss.org/)
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rbitr/ChartS.css@master/ChartSS.css">
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/rbitr/ChartS.css@master/ChartSS.css">
+
+<div class="PlotOuterContainer">
+<div class="YTicks">
+<span class="TickLabel" style="--tick-label:'12.9'"></span>
+<span class="TickLabel" style="--tick-label:'9.0'"></span>
+<span class="TickLabel" style="--tick-label:'5.0'"></span>
+<span class="TickLabel" style="--tick-label:'1.0'"></span>
+<span class="TickLabel" style="--tick-label:'-3.0'"></span>
+<span class="TickLabel" style="--tick-label:'-6.9'"></span>
+</div>
+<div class="FlexColumn"> <div class="ScatterMainContainer">
+<div class="ScatterPoint" style="--pixel-x-percent:95%;--pixel-y-percent:95%"><li class="ScatterValue">(15,12)</li></div>
+<div class="ScatterPoint" style="--pixel-x-percent:25%;--pixel-y-percent:69%"><li class="ScatterValue">(0.25,6.78)</li></div>
+<div class="ScatterPoint" style="--pixel-x-percent:20%;--pixel-y-percent:80%"><li class="ScatterValue">(-0.7,9)</li></div>
+<div class="ScatterPoint" style="--pixel-x-percent:5%;--pixel-y-percent:5%"><li class="ScatterValue">(-4,-6)</li></div>
+</div><div class="BarLi"> <span class="XTicks">
+<span class="TickLabel" style="--tick-label:'-5.0'"></span>
+<span class="TickLabel" style="--tick-label:'-0.8'"></span>
+<span class="TickLabel" style="--tick-label:'3.4'"></span>
+<span class="TickLabel" style="--tick-label:'7.6'"></span>
+<span class="TickLabel" style="--tick-label:'11.8'"></span>
+<span class="TickLabel" style="--tick-label:'15.9'"></span>
+</span></div></div></div>
+
+
+<ul class="BarList">
+<div class="PlotOuterContainer">
+<div class="YTicks">
+<span class="TickLabel" style="--tick-label:'99.8'"></span>
+<span class="TickLabel" style="--tick-label:'79.8'"></span>
+<span class="TickLabel" style="--tick-label:'59.9'"></span>
+<span class="TickLabel" style="--tick-label:'39.9'"></span>
+<span class="TickLabel" style="--tick-label:'20.0'"></span>
+<span class="TickLabel" style="--tick-label:'0.0'"></span>
+</div>
+<div class="FlexColumn StackFlexColumn">
+<li class="BarBlock" style="--stack-height:20.1%">Dogs: 20</li>
+<li class="BarBlock" style="--stack-height:10.0%">Cats: 10</li>
+<li class="BarBlock" style="--stack-height:30.1%">Lions: 30</li>
+<li class="BarBlock" style="--stack-height:15.0%">Tigers: 15</li>
+<li class="BarBlock" style="--stack-height:20.1%">Bears: 20</li>
+</div></div>
+</ul>
+
+<div class="PlotOuterContainer">
+<div class="YTicks">
+<span class="TickLabel" style="--tick-label:'99.8'"></span>
+<span class="TickLabel" style="--tick-label:'79.8'"></span>
+<span class="TickLabel" style="--tick-label:'59.9'"></span>
+<span class="TickLabel" style="--tick-label:'39.9'"></span>
+<span class="TickLabel" style="--tick-label:'20.0'"></span>
+<span class="TickLabel" style="--tick-label:'0.0'"></span>
+</div>
+<div class="FlexColumn"> <div class="LineOuterContainer">
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:95.2%;width:100%">Animals: 95</li> 
+<div class="LineBlock" style="--line-y-from:0.0%"></div> </div>
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:20.1%;width:100%">Dogs : 20</li> 
+<div class="LineBlock" style="--line-y-from:75.2%"></div> </div>
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:10.0%;width:100%">Cats : 10</li> 
+<div class="LineBlock" style="--line-y-from:65.2%"></div> </div>
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:30.1%;width:100%">Lions : 30</li> 
+<div class="LineBlock" style="--line-y-from:35.1%"></div> </div>
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:15.0%;width:100%">Tigers : 15</li> 
+<div class="LineBlock" style="--line-y-from:20.1%"></div> </div>
+<div class="WaterfallContainer"> 
+<li class="BarBlock" style="--stack-height:20.1%;width:100%">Bears : 20</li> 
+<div class="LineBlock" style="--line-y-from:-0.0%"></div> </div>
+</div><div class="BarLi"> <span class="XTicks">
+</span></div></div></div>

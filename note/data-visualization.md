@@ -28,3 +28,9 @@ draft: false
 - [Plot Juggler](https://github.com/facontidavide/PlotJuggler) : time series visualization
 - [uPlot](https://github.com/leeoniya/uPlot)
 - [KST Plot](https://kst-plot.kde.org/)
+
+## Web Visualization
+- [A Visualization Grammar | Vega](https://vega.github.io/vega/)
+- [Charts.css](https://chartscss.org/)
+- [Chartist - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
+- [Altair: Declarative Visualization in Python — Altair 4.1.0 documentation](https://altair-viz.github.io/)
