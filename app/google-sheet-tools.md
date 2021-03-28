@@ -20,6 +20,7 @@ draft: false
 - [Glide](https://www.glideapps.com/)
 - [Stein HQ](https://steinhq.com/)
 - [Awesome Table](https://awesome-table.com/)
+- [Sheety - Turn your Google Sheet into an API](https://sheety.co/)
 
 ## Sheet Alternatives
 * [Causal: replace your spreadsheet and slide deck](https://www.causal.app/)

@@ -15,6 +15,7 @@ draft: false
 - [Rexter](https://rextester.com/l/octave_online_compiler)
 - [Tutorials Point](https://www.tutorialspoint.com/execute_matlab_online.php)
 - [Scilab](https://cloud.scilab.in/), but using Scilab (similar to Octave)
+- [Xcos on cloud](https://xcos.scilab.in/example), Scicos on Cloud
 - [Cocalc](https://cocalc.com/) with [Octave Kernel](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [Binder](https://mybinder.org/) with [Octave Kernel](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels)
 - [Google Colab](https://colab.research.google.com/) with [Octave Installation](https://stackoverflow.com/questions/56416657/how-to-run-matlab-m-files-in-google-colab)
