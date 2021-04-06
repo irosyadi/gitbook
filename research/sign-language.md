@@ -2,8 +2,8 @@
 layout: default
 author: irosyadi
 title:  Sign Language Recognition
-date: 2021-03-09 16:02:06
-category: category
+date: 2021-03-24 16:02:06
+category: research
 tags: ["sign", "language"]
 draft: false
 ---

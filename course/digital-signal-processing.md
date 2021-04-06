@@ -50,7 +50,8 @@ draft: false
 ## Speech Recognition
 - [Libre ASR](https://github.com/iceychris/LibreASR): An On-Premises, Streaming Speech Recognition System
 
-
+## Signal Processing Notes
+- [Exploring Sound](https://omarshehata.me/notebook/exploring_sound) : Why does an A note on a piano sound different from an A note on a violin?
 
 ### [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
 

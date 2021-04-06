@@ -28,10 +28,11 @@ draft: false
 - [Cloud Blobcity](https://cloud.blobcity.com/#/ps/explore) : GitHub Data Science projects repository, executable in 1 click
 - [CKnowledge](https://cknowledge.io/) Find portable workflows, reusable artifacts and automation actions for deep tech (AI, ML, quantum, systems...), ML architecture comparison
 
-## Report about AI
+## Report about AI Progress
 - [State of AI](https://www.stateof.ai/)
 - [AI Index](https://hai.stanford.edu/research/ai-index-2019)
 - [EFF AI Metrics](https://www.eff.org/ai/metrics)
 
 ## Specific SOTA
 - [SOTA for Music Separation](https://paperswithcode.com/sota/music-source-separation-on-musdb18)
+- [State-of-the-Art Image Generative Models – Aran Komatsuzaki](https://arankomatsuzaki.wordpress.com/2021/03/04/state-of-the-art-image-generative-models/)

@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  All about Unicode
+title:  Unicode and Emoji
 date: 2020-08-17 20:33:28
 category: note
 tags: ["unicode", "punycode", "emoji", "kaomoji"]
 draft: false
 ---
 
-# All about Unicode
+# Unicode and Emoji
 
 Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within Unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While Unicode is an important piece of work, it has some kind of messy structure. That's why we have puny code.
 
@@ -28,6 +28,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Unicode Character Recognition](https://shapecatcher.com/)
 - [Copy Character](https://copychar.cc/)
 - [Copy and Paste Symbols 🔥 HotSymbol](https://www.hotsymbol.com/)
+- [Unicode Lookup](https://unicode.emnudge.dev/)
 
 ## Emoji
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
@@ -87,3 +88,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Better Explained](https://betterexplained.com/articles/unicode/)
 - [Delicious Brains](https://deliciousbrains.com/how-unicode-works/)
 - [Unicode Explained Book](https://flylib.com/books/en/1.536.1/)
+
+## Emoji
+- [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)

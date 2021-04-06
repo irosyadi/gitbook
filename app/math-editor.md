@@ -10,6 +10,7 @@ draft: false
 
 # Mathematics Editor
 
+## Cloud Math Editors
 - [Matcha](https://www.mathcha.io/) plus desktop app
 - [Codecogs Equation Editor](https://www.codecogs.com/latex/eqneditor.php) : online Latex equation editor
 - [Mathup](https://runarberg.github.io/mathup/)
@@ -32,3 +33,6 @@ draft: false
 ## Online Math Solver
 - [Step-by-Step Calculator - Symbolab](https://www.symbolab.com/solver/step-by-step/)
 - [Wolfram Alpha](https://www.wolframalpha.com/) : also numerical computation, search engine, visualization
+
+## Math Equation
+* [MathEquationAPI | Free API to Generate Math Equations On The Fly](https://mathequationapi.com/)

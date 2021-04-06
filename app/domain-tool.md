@@ -13,18 +13,27 @@ draft: false
 ## What is My IP and Geolocation
 Input: -
 Output: IP Address, Geolocation
+- [https://ipaddress.sh](https://ipaddress.sh/)
+- [My Ip Address](https://myipaddress.ru/)
 - [IP Info](https://ipinfo.info/)
 - [IP-Address](https://www.ip-address.org/)
 - [What is My IP](https://www.whatismyip.com/)
 - [Toolsvoid](https://www.toolsvoid.com/what-is-my-ip-address/)
-- [Ifconfig](https://ifconfig.me/) `curl ifconfig.me`
+- [Ifconfig.me](https://ifconfig.me/) `curl ifconfig.me`
 - [WTFismyIP](https://wtfismyip.com/)
 - [IPinfo.io](https://ipinfo.io/) `curl ipinfo.io` `(Invoke-WebRequest 'ipinfo.io').Content`
 - [HTTPBin](https://httpbin.org/ip) `curl httpbin.org/ip`
 - [IcanHazIP](https://icanhazip.com/) `curl icanhazip.com` `(Invoke-WebRequest 'icanhazip.com').Content`
-- [Ifconfig.io](https://ifconfig.co/) `curl ifconfig.co`
+- [Ifconfig.co](https://ifconfig.co/) `curl ifconfig.co`
 - [CheckIP Amazon ](https://checkip.amazonaws.com/) `curl checkip.amazonaws.com`
+- [whatismyip.akamai.com](http://whatismyip.akamai.com/)
 - [IPECho](https://ipecho.net/plain) `curl ipecho.net/plain`
+- [IP Chicken](https://ipchicken.com/)
+- [IPKitten.com](https://ipkitten.com/)
+- [f3.to/ip/](http://f3.to/ip/) `curl f3.to/ip/`
+- [eth0.me](http://eth0.me/)
+- [https://api.ipify.org](https://api.ipify.org/)
+- [Ping, mtr, dig and TCP port check from multiple locations](http://ping.pe/)
 
 ## Reverse IP
 Input: Domain Name
@@ -41,6 +50,7 @@ Output: IP
 - [Check Host](https://check-host.net/ip-info?)*
 - [DNS Checker](https://dnschecker.org/#A/) Check DNS Propagation
 - [host.io](https://host.io/)
+- [Ping, mtr, dig and TCP port check from multiple locations](http://ping.pe/)
 
 ## Privacy Check
 Input: -
@@ -69,7 +79,6 @@ Output: Geolocation, Ownership
 
 ## Public DNS
 - [Public DNS Info](https://public-dns.info/)
-
 
 ## DNS Tools
 - [Centralops](https://centralops.net/co/)

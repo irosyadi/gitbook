@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Python Books and Tutorials
+title:  Python Books, Tutorials, and Courses
 date: 2020-06-19 19:37:43
 category: book
 tags: ["python", "book", "tutorial"]
 draft: false
 ---
 
-# Python Books and Tutorials
+# Python Books, Tutorials, and Courses
 
 ## Python Tutorials
 
@@ -79,13 +79,14 @@ draft: false
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
+- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists — Python Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [Python Tutorial](https://www.w3schools.com/python/default.asp)
 
 ## List of Python Books
 - [List of Python Books](https://pythonbooks.revolunet.com/)
 - [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [Python Getting Started](https://www.python.org/about/gettingstarted/)
 - [Free Python Books](https://github.com/oddsun/Free-Python-Books)
-
 
 ## Python Documentation and Tools
 - [First Python Notebook — First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)

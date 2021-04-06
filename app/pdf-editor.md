@@ -34,11 +34,15 @@ draft: false
 3. Libre Office
 4. Okular
 
-## PDF Table to Excel Extractor
+## PDF Table Extraction
 - [List and Comparison](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools#pdfplumber)
 - [Tabula: Extract Tables from PDFs](https://tabula.technology/)
 - [PDF to Excel by Adobe](https://www.adobe.com/sea/acrobat/online/pdf-to-excel.html)
 - [PDF to Excel by PDFTables](https://pdftables.com/)
+- [Camelot: PDF Table Extraction for Humans — Camelot 0.8.2 documentation](https://camelot-py.readthedocs.io/en/master/)
+- [eihli/image-table-ocr: Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.](https://github.com/eihli/image-table-ocr)
+- [tabulapdf/tabula-java: Extract tables from PDF files](https://github.com/tabulapdf/tabula-java)
+- [artperrin/image2csv: Convert tables stored as images to an usable .csv file](https://github.com/artperrin/image2csv)
 
 ## Automatich Highlighting
 * [Ailight](https://anishthite.github.io/ailight/)

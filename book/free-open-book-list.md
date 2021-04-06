@@ -37,7 +37,7 @@ draft: false
 - [Ubiquity Press](https://www.ubiquitypress.com/site/)
 - [Bookboon](https://bookboon.com/en/textbooks)
 - [de Gruyter](https://www.degruyter.com/)
-- [Saylor Academy Open Textbooks - Saylor Academy](https://www.saylor.org/books/)
+- [Saylor Academy Open Textbooks - Saylor Academy](https://www.saylor.org/books/), [Saylor Academy Github](https://github.com/saylordotorg)
 
 ## Repository of Free Books
 - [Learn Anything](https://github.com/learn-anything/books)
@@ -50,6 +50,7 @@ draft: false
 - [https://devfreebooks.github.io/](https://devfreebooks.github.io/)
 - [https://www.freetechbooks.com/](https://www.freetechbooks.com/)
 - [https://www.onlineprogrammingbooks.com/](https://www.onlineprogrammingbooks.com/)
+- [All books on bookdown.org | Bookdown](https://bookdown.org/home/archive/)
 
 And some git repositories :
 
@@ -87,3 +88,6 @@ And some git repositories :
 - [Ebook Fondation](https://ebookfoundation.org/)
 - [Gitenberg](https://www.gitenberg.org/) Old Books as a GitHub Projects
 - [Standard Ebooks](https://standardebooks.org) Old Books rewritten as new epub/pdf books
+
+## Free eBook
+- [Principle of Management](https://github.com/miks98/Principle-of-Management-Spring2020)

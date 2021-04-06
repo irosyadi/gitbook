@@ -45,6 +45,15 @@ draft: false
 ## File Converter
 - [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter
 
+## Math
+- [Notecalc](https://bbodi.github.io/notecalc3/notecalc): in-browser calculator, WASM
+
+## Search Engine
+- [Stork](https://stork-search.net/) WASM search engine for static web
+
+## Screen Recorder
+- [gifcap](https://gifcap.dev/)
+
 ## Others
 - [A*](https://jakedeichert.github.io/wasm-astar/) : pathfinding in WASM
 - [Web DSP](https://github.com/shamadee/web-dsp) : digital signal processing

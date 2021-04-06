@@ -41,6 +41,3 @@ draft: false
 ## Graph for Math
 - [Graph Toy](http://memorystomp.com/graphtoy/)
     - [Graphtoy](http://www.iquilezles.org/apps/graphtoy/) : original version
-
-## Online Database
-- [Baserow](https://baserow.io/) Alternative to Airtable

@@ -20,6 +20,16 @@ draft: false
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 
+## Online Book
+- [CSA - Your Controls Resource](http://www.controlsystemsacademy.com/)
+- [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
+- [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
+- [Linear Physical Systems Analysis](https://lpsa.swarthmore.edu/)
+
+## Interactive Learning
+- [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
+- [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+
 ## Control Theory Map
 ![Control Theory Map](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5f3845ab3384b2337c3214b9/1597523382325/Control_Map_ver4.png)
 

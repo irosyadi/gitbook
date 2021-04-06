@@ -28,3 +28,19 @@ draft: false
 - [GPT AI Free Pretrained Models](https://www.booste.io/pretrained-models)
 - [Free GPT 2 Pretrained in C](https://bellard.org/nncp/gpt2tc.html)
 
+
+## GPT-3
+- [GPT Contentyze](http://gpt.contentyze.com/) GPT-3 for writing assistant
+
+## GPT Models
+- [EleutherAI](https://docs.google.com/document/d/1wfCZBd18DMNt6YcC6boPNMd9qzzH3zpHHfKj4dezk0g/edit#) Huge open source Language Models (i.e like GPT-3)
+  - [EleutherAI/gpt-neo: An implementation of model parallel GPT2& GPT3-like models, with the ability to scale up to full GPT3 sizes (and possibly more!), using the mesh-tensorflow library.](https://github.com/EleutherAI/gpt-neo/)
+- [Huggingface](https://huggingface.co/) : On a mission to solve NLP, provide many NLP models.
+    - [transformer](https://transformer.huggingface.co/) : text generation using transformer GPT2
+
+## GPT Notes
+- [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
+- [bkane1/gpt3-instruct-sandbox: Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API](https://github.com/bkane1/gpt3-instruct-sandbox)
+- [Twitter for Academic Research](https://developer.twitter.com/en/portal/petition/academic/is-it-right-for-you)
+
+

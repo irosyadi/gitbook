@@ -20,8 +20,5 @@ draft: false
 - [XTREME](https://sites.research.google/xtreme)
 
 ## NLP Projects
-- [EleutherAI](https://docs.google.com/document/d/1wfCZBd18DMNt6YcC6boPNMd9qzzH3zpHHfKj4dezk0g/edit#) Huge open source Language Models (i.e like GPT-3)
 - [Wav2vec 2.0: Learning the structure of speech from raw audio](https://ai.facebook.com/blog/wav2vec-20-learning-the-structure-of-speech-from-raw-audio/)
-- [Huggingface](https://huggingface.co/) : On a mission to solve NLP, provide many NLP models.
-    - [transformer](https://transformer.huggingface.co/) : text generation using transformer GPT2
 - [Spacy: 💫 Industrial-strength Natural Language Processing (NLP) in Python](https://github.com/explosion/spaCy/)

@@ -15,6 +15,7 @@ draft: false
 - [Browserpad](https://browserpad.org/#) : read write local file, no grammar
 - [Editpad](https://www.editpad.org/) : only write to local file, no import, grammar support
 - [Textarea](https://textarea.online/) or [Mytextarea at Outpan](https://www.outpan.com/app/e7d5b37405/mytextarea): in mytextarea read write local but .txt only, grammar support
+- [Textarea.cc](https://textarea.cc/)
 - [Trix Editor](https://trix-editor.org/), grammar support
 - [Zen](https://zen.unit.ms/): write, save, download, grammar support
 - [Note Rosyadi.com](http://file.rosyadi.com/note.html)

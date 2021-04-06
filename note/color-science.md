@@ -26,7 +26,7 @@ draft: false
 - [rgbcmyk](https://rgbcmyk.com.ar)
 - [Color Reasoning](http://notes.neeasade.net/color-spaces.html)
 - [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
-~~ ~~
+- [Color Theory: The Primer for Designers and Illustrators - DesignXplorer](https://designxplorer.co/color-theory-for-designers-and-illustrators/)
 
 ## Color Format Converter
 - [Colorizer](https://colorizer.org/) online color format converter

@@ -74,3 +74,26 @@ draft: false
 * Data science path: https://github.com/ossu/data-science
 * [jvns/pandas-cookbook: Recipes for using Python's pandas library](https://github.com/jvns/pandas-cookbook)
 * [Chris Albon](https://chrisalbon.com/) : Notes On Using Data Science & Machine Learning To Fight For Something That Matters
+
+
+## E-learning
+- [Open Course from Lumen | Lumen Learning](https://lumenlearning.com/courses/), example:
+    - [College Success | Simple Book Production](https://courses.lumenlearning.com/lumencollegesuccessxtraining3/)
+    - [Mathematics for the Liberal Arts | Simple Book Production](https://courses.lumenlearning.com/waymakermath4libarts/)
+    - [Concepts in Statistics | Simple Book Publishing](https://courses.lumenlearning.com/wm-concepts-statistics/?utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+    - [Lumen OHM - Introduction to Statistics - Lumen Learning](https://ohm.lumenlearning.com/course/course.php?cid=6504&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+    - [Lumen OHM - Statistics Using Technology - Kozak](https://ohm.lumenlearning.com/course/course.php?cid=5783&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+    - [Lumen OHM - Beginning Algebra - Lumen Learning](https://ohm.lumenlearning.com/course/course.php?cid=12328&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+    - [Lumen OHM - Beginning and Intermediate Algebra (Sections) - Wallace](https://ohm.lumenlearning.com/course/course.php?cid=558&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+    - [Boundless Physics | Simple Book Publishing](https://courses.lumenlearning.com/boundless-physics/)
+
+## Ebook
+- [Coconino Community College - Open Source Textbooks](https://www.coconino.edu/open-source-textbooks)
+- [OpenTextBookStore Catalog](https://www.opentextbookstore.com/catalog.php)
+- [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)
+- [Physics LibreTexts](https://phys.libretexts.org)
+- [Engineering LibreTexts](https://eng.libretexts.org/)
+- [Mathematics LibreTexts](https://math.libretexts.org/)
+- [OpenStax Homepage - OpenStax](https://openstax.org/)
+- [Calculus, Contemporary Calculus, Hoffman](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html) License: CC-BY
+- [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html): free book on Physics, Electricity

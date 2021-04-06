@@ -13,13 +13,20 @@ draft: false
 ## Learn Latex
 - [Learn Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Latex Games](https://texnique.xyz/)
+- [Learn LaTeX online for free in beginner friendly lessons | learnlatex.org](https://www.learnlatex.org/en/)
 
-## Online Latex and Paper Editor
+## Online Paper (with Latex) Editors
 - [Swiftlatex](https://www.swiftlatex.com/) : WASM Latex editor
 - [Overleaf](https://www.overleaf.com/)
 - [Manuscript.io](https://www.manuscripts.io)
 - [Authorea](https://authorea.com/)
+
+## Online Math (Latex) Editor
 - [Codecogs Equation Editor](https://www.codecogs.com/latex/eqneditor.php) : online Latex equation editor
+- [LaTex Equation Editor](https://www.tutorialspoint.com/latex_equation_editor.htm) : the best online Latex equation editor
+- [Online Latex Equation Editor - Sciweavers](http://www.sciweavers.org/free-online-latex-equation-editor)
+- [HostMath - Online LaTeX formula editor and browser-based math equation editor](http://www.hostmath.com/)
+- [Math Writer](https://writer.math.dev/)
 
 ## Image to Latex Converter
 * [Mathpix Snip](https://mathpix.com/) : free for 50 snip/month
@@ -29,11 +36,13 @@ draft: false
 - [LatexDraw](http://latexdraw.sourceforge.net/) : LaTeXDraw is a graphical drawing editor for LaTeX. LaTeXDraw can be used to 1) generate PSTricks code; 2) directly create PDF or PS pictures.
 - Texmaker : LaTex editor
 - MiKTex : LaTex engine
+- KLatex Formula
 
 ## Word to Latex
 - Pandoc (or using PanWriter)
 - MS Word Latex Converter, [guide and limitation](https://support.microsoft.com/en-us/office/linear-format-equations-using-unicodemath-and-latex-in-word-2e00618d-b1fd-49d8-8cb4-8d17f25754f8)
 
-$$
-\mu_R\left(x,y\right)=I{\left(\mu_A\left(x\right),\mu_B\left(y\right)\right)}
-$$
+## Graph to Latex
+- [Mathematical Tool GCLC - Geometry Constructions -> LaTeX Converter](http://poincare.matf.bg.ac.rs/~janicic//gclc/)
+- [LaTeXDraw - A vector drawing editor for LaTeX](http://latexdraw.sourceforge.net/)
+- [MyScript Webdemo](https://webdemo.myscript.com/)

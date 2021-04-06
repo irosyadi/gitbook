@@ -15,7 +15,6 @@ tags: ["free", "open", "electrical engineering", "book"
 - [Fundamentals of Electrical Engineering I](https://open.umn.edu/opentextbooks/textbooks/fundamentals-of-electrical-engineering-1) License: CC-BY
 - [Socratic Electronics](https://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
-
 Lists:
 - [EE Open Books](https://opentextbc.ca/oerdiscipline/chapter/electrical-engineering/)
 - [Open UMN Edu](https://open.umn.edu/opentextbooks/subjects/electrical)

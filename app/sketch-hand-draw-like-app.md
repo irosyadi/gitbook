@@ -25,7 +25,7 @@ draft: false
 
 ## Typing Text in Handwritten Style
 - [Handwriting Generation](https://seanvasquez.com/handwriting-generation/)
-- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/)
+- [Text to Handwriting](https://saurabhdaware.github.io/text-to-handwriting/), [saurabhdaware/text-to-handwriting](https://github.com/saurabhdaware/text-to-handwriting)
 - [Handwritten.js](https://alias-rahil.github.io/handwritten.js/)
 
 ## Font from Handwritten

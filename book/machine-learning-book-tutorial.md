@@ -58,6 +58,10 @@ draft: false
 - [Machine Learning Mastery](https://machinelearningmastery.com/)
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Machine Lerning Book](https://www.cs.ubc.ca/~murphyk/MLbook/)
+- [abhishekkrthakur/approachingalmost: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
+- [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.](https://mml-book.github.io/)
+- [mml-book/mml-book.github.io: Companion webpage to the book "Mathematics For Machine Learning"](https://github.com/mml-book/mml-book.github.io)
+
 
 ### Proprietary Machine Learning Books
 - [Machine Learning from Scratch](https://dafriedman97.github.io/mlbook/content/introduction.html)

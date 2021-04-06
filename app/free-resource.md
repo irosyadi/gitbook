@@ -4,7 +4,7 @@ author: irosyadi
 title:  Free Resources in Internet
 date: 2020-12-20 22:39:26
 category: app
-tags: ["free", "image", "sound"]
+tags: ["free", "image", "sound", "photo"]
 draft: false
 ---
 
@@ -30,6 +30,9 @@ draft: false
 - Link of [free illustration](https://themeisle.com/blog/free-illustrations/)
 - [artvee](https://artvee.com/?)
 - [Free Image Search Engine](https://zoomstock.com/)
+- [Pexels](https://www.pexels.com/)
+- [Pixabay](https://pixabay.com/)
+- [Alamy – Stock Photos, Stock Images & Vectors](https://www.alamy.com/)
 
 ## Free Sound
 - [Freesound.org](https://freesound.org/)

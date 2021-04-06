@@ -1,19 +1,23 @@
 ---
 layout: default
 author: irosyadi
-title:  Math Book and Tutorial
+title:  Math Books, Tutorials, and Courses
 date: 2020-08-09 19:48:29
 category: book
-tags: ["math", "book", "tutorial"]
+tags: ["math", "book", "tutorial", "course"]
 draft: false
 ---
 
-# Math Book and Tutorial
+# Math Books, Tutorials, and Courses
 
 ## Free
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Multivariable Calculus](https://mathinsight.org/thread/multivar)
 - [Mathigon](https://mathigon.org/)
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+- [Book: Calculus (OpenStax) - Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax))
+- [Elementary Calculus](https://www.math.wisc.edu/~keisler/calc.html)
+
 
 ### GPL/GFDL
 - [Modeling, Functions, and Graphs Algebra for College Students](https://yoshiwarabooks.org/mfg/) License: GFDL
