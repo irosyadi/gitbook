@@ -87,6 +87,7 @@ draft: false
 - [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [Python Getting Started](https://www.python.org/about/gettingstarted/)
 - [Free Python Books](https://github.com/oddsun/Free-Python-Books)
+- [pamoroso/free-python-books: Python books free to read online or download](https://github.com/pamoroso/free-python-books)
 
 ## Python Documentation and Tools
 - [First Python Notebook — First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)

@@ -45,6 +45,7 @@ draft: false
 - [HNDex](https://hndex.org/) Hacker News content search
 - [HNProfile](https://hnprofile.com/) Hacker News profile and topic search
 - [Forum Search](https://forumsearch.io/) : HackerNews, Reddit*, IndieHacker, DEV.to, Lobste.rs content search
+- [DeepHN | powered by SeekStorm](https://deephn.org/) Deep search HN
 
 ## Hacker News RSS
 - [Hacker News RSS](https://hnrss.github.io/) : RSS for HN

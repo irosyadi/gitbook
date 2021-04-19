@@ -21,6 +21,7 @@ draft: false
 - https://pythonbasics.org/transcribe-audio/
 - [Wav2Letter](https://github.com/facebookresearch/wav2letter), the tool by Facebook.
 - [snakers4/silero-models at mlnews](https://github.com/snakers4/silero-models) Silero Speech to Text
+- [coqui](https://github.com/coqui-ai)
 - Dataset
     - English: Tedlium, Librispeech, etc.
     - https://github.com/gooofy/zamia-speech

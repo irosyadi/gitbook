@@ -1,32 +1,33 @@
 ---
 layout: default
 author: irosyadi
-title:  Color Science
+title:  Color Science and Tools
 date: 2020-10-11 21:00:05
 category: note
 tags: ["color"]
 draft: false
 ---
 
-# Color Science
+# Color Science and Tools
 
-## Article about Color
-- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
-- [Rules for using Color](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
-- [About Colormap](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
-- [Color from Computer to Eyes](https://jamie-wong.com/post/color/)
-- [Color](https://www.handprint.com/LS/CVS/color.html) License: [CC-ND, translation allowed](https://www.handprint.com/HP/WCL/faq.html)
-- [Color](https://www.handprint.com/HP/WCL/color18a.html) License: [CC-ND, translation allowed](https://www.handprint.com/HP/WCL/faq.html)
-- [Color FAQ](https://poynton.ca/ColorFAQ.html)
-- [Color Online](https://sites.google.com/site/djcbriggs/colour-online)
-- [Kay Web ](https://www1.icsi.berkeley.edu/~kay/)
-- [Color Matters](https://www.colormatters.com/)
-- [Color Theory](https://www.interaction-design.org/literature/topics/color-theory)
-- [Color Theory for Designers 1](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) [Part 2](https://www.smashingmagazine.com/2010/02/color-theory-for-designers-part-2-understanding-concepts-and-terminology/) [Part 3](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
-- [rgbcmyk](https://rgbcmyk.com.ar)
-- [Color Reasoning](http://notes.neeasade.net/color-spaces.html)
-- [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
-- [Color Theory: The Primer for Designers and Illustrators - DesignXplorer](https://designxplorer.co/color-theory-for-designers-and-illustrators/)
+## Color Palette Tools
+- [Dopely Colors - A Free Solution to all your Color Problems](https://colors.dopely.top/)
+- [Paletton](https://paletton.com/) color palette tools
+- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
+- [Colorcombo](https://www.colorcombos.com/)
+- [Colorbox](https://www.colorbox.io/)
+- [HSL Color Palette Generator](https://kodolinija.com/tools/hsl-color-palette-generator/)
+- [Colorcycle Picker](https://colorcyclepicker.mpetroff.net/)
+- [Colorspace](https://colorspace.r-forge.r-project.org/index.html)
+- [Colorbrewer](https://colorbrewer2.org/) for Map color
+- [Colorcolor](https://colorcolor.in/)
+- [hclwizard.org](hclwizard.org)
+- [Color Supply](https://colorsupplyyy.com/app)
+- [Color Safe](https://colorsafe.co/)
+- [Galactic](https://galactic.ink/sphere/)
+- [David Johnstone Lch Lab Gradient Picker](https://davidjohnstone.net/pages/lch-lab-colour-gradient-picker)
+- [Color Brewer](https://colorbrewer2.org) Color for Cartography
+- [I want Hue](https://medialab.github.io/iwanthue/) Good Site for Color Naming
 
 ## Color Format Converter
 - [Colorizer](https://colorizer.org/) online color format converter
@@ -73,24 +74,6 @@ draft: false
 - [I want Hue](https://medialab.github.io/iwanthue/)
 - [Comigo](https://comigo.itch.io/palettes)
 - GIMP
-
-## Color Palette Tools
-- [Paletton](https://paletton.com/) color palette tools
-- [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
-- [Colorcombo](https://www.colorcombos.com/)
-- [Colorbox](https://www.colorbox.io/)
-- [HSL Color Palette Generator](https://kodolinija.com/tools/hsl-color-palette-generator/)
-- [Colorcycle Picker](https://colorcyclepicker.mpetroff.net/)
-- [Colorspace](https://colorspace.r-forge.r-project.org/index.html)
-- [Colorbrewer](https://colorbrewer2.org/) for Map color
-- [Colorcolor](https://colorcolor.in/)
-- [hclwizard.org](hclwizard.org)
-- [Color Supply](https://colorsupplyyy.com/app)
-- [Color Safe](https://colorsafe.co/)
-- [Galactic](https://galactic.ink/sphere/)
-- [David Johnstone Lch Lab Gradient Picker](https://davidjohnstone.net/pages/lch-lab-colour-gradient-picker)
-- [Color Brewer](https://colorbrewer2.org) Color for Cartography
-- [I want Hue](https://medialab.github.io/iwanthue/) Good Site for Color Naming
 
 ## Color Naming
 - [C0ffee](https://c0ffee.surge.sh/) Color name in leet code
@@ -143,3 +126,22 @@ draft: false
 - [Nasa](https://colorusage.arc.nasa.gov/color_science.php)
 - [Color Notes](https://helpful.knobs-dials.com/index.php/Color_notes_-_color_spaces)
 - [Colorgen Color for Programmer](https://peteroupc.github.io/colorgen.html) and [this](https://peteroupc.github.io/suppcolor.html)
+
+
+## Article about Color
+- [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
+- [Rules for using Color](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
+- [About Colormap](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
+- [Color from Computer to Eyes](https://jamie-wong.com/post/color/)
+- [Color](https://www.handprint.com/LS/CVS/color.html) License: [CC-ND, translation allowed](https://www.handprint.com/HP/WCL/faq.html)
+- [Color](https://www.handprint.com/HP/WCL/color18a.html) License: [CC-ND, translation allowed](https://www.handprint.com/HP/WCL/faq.html)
+- [Color FAQ](https://poynton.ca/ColorFAQ.html)
+- [Color Online](https://sites.google.com/site/djcbriggs/colour-online)
+- [Kay Web ](https://www1.icsi.berkeley.edu/~kay/)
+- [Color Matters](https://www.colormatters.com/)
+- [Color Theory](https://www.interaction-design.org/literature/topics/color-theory)
+- [Color Theory for Designers 1](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) [Part 2](https://www.smashingmagazine.com/2010/02/color-theory-for-designers-part-2-understanding-concepts-and-terminology/) [Part 3](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
+- [rgbcmyk](https://rgbcmyk.com.ar)
+- [Color Reasoning](http://notes.neeasade.net/color-spaces.html)
+- [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
+- [Color Theory: The Primer for Designers and Illustrators - DesignXplorer](https://designxplorer.co/color-theory-for-designers-and-illustrators/)

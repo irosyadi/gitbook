@@ -18,27 +18,16 @@ draft: false
 - [Satellite Imagery Classification](https://www.azavea.com/blog/2020/01/02/how-to-find-the-most-recent-satellite-imagery/)
 - [Machine Learning Satellite Imagery](https://www.azavea.com/blog/2019/11/05/an-introduction-to-satellite-imagery-and-machine-learning/)
 
-## Satellite Images Datasets
-- [Google Earth Engine](https://developers.google.com/earth-engine/datasets)
-- [Google Earth Timelapse](https://earthengine.google.com/timelapse/)
-- [Earth Time](https://earthtime.org/)
-- [Landsat Free Map](https://registry.opendata.aws/landsat-8/)
-- [Harris](https://www.harrisgeospatial.com/Data-Imagery/Satellite-Imagery/High-Resolution)
-- [Raster Vision](https://docs.rastervision.io/en/0.12/)
-- [Zoom Earth](https://zoom.earth/) : daily satellite map, historical map (Bing and Esri)
-- SAS Planet
-
 ## Indonesia Landcover Maps
 - [Kementerian LHK](https://geoportal.menlhk.go.id/arcgis/rest/services)
 
 ## Open Source GIS Tools
 - [History of Open Source GIS](https://makepath.com/history-of-open-source-gis/)
 
-
 ### SASPlanet
 [SASPlanet at SASGIS](http://www.sasgis.org/sasplaneta/)
 [SASPlanet FAQ](http://www.sasgis.org/forum/viewtopic.php?f=2&t=986)
-[SASPlanet unable to lad map](https://www.tedieka.com/sasplanet-error-unable-to-load-map/) or [here](https://gisenglish.geojamal.com/2018/06/download-sas-planet-nightly-all.html)
+[SASPlanet unable to load map](https://www.tedieka.com/sasplanet-error-unable-to-load-map/) or [here](https://gisenglish.geojamal.com/2018/06/download-sas-planet-nightly-all.html)
 **The most needed links:**  
 1) Program (latest official release, test builds and archive of previous versions):[ http://sasgis.org/download/](http://sasgis.org/download/)  
 *Attention! Servers with maps can be updated after the release, so the maps are strongly recommended to update anyway!*  

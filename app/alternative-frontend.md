@@ -21,13 +21,6 @@ draft: false
   - [Moesalih](https://wikipedia.moesalih.com/)
   - [The Reader Wiki](https://thereaderwiki.com/en/)
 
-## Youtube
-- Youtube
-  - [Invidious](https://invidio.us/) : [Invidious Instances List](https://instances.invidio.us/), [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances), [Invidious Instances List](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
-  - [Flvto](https://flvto.video/) YT Downloader
-- [Hieroglyph](https://hierogly.ph/) get youtube transcript or transcibe text
-    - alternative: ` youtube-dl --sub-langs [DESIRED LANGUAGE]`
-
 ## Instagram
 - Instagram
   - [Bibliogram](https://bibliogram.art/) : [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)

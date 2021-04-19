@@ -54,3 +54,6 @@ draft: false
 ## Host Management
 * [Yandex Connect](https://connect.yandex.com/portal/home) : mail management
 <!-- [CPanel](https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951) -->
+
+
+![i-yellow](_v_images/20210410142500299_7907.png)

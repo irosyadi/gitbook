@@ -43,6 +43,7 @@ draft: false
 - [susantabiswas/realtime-facial-emotion-analyzer](https://github.com/susantabiswas/realtime-facial-emotion-analyzer) : CNN
 - [m-elkhou/Facial_Expression_Detection](https://github.com/m-elkhou/Facial_Expression_Detection) : Automatic Micro-Expression Recognition (AMER) This project was about providing an Android application that can help people take charge of their own emotional health by capturing their micro expressions such as happiness, sadness, anger, disgust, surprise, fear, and neutral. [Paper](https://www.academia.edu/42489448/Different_approaches_for_facial_expression_recognition)
 - [serengil/deepface](https://github.com/serengil/deepface) : A Lightweight Deep Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Framework for Python 
+- [mayanktolani19/RealTimeEmotionDetection: A flask based web app which utilizes your webcam to capture real time video and display your facial emotion.](https://github.com/mayanktolani19/RealTimeEmotionDetection)
 
 ## Ideas
 - Real Time Facial Feature Extraction : Emotional + others, video based, handheld based.

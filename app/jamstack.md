@@ -50,6 +50,9 @@ draft: false
 - [Stackbit](https://www.stackbit.com/)
 
 ### List of Deployments (Static Hosting)
+[Comparison](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
+
+
 - [Github Pages](https://pages.github.com/)
 - Netlify:
   - [Netlify](https://www.netlify.com/)

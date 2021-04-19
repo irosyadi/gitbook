@@ -9,12 +9,18 @@ draft: false
 ---
 
 # Machine Learning by Andrew Ng Resources
+
+## Main Course
 - [Coursera : Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Youtube Playlists](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - Video lectures Index [https://class.coursera.org/ml/lecture/preview](https://class.coursera.org/ml/lecture/preview)
 - Programming Exercise Tutorials [https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA](https://www.coursera.org/learn/machine-learning/discussions/all/threads/m0ZdvjSrEeWddiIAC9pDDA)
 - Programming Exercise Test Cases [https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w](https://www.coursera.org/learn/machine-learning/discussions/all/threads/0SxufTSrEeWPACIACw4G5w)
 - Useful Resources [https://www.coursera.org/learn/machine-learning/resources/NrY2G](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
+
+## More Machine Learning Courses
+- [Udemy Top Machine Learning Courses Online - Updated April 2021](https://www.udemy.com/topic/machine-learning/)
+
 
 ## Suplementary Notes
 - [Holehouse Notes](https://www.holehouse.org/mlclass/) : review by holehouse

@@ -76,9 +76,9 @@ draft: false
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
 - [Real Time Lightning Map](https://www.lightningmaps.org/) - Lightning strikes in real time across the planet.
 - [OpenWeatherMap](https://openweathermap.org/weathermap) - Interactive weather maps.
-- [Zoom Earth](https://zoom.earth/) - Weather and historical maps.
-- [Planet Explorer](https://www.planet.com/explorer/) - Daily map, paid.
+- [Zoom Earth](https://zoom.earth/) - Weather and historical earth maps.
 - [Earth Nullschool](https://earth.nullschool.net/) - Wind and weather map.
+- [Dark Sky Map](https://maps.darksky.net/?3d) - map with environmental data layers.
 
 ## Catastrophes
 
@@ -95,11 +95,11 @@ draft: false
 
 ## 3D Earth
 
-- [Google Earth](https://earth.google.com/web/) - 3D view of the earth in space.
-- [Dark Sky Map](https://maps.darksky.net/?3d) - 3D earth with different data layers.
+
 - [Blue Marble](https://bluemarble.nitk.in/static.html)
 
 ## Social Humanity
+
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
 - [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
 - [Language Maps](https://langscape.umd.edu/map.php)

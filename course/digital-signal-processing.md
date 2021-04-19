@@ -24,6 +24,8 @@ draft: false
 - [Kalman and Bayesian Filter in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) License: CC-BY
 - [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY
 - [A Compact Primer on Digital Signal Processing ](https://github.com/jackschaedler/circles-sines-signals) [Web](https://jackschaedler.github.io/circles-sines-signals/) License: Eclipse Public License
+- [Voice recording and processing for talks, streaming and conferencing. The Reference.](https://indiscipline.github.io/post/voice-sound-reference/)
+- [How to Record Great Sounding / High Quality Audio at Home — Nick Janetakis](https://nickjanetakis.com/blog/how-to-record-great-sounding-high-quality-audio-at-home)
 
 ## DSP Books
 - [DSP Illustration](https://dspillustrations.com/pages/index.html)
@@ -52,6 +54,9 @@ draft: false
 
 ## Signal Processing Notes
 - [Exploring Sound](https://omarshehata.me/notebook/exploring_sound) : Why does an A note on a piano sound different from an A note on a violin?
+- [Everything you need to know about surround sound in headphones - SoundGuys](https://www.soundguys.com/surround-sound-headphones-guide-49389/)
+- [HeSuVi download | SourceForge.net](https://sourceforge.net/projects/hesuvi/)
+- [Headphone 7.1 Surround Comparison (GSX vs SBX vs Atmos vs CMSS vs DH vs DTSH:X vs Sonic vs HRTF) - YouTube](https://www.youtube.com/watch?v=WlqpG2euh50)
 
 ### [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
 

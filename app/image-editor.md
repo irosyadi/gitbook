@@ -27,6 +27,7 @@ draft: false
 ## Background Removal
 - [Remove BG](https://www.remove.bg/) : remove background with AI
 - [Erase BG](https://erase.bg/) : remove background with AI
+- [RemoveBackground.app](https://removebackground.app/)
 
 ## Dithering
 - [Dithering Image](https://ditherit.com/)
