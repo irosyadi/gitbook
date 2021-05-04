@@ -10,6 +10,8 @@ draft: false
 
 # Blog
 
+![Netlify Status](https://api.netlify.com/api/v1/badges/1658c62c-2200-4af1-acd1-a9067c365da1/deploy-status)
+
 This folder contains my monthly notes for everything I found and thought. They will be messed notes since my approach is *just write*. So they are just like semi-*zettelkasten* or even just bookmark handlers. Sometimes I will write in English, in the other times it will in Indonesian.
 
 The notes in the blog work as a starting point to more deep and through notes in another folder. The workflow will be looked like this:

@@ -83,6 +83,10 @@ draft: false
     - False Negative, when our object detection model missed the target (if there is no detection at all or when the predicted BB has an IoU > 0.5 but has the wrong classification)
 
 - **mean Average Precision** (mAP) score is calculated by taking the mean AP over all classes and/or over all IoU thresholds. Mean average precision (mAP) is used to determine the accuracy of a set of object detections from a model when compared to ground-truth object annotations of a dataset.
+Note:
+- [What is Mean Average Precision (mAP) in Object Detection?](https://blog.roboflow.com/mean-average-precision/)
+- [Mean Average Precision (mAP) Explained | Paperspace Blog](https://blog.paperspace.com/mean-average-precision/)
+- [mAP (mean Average Precision) might confuse you! | by Shivy Yohanandan | Towards Data Science](https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2)
 
 
 

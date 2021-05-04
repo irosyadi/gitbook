@@ -52,6 +52,10 @@ draft: false
 - [Serializer](http://serializer.io/) : Hacker News, Reddit, Lobster Aggregator
 - [Reddit-stream](https://reddit-stream.com/) : Reddit live comment
 
+## Reddit Search
+- [Pushshift Reddit Search](https://redditsearch.io/)
+- [Reddit Search](https://camas.github.io/reddit-search/)
+
 ## Alternative to Reddit
 - [Tildes](https://tildes.net/) [open source](https://blog.tildes.net/open-source) in [Gitlab](https://gitlab.com/tildes/tildes) [self-hosted](https://docs.tildes.net/instructions/development-setup)
 - [Lemmy](https://dev.lemmy.ml/) : open source self hosted

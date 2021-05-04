@@ -56,3 +56,6 @@ draft: false
 * [PLOS ONE: accelerating the publication of peer-reviewed science](https://journals.plos.org/plosone/)
 * [Data in Brief - Journal - Elsevier](https://www.journals.elsevier.com/data-in-brief)
 * [Heliyon | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/heliyon)
+
+## Journal Notes
+- [Publikasi Jurnal](https://teddit.net/r/indonesia/comments/myo5iq/faq_tentang_publikasi_ke_jurnal_dan_conferences/)

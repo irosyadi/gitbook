@@ -11,7 +11,7 @@ draft: false
 # Programming for Kids Books, Tutorials, and Courses
 
 ## Learn Programming for Kids
-- [Hedy!](https://hedy-beta.herokuapp.com/start?lang=en)
+- [Hedy](https://www.hedycode.com/hedy?lang=en)
     - [Felienne/hedy: Hedy is a gradual programming language, which increases in syntactic elements level by level.](https://github.com/Felienne/hedy)
 - [Simple BlockMirror Example](https://blockpy-edu.github.io/BlockMirror/docs/index.html)
 - [PythonTurtle](https://pythonturtle.org/)

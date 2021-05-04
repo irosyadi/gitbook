@@ -17,6 +17,7 @@ draft: false
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw)
 - [Zwibbler](https://zwibbler.com/demo/)
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) in sketch or draw style.
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/)
 
 ## Draw Chart using XKCD Style
 - [Chart XKCD](https://timqian.com/chart.xkcd/)

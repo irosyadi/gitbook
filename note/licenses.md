@@ -50,3 +50,8 @@ draft: false
 ![The Most Restrictive CC License](https://aws1.discourse-cdn.com/business6/uploads/col1/optimized/1X/49bebbf940fcd713a1b76d10aeb127f595a84615_2_690x372.PNG)
 
 ![Adaptation Chart](https://aws1.discourse-cdn.com/business6/uploads/col1/optimized/1X/c3f2821a0cafc2a299cfdf46d65805dcc71fb995_2_690x224.png)
+
+
+## Open License Case
+- [Open Source Casebook](https://google.github.io/opencasebook/)
+    - [Patents in Open Source](https://google.github.io/opencasebook/patents/)

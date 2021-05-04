@@ -45,6 +45,14 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Lunicode](https://lunicode.com/flip)
 - [😋 Get Emoji — All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
 
+
+## Emoji as Favicon
+- [SVG Emoji Favicons](https://emojifav.com/)
+- [fav.farm](https://fav.farm/)
+- `<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>EMOJI GOES HERE</text></svg>">`
+- [Emojicons](https://emojicons.netlify.app/) Emoji to SVG
+
+
 ## Unicode Tools
 - [String Length and Byte Counter](https://mothereff.in/byte-counter) : calculate length of string and byte in a Unicode text
 

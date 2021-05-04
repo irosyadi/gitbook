@@ -26,6 +26,7 @@ draft: false
 
 ## Electronic Diagram
 - [Circuit Diagram Web Editor](https://www.circuit-diagram.org/editor/)
+- [Electrical CAD Software](https://www.proficad.com/)
 
 ## EDA Simulator
 - [EDA Playground](https://www.edaplayground.com/) : Verilog, VHDL

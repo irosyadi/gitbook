@@ -10,6 +10,10 @@ draft: false
 
 # Diagram Apps
 
+List of Diagram Apps  
+
+- [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general-purpose-diagramming)
+
 ## Cloud-based Diagram App
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw) hand-draw-like diagram tools
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) hand-draw-like diagram tools
@@ -22,16 +26,36 @@ draft: false
 - [Excalidraw](https://excalidraw.com/)
 - [jncraton/box-line-text: Simple virtual whiteboarding](https://github.com/jncraton/box-line-text)
 - [Online text to diagram tools | XOSH.ORG](https://xosh.org/text-to-diagram/)
+- [Plant UML](https://plantuml.com/)
+- [Web Graphviz](https://www.webgraphviz.com/) : Web based graphviz
+- [Edotor](https://edotor.net/)
+- [Gravizo](https://www.gravizo.com/) for show in web
+- [Python Implementation](https://github.com/mingrammer/diagrams)
+- [Terrastruct | Terrastruct is a diagram maker uniquely crafted for software engineers to visualize their designs and architectures.](https://terrastruct.com/)
+- [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
+    - [jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
+- [GoJS Diagram and Graph Library for JavaScript and TypeScript](https://gojs.net/latest/index.html)
 
-## Diagram as Code
+## Diagram as Code (Programmable Diagram)
+- [Plant UML](https://plantuml.com/)
+- [PlantText UML Editor](https://www.planttext.com/)
+- [Graphviz](https://www.graphviz.org/) : Programming language for drawing graphs
+- [Sketchviz](https://sketchviz.com/new) Grahphviz in sketch style
 - [Markdeep](https://casual-effects.com/markdeep/)
-- [Graphviz - Graph Visualization Software](https://graphviz.org/)
-- [Edotor — Your Favorite Online Graphviz Editor](https://edotor.net/)
+- [Edotor — Online Graphviz Editor](https://edotor.net/)
 - [flowchart.fun](https://flowchart.fun/)
 - [BPMN Sketch Miner](https://www.bpmn-sketch-miner.ai/index.html#)
-- [mermaid - Markdownish syntax for generating flowcharts, sequence diagrams, class diagrams, gantt charts and git graphs.](https://mermaid-js.github.io/mermaid/#/)
-- [Pikchr: Documentation](https://pikchr.org/home/doc/trunk/homepage.md)
-- [Open-source tool that uses simple textual descriptions to draw beautiful UML diagrams.](https://plantuml.com/)
+- [mermaid-js](https://mermaid-js.github.io/mermaid/#/)
+- [Pikchr](https://pikchr.org/home/doc/trunk/homepage.md)
+- [Gephi](https://gephi.org/) Open source Graph Visualization Software
+- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/) for cloud diagram
+- [dbdiagram.io - Database Relationship Diagrams Design Tool](https://dbdiagram.io/home) for database diagram
+- [The C4 model for visualising software architecture](https://c4model.com/)
+- [Swimlanes.io](https://swimlanes.io/)
+- [WebSequenceDiagrams](https://www.websequencediagrams.com/)
+- [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
+- [Playground • Diagwiz](https://diagwiz.io/playground/)
+- [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
 
 ## Specific Apps
 - [NN-SVG](https://alexlenail.me/NN-SVG/index.html) : neural network and deep learning architecture diagram

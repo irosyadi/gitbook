@@ -34,3 +34,9 @@ draft: false
 * [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
 
 
+## Decentralized File Transfer
+- [SkyTransfer](https://skytransfer.hns.siasky.net/#/)
+
+
+
+

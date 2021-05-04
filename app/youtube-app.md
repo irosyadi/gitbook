@@ -23,6 +23,10 @@ draft: false
 ## Youtube Transcript
 - [Hieroglyph](https://hierogly.ph/) get youtube transcript or transcibe text
     - alternative: ` youtube-dl --sub-langs [DESIRED LANGUAGE]`
+- [Editr's Youtube Subtitle Generator](https://www.editr.io/beta)
+
+## Youtube Segment
+- [Segmentel](http://www.segmentel.com/)
 
 ## Youtube Search
 - [Mugle](http://mugle.io/) Free Audio Music Search Youtube
