@@ -25,6 +25,7 @@ draft: false
 - [AudioMass - Audio Editor](https://audiomass.co/)
 - [dsp.audio code editor](https://dsp.audio/editor/)
 - [Audio DSP Playground](https://acarabott.github.io/audio-dsp-playground/)
+- [Harmonics](https://alexanderchen.github.io/harmonics/)
 
 ## Filter Design Tools
 - [Filter Design Tool](https://webench.ti.com/filter-design-tool/filter-type) web based
@@ -47,8 +48,6 @@ draft: false
 - [Fundamental of Music Processing - Slides](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP/slides)
 - [MUMT 307: Week #1](https://www.music.mcgill.ca/~gary/307/week1/week1.html)
 - [GNU Octave: Audio Processing](https://octave.org/doc/v4.2.1/Audio-Processing.html#Audio-Processing)
-- [A Narrow Bandpass Filter in Octave or Matlab - Paul Lovell](https://www.dsprelated.com/showarticle/1354.php) [An Efficient Lowpass Filter in Octave - Paul Lovell](https://www.dsprelated.com/showarticle/1304.php)
-- [Signal Analysis I: What is a Wave? An Introduction to Fouriers Theorem](https://www.linkedin.com/pulse/signal-analysis-i-what-wave-introduction-fouriers-william-fehlhaber/) [Digital Filter Design: Why is Linear Phase Important?](https://www.linkedin.com/pulse/digital-filter-design-why-linear-phase-important-william-fehlhaber)
 - [Digital Sound & Music – Linking Science, Art, and Practice Through Digital Sound](http://digitalsoundandmusic.com/)
 - [Practical FIR Filter Design: Part 1 - Design with Octave or Matlab - Technical Articles](https://www.allaboutcircuits.com/technical-articles/design-of-fir-filters-design-octave-matlab/)
 - [DSP Course JF Engin 100-300](https://web.eecs.umich.edu/~fessler/course/100/)
@@ -62,8 +61,18 @@ draft: false
 - [Virtual Labs](http://vlabs.iitkgp.ernet.in/dsp/index.html)
 - [Lab 0 - Introduction to Module Set - Purdue Digital Signal Processing Labs (ECE 438) - OpenStax CNX](https://cnx.org/contents/0JSc5_LI@4.2:9mF_0fms@3/Lab-0-Introduction-to-Module-Set)
 
+
+## DSP Notes
+- [Introduction to Filters: FIR versus IIR](https://community.sw.siemens.com/s/article/introduction-to-filters-fir-versus-iir)
+- [Highres spectrograms with the DFT Shift Theorem | GLSL & Sound](https://soundshader.github.io/hss/gallery/index.html)
+- [Difference between IIR and FIR filters: a practical design guide - ASN Home](https://www.advsolned.com/difference-between-iir-and-fir-filters-a-practical-design-guide/)
+- [A Narrow Bandpass Filter in Octave or Matlab - Paul Lovell](https://www.dsprelated.com/showarticle/1354.php) [An Efficient Lowpass Filter in Octave - Paul Lovell](https://www.dsprelated.com/showarticle/1304.php)
+- [Signal Analysis I: What is a Wave? An Introduction to Fouriers Theorem](https://www.linkedin.com/pulse/signal-analysis-i-what-wave-introduction-fouriers-william-fehlhaber/) [Digital Filter Design: Why is Linear Phase Important?](https://www.linkedin.com/pulse/digital-filter-design-why-linear-phase-important-william-fehlhaber)
+
 ## DSP Tools
 - [olilarkin/awesome-musicdsp: A curated list of my favourite music DSP and audio programming resources](https://github.com/olilarkin/awesome-musicdsp)
+- [Fragment - Real-time audiovisual live coding environment](https://www.fsynth.com/#try)
+- [CCWT](https://lichtso.github.io/WebSpectrogram/main.html)
 
 ## DSP Books
 - [DSP Illustration](https://dspillustrations.com/pages/index.html)

@@ -63,6 +63,9 @@ draft: false
 - [Zenodo - Research. Shared.](https://zenodo.org/)
 - [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
 - [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
+- [Zhuanzhi](https://www.zhuanzhi.ai/)
+- [Internet Archive Scholar](https://scholar.archive.org/)
+- [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
 
 ## Thesis Search
 - [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)
@@ -82,6 +85,7 @@ draft: false
 ## Article/Paper Graph and Relationship
 - [Connected Papers](https://www.connectedpapers.com/) : Explore connected papers in a visual graph
 - [Inciteful](https://inciteful.xyz/) : Inciteful builds a network of academic papers based on a topic of your choice and then analyzes the network to help you find the most relevant literature.
+- [scite: Smart citations for better research](https://scite.ai/)
 
 ## Article/Paper Reading
 - [Ten Simple Rules for Reading a Scientific Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)

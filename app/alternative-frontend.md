@@ -10,6 +10,9 @@ draft: false
 
 # Alternative Frontend of Popular Websites
 
+💡 Alternative frontends offer ad-free and light browsing experiences.  
+💡 Alternative frontends also offer better user experiences than their original apps.
+
 ## Twitter
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)

@@ -26,3 +26,7 @@ draft: false
 >> If they are not, I dont want them bad mouth me.
 >> When someone is unhappy, that an excellent opportunity for me to learn, so I want to incentivize my customer to engage with me in a productive and not antagonistic way.
 - [quellsolaar](https://news.ycombinator.com/item?id=24562019)
+
+## Talent Quote
+>> Talent is universal, while opportunity is not
+- Nicholas Kristof

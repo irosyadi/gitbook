@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Peer to Peer File Sharing and File Transfer
+title:  File Sharing and File Transfer
 date: 2020-11-20 08:52:22
 category: app
-tags: ["peer to peer", "file sharing"]
+tags: ["file transfer", "file sharing"]
 draft: false
 ---
 
-# Peer to Peer File Sharing and File Transfer
+# File Sharing and File Transfer
 
 ## Local Peer to Peer File Sharing - Transfer
 - [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
@@ -30,8 +30,22 @@ draft: false
 - [Magic Wormhole](https://github.com/psanford/wormhole-william)
 - [Croc](https://github.com/schollz/croc)
 - [helloele](https://github.com/prakis/helloele)
-* [LBRY - Content Freedom](https://lbry.com/)
-* [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
+- [LBRY - Content Freedom](https://lbry.com/)
+- [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
+
+## Web-RTC File Transfer
+- [Wormhole](https://wormhole.app/)
+- [Snapdrop](https://snapdrop.net/) (includes messaging)
+- [File.pizza](https://file.pizza/)(p2p)
+- [WEBWORMHOLE](https://webwormhole.io/)(p2p, has cli)
+- [Instant.io](https://instant.io/)
+- [ShareDrop](https://www.sharedrop.io/) (p2p, qr codes)
+- [JustBeamIt](https://justbeamit.com/) (p2p, 10 min)
+- [(Third-Party) Firefox Send](https://send.vis.ee/)
+- [Kipp](https://kipp.6f.io/) (24h, 150MB)
+- [Tresorit Send](https://send.tresorit.com/)
+- [Fast and secure file transfer - Dropbox](https://www.dropbox.com/transfer)
+- [Send](https://send.vis.ee/)
 
 
 ## Decentralized File Transfer
