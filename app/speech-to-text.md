@@ -21,7 +21,9 @@ draft: false
 - https://pythonbasics.org/transcribe-audio/
 - [Wav2Letter](https://github.com/facebookresearch/wav2letter), the tool by Facebook.
 - [snakers4/silero-models at mlnews](https://github.com/snakers4/silero-models) Silero Speech to Text
-- [coqui](https://github.com/coqui-ai)
+- [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS 
+- [voice2json | Command-line tools for speech and intent recognition on Linux](https://voice2json.org/#supported-languages)
+- [VOSK Offline Speech Recognition API](https://alphacephei.com/vosk/)
 - Dataset
     - English: Tedlium, Librispeech, etc.
     - https://github.com/gooofy/zamia-speech

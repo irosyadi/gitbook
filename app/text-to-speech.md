@@ -20,13 +20,13 @@ draft: false
 - [Text-to-Speech: Lifelike Speech Synthesis  |  Google Cloud](https://cloud.google.com/text-to-speech/)
 - [Hyper-Realistic Artificial Voices](https://www.sonantic.io/)
 - [mozilla/TTS: Deep learning for Text to Speech (Discussion forum: https://discourse.mozilla.org/c/tts)](https://github.com/mozilla/TTS)
-- [Common Voice](https://commonvoice.mozilla.org/en)
+- [Mozilla Common Voice](https://commonvoice.mozilla.org/en)
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Descript | Create podcasts, videos, and transcripts](https://www.descript.com/)
 - [Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica](https://replicastudios.com/)
 - [15.ai: Natural TTS with minimal data](https://15.ai/)
 - [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
-- [coqui](https://github.com/coqui-ai)
+- [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
 
 ## Study
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)

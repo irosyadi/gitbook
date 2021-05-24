@@ -33,11 +33,7 @@ draft: false
 - [Pexels](https://www.pexels.com/)
 - [Pixabay](https://pixabay.com/)
 - [Alamy – Stock Photos, Stock Images & Vectors](https://www.alamy.com/)
-
-## Free Sound
-- [Freesound.org](https://freesound.org/)
-- [Free Download QuranicAudio](https://download.quranicaudio.com/)
-- [Soundcloud](https://soundcloud.com)
+- [Artvee](https://artvee.com/)
 
 ## Free Animation Asset
 - [Piskelapp](https://www.piskelapp.com/) free online editor for animated sprites & pixel art

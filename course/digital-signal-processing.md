@@ -37,6 +37,7 @@ draft: false
 - [List of FIR Filter tools](https://www.minidsp.com/applications/advanced-tools/fir-filter-tools)
 
 ## Tutorial
+- [DSPRelated.com - All About Digital Signal Processing](https://www.dsprelated.com/)
 - [Kalman and Bayesian Filter in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) License: CC-BY
 - [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY
 - [A Compact Primer on Digital Signal Processing ](https://github.com/jackschaedler/circles-sines-signals) [Web](https://jackschaedler.github.io/circles-sines-signals/) License: Eclipse Public License
@@ -85,6 +86,7 @@ draft: false
 - [INTRODUCTION TO DIGITAL FILTERS](https://www.dsprelated.com/freebooks/filters/)
 - [Preface for Digital Signal Processing: A User's Guide - DSPA - OpenStax CNX](https://cnx.org/contents/GXPlEBps@5.18:SP5IXuJr@1/Preface-for-Digital-Signal-Processing-A-User-s-Guide)
 - [Preface for Digital Signal Processing: A User's Guide - Introduction to DSP - OpenStax CNX](https://cnx.org/contents/8D0YvnW1@7.1:SP5IXuJr@1/Preface-for-Digital-Signal-Processing-A-User-s-Guide)
+- [Book Series Overview](https://ccrma.stanford.edu/~jos/sasp/Book_Series_Overview.html)
 
 ## DSP Lectures
 - [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY

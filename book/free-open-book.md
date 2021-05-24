@@ -71,7 +71,8 @@ draft: false
 * [Think DSP](https://greenteapress.com/thinkdsp/html/index.html) License: CC-BY-NC
 * [From Python to Numpy](https://www.labri.fr/perso/nrougier/from-python-to-numpy/) License: CC-BY-NC
 * [Lessons on Data Carpentry](https://datacarpentry.org/lessons/), [Github](https://github.com/datacarpentry) License: CC-BY
-* Data science path: https://github.com/ossu/data-science
+* [Software Carpentry](https://software-carpentry.org/)
+* [Data science path](https://github.com/ossu/data-science)
 * [jvns/pandas-cookbook: Recipes for using Python's pandas library](https://github.com/jvns/pandas-cookbook)
 * [Chris Albon](https://chrisalbon.com/) : Notes On Using Data Science & Machine Learning To Fight For Something That Matters
 
