@@ -17,6 +17,7 @@ draft: false
 - [PythonTurtle](https://pythonturtle.org/)
 - [TeachCraft](https://teachcraft.net/) Python + Minecraft
 - [mytechnotalent/Python-For-Kids: A comprehensive and FREE Online Python Development course FOR KIDS utilizing an official BBC micro:bit Development Board and later an Expressif ESP32 Development Board going step-by-step into the world of Python for microcontrollers.](https://github.com/mytechnotalent/Python-For-Kids)
+- [EasyLang](https://easylang.online/)
 - eBook
     - [Invent with Python](https://inventwithpython.com/)
     - [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)

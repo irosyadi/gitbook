@@ -23,6 +23,7 @@ draft: false
 - [hneemann/Digital: A digital logic designer and circuit simulator.](https://github.com/hneemann/Digital)
 - [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
 - [SimulIDE](https://www.simulide.com/2020/09/simulide0413-released.html) : Real Time Electronic Circuit Simulator. With PIC, AVR and Arduino simulation.
+- [Home - QucsStudio](http://qucsstudio.de/)
 
 ## Electronic Diagram
 - [Circuit Diagram Web Editor](https://www.circuit-diagram.org/editor/)

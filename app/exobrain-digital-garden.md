@@ -1,16 +1,19 @@
 ---
 layout: default
 author: irosyadi
-title:  List of Exobrain Blogs and Digital Gardens
+title:  Exobrain Blogs and Digital Gardens
 date: 2020-06-29 19:59:38
 category: app
 tags: ["exobrain", "digital garden"]
 draft: false
 ---
 
-# List of Exobrain Blogs and Digital Gardens
+# Exobrain Blogs and Digital Gardens
 
 > list of interesting exobrain, second brain, zettelkasten or evergreen blogs
+
+## Digital Garden Platform
+- [🎉 Welcome to Innos Note - Innos Note](https://innos.io/space/c1259ea0-2879-b587-916a-766a58fe9441?ps=c1259ea0-2879-b587-916a-766a58fe9441)
 
 ## List of Blog with Exobrain (Second Brain) Method
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) Platform: Gitbook

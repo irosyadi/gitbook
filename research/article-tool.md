@@ -66,6 +66,8 @@ draft: false
 - [Zhuanzhi](https://www.zhuanzhi.ai/)
 - [Internet Archive Scholar](https://scholar.archive.org/)
 - [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
+- [ResearchHub | Open Science Community](https://www.researchhub.com/all)
+- [Orvium - Accelerating Scientific Publishing](https://orvium.io/researcher/)
 
 ## Thesis Search
 - [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)

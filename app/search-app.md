@@ -34,6 +34,7 @@ draft: false
 - [typesense](https://typesense.org/) - open source
 - [Mojeek](https://www.mojeek.com/) - privacy oriented
 - [Okeano - The search engine that cleans the ocean and respects your privacy](https://okeano.com/)
+- [Million Short - What haven't you found?](https://millionshort.com/) Tuning search results
 
 ## Archive.org Search Engine
 - [Archive.org Book Search](https://archive.org/details/texts)

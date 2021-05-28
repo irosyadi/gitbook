@@ -52,6 +52,13 @@ draft: false
 - [Serializer](http://serializer.io/) : Hacker News, Reddit, Lobster Aggregator
 - [Reddit-stream](https://reddit-stream.com/) : Reddit live comment
 
+## Subreddit Search
+- [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=615624.4584051393)
+- [Related subreddits based on your comments](https://anvaka.github.io/sayit/?query=)
+- [Suggest subreddit](https://nikas.praninskas.com/suggest-subreddit/)
+- [FindAReddit - Find Subreddits for your Niche](https://www.findareddit.com/)
+- [Reddit Explorer: Find subreddits for your niche](https://app.polymersearch.com/discover/reddit-explorer)
+
 ## Reddit Search
 - [Pushshift Reddit Search](https://redditsearch.io/)
 - [Reddit Search](https://camas.github.io/reddit-search/)

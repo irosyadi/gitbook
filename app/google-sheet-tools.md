@@ -29,3 +29,4 @@ draft: false
 - [Demandsage ](https://www.demandsage.com/) Effortlessly connect to Google Sheets with automated data sync, flexible report building, and one-click reports.
 - [Lowdefy](https://docs.lowdefy.com/next-steps) + Google Sheets + Netlify
   - [Lowdefy](https://docs.lowdefy.com/next-steps) + [Free MongoDB Host](https://www.mongodb.com/try) + Netlify
+- [Polymer Search](https://www.polymersearch.com/)

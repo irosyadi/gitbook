@@ -18,12 +18,6 @@ draft: false
   - [Nitter](https://nitter.net/)
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
 
-## Wikipedia
-- [Wikipedia](https://www.wikipedia.org/)
-  - [Wikiwand](https://www.wikiwand.com/)
-  - [Moesalih](https://wikipedia.moesalih.com/)
-  - [The Reader Wiki](https://thereaderwiki.com/en/)
-
 ## Instagram
 - Instagram
   - [Bibliogram](https://bibliogram.art/) : [Bibliogram Instances List](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)

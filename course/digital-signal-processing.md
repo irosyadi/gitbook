@@ -63,12 +63,23 @@ draft: false
 - [Lab 0 - Introduction to Module Set - Purdue Digital Signal Processing Labs (ECE 438) - OpenStax CNX](https://cnx.org/contents/0JSc5_LI@4.2:9mF_0fms@3/Lab-0-Introduction-to-Module-Set)
 
 
+## Audio Programming
+- [Pure Data — Pd Community Site](https://puredata.info/) Pure Data (or just Pd) is an open source visual programming language for multimedia.
+- [elk.audio](https://elk.audio/) Audio Operating Systems
+- [VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://vcvrack.com/)
+- [Sassy by sol_hsa](https://sol-hsa.itch.io/sassy) Sassy is an audio spreadsheet. Or, as it stands, it's THE audio spreadsheet.
+- [JUCE | JUCE](https://juce.com/) The leading framework for multi-platform audio applications
+- [Tone.js](https://tonejs.github.io/)
+
 ## DSP Notes
 - [Introduction to Filters: FIR versus IIR](https://community.sw.siemens.com/s/article/introduction-to-filters-fir-versus-iir)
 - [Highres spectrograms with the DFT Shift Theorem | GLSL & Sound](https://soundshader.github.io/hss/gallery/index.html)
 - [Difference between IIR and FIR filters: a practical design guide - ASN Home](https://www.advsolned.com/difference-between-iir-and-fir-filters-a-practical-design-guide/)
 - [A Narrow Bandpass Filter in Octave or Matlab - Paul Lovell](https://www.dsprelated.com/showarticle/1354.php) [An Efficient Lowpass Filter in Octave - Paul Lovell](https://www.dsprelated.com/showarticle/1304.php)
 - [Signal Analysis I: What is a Wave? An Introduction to Fouriers Theorem](https://www.linkedin.com/pulse/signal-analysis-i-what-wave-introduction-fouriers-william-fehlhaber/) [Digital Filter Design: Why is Linear Phase Important?](https://www.linkedin.com/pulse/digital-filter-design-why-linear-phase-important-william-fehlhaber)
+- [Étude in C minor](https://zserge.com/posts/etude-in-c/)
+- [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
+- [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1)
 
 ## DSP Tools
 - [olilarkin/awesome-musicdsp: A curated list of my favourite music DSP and audio programming resources](https://github.com/olilarkin/awesome-musicdsp)

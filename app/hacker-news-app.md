@@ -19,21 +19,22 @@ draft: false
 - [Full Hacker News](https://www.fullhn.com/) : Hacker News with full post contents
 - [hckr news - Hacker News sorted by time](https://hckrnews.com/) : Hacker News with time setting
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/) : Hacker News daily top stories
-- [HackerDaily](https://hackerdaily.io/) : Hacker News daily top stories
-- [Hacker News Premii](https://hn.premii.com/)
-- [HackerWeb](https://hackerweb.app/#/) : Hacker News mobile friendly format
-- [Hacker News](https://hack.ernews.info/) : Hacker News mobile friendly format
+- [HackerDaily](https://hackerdaily.io/) : Hacker News daily top stories, load HN comments
+- [Hacker News Premii](https://hn.premii.com/) : Two panels Hacker News, load HN comments
+- [HackerWeb](https://hackerweb.app/#/) : Hacker News mobile friendly format, load HN comments
+- [Hacker News](https://hack.ernews.info/) : Hacker News mobile friendly format, load HN comments
 - [Hacker News Top Stories](https://www.read.hn/) : Hacker News with Instapaper reader support (need Instapaper account)
 - [HN at Betacat](https://hackernews.betacat.io/) : Hacker News with post content digests
 - [Reason React Hacker News](https://hackernewsmobile.com/#/) : Hacker News mobile friendly format
-- [Angular 2 HN](https://angular2-hn.firebaseapp.com/news/1)
+- [Angular 2 HN](https://angular2-hn.firebaseapp.com/news/1) :  load HN comments
 - [Polymer Hacker News](https://hn-polymer-2.firebaseapp.com/)
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)
-- [HckerWeb – HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format
+- [HckerWeb – HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format, load comments
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)  : Hacker News Megazine format
 - [Hacker News Top, Best, New Stories | Sawir Studio](https://hn.sawirstudio.com/) : Top, Best and New posts of Hacker News in one page
 - [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past
 - [Timeless Hacker News](https://thn.rakhim.org/) : Old top story of HN, randomly
+- [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
 
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications

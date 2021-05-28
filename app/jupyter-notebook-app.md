@@ -35,6 +35,7 @@ draft: false
 - [Nbdev by fast.ai](https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices/)
 - [Blobcity](https://cloud.blobcity.com/)
 - [DiggyHQ](https://diggyhq.com/)
+- [curvenote – share your work and collaborate in Jupyter](https://curvenote.com/)
 
 ## Free JupyterLab Server
 - [Kyso](https://kyso.io/) : JupyterLab
