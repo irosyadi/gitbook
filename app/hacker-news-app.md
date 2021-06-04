@@ -29,7 +29,7 @@ draft: false
 - [Angular 2 HN](https://angular2-hn.firebaseapp.com/news/1) :  load HN comments
 - [Polymer Hacker News](https://hn-polymer-2.firebaseapp.com/)
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)
-- [HckerWeb – HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format, load comments
+- [HckerWeb – HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format, load comments 
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)  : Hacker News Megazine format
 - [Hacker News Top, Best, New Stories | Sawir Studio](https://hn.sawirstudio.com/) : Top, Best and New posts of Hacker News in one page
 - [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past

@@ -39,6 +39,7 @@ draft: false
 - [AvaisP](https://github.com/AvaisP/machine-learning-programming-assignments-coursera-andrew-ng) : assignment code in Octave
 - [Benlau93](https://github.com/Benlau93/Machine-Learning-by-Andrew-Ng-in-Python) : assignment code in Python
 - [worldveil](https://github.com/worldveil/coursera-ml): code, pdf
+- [dibgerge/ml-coursera-python-assignments: Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.](https://github.com/dibgerge/ml-coursera-python-assignments)
 
 ### Week 1:
 - Welcome - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/pdf/Lecture1.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/ppt/Lecture1.pptx)

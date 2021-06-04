@@ -33,6 +33,9 @@ draft: false
 - [neccam/nslt: Neural Sign Language Translation (CVPR'18)](https://github.com/neccam/nslt)
 - [jayshah19949596/DeepSign-A-Deep-Learning-Architecture-for-Sign-Language-Recognition](https://github.com/jayshah19949596/DeepSign-A-Deep-Learning-Architecture-for-Sign-Language-Recognition)
 
+## Sign Language Web
+- [Fingerspelling with Machine Learning](https://fingerspelling.xyz/)
+
 ## Sign Language Tutor
 - [ssaamm/sign-language-tutor: The fun way to learn sign language](https://github.com/ssaamm/sign-language-tutor)
 

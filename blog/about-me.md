@@ -121,7 +121,7 @@ Page:
 
 #### Hak Kekayaan Intelektual (Intellectual Properties)
 *   **Imron Rosyadi**, 2020, _Metode Penyandian (Encoding) dan Pengawasandian (Decoding) Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005863)
-*   **Imron Rosyadi**, 2020, _Sistem Penyandi (Encode), Pengawasandi (Decode) dan Komunikasi Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005862)
+*   **Imron Rosyadi**, 2020, _Sistem Penyandi (Encode), Pengawasandi (Decode) dan Komunikasi Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran [S00202005862](https://pdki-indonesia.dgip.go.id/detail/S00202005862?type=patent&keyword=), [Berita Paten](https://www.dgip.go.id/uploads/berita_resmi/file/f687ddce0c272648bdd75095423813b4.pdf))
 *   **Imron Rosyadi**, 2019, _Perangkat Lunak Pewarnaan Citra Skala Abu-abu dengan Variasi Fungsi Afinitas_. Hak Cipta (No Pencatatan: 000164119).
 *   Mulki Indana Zulfa, **Imron Rosyadi**, Ari Fadli, Acep Taryana, 2019, _Software Monitoring Tugas Akhir di Teknik Elektro Universitas Jenderal Soedirman_.  Hak Cipta (No Pencatatan: 000164521).
 *   Winasis, **Imron Rosyadi**, Irfan Ahmad Faqih, 2019, _Software Pemantauan Debit Air Saluran Terbuka dengan Sensor Ultrasonik dan Rotary Encoder Berbasis Web Menggunakan Arduino_.  Hak Cipta (No Pencatatan: 000163870).
