@@ -36,12 +36,18 @@ draft: false
     - [rinae](https://rinae.dev/)
     - [jaesokim](https://jaeseokim.github.io/) [github](https://github.com/JaeSeoKim/jaeseokim.github.io)
 
+## Docsify
+- [Docsify](https://docsify.js.org/#/) homepage
+- [DocsifyJS Tutorial](https://michaelcurrin.github.io/docsify-js-tutorial/#/)
+- [DocsifyJS Template](https://michaelcurrin.github.io/docsify-js-template/#/)
+- [Docsify Open Publishing Starter Kit](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
+
+
 ## Jekyll Theme
 - [RTD Theme](https://github.com/rundocs/jekyll-rtd-theme) : honoring folder structure
 - [Just The Docs](https://github.com/pmarsceill/just-the-docs)
 - [Jekyll Doc Theme](https://github.com/aksakalli/jekyll-doc-theme) : honoring folder structure
 - [Text Theme](https://tianqi.name/jekyll-TeXt-theme/)
-- [Docsify](https://michaelcurrin.github.io/docsify-js-template/#/) [Docsify](https://docsify.js.org/#/), example [Docsify Open Publishin](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
 
 ## Hugo Theme
 - [Slick](https://themes.gohugo.io/slick/)
