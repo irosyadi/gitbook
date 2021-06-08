@@ -12,7 +12,7 @@ draft: false
 
 ## Graphics language 
 - [Asymptote](https://asymptote.sourceforge.io/)
-- [PyX](https://en.wikipedia.org/wiki/PyX_(vector_graphics_language))
+- [PyX](https://en.wikipedia.org/wiki/PyX_\(vector_graphics_language\))
 - [Tikz](https://github.com/pgf-tikz/pgf)
 - [PSTricks](https://en.wikipedia.org/wiki/PSTricks)
 
