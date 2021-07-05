@@ -56,3 +56,61 @@ Research Proposal
 Self Assessment
 Site Investiagtion
 Fieldwork
+
+
+## Standar Nasional Pendidikan
+Proses Pembelajaran -> Metode Pembelajaran -> Bentuk Pembelajaran
+
+Metode Pembelajaran:
+
+- diskusi kelompok
+- simulasi
+- studi kasus
+- pembelajaran kolaboratif
+- pembelajaran kooperatif
+- pembelajaran berbasis proyek
+- pembelajaran berbasis masalah
+- metode pembelajaran lain
+
+Bentuk pembelajaran: wadah atas satu atau gabungan dari beberapa metode pembelajaran.
+Bentuk pembelajaran dapat dilakukan di dalam Program Studi dan di luar Program Studi.
+
+Bentuk Pembelajaran:
+
+- kuliah;
+- responsi dan tutorial;
+- seminar;
+- praktikum, praktik studio, praktik bengkel, praktik lapangan, praktik kerja;
+- penelitian, perancangan, atau pengembangan; (ket: wajib untuk D-4, S-1, S-2, S-3, profesi, spesialis)
+- pelatihan militer;
+- pertukaran pelajar;
+- magang;
+- wirausaha
+- bentuk lain pengabdian kepada masyarakat. (ket: wajib untuk D-4, S-1, profesi, spesialis)
+
+Penilaian: penilaian proses dan hasil belajar
+
+Teknik Penilaian
+
+- observasi,
+- partisipasi,
+- unjuk kerja,
+- tes tertulis,
+- tes lisan,
+- angket.
+
+Instrumen Penilaian
+
+- penilaian proses dalam bentuk rubrik dan/atau 
+- penilaian hasil dalam bentuk portofolio atau karya desain.
+
+
+Struktur
+
+Bentuk pembelajaran memuat metode pembelajaran.
+Proses dan hasil pembelajaran berdasarkan metode pembelajaran dievaluasi dengan penilaian.
+Penilaian terdiri dari (di antaranya) teknik penilaian dan instrumen penilaian.
+Suatu metode pembelajaran prosesnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam bentuk rubrik.
+Suatu metode pembelajaran hasilnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam portofolio atau karya desain.
+
+

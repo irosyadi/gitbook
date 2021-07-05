@@ -24,6 +24,7 @@ draft: false
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning) in Python License: MIT
 - [Machine Learning Octave](https://github.com/trekhleb/machine-learning-octave) in Octave License: MIT
 - [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) License: MIT
+- [COMS W4995 Applied Machine Learning Spring 2019 - Schedule - Andreas C. Müller - Associate Research Scientist](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [amueller/COMS4995-s19: COMS W4995 Applied Machine Learning - Spring 19](https://github.com/amueller/COMS4995-s19) License: CC0
 
 ## Tools
 - [Colabify](https://chrome.google.com/webstore/detail/github-colabify/enfgannencjofjonlojjahlblnjnfhon/related?hl=en)

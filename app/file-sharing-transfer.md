@@ -18,10 +18,11 @@ draft: false
 - [Send Anywhere](https://send-anywhere.com/)
 - [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Local P2P file transfer
 - [Toffeeshare](https://toffeeshare.com/) - Local P2P file transfer
-* [FilePizza - Your files, delivered.](https://file.pizza/) - over BitTorrent over WebRTC
-* [WebDrop - Easily share files across devices!](https://webdrop.space/#/)  WebTorrent trackers 
-* [drop.lol](https://drop.lol/) - Local WebRTC
-* [SendFiles](https://sendfiles.dev/) with WebRTC
+- [FilePizza - Your files, delivered.](https://file.pizza/) - over BitTorrent over WebRTC
+- [WebDrop - Easily share files across devices!](https://webdrop.space/#/)  WebTorrent trackers 
+- [drop.lol](https://drop.lol/) - Local WebRTC
+- [SendFiles](https://sendfiles.dev/) with WebRTC
+- [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/)
 
 ## Cloud based Peer to Peer File Sharing - Transfer
 - [Jirafeu](https://jirafeau.net/) [github ](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer

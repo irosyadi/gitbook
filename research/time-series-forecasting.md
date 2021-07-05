@@ -108,10 +108,38 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM](https://github.com/Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM)
 - [How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Pollution](https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/)
 
-## Prophet from Facebook
+## Prophet and Kats from Facebook
 - [Time-Series Forecasting with Facebook Prophet and OmniSci](https://www.omnisci.com/blog/time-series-forecasting-with-facebook-prophet-and-omnisci?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=time-series-forecasting-with-facebook-prophet-and-omnisci&utm_content=blog)
+- [Is Facebook's "Prophet" the Time-Series Messiah, or Just a Very Naughty Boy?](https://www.microprediction.com/blog/prophet), [HN Discussion](https://news.ycombinator.com/item?id=27695574)
+- [Kats | Kats](https://facebookresearch.github.io/Kats/)
 
 ## Note on Multivariate and Univariate
 - [On the Suitability of Long Short-Term Memory Networks for Time Series Forecasting](https://machinelearningmastery.com/suitability-long-short-term-memory-networks-time-series-forecasting/)
 - [A Comparative Study between Univariate and Multivariate Linear Stationary Time Series Models](http://article.sapub.org/10.5923.j.ajms.20160605.02.html)
 - [Alro10/deep-learning-time-series: List of papers, code and experiments using deep learning for time series forecasting](https://github.com/Alro10/deep-learning-time-series) Collection of papers
+
+## Software
+- [Gekko Timeseries and Modeling Software - Timeseries handling, and solving of large-scale economic models](http://t-t.dk/gekko/)
+
+## Other Time Series
+- [Time Series Forecasting with Regression and LSTM | Paperspace Blog](https://blog.paperspace.com/time-series-forecasting-regression-and-lstm/?ref=mlnews)
+- [Kats | Kats](https://facebookresearch.github.io/Kats/) One stop shop for time series analysis in Python
+- [chlubba/catch22: catch-22: CAnonical Time-series CHaracteristics](https://github.com/chlubba/catch22)
+- [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh)
+
+
+## Precipitation Forecasting
+- Nowcasting, Upsampling, Interpolation, Super resolution
+- [hydrogo/rainnet: RainNet: a convolutional neural network for radar-based precipitation nowcasting](https://github.com/hydrogo/rainnet)
+- [1706.03458 Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)
+    - [sxjscience/HKO-7: Source code of paper "NIPS2017 Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model"](https://github.com/sxjscience/HKO-7)
+
+## Deep Learning for Forecasting
+top open source deep learning for time series forecasting frameworks. 
+1. [Gluon](https://github.com/awslabs/gluon-ts) This framework by Amazon remains one of the top DL based time series forecasting frameworks on GitHub. However, there are some down sides including lock-in to MXNet (a rather obscure architecture). The repository also doesn’t seem to be quick at adding new research.
+2. [Flow Forecast](https://github.com/AIStream-Peelout/flow-forecast) This is an upcoming PyTorch based deep learning for time series forecasting framework. The repository features a lot of recent models out of research conferences along with an easy to use deployment API. The repository is one of the few repos to have new models, coverage tests, and interpretability metrics.
+3. [sktime dl](https://github.com/sktime/sktime-dl) This is another time series forecasting repository. Unfortunately it looks like particularly recent activity has diminished on it.
+4. [PyTorch-TS](https://github.com/zalandoresearch/pytorch-ts) Another framework, written in PyTorch, this repository focuses more on probabilistic models. The repository isn’t that active (last commit was in November).
+
+## eBook Forecasting
+- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)

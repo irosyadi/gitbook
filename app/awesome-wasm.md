@@ -23,6 +23,7 @@ draft: false
 - [Video Converter](https://w3reality.github.io/async-thread-worker/examples/wasm-ffmpeg/index.html)
 - [Modfy](https://app.modfy.video/) Offline Web Based Video Converter, but still WASM slower than native app
 - [Shrink my video!](https://acailly.github.io/shrink-my-video/)
+- [Create amazing videos with our online video editor - Mastershot](https://mastershot.app/)
 
 ## Audio Processing
 - [Amped Studio](https://ampedstudio.com/) : audio processing, need login

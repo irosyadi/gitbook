@@ -70,7 +70,7 @@ My upcoming planned books and tutorials.
 - [Introduction to computing with Python for engineering and scientific applications](https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas) License: CC-BY
 - [Introduction to Deep Neural Networks with Keras and Tensorflow ](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
-- [CS 231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](https://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
+- [CS231 Stanford Convolutional Neural Networks for Visual Recognition](https://github.com/cs231n/cs231n.github.io) [Course Page ](https://vision.stanford.edu/teaching/cs231n/syllabus.html) License: MIT
 - [Course in Machine Learning](https://github.com/hal3/ciml/) [CIML in PDF](https://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) License: GPL, file type: .tex
 - [Deep School IO](https://github.com/sachinruk/deepschool.io) License: Apache
 - [Keras Tutorial](https://github.com/jfsantos/keras-tutorial) License: MIT

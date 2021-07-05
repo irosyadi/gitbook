@@ -98,6 +98,9 @@ draft: false
 - [Preface for Digital Signal Processing: A User's Guide - DSPA - OpenStax CNX](https://cnx.org/contents/GXPlEBps@5.18:SP5IXuJr@1/Preface-for-Digital-Signal-Processing-A-User-s-Guide)
 - [Preface for Digital Signal Processing: A User's Guide - Introduction to DSP - OpenStax CNX](https://cnx.org/contents/8D0YvnW1@7.1:SP5IXuJr@1/Preface-for-Digital-Signal-Processing-A-User-s-Guide)
 - [Book Series Overview](https://ccrma.stanford.edu/~jos/sasp/Book_Series_Overview.html)
+- [Digital Filter Design](https://www.mikroe.com/ebooks/digital-filter-design)
+- [Circles Sines and Signals - Introduction](https://jackschaedler.github.io/circles-sines-signals/) License : Eclipse Public
+- 
 
 ## DSP Lectures
 - [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY

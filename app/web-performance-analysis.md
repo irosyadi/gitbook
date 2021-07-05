@@ -8,9 +8,8 @@ tags: ["web", "performance", "test"]
 draft: false
 ---
 
-# Web Performance Analysis
+# Web Metrics and Performance Analysis
 
-## Web Performance Analysis and Speed
 - [GTMetrix](https://gtmetrix.com/)
 - [Pingdom](https://tools.pingdom.com)
 - [Google Page Speed](https://developers.google.com/speed/pagespeed/insights/)
@@ -22,3 +21,4 @@ draft: false
 - [Uptrends](https://www.uptrends.com/tools/website-speed-test)
 - [site24x7](https://www.site24x7.com/tools/website-comparison.html)
 - [Treo](https://treo.sh/sitespeed)
+- [Measure](https://web.dev/measure/)

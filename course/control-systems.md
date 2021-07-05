@@ -30,6 +30,10 @@ draft: false
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
+## Specific Topics
+- [Linear Physical Systems - Erik Cheever](https://lpsa.swarthmore.edu/)
+- [Root Locus Overview - Erik Cheever](https://lpsa.swarthmore.edu/Root_Locus/RootLocus.html)
+
 ## Control Theory Map
 ![Control Theory Map](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5f3845ab3384b2337c3214b9/1597523382325/Control_Map_ver4.png)
 

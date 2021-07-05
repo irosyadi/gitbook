@@ -1,19 +1,18 @@
 ---
 layout: default
 author: irosyadi
-title:  KBBI dan PUEBI untuk Teknik Elektro
+title:  Istilah Baku di Bidang Teknik Elektro
 date: 2020-09-15 05:34:36
 category: catatan
-tags: ["kbbi", "kosa kata", "teknik elektro"]
+tags: ["kbbi", "kosakata", "teknik elektro"]
 draft: false
 ---
 
-# PUEBI dan KBBI untuk Teknik Elektro
+# Istilah Baku di Bidang Teknik Elektro 
 
-## Kata berikut (ternyata) kosa kata bahasa Indonesia
-- *plan* : rencana
+Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Istilah.
 
-## Kata Baku dan Tidak Baku
+## Contoh Kata Baku dan Tidak Baku
 - *analisis* bukan *analisa*
 - *diode*  bukan *dioda*
 - *foto*  bukan *photo*
@@ -28,10 +27,13 @@ draft: false
 - *klona* bukan *kloning*
 - *pengklonaan* bukan *pengkloningan*
 
-## Kata sinonom
+## Kata sinonim
 - *linear* dan *linier*
 
-## Terjemah Kata Bahasa Inggris
+## Kata berikut (ternyata) kosa kata bahasa Indonesia
+- *plan* : rencana
+
+## Kamus Istilah Keteknikelektroan
 - *server* : peladen
 - *overview* : ikhtisar, ijmal
 - *diode* : diode
@@ -40,11 +42,3 @@ draft: false
 - *Cartesian* : Cartesian
 - *output* : keluaran
 
-## PUEBI
-### Singkatan
-- `NIP`, bukan `NIP.` atau `NIP:`
-- `NIM`, bukan `NIM.` atau `NIM:`
-- `S.T.`, bukan `ST` atau `S. T.`
-
-### Tanda Titik Dua ( : )
-- `pukul 01.35` bukan `pukul 01:35`

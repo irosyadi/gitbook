@@ -98,3 +98,4 @@ draft: false
 - [OpenStax Homepage - OpenStax](https://openstax.org/)
 - [Calculus, Contemporary Calculus, Hoffman](http://scidiv.bellevuecollege.edu/dh/Calculus_all/Calculus_all.html) License: CC-BY
 - [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html): free book on Physics, Electricity
+- [OpenIntro: developer and promoter of educational products that are free, transparent, and lower barriers to education.](https://www.openintro.org/)
