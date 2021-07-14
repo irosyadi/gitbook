@@ -10,5 +10,8 @@ draft: false
 
 # Alternative to Popular Websites
 
-1. Alternative to Wolframalpha
+## Alternative to Wolframalpha
 - [Sympygamma](https://www.sympygamma.com/)
+
+## Alternative to Reddit
+- [Linklonk](https://linklonk.com/)

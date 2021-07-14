@@ -92,6 +92,7 @@ Page:
 
 #### Publikasi (Publications)
 
+*  Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Fahmi Khoerullatif, 2021, [_Penerapan DevOps pada Sistem Tertanam dengan ESP8266 menggunakan Mekanisme Over The Air_](https://ejurnal.itenas.ac.id/index.php/elkomika/article/view/4376), Elkomika, Volume 9, Number 3, pp: 1-9. \[[DOI](https://doi.org/10.26760/elkomika.v9i3.678)\]
 *   Purnama Eka Wijaya, **Imron Rosyadi**, Acep Taryana, 2019, [_An attempt to adopt DevOps on embedded system development: empirical evidence_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://dx.doi.org/10.1088/1742-6596/1367/1/012078)\]
 *   Eko Murdyantoro, Ridlo Setiawan, **Imron Rosyadi**, Azis WW Nugraha, Hesti Susilawati, Yogi Ramadhani, 2019, [_Prototype weather station uses LoRa wireless connectivity infrastructure_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012089), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://doi.org/10.1088/1742-6596/1367/1/012089)\]
 *   Eko Murdyantoro, **Imron Rosyadi**, Hilmi Septian, 2019, [_Studi Performansi Jarak Jangkauan Lora OLG01 sebagai Infrastruktur Konektivitas Nirkabel IoT_](https://dinarek.unsoed.ac.id/jurnal/index.php/dinarek/article/view/239), Jurnal Ilmiah Dinamika Rekayasa Volume 15 No. 1, Februari 2019, pp: 47-56. \[[DOI](https://dx.doi.org/10.20884/1.dr.2019.15.1.239)\]
@@ -120,6 +121,7 @@ Page:
 *   **Imron Rosyadi**, 2012, [_An FPGA Implementation of Automatic Censoring Algorithms for Radar Target Detection_](https://www.researchgate.net/publication/337705203_An_FPGA_Implementation_of_Automatic_Censoring_Algorithms_for_Radar_Target_Detection). Proceeding of International Conference on Information Technology and Electrical Engineering (CITEE) 2012, pp 187-194, ISSN: 2088-6578.
 
 #### Hak Kekayaan Intelektual (Intellectual Properties)
+*   **Imron Rosyadi**, 2020, _Metode Penamaan Warna (Color Naming) untuk Komunikasi Warna Bahasa Indonesia_. Paten (No Pendaftaran [P00202009614](https://pdki-indonesia.dgip.go.id/detail/P00202009614?type=patent&keyword=))
 *   **Imron Rosyadi**, 2020, _Metode Penyandian (Encoding) dan Pengawasandian (Decoding) Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005863)
 *   **Imron Rosyadi**, 2020, _Sistem Penyandi (Encode), Pengawasandi (Decode) dan Komunikasi Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran [S00202005862](https://pdki-indonesia.dgip.go.id/detail/S00202005862?type=patent&keyword=), [Berita Paten](https://www.dgip.go.id/uploads/berita_resmi/file/f687ddce0c272648bdd75095423813b4.pdf))
 *   **Imron Rosyadi**, 2019, _Perangkat Lunak Pewarnaan Citra Skala Abu-abu dengan Variasi Fungsi Afinitas_. Hak Cipta (No Pencatatan: 000164119).

@@ -42,3 +42,7 @@ Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Isti
 - *Cartesian* : Cartesian
 - *output* : keluaran
 
+## Kamus Istilah Non elektro
+- Masuk angin: _cold symptoms_
+- Kerokan: _coining_
+

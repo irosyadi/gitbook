@@ -39,3 +39,11 @@ draft: false
 ## Meaning of Life
 >> "If our life is the only thing we get to experience, then it’s the only thing that matters. If the universe has no principles, then the only principles relevant are the ones we decide on. If the universe has no purpose, then we get to dictate what its purpose is"
 - Kurzgesagt
+
+## Not Stupid
+>> If it is stupid but it works, it isn't stupid
+― Mercedes Lackey
+
+
+## Collection
+- [Murphy Laws Site - The origin and laws of Murphy in one place.](http://www.murphys-laws.com/)
