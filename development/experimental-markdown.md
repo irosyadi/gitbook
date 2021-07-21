@@ -84,4 +84,3 @@ Here is the comment:
 
 ## SVG
 ![crocodile](http://snapsvg.io/assets/images/crocodile.svg)
-![Garuda Pancasila](https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/indonesia.svg)

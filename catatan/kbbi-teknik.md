@@ -26,6 +26,14 @@ Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Isti
 - *video* bukan *vidio*
 - *klona* bukan *kloning*
 - *pengklonaan* bukan *pengkloningan*
+- *relai* bukan *relay*
+- *praktik* bukan *praktek*
+- *apotek* bukan *apotik*  
+
+## Penerapan Kata yang Salah
+- ganti:*ubah*, *mengubah*, bukan *rubah*, *merubah*
+- preposisi "di" adalah penanda tempat, sedangkan "pada" adalah penanda kata-kata yang menyatakan makhluk hidup (orang, binatang), benda abstrak (waktu, situasi).
+- preposisi "pada" berubah menjadi "kepada" dan preposisi "di" menjadi "ke" jika menandakan suatu arah atau tujuan.
 
 ## Kata sinonim
 - *linear* dan *linier*

@@ -25,7 +25,9 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
 - ✅ Rp1.000, ❌ Rp.1.000, Rp. 1.000, ❌ Rp1000
 - ✅ Rp1.000,00, ❌ Rp.1,000.00, ❌ Rp1,000
 - ✅ S.T., ✅ M.T., ✅ Ph.D., ❌ ST , ❌ M. T, ❌ PhD.
+- ✅ *alternating current* (AC), ✅ *direct current* (DC)
 - ✅ PT, ✅ KTP, ✅ NIP, ✅ NIM, ❌ P.T. , ❌ PT., ❌ NIP., ❌ N.I.P, ❌ NIP:
+- ✅ SAW (ﷺ), ✅ SWT (ﷻ), ❌ S.A.W, ❌ S.W.T, ❌ SAW., ❌ SWT
 - ✅ PT PLN, ❌ PT. PLN , ❌ P.T. Telkom
 - ✅ Unsoed, ✅ LIPI, ✅ LAPAN, ✅ Bappenas, ✅ radar, ❌ UNSOED , ❌ Lapan, ❌ bappenas, ❌ Iptek, ❌ Lidar, ❌ RADAR
 - ✅ FT Unsoed, ✅ TE Unsoed, ✅ Faperta Unsoed, ❌ F.T. Unsoed
@@ -335,7 +337,7 @@ Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Seba
         - Mahasiswa harus memahami hukum Kirchoff arus dan hukum Kirchoff tegangan.
 - Tanda titik dua dipakai pada perbandingan.
     - Misalnya:
-        - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasion 3:1.
+        - Zat kimia tersebut merupakan pencampuran air dan minyak dengan rasio 3:1.
 
 ### [Tanda Hubung (-)](https://puebi.readthedocs.io/en/latest/tanda-baca/tanda-hubung/)
 - Tanda hubung dipakai untuk merangkai kata sebagai berikut.

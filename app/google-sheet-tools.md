@@ -31,3 +31,6 @@ draft: false
 - [Lowdefy](https://docs.lowdefy.com/next-steps) + Google Sheets + Netlify
   - [Lowdefy](https://docs.lowdefy.com/next-steps) + [Free MongoDB Host](https://www.mongodb.com/try) + Netlify
 - [Polymer Search](https://www.polymersearch.com/)
+- [API Spreadsheets](https://www.apispreadsheets.com/)
+- [Spread Simple](https://spreadsimple.com/)
+- [Siteoly](https://siteoly.com/)

@@ -12,13 +12,13 @@ draft: false
 
 ## Pedoman Dasar Penulisan Naskah Ilmiah
 - Awali dengan membaca pedoman penulisan dan patuhi seluruh pedoman. Untuk Teknik Elektro Unsoed, pedoman yang dipakai adalah [podoterus](https://github.com/Elektro-Unsoed/podoterus).
-- Tulis naskah dengan mengaktifkan fitur pemeriksa ejaan (*spelling checker*) bahasa Indonesia pada pengolah kata anda.
+- Tulis naskah dengan mengaktifkan fitur pemeriksa ejaan (*spell checker*) bahasa Indonesia pada pengolah kata anda.
 - Periksa ejaan pada naskah berdasar Pedoman Umum Ejaan Bahasa Indonesia (PUEBI).
 - Periksa kosakata pada naskah dengan tahapan sebagai berikut.
     - Jika istilah yang dimaksud terdapat di KBBI, gunakan istilah dalam KBBI.
     - Jika istilah tersebut tidak ada di KBBI, cari dan gunakan istilah baku berdasarkan dokumen resmi.
     - Jika istilah baku tidak ada di dalam dokumen resmi atau tidak ada pedomannya, buat penyerapan istilahnya yang tepat.
-    -  Jika tidak ditemukan pula istilah dalam bahasa Indonesia yang menyatakan istilah tersebut, silakan tuliskan dengan istilah asing dan dituliskan secara miring. Cantumkan definisi atau maksud dari istilah asing tersebut dalam daftar istilah atau dalam paragraf.
+    - Jika tidak ditemukan pula istilah dalam bahasa Indonesia yang menyatakan istilah tersebut, silakan tuliskan dengan istilah asing dan dituliskan secara miring. Cantumkan definisi atau maksud dari istilah asing tersebut dalam daftar istilah atau dalam paragraf.
 - Setiap gambar atau tabel harus dirujuk di dalam paragraf.
 - Cantumkan setiap sitasi (kutipan, rujukan) yang bersumber dari naskah lain. Cara menuliskan sitasi dengan gaya IEEE adalah seperti contoh berikut.
     - "Kalimat ini merupakan sitasi dari naskah [12] dan juga bersumber dari rujukan [13].
@@ -41,6 +41,52 @@ draft: false
 - Periksa padanan kata yang tepat dengan menelusuri istilah asingnya pada [Wikipedia](https://en.wikipedia.org/) lalu pada bilah kiri pada menu *Languages* pilih Bahasa Indonesia untuk mencari padanannya pada bahasa Indonesia.
 - Buat penyerapan istilah asing menjadi bahasa Indonesia dengan pedoman [Buku Penyuluhan Tata Istilah](https://rumahpusbin.kemdikbud.go.id/buku/Buku%20Penyuluhan%20Tata%20Istilah.pdf), atau [Wikipedia:Pedoman penyerapan istilah](https://id.wikipedia.org/wiki/Wikipedia:Pedoman_penyerapan_istilah). Aplikasi penerjemah seperti [Google Translate](https://translate.google.com/) dapat pula dipakai untuk menyerap istilah asing.
 
+## Podoterus
+
+### Nama Diri di FT Unsoed
+- Kementerian Pendidikan, Kebudayaan, Riset, dan Teknologi
+- Universitas Jenderal Soedirman
+
+### Maksud Naskah
+- Disusun untuk untuk memenuhi salah satu persyaratan memperoleh gelar Sarjana Teknik pada Program Studi Teknik Elektro, Fakultas Teknik, Universitas Jenderal Soedirman
+- Diajukan untuk memenuhi salah satu persyaratan memperoleh gelar Sarjana Teknik pada Program Studi Teknik Elektro, Fakultas Teknik, Universitas Jenderal Soedirman
+
+## Gaya Penulisan
+
+### Gaya Menulis Istilah
+- Periksa istilah kosakata pada naskah dengan tahapan sebagai berikut.
+    - Jika istilah yang dimaksud terdapat di KBBI, gunakan istilah dalam KBBI.
+    - Jika istilah tersebut tidak ada di KBBI, cari dan gunakan istilah baku berdasarkan dokumen resmi.
+    - Jika istilah baku tidak ada di dalam dokumen resmi atau tidak ada pedomannya, buat penyerapan istilahnya yang tepat.
+    - Jika tidak ditemukan pula istilah dalam bahasa Indonesia yang menyatakan istilah tersebut, silakan tuliskan dengan istilah asing dan dituliskan secara miring.
+- Cantumkan definisi atau maksud dari istilah dalam suatu paragraf atau dalam daftar istilah.
+- Tuliskan definisi/maksud istilah saat istilah tersebut pertama kali dituliskan. Selanjutnya definisi/maksud tersebut tak perlu diulang lagi.
+
+### Gaya Menulis Naskah
+- Setiap kalimat harus sempurna (minimal memiliki Subyek dan Predikat).
+- Paragraf terdiri dari beberapa kalimat. Hindari paragraf hanya dengan satu kalimat.
+- Setiap paragraf harus memiliki suatu gagasan utama. Gagasan utama dapat diletakkan di awal (deduktif) atau di akhir (induktif) atau awal dan akhir paragraf.
+
+### Gaya Menulis Singkatan
+- Ketika singkatan/akronim sudah diterangkan kepanjangannya pada daftar istilah atau pada paragraf sebelumnya, maka tak perlu diulang kepanjangannya pada paragraf selanjutnya.
+
+### Gaya Menulis Gambar/Tabel
+- Gambar/tabel harus dirujuk dalam naskah dan memiliki posisi sedekat mungkin dengan naskah yang merujuknya.
+- Nomobr gambar/tabel berurut sesuai dengan urutan perujukannya dalam naskah.
+- Jika memungkinkan tampilkan gambar/grafik secara berwarna dan jelas dengan resolusi tinggi, jika tidak (hitam putih), pastikan gambar dapat dibedakan dengan jelas dan grafik variabel berbeda memiliki pola yang berbeda.
+- Usahakan gambar/tabel dalam bentuk _landscape_.
+- Pada grafik, semua sumbu harus memiliki label dan (jika ada) satuan.
+- Pada tabel, semua baris dan kolom membutuhkan judul (_header_).
+- Setiap gambar/tabel harus memiliki keterangan (_caption_)
+
+### Gaya Menulis Keterangan (_Caption_) Gambar/Tabel
+- Keterangan bersifat deskriptif dan memberikan informasi tambahan terhadap naskah
+- Ketika menerangkan tabel atau grafik, deskripsikan variabel terkait
+- Keterangan bersifat singkat dan padat
+- Kutip sumber dari gambar/tabel jika ada
+- Keterangan gambar/tabel harus dalam halaman yang sama dengan gambar/tabel-nya
+- Keterangan dapat berupa judul atau kalimat utuh.
+- Tips menulis keterangan adalah seperti ketika kita menceritakan ringkas suatu gambar/tabel pada orang lain
 
 ## Daftar Persiapan Penulisan Naskah
 - [ ] Baca pedoman penulisan.
@@ -61,5 +107,22 @@ draft: false
 - [ ] Periksa penulisan sitasi dan daftar pustaka.
 - [ ] Periksa pembuatan daftar pustaka, daftar gambar, dan daftar tabel.
 
-
-
+## Naskah Laporan Kerja Praktik
+- Bab 1 : Latar belakang yang mengantarkan kepada judul
+    - konteks (seperti: Indonesia, industri, dll.)
+    - perusahaan (seperti: profil ringkas, kontribusi, dll.)
+    - teknologi (yang menjadi topik laporan kerja praktik)
+- Bab 2 : Tinjauan perusahaan yang mengantarkan kepada deskripsi divisi/bagian lokasi kegiatan kerja praktik
+    - tinjauan historis
+    - tinjauan manajemen
+    - tinjauan produk
+    - deskripsi divisi/bagian
+- Bab 3 : Tinjauan pustaka secara generik (tidak spesifik lokasi kegiatan) yang relevan dengan topik laporan
+- Bab 4 : Pembahasan yang mendeskripsikan topik teknologi dan aktivitas kerja praktik
+    - pembahasan sistem (dari makro ke mikro)
+    - pembahasan teknologi
+        - perangkat keras (piranti) (dari makro ke mikro)
+        - perangkat lunak (dari back-end ke front-end)
+        - metode (prosedur) (dari tahap ke tahap)
+    - pembahasan aktivitas
+- Bab 5 : Kesimpulan yang menyimpulkan teknologi dan aktivitas kerja praktik, serta saran penulis untuk perbaikan sistem/teknologi pada perusahaan atau mekanisme kerja praktik

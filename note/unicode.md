@@ -20,6 +20,10 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 ## Unicode Font
 - [Unifont ](https://unifoundry.com/unifont/index.html), font for all existing Unicode
 
+## Unicode Recognition
+- [Shapecatcher: Draw the Unicode character you want!](http://shapecatcher.com/)
+- [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
+
 ## Unicode Search
 - [Unicode Search](https://unicodelookup.com/)
 - [Unicode Search](https://unicode-search.net/)

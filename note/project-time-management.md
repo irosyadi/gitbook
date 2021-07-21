@@ -18,4 +18,11 @@ draft: false
 - [Personal Kanban](https://personalkanban.js.org) Minimalist web based local kanban board
 - [Portabella](https://portabella.io/) Local and host kanban board
 - [Trello Clone](https://github.com/amir734jj/trello-clone-nextjs)
-- [Kamban for Windows](https://topols.io/)
+- [Brisqi – Offline-first Personal Kanban App](https://brisqi.com/)
+- [KanbanFlow - Lean project management. Simplified.](https://kanbanflow.com/)
+- [Kanban](https://sanderdlm.be/kanban/) another single html Kanban Board (like nullboard) [dreadnip/kanban: A basic kanban board in a single HTML file using browser native drag & drop and localStorage for persistence](https://github.com/dreadnip/kanban)
+- [Kanban Project Management Software - Kanboard](https://kanboard.org/) self hosted in PHP
+    - [Kanboard — Kanboard documentation](https://docs.kanboard.org/en/latest/index.html)
+- [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
+- [Restyaboard - Open source Trello alternative, kanban board for task management | Restya](https://restya.com/board)
+- [Tekan — Kanban that stays with you](https://ibnishak.github.io/Tesseract/projects/tekan/Tekan.html)
