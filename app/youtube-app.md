@@ -20,6 +20,8 @@ draft: false
     - [Instances · TeamPiped/Piped Wiki](https://github.com/TeamPiped/Piped/wiki/Instances)
 - [CloudTube](https://tube.cadence.moe/), [tube: Private YouTube video viewer, like Invidious](https://sr.ht/~cadence/tube/)
 - [Tonvid](http://www.tonvid.com/)
+- [Layluh](https://www.layluh.com/)
+- [Viewpure](https://www.viewpure.com/)
 
 ## Yutube Downloader
 - [Flvto](https://flvto.video/) YT Downloader

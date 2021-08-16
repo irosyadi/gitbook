@@ -10,6 +10,10 @@ draft: false
 
 # Paper and Article Search Tools
 
+
+## Article Search Flowchart
+[Guide to Finding Articles/Books - Google Docs](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit)
+
 ## Paper Search Engine
 - [Google Scholar](https://scholar.google.com/)
 - [Home | Microsoft Academic](https://academic.microsoft.com/home)

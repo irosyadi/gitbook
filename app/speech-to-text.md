@@ -37,5 +37,6 @@ draft: false
 - [Voicenote](http://voicenote.in/)
 - [Speechnotes](https://speechnotes.co/)
 - [Dictation](https://dictation.io/speech)
+- [Dictanote](https://dictanote.co/)
 - [Google Docs Type for your Voice](https://support.google.com/docs/answer/4492226)
     - `Tools` and then `Voice typing`

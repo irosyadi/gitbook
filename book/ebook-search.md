@@ -28,8 +28,10 @@ draft: false
 - [z-lib](https://z-lib.org/)
 - [Archive.org Texts](https://archive.org/details/texts)
 - [Freeread](https://freeread.org/ipfs/) : Libgen in IFPS
+- [libgen.fun](https://libgen.fun/) : Libgen in IFPS
 - [Skyhub](https://github.com/frrad/skyhub) : Skyhub provides a way of accessing the libgen scimag / sci-hub torrent archive on a one-off basis. It stands up what looks like a local copy of sci-hub.
 - [CSE](https://cse.google.com/cse?cx=c46414ccb6a943e39)
+- [freereadorg/awesome-libgen: 😎 Awesome list of Library Genesis, the world's largest free library.](https://github.com/freereadorg/awesome-libgen)
 
 ## eBook Search
 * [Library Genesis](https://libgen.fun/)

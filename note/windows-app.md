@@ -16,7 +16,6 @@ This is a list of awesome apps for Windows 10.
 - 7-Zip : file compression
 - File Converter : file converter
 - FileMenu Tools : file menu tools
-- TreeSize : file, folder, drive mapper
 - Wiztree : file, folder, drive mapper
 - QTTabbar : tab extension for file explorer
 - FormatFactory : file converter
@@ -108,7 +107,7 @@ This is a list of awesome apps for Windows 10.
 - Notepad++ : note taking, text editor
 - OneNote : note taking (Office Suite)
 - Sticky Notes : note taking (Windows 10)
-- Zettlr : note taking, zettelkasten, markdown
+
 - Obsidian : note taking, zettelkasten, markdown
 - VNote : note taking, zettelkasten, markdown
 - Markdown Monsters : note taking, wordpress integration
@@ -281,6 +280,9 @@ This is a list of awesome apps for Windows 10.
 - rga ([Github Repo](https://github.com/phiresky/ripgrep-all)) : take huge database storage
 - kdenlive : video editor (inferior to hitman express)
 - draw.io : graphic editor (inferior to Visio)
+- Zettlr : note taking, zettelkasten, markdown (inferior to VNote)
+- Wincompose: text replacement (inferior to espanso)
+- TreeSize : file, folder, drive mapper (inferior to Wiztree)
 
 ## My Computer
 - IdeaPad C340-14API 9AID

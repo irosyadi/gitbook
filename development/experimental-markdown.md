@@ -83,4 +83,4 @@ Here is the comment:
 
 
 ## SVG
-![crocodile](http://snapsvg.io/assets/images/crocodile.svg)
+![crocodile](https://snapsvg.io/assets/images/crocodile.svg)

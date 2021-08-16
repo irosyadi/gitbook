@@ -107,10 +107,55 @@ Instrumen Penilaian
 
 Struktur
 
-Bentuk pembelajaran memuat metode pembelajaran.
-Proses dan hasil pembelajaran berdasarkan metode pembelajaran dievaluasi dengan penilaian.
-Penilaian terdiri dari (di antaranya) teknik penilaian dan instrumen penilaian.
-Suatu metode pembelajaran prosesnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam bentuk rubrik.
-Suatu metode pembelajaran hasilnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam portofolio atau karya desain.
+- Bentuk pembelajaran memuat metode pembelajaran.
+- Proses dan hasil pembelajaran berdasarkan metode pembelajaran dievaluasi dengan penilaian.
+- Penilaian terdiri dari (di antaranya) teknik penilaian dan instrumen penilaian.
+- Suatu metode pembelajaran prosesnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam bentuk rubrik.
+- Suatu metode pembelajaran hasilnya bisa dinilai dengan berbagai teknik penilaian dengan instrumen penilaian dalam portofolio atau karya desain.
 
 
+Ranah Penilaian:
+
+- Sikap / Afektif
+- Pengetahuan / Kognitif
+- Keterampilan / Psikomotorik
+
+Penilaian :
+
+- Penilaian atas pembelajaran (assessment of learning)
+    - Summative assessment : mengukur capaian belajar untuk membandingkannya terhadap acuan/standar
+- Penilaian untuk pembelajaran (assessment for learning)
+    - Diagnostic assessment : mengetahui kondisi belajar siswa untuk meningkatkan kualitas pembelajaran
+- Penilaian sebagai pembelajaran (assessment as learning)
+    - Formative assessment : mengukur capaian belajar untuk meningkatkan kualitas pembelajaran
+
+HOTS (higher order thinking skills): 
+Kemampuan berpikir kritis, logis, reflektif, metakognitif, kreatif
+
+Ranah HOTS:
+- analisis
+- evaluasi
+- kreasi
+
+| Aspek Kompetensi | Teknik atau Metode | Instrumen (Proses dan Hasil) |
+| ---------------- | ------------------ | ---------------------------- |
+| Sikap            | Observasi          | Rubrik Observasi             |
+|                  | Partisipasi        | Rubrik Partisipasi           |
+|                  | Penilaian Diri     | Rubrik Penilaian Diri        |
+|                  | Penilaian Sejawat  | Rubrik Penilaian Sejawat     |
+|                  | Jurnal             | Rubrik Penilaian Jurnal      |
+|                  | Log Book           | Rubrik Penilaian Log Book    |
+| Pengetahuan      | Tes Tulis          | Soal Tes Isian               |
+|                  | Tes Tulis          | Soal Tes Pilihan             |
+|                  | Tes Lisan          | Soal Tes Lisan               |
+|                  | Tes Lisan          | Rubrik Presentasi Lisan      |
+|                  | Tugas              | Lembar Penugasan             |
+|                  | Tugas              | Rubrik Penilaian Tugas       |
+|                  | Observasi          | Rubrik Observasi             |
+| Keterampilan     | Tes Praktik        | Rubrik Penilaian Praktik     |
+|                  | Proyek             | Rubrik Penilaian Proyek      |
+|                  | Portofolio         | Rubrik Penilaian Portofolio  |
+|                  | Observasi          | Rubrik Observasi             |
+|                  | Unjuk Kerja        | Rubrik Unjuk Kerja           |
+|                  | Produk             | Lembar Penugasan             |
+|                  | Tulisan            | Lembar Penugasan             |
