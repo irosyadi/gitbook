@@ -439,3 +439,35 @@ The sun is molten gold<details><summary>2</summary> it is not, actually</details
 <div class="LineBlock" style="--line-y-from:-0.0%"></div> </div>
 </div><div class="BarLi"> <span class="XTicks">
 </span></div></div></div>
+
+
+## Chart CSS
+
+- [Chart CSS](https://chartscss.org/)
+
+```
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
+```
+
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/charts.css/dist/charts.min.css">
+
+<div id="datasets-example-1">
+<table class="charts-css column show-labels data-spacing-5 datasets-spacing-1">
+<caption> Front End Developer Salary </caption> 
+<tbody><tr>
+<th scope="row"> Asia </th> 
+<td style="--size:calc( 20 / 100 );"><span class="data"> $20K </span></td> 
+<td style="--size:calc( 30 / 100 );"><span class="data"> $30K </span></td> 
+<td style="--size:calc( 40 / 100 );"><span class="data"> $40K </span></td> 
+<td style="--size:calc( 50 / 100 );"><span class="data"> $50K </span></td> 
+<td style="--size:calc( 75 / 100 );"><span class="data"> $75K </span></td></tr> 
+<tr><th scope="row"> Europe </th> 
+<td style="--size:calc( 40 / 100 );"><span class="data"> $40K </span></td> 
+<td style="--size:calc( 60 / 100 );"><span class="data"> $60K </span></td> 
+<td style="--size:calc( 75 / 100 );"><span class="data"> $75K </span></td> 
+<td style="--size:calc( 90 / 100 );"><span class="data"> $90K </span></td> 
+<td style="--size:calc( 100 / 100 );"><span class="data"> $100K </span></td>
+</tr></tbody>
+</table> 
+<ul class="charts-css legend legend-inline legend-square">
+<li> 1st year </li> <li> 2nd year </li> <li> 3rd year </li> <li> 4th year </li> <li> 5th year </li></ul></div>

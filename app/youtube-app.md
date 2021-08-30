@@ -22,9 +22,15 @@ draft: false
 - [Tonvid](http://www.tonvid.com/)
 - [Layluh](https://www.layluh.com/)
 - [Viewpure](https://www.viewpure.com/)
+- [Toogles](https://toogl.es/)
+- [Freetube App](https://freetubeapp.io) Windows Desktop App
+- [Motion Box](https://www.viewpure.com/) Windows Desktop App
 
 ## Yutube Downloader
 - [Flvto](https://flvto.video/) YT Downloader
+- [deepjyoti30/ytmdl: A simple app to get songs from YouTube in mp3 format with artist name, album name etc from sources like iTunes, Spotify, LastFM, Deezer, Gaana etc.](https://github.com/deepjyoti30/ytmdl)
+- [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
+- [blackjack4494/yt-dlc: media downloader and library for various sites.](https://github.com/blackjack4494/yt-dlc)
 
 ## Youtube Transcript
 - [Hieroglyph](https://hierogly.ph/) get youtube transcript or transcibe text

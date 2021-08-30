@@ -37,12 +37,17 @@ draft: false
 - Alan Perlis
 
 ## Meaning of Life
->> "If our life is the only thing we get to experience, then it’s the only thing that matters. If the universe has no principles, then the only principles relevant are the ones we decide on. If the universe has no purpose, then we get to dictate what its purpose is"
+>> "If our life is the only thing we get to experience, then it's the only thing that matters. If the universe has no principles, then the only principles relevant are the ones we decide on. If the universe has no purpose, then we get to dictate what its purpose is"
 - Kurzgesagt
 
 ## Not Stupid
 >> If it is stupid but it works, it isn't stupid
 ― Mercedes Lackey
+
+
+## Simple
+>>“You live simple, you train hard, and live an honest life. Then you are free.”
+― Eliud Kipchoge
 
 
 ## Collection

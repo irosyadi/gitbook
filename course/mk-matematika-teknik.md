@@ -40,7 +40,8 @@ draft: false
 ### Referensi Berbayar
 - [Elementary Linear Algebra: Application Version by Howard Anton](https://books.google.co.id/books?id=loRbAgAAQBAJ&redir_esc=y)
 - [Linear Algebra and Its Applications by David C. Lay](https://books.google.co.id/books?id=apXfrQEACAAJ&redir_esc=y)
-## Referensi Bebas Terbuka
+
+### Referensi Bebas Terbuka
 - [Interactive Linear Algebras by Dan Margalit](https://textbooks.math.gatech.edu/ila/index.html)
     - [PDF File](https://textbooks.math.gatech.edu/ila/ila.pdf)
 - [Discover Linear Algebra by Jeremy Sylvestre](https://sites.ualberta.ca/~jsylvest/books/DLA1/frontmatter-1.html)
@@ -50,7 +51,9 @@ draft: false
     - [PDF File](https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf)
 - [A First Course in Linear Algebra by Robert A. Beezer](https://linear.ups.edu/) or its public beta version of [A First Course in Linear Algebra](https://linear.ups.edu/fcla/index.html)
     - [PDF File](https://linear.ups.edu/download/fcla-3.50-print.pdf) 
-- [MATH 1220 Linear Algebra 1 by Michael Doob](https://linearalgebra.math.umanitoba.ca/math1220/)
+- [MATH 1220 Linear Algebra 1 by Michael Doob](http://linearalgebra.math.umanitoba.ca/math1220/mblinalg.html)
+- [A First Course in LInear Algebra by Robert A. Beezer](https://linear.ups.edu/linear.ups.edu/html/)
+- [Systems of equations by David Austin](https://davidaustinm.github.io/ula/chap1.html)
 
 ## Kuliah Online
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
@@ -82,12 +85,12 @@ draft: false
     - Sistem Persamaan Linear
 - Buku Pendukung:
     - [LAM - Chapter 2 Systems of Linear Equations](https://linearalgebra.math.umanitoba.ca/math1220/chapter-2.html)
-    - [ULA - Chapter 1 Systems of equations ](https://merganser.math.gvsu.edu/david/linear.algebra/ula/ula/chap1.html)
+    - [ULA - Chapter 1 Systems of equations ](https://davidaustinm.github.io/ula/chap1.html)
     - [ILA - Chapter 1 Systems of Linear Equations: Algebra](https://textbooks.math.gatech.edu/ila/chap-algebra.html)
     - [DLA - Chapter 1 Systems of linear equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-systems.html)
     - [DLA -  Chapter 2 Solving systems using matrices ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-row-red.html)
     - [DLA -  Chapter 3 Using systems of equations ](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-applications.html)
-    - [FCLA - Chapter 1](https://linear.ups.edu/html/chapter-SLE.html)
+    - [FCLA - Chapter 1](https://linear.ups.edu/linear.ups.edu/html/chapter-SLE.html)
 
 ### Pekan-2
 - Topik:

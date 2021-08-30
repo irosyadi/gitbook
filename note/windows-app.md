@@ -107,7 +107,6 @@ This is a list of awesome apps for Windows 10.
 - Notepad++ : note taking, text editor
 - OneNote : note taking (Office Suite)
 - Sticky Notes : note taking (Windows 10)
-
 - Obsidian : note taking, zettelkasten, markdown
 - VNote : note taking, zettelkasten, markdown
 - Markdown Monsters : note taking, wordpress integration
@@ -151,6 +150,7 @@ This is a list of awesome apps for Windows 10.
 - Foxit Reader : pdf reader, comment, sign
 - SumatraPDF : fast pdf reader
 - GPL Ghostscript : pdf rendering engine
+- Free PDF Compressor : pdf compression
 
 ## Latex Editor
 - Texmaker : LaTex editor
@@ -228,9 +228,6 @@ This is a list of awesome apps for Windows 10.
 - Maps (Windows 10)
 
 ## Games
-- Steam
-    - Islanders
-    - The Battle of Polytopia
 
 ## Built in Windows 10 Apps
 - Camera (Windows 10) : camera
@@ -283,6 +280,9 @@ This is a list of awesome apps for Windows 10.
 - Zettlr : note taking, zettelkasten, markdown (inferior to VNote)
 - Wincompose: text replacement (inferior to espanso)
 - TreeSize : file, folder, drive mapper (inferior to Wiztree)
+- Steam : games platform (need more space than games)
+    - Islanders
+    - The Battle of Polytopia
 
 ## My Computer
 - IdeaPad C340-14API 9AID

@@ -159,3 +159,22 @@ Ranah HOTS:
 |                  | Unjuk Kerja        | Rubrik Unjuk Kerja           |
 |                  | Produk             | Lembar Penugasan             |
 |                  | Tulisan            | Lembar Penugasan             |
+
+
+### Rubrik
+Rubrik merupakan panduan penilaian yang menggambarkan kriteria yang diinginkan dalam menilai atau memberi tingkatan dari hasil kinerja belajar mahasiswa.
+Rubrik terdiri dari dimensi yang dinilai dan kriteria kemampuan hasil belajar mahasiswa ataupun indikator capaian belajar mahasiswa.
+
+-  Rubrik holistik adalah pedoman untuk menilai
+berdasarkan kesan keseluruhan atau kombinasi semua kriteria. (Tidak ada rincian aspek/dimensi, tapi ada deskripsi secara kesan keseluruhan)
+- Rubrik deskriptif memiliki tingkatan kriteria penilaian yang dideskripsikan dan diberikan skala penilaian atau skor penilaian. (Ada rincian aspek/dimensi, ada bantuan deskripsi dalam kriteria penilaian)
+- Rubrik skala persepsi memiliki tingkatan kriteria penilian yang tidak dideskripsikan namun tetap diberikan skala penilaian atau skor penilaian. (Ada rincian aspek/dimensi, tapi tidak deskripsi dalam kriteria penilaian)
+
+### Portofolio
+Penilaian portofolio merupakan penilaian
+berkelanjutan yang didasarkan pada kumpulan
+informasi yang menunjukkan perkembangan capaian belajar mahasiswa dalam satu periode tertentu.
+
+- Portofolio perkembangan. Beberapa portofolio, dinilai berdasarkan kemajuan pencapaian. Contoh: draft, laporan sementara, laporan akhir
+- Portofolio pamer/showcase. Beberapa portofolio, dinilai berdasarkan satu portofolio terbaik.
+- Portofolio komprehensif. Beberapa portofolio, dinilai secara kumulatif.
