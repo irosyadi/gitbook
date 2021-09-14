@@ -23,6 +23,8 @@ draft: false
 - [drop.lol](https://drop.lol/) - Local WebRTC
 - [SendFiles](https://sendfiles.dev/) with WebRTC
 - [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/)
+- [Vegh | Fast P2P File Transfer](https://vegh.openode.io/)
+- [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 
 ## Cloud based Peer to Peer File Sharing - Transfer
 - [Jirafeu](https://jirafeau.net/) [github ](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer

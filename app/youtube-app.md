@@ -58,3 +58,8 @@ draft: false
     - [PeerTube instances](https://joinpeertube.org/instances#instances-list)
     - [Trending videos - PeerTube](https://wago.tube/videos/trending)
 - [Home - Peertube Search](https://peertube-search.com/)
+
+## Youtube-dl based
+- [bluedaze/ytADL: Archiving tool for youtube.](https://github.com/bluedaze/ytADL)
+- [youtube-dlg](https://mrs0m30n3.github.io/youtube-dl-gui/)
+- [database64128/youtube-dl-wpf: A simple GUI wrapper for youtube-dl and yt-dlp.](https://github.com/database64128/youtube-dl-wpf)
