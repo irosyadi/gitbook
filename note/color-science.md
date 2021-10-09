@@ -145,3 +145,9 @@ draft: false
 - [Color Reasoning](http://notes.neeasade.net/color-spaces.html)
 - [Practical Color Theory for People Who Code](http://tallys.github.io/color-theory/)
 - [Color Theory: The Primer for Designers and Illustrators - DesignXplorer](https://designxplorer.co/color-theory-for-designers-and-illustrators/)
+- [handprint : the geometry of color perception](https://www.handprint.com/HP/WCL/color2.html)
+- [All 16,777,216 RGB colours « David Naylor: Blog](http://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/)
+
+
+## Ebook
+- [COLOR EXPERIENCE](https://www.handprint.com/CE/book.html)

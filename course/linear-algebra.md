@@ -186,3 +186,12 @@ draft: false
 4. Vectors in Euclidean n-space
 5. Eigenvalues and eigenvectors
 6. Linear transformations
+
+
+## Markov Chains
+- [Examples of Markov chains - Wikipedia](https://en.wikipedia.org/wiki/Examples_of_Markov_chains)
+- [Math 22 - Linear Algebra with Applications](https://math.dartmouth.edu/~m22f19/project.php)
+- [Markov Chains explained visually](https://setosa.io/ev/markov-chains/)
+- [Visualizing a Markov Chain - Will Hipson](https://willhipson.netlify.app/post/markov-sim/markov_chain/)
+- [Markov Chains](https://setosa.io/markov/index.html#%7B%22tm%22%3A%5B%5B0.5%2C0.5%5D%2C%5B0.5%2C0.5%5D%5D%7D)
+- [rwet/ngrams-and-markov-chains.ipynb at master · aparrish/rwet](https://github.com/aparrish/rwet/blob/master/ngrams-and-markov-chains.ipynb)

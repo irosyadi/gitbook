@@ -35,6 +35,8 @@ draft: false
 - [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past
 - [Timeless Hacker News](https://thn.rakhim.org/) : Old top story of HN, randomly
 - [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
+- [Hackr News App](https://hackr-news-dj.netlify.app/top) : Fast
+- [Haxplore](https://haxplore.pabue.co/): with key shortcut
 
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications

@@ -17,3 +17,7 @@ draft: false
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
+
+## List
+- [mendel5/alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
+- [Simple Web](https://simple-web.org/)
