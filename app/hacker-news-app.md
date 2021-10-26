@@ -80,3 +80,12 @@ draft: false
 
 ## Hacker News Browser Extension/Add-on
 - [Newsit](https://newsit.benwinding.com/) : reddit and HN comment in any links
+
+## eBook
+- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
+
+## PUEBI
+- [PUEBI Js](https://puebi.js.org/)
+
+## Robot Simulation
+- [MuJoCo — Advanced Physics Simulation](https://mujoco.org/)

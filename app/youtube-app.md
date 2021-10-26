@@ -13,6 +13,7 @@ draft: false
 ## Youtube Alternative Frontend
 - [Invidious](https://invidio.us/) : 
     - [Invidious Instances List](https://instances.invidio.us/), 
+    - [Invidious Instances List](https://redirect.invidious.io/)
     - [Invidious Instances List](https://github.com/iv-org/invidious/wiki/Invidious-Instances), 
     - [Invidious Instances List](https://github.com/iv-org/documentation/blob/master/Invidious-Instances.md)
     - [Invidious](https://invidious.tube/feed/popular)

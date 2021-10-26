@@ -38,5 +38,7 @@ draft: false
 - [Speechnotes](https://speechnotes.co/)
 - [Dictation](https://dictation.io/speech)
 - [Dictanote](https://dictanote.co/)
+- [oTranscribe](https://otranscribe.com/)
+- [Google Web Speech API](https://www.google.com/intl/en/chrome/demos/speech.html)
 - [Google Docs Type for your Voice](https://support.google.com/docs/answer/4492226)
     - `Tools` and then `Voice typing`

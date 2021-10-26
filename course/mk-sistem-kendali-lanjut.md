@@ -119,3 +119,9 @@ rlocus(sys)
         - Judul, disertai penjelasan (dalam terjemah bahasa Indonesia) dari berkas Jupyter Notebook. (Kode Python pada Jupyter Notebook tak perlu disertakan.)
         - Pembahasan. Pembahasan ringkas dari aktivitas yang anda lakukan, jika perlu lengkapi unduhan gambar (screenshot).
     - Simpan setiap berkas dalam nama `NIM-TugasXXX.docx` misalnya `H1A018091-Tugas385.odt`. Gabungkan ketiga berkas penugasan dalam file `.zip` lalu unggah ke laman *Assignment* di Eldiru.
+
+
+## Istilah Sistem Kendali
+- Bandwidth and 3dB. The bandwidth of a band pass filter is the frequency range that is allowed to pass through with minimal attenuation. The frequency at which the power level of the signal decreases by 3 dB from its maximum value is called the 3 dB bandwidth. A 3 dB decrease in power means the signal power becomes half of its maximum value.  This occurs when the output voltage has dropped to $1/{\sqrt{2}}$ (~0.707) of the maximum output voltage and the power has dropped by half (since $P=V^2/R$. Exact: $20\\log _{10}\left({\tfrac {1}{\sqrt {2}}}\right)\approx -3.0103\\ \mathrm {dB}$
+- [Half-power point - Wikipedia](https://en.wikipedia.org/wiki/Half-power_point)
+
