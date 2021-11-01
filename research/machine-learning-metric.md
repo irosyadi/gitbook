@@ -101,6 +101,10 @@ Note:
 - [MaP for Object Detection](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 - [Mathews Correlation COefficent](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
 - [IoU better detection](https://towardsdatascience.com/iou-a-better-detection-evaluation-metric-45a511185be1)
+- [Data Science in Medicine — Precision & Recall or Specificity & Sensitivity? | by Alon Lekhtman | Towards Data Science](https://towardsdatascience.com/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1)
+- [When Accuracy Isn’t Enough, Use Precision and Recall to Evaluate Classification Models | Built In](https://builtin.com/data-science/precision-and-recall)
+
+
 
 Multiclass Metrics
 - [Multi-Class Metrics Made Simple, Part I: Precision and Recall | by Boaz Shmueli | Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
