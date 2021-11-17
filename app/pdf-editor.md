@@ -17,13 +17,14 @@ draft: false
 - [Foxit PDF Tools](https://www.foxitsoftware.com/pdf-converter/)
 
 ## WASM PDF Tools
-* [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/) and [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/): Merge PDF
+* [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/) and [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/): Merge, Compress, Extract, Watermark PDF
 * [PDF Pages helper](https://shreevatsa.net/pdf-pages/) : Extract PDF
 * [Split PDF: Unspread 2-up pages](https://shreevatsa.net/pdf-unspread/) : Split PDF
 * [Möbius Printing helper](https://shreevatsa.net/mobius-print/) : Mobius Print PDF
-* [PDF to Text - pdftotext.github.io](https://pdftotext.github.io/) : Convert PDF to text
+* [PDF to Text - pdftotext.github.io](https://pdftotext.github.io/) : Convert PDF to text, OCR
 * [PDF Table Util](https://pdftableutil.possiblenull.com/app/) : Convert PDF Table to text
 * [Diff PDFs - ParePdf](https://parepdf.com/) : Compare two PDFs
+* [https://kc0bfv.github.io/WASM-PDF-Combiner/](https://kc0bfv.github.io/WASM-PDF-Combiner/)
 
 ## PDF Reader
 - [Forest Web Based PDF Reader](https://forestreader.com/#)

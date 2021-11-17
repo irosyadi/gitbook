@@ -18,20 +18,29 @@ This is a list of awesome apps for Windows 10.
 - FileMenu Tools : file menu tools
 - Wiztree : file, folder, drive mapper
 - QTTabbar : tab extension for file explorer
-- FormatFactory : file converter
 - WinMerge : file folder comparison
 - Quicklook : file viewer
+- CSVed : csv viewer, editor, converter
+
+## File Search
+- Agent Ransack : file content search
+- Fileseek : file content search
+- Listary : file search (embedded in Windows Explorer)
+- Wizfile : file search
+- fzf ([Github Repo](https://github.com/junegunn/fzf))
 
 ## File Sync
 - SyncFolder : file folder sync
 - Syncthing : file cloud sync
 - rclone : file cloud sync (portable, direct)
 
-## File Downloader
+## File Downloader and Transfer
 - PyIDM : download manager (portable, direct)
 - Youtube-DLG (youtube-dl-gui): video download manager
 - Libgen Desktop : e-book search and download manager
 - wget : file download (portable, direct, terminal)
+- croc
+- curl
 
 ## Image and Photo Tools
 - Microsoft Photos : photo manager and viewer
@@ -40,17 +49,21 @@ This is a list of awesome apps for Windows 10.
 
 ## Image Photo Editor Converter
 - paint.net : image editor (free, complete)
+- Paint 3D
 - Pixillion Image Converter : image converter
 - ImageMagick : image processing library
 - Picosmos Tools : image editor (quick and complete for simple editing)
 
 ## Video Conference
-- Skype* : messaging, video conference
-- Zoom* : video conference
+- Skype : messaging, video conference
+- Zoom : video conference
+- Cisco Webex : video conference
+- Microsoft Teams : video conference
 
-## Remote Desktop
+## Remote Desktop and Tools
 - Teamviewer : remote desktop (native app)
 - Chrome Remote Desktop : chrome based remote desktop (browser based)
+- WinSCP
 
 ## Visualization
 - Microsoft PowerBI Desktop
@@ -65,15 +78,6 @@ This is a list of awesome apps for Windows 10.
 - Handbrake : video converter
 - HitFilm Express* : video editor (complete editing)
 
-## File Search
-- Agent Ransack : file content search
-- DocFetcher : file content search
-- Everything : file search
-- Listary : file search (embedded in Windows Explorer)
-- fzf ([Github Repo](https://github.com/junegunn/fzf))
-- Fileseek : file content search
-- Wizfile : file search
-
 ## Music and Audio
 - AIMP : music audio player
 - Groove Music : music audio player (Windows 10)
@@ -82,6 +86,8 @@ This is a list of awesome apps for Windows 10.
 - Equalizer APO : audio equalizer/filter
 - Peace : GUI for Equalizer APO
 - Spobrify : Youtube listener
+- Virtual Audio Cable : virtual speaker, microphone
+- Eartrumpet : Speaker Mix, Setting
 
 ## Computing Programming
 - Anaconda3 : numerical computation, python
@@ -95,13 +101,14 @@ This is a list of awesome apps for Windows 10.
 - Calculator : calculator (Windows 10)
 - Math Inspector : visual programming environment
 - Sourcetrail : code and program visualizer
+- Maxima computer algebra system
+- Fritzing : electronic design
 
 ## Hand Writing
 - Microsoft Whiteboard
 - Xournal++ : note taking and PDF annotation tool
 - Microsoft Font Maker : convert handwriting to font
 - gInk : desktop handwriting (portable)
-- livedraw : desktop handwriting (portable)
 
 ## Note Taking
 - Notepad++ : note taking, text editor
@@ -110,10 +117,13 @@ This is a list of awesome apps for Windows 10.
 - Obsidian : note taking, zettelkasten, markdown
 - VNote : note taking, zettelkasten, markdown
 - Markdown Monsters : note taking, wordpress integration
+- Journal by Microsoft
+- Logseq
 
 ## Writing Tools
 - Grammarly : grammar checker
 - Grammarly for MS Office Suite : grammar checker
+- Languagetool
 - Languagetool MS Word Add in : grammar checker, open source
 - Writefull for Word : grammar checker
 - Lightkey : AI writing recommendation
@@ -121,9 +131,8 @@ This is a list of awesome apps for Windows 10.
 - Ditto : clipboard manager, copy-paste
 - Harzing's Publish or Perish : scientific writing helper
 
-## Islamic
-- OneQuran : complete Quran, hadith
-- Quran : simple Quran
+## Mapping
+- JOSM: OSM map editor
 
 ## Windows and Dekstop Tools
 - AutoHotkey : automation for Windows
@@ -133,10 +142,14 @@ This is a list of awesome apps for Windows 10.
 - XMeters : system monitoring
 - Wox : application launcher
 - WSCC (Windows System Control Center) : windows mini tools collection
+- HWiNFO64 : hardware information
 - CPUID CPU-Z : hardware information
 - DeskPins : pin windows on top
 - PowerToys : windows enhancement
 - Windows Terminal : the best terminal for windows
+- Bing Wallpaper* : everyday wallpaper
+- Rainmeter : desktop visualization
+- TaskbarX : taskbar visualization
 
 ## Software Application Manager
 - Chocolatey : software application manager
@@ -144,24 +157,27 @@ This is a list of awesome apps for Windows 10.
 - Revo Uninstaller : software application uninstaller
 
 ## PDF Tool
-- CutePDF Writer: pdf writer
-- PDFsam : pdf editor, splitter, combiner
+- CutePDF Writer: pdf writer, pdf printer
+- ByteScout PDF Multitool* : pdf editor (split, merge, rotate, remove), pdf extractor (table, image), pdf compressor, pdf OCR, pdf converter (image, html), pdf parser
+- PDFsam Basic: pdf editor (split, combine, merge, rotate)
 - MuPDF : very lightweight pdf, xps, epub, cbz viewer
-- Foxit Reader : pdf reader, comment, sign
+- Foxit Reader : pdf reader (reflow, rotate), pdf anotation (comment, type, draw, sign, stamp)
 - SumatraPDF : fast pdf reader
 - GPL Ghostscript : pdf rendering engine
-- Free PDF Compressor : pdf compression
+- Free PDF Compressor : pdf compressor
+- PDF Reader by Xodo : pdf reader (reflow, rotate), pdf compressor, pdf anotation (comment, type, draw, sign, stamp), pdf editor (split, rearrange)
 
 ## Latex Editor
-- Texmaker : LaTex editor
 - MiKTex : LaTex engine
+- KLatexFormula : LaTex formula editor
+- TexStudio : LaTex editor
 
 ## Ebook and Document Converter
 - calibre : ebook manager
-- Pandoc : document converter engine (tex, latex, md, word, odt)
+- Pandoc : document converter engine (tex, latex, markdown, word, odt)
 - pandoc-crossref : reference plugin for pandoc
 - wkhtmltopdf : document converter
-- Panwriter : GUI for Pandoc (tex, latex, md, word, odt)
+- Panwriter : GUI for Pandoc (tex, latex, markdown, word, odt)
 
 ## Citation Manager
 - Mendeley Desktop : citation manager
@@ -180,15 +196,17 @@ This is a list of awesome apps for Windows 10.
 
 ## Graphic Editor
 - Microsoft Visio: diagram and vector graphic drawing and editor from Microsoft
+- draw.io : graphic editor
 - Graphviz : graphics and drawing package (library)
+- Origin
 
 ## Drawing App
 - Inkscape: open source vector graphic drawing and editor
 - Krita: open source vector graphic drawing and editor (digital painting and 2D animation)
 - OPenToonz : graphic drawing and editor
+- Fresh Paint*
 
 ## Collaboration
-- Git
 - GitHub Dekstop
 - Github CLI*
 
@@ -197,7 +215,7 @@ This is a list of awesome apps for Windows 10.
 - Microsoft Edge : browser from Microsoft
 - Mozilla Firefox : privacy oriented browser
 - Opera : browser with VPN
-- Slimjet : lightweight chrome-based browser
+- FlashPeak Slimjet8 : lightweight chrome-based browser
 - Chrome Remote Dekstop : remote desktop
 
 ## Network Tools
@@ -207,13 +225,15 @@ This is a list of awesome apps for Windows 10.
 - WinMTRCmd : ping and trace route (portable, direct, terminal)
 - gping : graphic ping (portable, direct, terminal)
 - speedtest : network speed test (portable, direct, terminal)
-- HostsMan : file host editor
+- HostsMan : host file editor
+- Hosts File Editor : host file editor
 - Telerik Fiddler : web debug
 - IPFS Desktop* : decentralized file system
 
 ## VPN
 - ProtonVPN : VPN
 - Cloudflare WARP* : VPN
+- OpenVPN : VPN
 
 ## Framework
 - Node.js
@@ -233,58 +253,105 @@ This is a list of awesome apps for Windows 10.
 - Camera (Windows 10) : camera
 - Microsoft News
 
+## Productivity
+- Pomodoro Logger : kanban, pomodoro, timer
+
 ## Phone Connection
 - KDE Connect
 - Your Phone (Windows 10)
 
 ## Laptop Tools
-- Lenovo Pen Settings
-- Lenovo Service Bridge
-- Lenovo System Update
+- Lenovo Hotkeys
 - Lenovo Vantage
 - Lenovo Vantage Service
-- Lenovo Utility
 
 ## Security
+- Authy Desktop : 2FA, two factor authentication
 - Malwarebytes : anti malware
 - ShutUP10 (OOSU10): Windows permission editor
 
 ## Portable Apps
-- Fritzing : electronic design
 - duck
 - xournal
 - xsltproc
+- gInk
+- mtr
+- SAS Planet
+- Sioyek PDF
+- FireDM : download manager
 
 ## Command Line Interface
 - speedtest: `speedtest`
 - gping: `gping example.com`
 - [is-up](https://github.com/sindresorhus/is-up-cli): `is-up example.com`
 - mtr: `mtr example.com`
+- Ubuntu : ubuntu on top Windows 10
 
 ## Others
 - Nimbletext : text batch manipulation
-- curl
+- BabelMap : unicode character
 - V380 : Webcam monitoring
+- Glance by Mirametrix
 
 ## Uninstalled Apps
+### Browser
 - Brave : browser
+
+### Graphics
 - Opentoonz
+
+### File Downloader
 - Persepolis : aria-based download manager (why: PyIDM is better and faster)
+
+### Note Taking
 - MindForger : note taking, zettelkasten, markdown (why: too complex)
 - AsciidocFX : note taking, asciidoc (why: asciidoc is rarely used)
-- Ubuntu : ubuntu on top Windows 10 (why: unstable, rarely used, storage limitation)
-- SAM (System Advisor Model) : PV System Planner (why: not used anymore)
-- rga ([Github Repo](https://github.com/phiresky/ripgrep-all)) : take huge database storage
-- kdenlive : video editor (inferior to hitman express)
-- draw.io : graphic editor (inferior to Visio)
 - Zettlr : note taking, zettelkasten, markdown (inferior to VNote)
-- Wincompose: text replacement (inferior to espanso)
+
+### File Tools
+- FormatFactory : file converter (inferior to File Converter)
 - TreeSize : file, folder, drive mapper (inferior to Wiztree)
+
+### File Search
+- rga ([Github Repo](https://github.com/phiresky/ripgrep-all)) : take huge database storage
+- DocFetcher : file content search (inferior to Agent Ranscak and Fileseek)
+- Everything : file search (inferior to Wizfile)
+
+### Video Editor
+- kdenlive : video editor (inferior to hitman express)
+
+### Computation
+- SAM (System Advisor Model) : PV System Planner (why: not used anymore)
+
+### Latex Editor
+- Texmaker : LaTex editor
+
+### Collaboration
+- Git
+
+## Writing Tools
+- Wincompose: text replacement (inferior to espanso)
+
+### Games
 - Steam : games platform (need more space than games)
     - Islanders
     - The Battle of Polytopia
 
+### Handwriting
+- livedraw : desktop handwriting (portable)
+
+### Islamic
+- OneQuran : complete Quran, hadith
+- Quran : simple Quran
+
+### Laptop Tools
+- Lenovo Pen Settings
+- Lenovo Service Bridge
+- Lenovo System Update
+- Lenovo Utility
+
 ## My Computer
+### Old Computer
 - IdeaPad C340-14API 9AID
 - Serial : MP1PVV78
 - Product number : 81N6009AID

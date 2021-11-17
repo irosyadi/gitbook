@@ -12,6 +12,9 @@ draft: false
 
 > list of interesting exobrain, second brain, zettelkasten or evergreen blogs
 
+## Second Brain
+[How to build a second brain as a software developer - Aseem Thakar](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/)
+
 ## Digital Garden Platform
 - [🎉 Welcome to Innos Note - Innos Note](https://innos.io/space/c1259ea0-2879-b587-916a-766a58fe9441?ps=c1259ea0-2879-b587-916a-766a58fe9441)
 

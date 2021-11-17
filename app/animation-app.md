@@ -39,3 +39,26 @@ draft: false
 
 ## Review
 - [Best Animation Software](https://all3dp.com/1/best-20-3d-animation-software/#smartbody)
+
+## Animation and Visualization
+- [ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://github.com/ManimCommunity/manim)
+- [Mafs: React components for math visualization](https://mafs.dev/)
+- [The Wick Editor](https://www.wickeditor.com/#/)
+- [Hackery, Math & Design — Acko.net](https://acko.net/)
+* [Home - manim documentation](https://3b1b.github.io/manim/index.html)
+* [ManimCommunity/manim: Animation engine for explanatory math videos](https://github.com/ManimCommunity/manim/)
+* [NISH1001/panim: Paradoxical ANIMation](https://github.com/NISH1001/panim)
+* [Wikunia/Javis.jl: Julia Animations and Visualizations](https://github.com/Wikunia/Javis.jl)
+* [leetanim](https://leetanim.com/)
+
+## Animation
+- [Mechanical Movement Animations](http://507movements.com/)
+- [Animations of Electrical Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
+
+
+## Animation in SVG
+- [Bestsnip Animation Studio](https://bestsnip.com/mobile/)
+- [Bestsnip Animation Studio](https://bestsnip.com/svg_animation/)
+
+## Animation Examples
+- [Brushless DC Motor Simulator](https://simulators.drbasheers.com/UCI/x497.6/motor/open_loop_no_pwm.html)

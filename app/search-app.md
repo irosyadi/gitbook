@@ -12,6 +12,7 @@ draft: false
 
 ## Map
 - [Searchengine Map](https://www.searchenginemap.com/)
+- [Gnod Search | Compare Search Engines](https://www.gnod.com/search/)
 
 ## Main Search Engines
 - [Google](https://www.google.com/)
@@ -23,7 +24,11 @@ draft: false
 - [Duck Duck Go](https://duckduckgo.com/) - privacy oriented search engine, powered by Bing
 - [Ecosia](https://www.ecosia.org/?c=en) - search engine which plant trees, powered by Bing
 - [Invinity Search](https://infinitysearch.co/) - privacy oriented search engine
-- [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines
+- [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines [down]
+- [Swisscows](https://swisscows.com/?culture=en)
+- [You.com](https://you.com/)
+- [Presearch](https://presearch.org/)
+- [MetaGer: Privacy Protected Search & Find](https://metager.org/)
 - [Startpage](https://startpage.com/) - meta search engine
 - [Private](https://private.sh/) - privacy oriented search engine using proxies
 - [Yacy](https://yacy.net/) - decentralized web search
@@ -48,6 +53,8 @@ draft: false
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
 - [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
+- [Marginalia Search](https://search.marginalia.nu/) Blog search
+- 
 
 ## Programmable Search Engine
 * [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk)

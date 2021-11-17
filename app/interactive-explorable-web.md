@@ -1,16 +1,16 @@
 ---
 layout: default
 author: irosyadi
-title:  Interactive and Explorable Websites
+title:  Interactive and Explorable Sites
 date: 2020-06-29 19:58:21
 category: app
 tags: ["interactive"]
 draft: false
 ---
 
-# Interactive and Explorable Website
+# Interactive and Explorable Sites
 
-## List of interactive Webs
+## Interactive Website
 - [NCase](https://ncase.me/)
   - [Loopy Tool](https://ncase.me/loopy/)
 - [Explorabe Explanation](https://explorabl.es/)
@@ -32,3 +32,26 @@ draft: false
 - [Mathigon](https://github.com/mathigon) : License MIT
     - [mathigon/mathigon.io: Mathigon's Open Source Website](https://github.com/mathigon/mathigon.io)
     - [Mathigon – Textbook of the Future](https://mathigon.org/)
+
+## Interactive 
+- [Neave Interactive](https://neave.com/)
+
+## Markup
+- [Idyll - A markup language for interactive and data-driven blogging.](https://idyll-lang.org/) : Make interactive web with just markup language (combined with markdown)
+    - [Idyll Documentation - An overview.](https://idyll-lang.org/docs)
+    - [Announcing idyll.pub](https://idyll.pub/post/announcing-idyll-pub-0a3eff0661df3446a915700d/)
+
+## Interactive
+- [Interactive Mathematics - Learn math while you play with it!](https://www.intmath.com/)
+- [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
+- [BetterExplained – Math lessons that click](https://betterexplained.com/)
+- [Viewing Matrices & Probability as Graphs](https://www.math3ma.com/blog/matrices-probability-graphs)
+- [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math)
+- [fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
+
+## Look Also
+- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
+- [Machine Learning Interactive Visualization](../research/ml-visualization.md)
+- [Interactive Books](../book/interactive-book.md)
+- [Data Visualization](../note/data-visualization.md)
+
