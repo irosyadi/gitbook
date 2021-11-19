@@ -49,6 +49,7 @@ draft: false
 - [HNProfile](https://hnprofile.com/) Hacker News profile and topic search
 - [Forum Search](https://forumsearch.io/) : HackerNews, Reddit*, IndieHacker, DEV.to, Lobste.rs content search
 - [DeepHN | powered by SeekStorm](https://deephn.org/) Deep search HN
+- [Morning Brief](https://morningbrief.ai/setup) : HackerNews, Reddit content search
 
 ## Hacker News RSS
 - [Hacker News RSS](https://hnrss.github.io/) : RSS for HN
@@ -81,11 +82,5 @@ draft: false
 ## Hacker News Browser Extension/Add-on
 - [Newsit](https://newsit.benwinding.com/) : reddit and HN comment in any links
 
-## eBook
-- [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
-
-## PUEBI
-- [PUEBI Js](https://puebi.js.org/)
-
-## Robot Simulation
-- [MuJoCo — Advanced Physics Simulation](https://mujoco.org/)
+## Hacker News Books
+- [HackerNews Books Recommendation](https://hacker-recommended-books.vercel.app/category/0/past-6-months/page/0/0)

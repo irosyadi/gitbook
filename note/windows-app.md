@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Awesome Windows Apps
+title:  Awesome List of Windows Apps
 date: 2020-08-05 20:34:24
 category: note
 tags: ["windows", "imron", "app"]
 draft: false
 ---
 
-# Awesome Windows Apps
+# Awesome List of Windows Apps
 
 This is a list of awesome apps for Windows 10.
 

@@ -23,6 +23,9 @@ draft: false
 ## Alternative Search Engines
 - [Duck Duck Go](https://duckduckgo.com/) - privacy oriented search engine, powered by Bing
 - [Ecosia](https://www.ecosia.org/?c=en) - search engine which plant trees, powered by Bing
+- [Nona ist eine private und werbefreie Suchmaschine](https://www.nona.de/) - Bing powered
+- [Fireball Suchmaschine](https://fireball.de/de)
+- [MetaGer: Privacy Protected Search & Find](https://metager.org/)
 - [Invinity Search](https://infinitysearch.co/) - privacy oriented search engine
 - [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines [down]
 - [Swisscows](https://swisscows.com/?culture=en)

@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Interactive and Explorable Sites
+title:  Awesome List of Interactive and Explorable Websites
 date: 2020-06-29 19:58:21
 category: app
 tags: ["interactive"]
 draft: false
 ---
 
-# Interactive and Explorable Sites
+# Awesome List of Interactive and Explorable Websites
 
 ## Interactive Website
 - [NCase](https://ncase.me/)

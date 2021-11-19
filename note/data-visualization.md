@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Data Visualization
+title:  Awesome List of Data Visualization
 date: 2020-12-21 09:29:32
 category: note
 tags: ["data", "visualization"]
 draft: false
 ---
 
-# Data Visualization
+# Awesome List of Data Visualization
 
 ## Visualization eBook
 - [Data Visualization by Kieran Healy](https://socviz.co/index.html#preface) License: -
@@ -40,6 +40,9 @@ draft: false
 
 ## Visualization Tools
 - [Data Visualization & Infographics Tools Directory — Cool Infographics](https://coolinfographics.com/tools-directory)
+- [https://rougier.github.io/python-visualization-landscape/landscape-colors.html](https://rougier.github.io/python-visualization-landscape/landscape-colors.html)
+- [Riverspirit's MPLG](https://everydayanchovies.github.io/mplg/mplg) MATPLOTLIB GUI
+
 
 ## Visualization Examples
 - [Visualization Periodic Table](https://letsandeepio.github.io/viz-method-table/) or [Visual Literacy](https://www.visual-literacy.org/periodic_table/periodic_table.html#)
@@ -81,12 +84,14 @@ draft: false
 
 ## Data Visualization
 - [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
+- [TextFrame](https://textframe.app/)
 
 ## Math Visualization
 - [Fourier Coefficients : MIT Mathlets](https://mathlets.org/mathlets/fourier-coefficients/)
 - [Mafs: React components for math visualization](https://mafs.dev/)
 - [Math Inspector - A visual programming environment for scientific computing with numpy and scipy](https://mathinspector.com/)
 
+---
 ## Look Also
 - [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
 - [Machine Learning Interactive Visualization](../research/ml-visualization.md)

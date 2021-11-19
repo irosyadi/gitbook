@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Machine Learning Interactive Visualization
+title:  Awesome List of Machine Learning Visualization
 date: 2020-12-21 09:20:46
 category: research
 tags: ["machine learning", "visualization", "interactive"]
 draft: false
 ---
 
-# Machine Learning Interactive Visualization
+# Awesome List of Machine Learning Visualization
 
 - [Distill Pub](https://distill.pub/) : Visualizing AI algorithms
     - [Activation Atlas](https://distill.pub/2019/activation-atlas/)
