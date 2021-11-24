@@ -41,11 +41,7 @@ draft: false
 - [Mandalagaba](https://www.mandalagaba.com/): draw mandala
 - [andala](https://www.aliciaunderhill.xyz/Andala/)
 
-## eBook
-- [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
 
+## Image Manipulation
+- [PINTR](https://javier.xyz/pintr/) Image to Plotter Drawing
 
-## Brain Interface Hardware
-- [OpenBCI | Home](https://openbci.com/)
-- [Ildaron/ironbci: Brain-Computer Interface, ADS1299 and STM32](https://github.com/Ildaron/ironbci)
-- [Low-cost brain computer interface for everyday use | Request PDF](https://www.researchgate.net/publication/354935534_Low-cost_brain_computer_interface_for_everyday_use)

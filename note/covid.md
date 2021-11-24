@@ -27,3 +27,26 @@ draft: false
 - [Innovation Challenge](https://www.innovationchallenge.com/)
 - [Interesting Engineering](https://interestingengineering.com/covid-19)
 - [MIT](https://innovation.mit.edu/c19rapidinnodash_mit-impact/)
+
+## Indonesia Covid
+- [Kawal Covid](https://kawalcovid19.id/)
+- [Peduli Lindungi](https://pedulilindungi.id/)
+- [Informasi Oksigen](https://oksigen.carrd.co/)
+- [Siranap](https://yankes.kemkes.go.id/app/siranap/)
+- [Warga Bantu Warga](https://www.wargabantuwarga.com/)
+- [Urun Daya Covid](https://urundayacovid.com/)
+- [HDN](https://www.hdn.or.id/)
+- [Covidtracker](https://covidtracker.pages.dev/home)
+
+## Covid Mutation Map
+- [Indonesia Phyoldynamics](https://www.gisaid.org/phylodynamics/indonesia/)
+
+## Covid
+- [Deep Learning applications for COVID-19 - Journal of Big Data - Full Text](https://journalofbigdata.springeropen.com/articles/10.1186/s40537-020-00392-9)
+- [Open Science Saves Lives: Lessons from the COVID-19 Pandemic - bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full)
+    - [Open Science Saves Lives: Lessons from the COVID-19 Pandemic - bioRxiv](https://www.biorxiv.org/content/10.1101/2020.08.13.249847v2.full)
+
+## CT Scan Covid
+- [Deep Learning for COVID-19 Diagnosis](https://sinews.siam.org/Details-Page/deep-learning-for-covid-19-diagnosis)
+    - [UBC-CIC/COVID19-L3-Net: COVID19-L3-Net](https://github.com/UBC-CIC/COVID19-L3-Net)
+

@@ -27,6 +27,8 @@ draft: false
 - [15.ai: Natural TTS with minimal data](https://15.ai/)
 - [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
 - [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
+- [Narration Box | Everything you need to engage your audience with voice and audio.](https://narrationbox.com/)
+- [per.quest | Play Audio of an Article](https://per.quest/)
 
 ## Study
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)

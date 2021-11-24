@@ -27,3 +27,4 @@ draft: false
 - [Browser Automation | Wildfire](https://wildfire.ai/)
 - [Automation Platform - Leading RPA Company | UiPath](https://www.uipath.com/)
 - [Bardeen.ai | Proactive Workflow Automation Tool](https://www.bardeen.ai/)
+- [Automa - Chrome Web Store](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)

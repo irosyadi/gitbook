@@ -125,7 +125,12 @@ draft: false
 - [HeSuVi download | SourceForge.net](https://sourceforge.net/projects/hesuvi/)
 - [Headphone 7.1 Surround Comparison (GSX vs SBX vs Atmos vs CMSS vs DH vs DTSH:X vs Sonic vs HRTF) - YouTube](https://www.youtube.com/watch?v=WlqpG2euh50)
 
-### [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
+## Signal Processing
+- [Free Online Audio Tests, Test Tones and Tone Generators](https://www.audiocheck.net/index.php)
+- [Spectro](https://calebj0seph.github.io/spectro/)
+- [img-encode - Convert an image to sound spectrum (image to sound)](https://alexadam.github.io/demos/img-encode/index.html)
+
+## [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
 
 **DSP: THEORY**  
 

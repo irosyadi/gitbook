@@ -10,30 +10,12 @@ draft: false
 
 # DNS and Domain Tools
 
-## Privacy Check
-Input: -
-Output: List data gathered
-
-- [IP Info](https://ipinfo.info/html/privacy-check.php)
-
-## IP Address Lookup
-Input: IP
-Output: Geolocation, Ownership
-
-- [IP-Address](https://www.ip-address.org/lookup/ip-locator.php)
-
 ## Whois
 - [IP-Address](https://www.ip-address.org/tracer/ip-whois.php)
 - [DNSQuery](https://dnsquery.org/whois/)
 
 ## DNS Query
 - [DNSQuery](https://dnsquery.org/dnsquery/)
-
-## Email Checker
-- [IP-Address](https://www.ip-address.org/verify/email-checker.php)
-
-## Email Tracer
-- [IP-Address](https://www.ip-address.org/tracker/trace-email.php)
 
 ## Public DNS
 - [Public DNS Info](https://public-dns.info/)
@@ -92,5 +74,37 @@ Output: Geolocation, Ownership
 
 ## Pentest
 - [Pentest-Tools.com | Powerful Pentesting Tools, Easy to Use](https://pentest-tools.com/home)
+
+## DNS  
+- [dnstwist - phishing domain scanner](https://dnstwist.it/)
+
+## Handshake DNS
+- [Access Handshake names - Namebase Learning Center](https://learn.namebase.io/starting-from-zero/how-to-access-handshake-sites)
+- [namebasehq/awesome-handshake: A collection of awesome things regarding the Handshake ecosystem.](https://github.com/namebasehq/awesome-handshake)
+
+## Dynamic DNS
+* [Free DDNS](https://freemyip.com/main)
+* [Free Dynamic DNS - Managed DNS - Managed Email - Domain Registration - No-IP](https://www.noip.com/)
+* [My Dyn Account](https://account.dyn.com/)
+* [Solusi IP Dynamic Indihome](https://ip-dynamic.com/)
+* [Free Dynamic DNS service - ClouDNS](https://asia.cloudns.net/dynamic-dns/)
+* [Dynamic DNS - EuroDNS](https://www.eurodns.com/dynamic-dns)
+- [FreemyIP](https://freemyip.com/update?token=973c1ba1468f0bbe24dbc1a5&domain=irosyadi.freemyip.com)
+    - [FreeMyIP-Help](https://freemyip.com/help?domain=irosyadi.freemyip.com&token=973c1ba1468f0bbe24dbc1a5)
+
+## DNS
+- [Public Suffix List](https://publicsuffix.org/) : TLD which  open to everybody in the world
+
+## DNS over HTTPS
+- [DoH Resolver](https://wiki.mozilla.org/Trusted_Recursive_Resolver#DNS-over-HTTPS_Prefs_in_Firefox)
+- [DoH Resolver at Github](https://github.com/curl/curl/wiki/DNS-over-HTTPS)
+
+## Port forwarding
+- A port forward is a way of making a computer on your home or business network accessible to computers on the internet, even though they are behind a router. ([portforward)](https://portforward.com/)
+- [Network Utilities](https://portforward.com/store/pfconfig.cgi)
+- [Duck DNS](https://www.duckdns.org/why.jsp): provide a public DNS server that anyone can get a subdomain and use one of our provided scripts to update their record(s).
+
+## Domain Name Search
+- [Domain Name Search | Instant Availability Check | TLD List | Price Comparison](https://domain.garden/)
 
 

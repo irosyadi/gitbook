@@ -57,6 +57,17 @@ List of Diagram Apps
 - [Playground • Diagwiz](https://diagwiz.io/playground/)
 - [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
 
-## Specific Apps
+## Neural Network Diagram
 - [NN-SVG](https://alexlenail.me/NN-SVG/index.html) : neural network and deep learning architecture diagram
+* [HarisIqbal88/PlotNeuralNet: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
+* [NN SVG](https://alexlenail.me/NN-SVG/)
+
+## Diagram
+- [ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG](https://github.com/ivanceras/svgbob) ASCII to SVG
+    - [Svgbob editor](https://ivanceras.github.io/svgbob-editor/)
+- [https://mbarkhau.keybase.pub/asciigrid/](https://mbarkhau.keybase.pub/asciigrid/) ASCII Grid
+- [ASCIIFlow](https://asciiflow.com/#/)
+- [Markdeep](https://casual-effects.com/markdeep/)
+- [Mœbius ANSI Art Editor](https://blocktronics.github.io/moebius/)
+- [Kroki!](https://kroki.io/) Programmable Diagram
 

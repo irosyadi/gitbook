@@ -38,7 +38,6 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [Making deep neural networks paint to understand how they work - by Paras Chopra - Towards Data Science](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
     * [paraschopra/abstract-art-neural-network: Generating abstract art through neural networks in PyTorch](https://github.com/paraschopra/abstract-art-neural-network)
 
-
 ## GAN
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
 
@@ -73,6 +72,7 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [TheseToonsDoNotExist](http://www.thesetoonsdonotexist.com/)
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
+- [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
 
 ## GAN Image Superresolution
 - [Cupscale](https://github.com/n00mkrad/cupscale)
@@ -147,3 +147,17 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
     - [Github](https://github.com/moein-shariatnia/Deep-Learning/tree/main/Image%20Colorization%20Tutorial)
     - [Tutorial](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8?source=friends_link&sk=e9d275985a6e00ada31e48ddc903fc9d) 
     - [Jupyter in Colab](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
+
+
+## Art Generation
+- [Art by an AI | A daily prompt competition. Alice the AI generates images of the top 10 winning prompts each day.](https://artbyanai.com/)
+- [NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-gb/studio/canvas/)
+
+## Machine Learning: Image Generator
+* [Same Energy Beta](https://same.energy/about)
+* [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
+
+## Text to Image Generation
+* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
+* [Weights & Biases – Developer tools for ML](https://wandb.ai/site)
+* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)

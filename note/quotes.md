@@ -52,3 +52,10 @@ draft: false
 
 ## Collection
 - [Murphy Laws Site - The origin and laws of Murphy in one place.](http://www.murphys-laws.com/)
+
+## Education
+> The biggest benefit from education isn't facts, its the research and critical thinking skills you develop.
+> The primary thing you should be deriving from your university education is how to conduct effective critical analyses.
+> You're learning how to learn. While also getting some useful field-specific information out of it.
+> Structure and standards.  Finding the right information, in the right order isn’t easy for everyone.
+> Education isn't really about acquiring information; its about learning methods to engage with materials and information to draw conclusions and then express further possibilities in written and spoken form.

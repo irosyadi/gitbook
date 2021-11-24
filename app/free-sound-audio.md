@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Free Sound and Audio
+title:  Free Sound, Music, and Audio
 date: 2021-05-23 12:09:21
 category: category
 tags: ["free", "sound", "audio"]
 draft: false
 ---
 
-# Free Sound and Audio
+# Free Sound, Music, and Audio
 
 - [Freesound.org](https://freesound.org/)
     - [Freesound Lab](https://labs.freesound.org/)
@@ -32,3 +32,23 @@ draft: false
 - [Nihilore](http://www.nihilore.com/)
 - [Musopen](https://musopen.org/)
 - [Open Game Art](https://opengameart.org/)
+- [Joseph Mc Dade](https://josephmcdade.com/music)
+
+## Sound: Ambient
+* [Sounds For Sleep](https://sounds4sleep.com/#0)
+* [Ambient rain simulator for pluviophiles. Relaxing sound of rain.](https://pluvior.com/)
+* [Defonic | A fabulous ambient noise generator](https://defonic.com/)
+* [Online Background Noises • Relaxing Sounds • Noise Masking](https://noises.online/)
+* [A Soft Murmur](https://asoftmurmur.com/)
+* [Custom SoundPad - Tabletop Audio](https://tabletopaudio.com/custom_sp.html)
+- [Defonic | A fabulous ambient noise generator](https://defonic.com/)
+
+## Ambient Music
+- [Focusli - lofi music to relax/study to](https://www.focusli.com/)
+- [Focus at Work • Relax at Home • Sleep at Night | myNoise ®](https://mynoise.net/)
+
+## Sound
+- [Centuries of Sound](https://centuriesofsound.com/)
+
+## Birdsong Dataset
+- [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)

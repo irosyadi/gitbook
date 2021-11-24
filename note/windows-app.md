@@ -166,6 +166,7 @@ This is a list of awesome apps for Windows 10.
 - GPL Ghostscript : pdf rendering engine
 - Free PDF Compressor : pdf compressor
 - PDF Reader by Xodo : pdf reader (reflow, rotate), pdf compressor, pdf anotation (comment, type, draw, sign, stamp), pdf editor (split, rearrange)
+- PDF24 : the most complete pdf editor
 
 ## Latex Editor
 - MiKTex : LaTex engine
@@ -225,7 +226,7 @@ This is a list of awesome apps for Windows 10.
 - WinMTRCmd : ping and trace route (portable, direct, terminal)
 - gping : graphic ping (portable, direct, terminal)
 - speedtest : network speed test (portable, direct, terminal)
-- HostsMan : host file editor
+- HostsMan (hm) : host file editor
 - Hosts File Editor : host file editor
 - Telerik Fiddler : web debug
 - IPFS Desktop* : decentralized file system
@@ -292,6 +293,7 @@ This is a list of awesome apps for Windows 10.
 - BabelMap : unicode character
 - V380 : Webcam monitoring
 - Glance by Mirametrix
+- BlueStacks : Android Emulator
 
 ## Uninstalled Apps
 ### Browser

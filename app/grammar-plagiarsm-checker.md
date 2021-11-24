@@ -72,6 +72,10 @@ draft: false
 - [Grammarly Plagiarism Checker](https://www.grammarly.com/plagiarism-checker)
 - [Quetext](https://www.quetext.com/)
 - [Plagly](https://plagly.com/)
+- [Plagramme.com plagiarism checker](https://www.plagramme.com/)
+- [Plagiarisma | Plagiarism Checker](http://plagiarisma.net/)
+- [free plagiarism checker ::: plagium](https://www.plagium.com/en/plagiarismchecker)
+- [Plagiarism Checker | 100% Free and Accurate - Duplichecker.com](https://www.duplichecker.com/)
 
 ## Writing Tips
 - [Writing Well](http//www.julian.com/guide/write/intro)

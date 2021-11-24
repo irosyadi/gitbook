@@ -34,11 +34,28 @@ draft: false
 - [Pixabay](https://pixabay.com/)
 - [Alamy – Stock Photos, Stock Images & Vectors](https://www.alamy.com/)
 - [Artvee](https://artvee.com/)
+- [illlustrations - open source illustrations kit](https://illlustrations.co/)
+- [Free to Use Clip Art Images & Vector Illustrations | ManyPixels](https://www.manypixels.co/gallery)
+- [Free Illustrations Vector Commercial Use - SVG Illustrations](https://lukaszadam.com/illustrations)
 
 ## Free Animation Asset
 - [Piskelapp](https://www.piskelapp.com/) free online editor for animated sprites & pixel art
 - [Free Game art](https://www.gameart2d.com/)
 - [Spriteland](https://www.spriteland.com/)
 
+## Free Icons
+* [Iconduck](https://iconduck.com/)
+* [sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)
+* [IconSear.ch: Instant icon search for SVG icons](https://iconsear.ch/search.html)
+* [Icon Sources - Icon Search](https://iconsear.ch/sources/index.html)
+* [VectorLogoZone/logosearch: LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.](https://github.com/VectorLogoZone/logosearch)
+
 ## Presentation
 - [Slidesgo](https://slidesgo.com/) Free powerpoint and Google Slide template
+
+## Free Resources for Developer
+- [255kb/stack-on-a-budget: A collection of services with great free tiers for developers on a budget. Sponsored by Mockoon, the best mock API tool. https://mockoon.com](https://github.com/255kb/stack-on-a-budget)
+- [hilmanski/freeStuffDev](https://github.com/hilmanski/freeStuffDev)
+- [Free for developers](https://free-for.dev/#/)
+- [Free Dev Stuff](https://freestuff.dev/)
+- [Free for developers](https://free-for.dev/#/)

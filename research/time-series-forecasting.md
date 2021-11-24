@@ -148,3 +148,30 @@ top open source deep learning for time series forecasting frameworks.
     - [nickpoison/tsa4: R code for Time Series Analysis and Its Applications, Ed 4](https://github.com/nickpoison/tsa4)
 - [Time Series: A Data Analysis Approach Using R](https://www.stat.pitt.edu/stoffer/tsda/)
 - [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/index.htm) engineering statistics
+
+## Timeseries Forecasting
+- [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)
+- [alan-turing-institute/sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
+- [unit8co/darts: A python library for easy manipulation and forecasting of time series.](https://github.com/unit8co/darts)
+- [Time Series Forecasting | Machine Learning | Amazon Forecast](https://aws.amazon.com/forecast/?nc1=h_ls)
+- [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)
+
+## Timeseries Forecasting Book
+- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)
+- [Introduction to Time Series and Forecasting | SpringerLink](https://link.springer.com/book/10.1007/978-3-319-29854-2)
+- [Amazon.com: Practical Time Series Analysis: Prediction with Statistics and Machine Learning: 9781492041658: Nielsen, Aileen: Books](https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/?language=en_US)
+- [Amazon.com: An Introduction to High-Frequency Finance: 9780122796715: Gençay, Ramazan, Dacorogna, Michel, Muller, Ulrich A., Pictet, Olivier, Olsen, Richard: Books](https://www.amazon.com/Introduction-High-Frequency-Finance-Ramazan-Gen%C3%A7ay/dp/0122796713/?currency=USD&language=en_US)
+
+## Timeseries Forecasting Reading
+- [Time Series Analysis and Forecasting with ARIMA - kanoki](https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/)
+- [Makridakis Competitions - Wikipedia](https://en.wikipedia.org/wiki/Makridakis_Competitions)
+- [AileenNielsen/TimeSeriesAnalysisWithPython](https://github.com/AileenNielsen/TimeSeriesAnalysisWithPython)
+- [ARIMA Model - Complete Guide to Time Series Forecasting in Python | ML+](https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/)
+- [Aileen Nielsen Time Series Analysis PyCon 2017 - YouTube](https://www.youtube.com/watch?v=d3PtB5z9MyE)
+- [Time Series Analysis with Python Intermediate | SciPy 2016 Tutorial | Aileen Nielsen - YouTube](https://www.youtube.com/watch?v=JNfxr4BQrLk)
+- [Sorry ARIMA, but I’m Going Bayesian | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
+- [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+- [Hidden Markov Models - An Introduction | QuantStart](https://www.quantstart.com/articles/hidden-markov-models-an-introduction/)
+
+## Timeseries RNN
+- [Spice.ai](https://github.com/spiceai)

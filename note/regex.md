@@ -52,3 +52,7 @@ draft: false
 - [Regex for Noobs](https://www.janmeppe.com/blog/regex-for-noobs/) : regex learn with visualization
 - [Python Regex Cheat sheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
 - [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)
+
+## Regex Alternative
+- [Nevod](https://nevod.io/#/playground)
+    - [nezaboodka/nevod: Nevod is a language and technology for pattern-based text search.](https://github.com/nezaboodka/nevod)

@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Latex Apps
+title:  Awesome List of Latex Apps
 date: 2020-12-14 15:19:51
 category: research
 tags: ["latex"]
 draft: false
 ---
 
-# Latex Apps
+# Awesome List of Latex Apps
 
 ## Learn Latex
 - [Learn Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
@@ -49,4 +49,15 @@ draft: false
 
 ## Latex to HTML
 - [TeX4ht - TeX Users Group](https://tug.org/tex4ht/)
+
+## Latex Math
+- [MathDeck](https://prod.mathdeck.org/)
+
+## Latex , Markdown, and HTML
+- [Web Publications — LaTeX Style](https://goessner.github.io/mdmath/publication.html)
+- [GitHub - susam/texme: Self-rendering Markdown + LaTeX documents](https://github.com/susam/texme)
+
+## Pseudocode in Latex
+- [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
+    - [Latex example](https://es.overleaf.com/latex/examples/pseudocode-example/pbssqzhvktkj)
 

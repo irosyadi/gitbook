@@ -88,8 +88,6 @@ Note:
 - [Mean Average Precision (mAP) Explained | Paperspace Blog](https://blog.paperspace.com/mean-average-precision/)
 - [mAP (mean Average Precision) might confuse you! | by Shivy Yohanandan | Towards Data Science](https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2)
 
-
-
 ## Reference
 - [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 - [Metrics for Object Detection and Segmentation](https://kharshit.github.io/blog/2019/09/20/evaluation-metrics-for-object-detection-and-segmentation)
@@ -104,10 +102,27 @@ Note:
 - [Data Science in Medicine — Precision & Recall or Specificity & Sensitivity? | by Alon Lekhtman | Towards Data Science](https://towardsdatascience.com/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1)
 - [When Accuracy Isn’t Enough, Use Precision and Recall to Evaluate Classification Models | Built In](https://builtin.com/data-science/precision-and-recall)
 
-
-
-Multiclass Metrics
+## Multiclass Metrics
 - [Multi-Class Metrics Made Simple, Part I: Precision and Recall | by Boaz Shmueli | Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
 - [Beyond Accuracy: Precision and Recall | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 - [How to Calculate Precision, Recall, and F-Measure for Imbalanced Classification](https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
 - [Metrics to Evaluate your Machine Learning Algorithm | by Aditya Mishra | Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
+
+## Accuracy, Precision, Error
+- Accuracy is closeness of the measurements to a specific value
+  - More commonly, it is a description of systematic errors, a measure of statistical bias; low accuracy causes a difference between a result and a "true" value. ISO calls this trueness.
+  -  the accuracy of a measurement system is the degree of closeness of measurements of a quantity to that quantity's true value
+  - bias is the amount of inaccuracy
+- Precision is the closeness of the measurements to each other
+  - Precision is a description of random errors, a measure of statistical variability. 
+  - The precision of a measurement system, related to reproducibility and repeatability, is the degree to which repeated measurements under unchanged conditions show the same results.
+  - variability is the amount of imprecision
+
+Accuracy has two definitions:
+- More commonly, it is a description of systematic errors, a measure of statistical bias; low accuracy causes a difference between a result and a "true" value. ISO calls this trueness.
+- Alternatively, ISO defines accuracy as describing a combination of both types of observational error above (random and systematic), so high accuracy requires both high precision and high trueness.
+
+![Accuracy and Precision](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Accuracy_and_precision.svg/300px-Accuracy_and_precision.svg.png)
+
+Learn more:
+1. [POCD](https://blog.pocd.com.au/scientific/understanding-precision-accuracy-and-basic-statistics/)

@@ -44,6 +44,12 @@ draft: false
 - [eihli/image-table-ocr: Turn images of tables into CSV data. Detect tables from images and run OCR on the cells.](https://github.com/eihli/image-table-ocr)
 - [tabulapdf/tabula-java: Extract tables from PDF files](https://github.com/tabulapdf/tabula-java)
 - [artperrin/image2csv: Convert tables stored as images to an usable .csv file](https://github.com/artperrin/image2csv)
+- [Convert PDF to Excel online for free](https://www.onlineocr.net/pdftoexcel) OCR
+- [PDF to Excel Converter Free Online without Email](https://www.pdftoexcelconverter.net/) OCR
+- [PDF to Excel Online 100% Free. Secure. Anonymous](https://easypdf.com/pdf-to-excel) OCR
+- [PDF To Excel Converter – convert PDF to Excel online](https://www.ocr2edit.com/convert-to-excel)
+- [Convert PDF to XLS with character recognition online & free](https://online2pdf.com/convert-pdf-to-xls-with-ocr)
+- [OCR Recognize Text in PDF Online](https://www.sejda.com/ocr-pdf)
 
 ## Automatich Highlighting
 * [Ailight](https://anishthite.github.io/ailight/)

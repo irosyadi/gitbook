@@ -13,7 +13,11 @@ draft: false
 Pedoman ejaan untuk naskah bidang teknik elektro berdasarkan PUEBI. Pedoman ejaan berikut tidak menyebutkan pedoman ejaan selengkap PUEBI, akan tetapi hanya menyebutkan sebagian yang terkait dengan penulisan naskah bidang teknik elektro.  Apa yang disebutkan berikut dituliskan berdasarkan pengalaman membimbing penulisan naskah bidang teknik elektro.  
 
 ## Ringkasan Ejaan Benar dan Salah
-Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Sebagai ringkasan, konteks ejaan tidak disampaikan secara lengkap. Untuk memahami pedoman ejaan yang lebih lengkap silakan lanjutkan baca pada sub-bab berikutnya, atau silakan merujuk kepada [PUEBI Daring](https://puebi.readthedocs.io/en/latest/) atau [PUEBI.pdf](http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf).
+Berikut adalah ringkasan ejaan yang benar dan yang salah berdasarkan PUEBI. Sebagai ringkasan, konteks ejaan tidak disampaikan secara lengkap. Untuk memahami pedoman ejaan yang lebih lengkap silakan lanjutkan baca pada sub-bab berikutnya, atau silakan merujuk kepada:
+
+- [PUEBI Daring](https://puebi.readthedocs.io/en/latest/) atau 
+- [PUEBI.pdf](http://badanbahasa.kemdikbud.go.id/lamanbahasa/sites/default/files/PUEBI.pdf) atau
+- [PUEBI Js](https://puebi.js.org/)
 
 
 ### Penulisan Ejaan

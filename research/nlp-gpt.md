@@ -43,4 +43,18 @@ draft: false
 - [bkane1/gpt3-instruct-sandbox: Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API](https://github.com/bkane1/gpt3-instruct-sandbox)
 - [Twitter for Academic Research](https://developer.twitter.com/en/portal/petition/academic/is-it-right-for-you)
 
+## GPT
+- [OpenAI’s API Now Available with No Waitlist](https://openai.com/blog/api-no-waitlist/)
+
+# GPT Alternatives
+- [EleutherAI - text generation testing UI](https://6b.eleuther.ai/)
+- [Studio | AI21](https://studio.ai21.com/sign-up)
+
+## NLP
+- [Real-time Market Map - 180+ GPT-3 Examples, Demos, Apps, Showcase, and NLP Use-cases | GPT-3 Demo](https://gpt3demo.com/map)
+- [kingoflolz/mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax) Free GPT-J-6B
+    - [GPT-J “the open source cousin of GPT-3 everyone can use” | Hacker News](https://news.ycombinator.com/item?id=27727009)
+    - [Text Synth](https://bellard.org/textsynth/) demo
+    - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/) demo
+
 

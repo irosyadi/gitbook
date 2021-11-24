@@ -93,3 +93,31 @@ draft: false
     - Collaborative tools:  The first, and possibly most crucial phase in PBL, is to identify the problem. Before learners can begin to solve a problem, all members must understand and agree on the details of the problem. This consensus forms through collaboration and discussion. Example: Discussion Board, Moodle, Discord
     - Research tools. Once the problem has been identified, learners move into the second step of PBL: the information gathering phase. In this phase, learners research the problem by gathering background information and researching potential solutions. This information is shared with the learning team and used to generate potential solutions, each with supporting evidence. Example: Google, Wikipedia.
     - Presentation tools. The third most important phase of PBL is resolving the problem, the critical task is presenting and defending your solution to the given problem. Students need to be able to state the problem clearly, describe the process of problem-solving considering different options to overcome difficulties, support the solution using relevant information and data analysis. Being able to communicate and present the solution clearly is the key to the success of this phase as it directly affects the learning outcomes. Example: Google Presentation, Youtube
+
+## Learning
+### Case-based Learning
+- With case-based teaching, students develop skills in analytical thinking and reflective judgment by reading and discussing complex, real-life scenarios. 
+- Case studies are stories that are used as a teaching tool to show the application of a theory or concept to real situations. Dependent on the goal they are meant to fulfill, cases can be fact-driven and deductive where there is a correct answer, or they can be context driven where multiple solutions are possible. 
+- Case-based learning (CBL) is an established approach used across disciplines where students apply their knowledge to real-world scenarios, promoting higher levels of cognition. In CBL classrooms, students typically work in groups on case studies, stories involving one or more characters and/or scenarios.  The cases present a disciplinary problem or problems for which students devise solutions under the guidance of the instructor. 
+- CBL:
+    - Cases
+    - Questions:
+        - Assessment
+        - Diagnosis
+        - Recommendation/Action
+    - Team-discussions:
+        - Elaboration
+        - Emphasis
+
+Example of CBL  [National Center for Case Study Teaching in Science (NCCSTS)](https://sciencecases.lib.buffalo.edu/)
+[Case-based learning - EduTech Wiki](http://edutechwiki.unige.ch/en/Case-based_learning)
+[Case-Based Teaching | MGH Institute of Health Professions](https://www.mghihp.edu/faculty-staff-faculty-compass-teaching/case-based-teaching)
+
+### Problem-based Learning
+- PBL consists of carefully designed problems that challenge students to use problem solving techniques, self-directed learning strategies, team participation skills, and disciplinary knowledge.
+
+### CBL vs PBL
+- PBL involves open rather than guided inquiry, is less structured, and the instructor plays a more passive role. In PBL multiple solutions to the problem may exit, but the problem is often initially not well-defined. PBL also has a stronger emphasis on developing self-directed learning.
+
+### Reference
+- [CBL and PBL](https://poorvucenter.yale.edu/strategic-resources-digital-publications/strategies-teaching/case-based-learning#:~:text=Case-based%20learning%20(CBL),cognition%20(see%20Bloom's%20Taxonomy).&text=CBL%20has%20several%20defining%20characteristics,and%20efficient%20self-guided%20learning.)
