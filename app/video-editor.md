@@ -20,7 +20,8 @@ draft: false
 - [akon47/ScreenRecorder: ⏺️ A simple recording program with the ability to record screens and audio on your computer.](https://github.com/akon47/ScreenRecorder)
 
 ## WebAsm
-- [Vididoo](https://vididoo.vercel.app/) Video Editor
+- [Vididoo](https://vididoo.vercel.app/) WASM Video Editor
+- [VidMix.app](https://vidmix.app/) WASM Video Editor
 
 ## Video
 - [Video Hub App | Video Hub App](https://videohubapp.com/en/) Local Video looks like Youtube

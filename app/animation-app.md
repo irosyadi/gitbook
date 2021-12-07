@@ -36,6 +36,7 @@ draft: false
 ## Online Animation Editor
 - [Animatron](https://www.animatron.com/) Online Animation Editor
 - [Tween UI](https://tweenui.com/animator/)
+- [vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib)
 
 ## Review
 - [Best Animation Software](https://all3dp.com/1/best-20-3d-animation-software/#smartbody)

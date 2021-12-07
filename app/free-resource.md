@@ -21,6 +21,7 @@ draft: false
 - [Webpixels](https://webpixels.io/illustrations)
 - [Pixeltrue](https://www.pixeltrue.com/frontliner-heroes)
 - [Artify](https://www.artify.co/illustrations/)
+- [Free SVG Image & Icon. | SVG Silh](https://svgsilh.com/)
 
 ## Free Image
 - [Unsplash](https://unsplash.com/) free image
@@ -49,6 +50,8 @@ draft: false
 * [IconSear.ch: Instant icon search for SVG icons](https://iconsear.ch/search.html)
 * [Icon Sources - Icon Search](https://iconsear.ch/sources/index.html)
 * [VectorLogoZone/logosearch: LogoSear.ch and IconSear.ch: search through zillions of SVG logos/icons directly linked to their source repos.](https://github.com/VectorLogoZone/logosearch)
+* [Free Vector Icons and Stickers - PNG, SVG, EPS, PSD and CSS](https://www.flaticon.com/)
+* [Noun Project: Free Icons & Stock Photos for Everything](https://thenounproject.com/)
 
 ## Presentation
 - [Slidesgo](https://slidesgo.com/) Free powerpoint and Google Slide template

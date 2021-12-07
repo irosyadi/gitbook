@@ -31,6 +31,8 @@ draft: false
 ## Image to Latex Converter
 * [Mathpix Snip](https://mathpix.com/) : free for 50 snip/month
 * [Scribble My Science : We generate LaTeX from your images](https://scribblemyscience.com/index) : free
+* [i2OCR - Free Online Math Equation OCR](https://www.i2ocr.com/free-online-math-equation-ocr)
+* [Online JPG to TEX Converter | Free GroupDocs Apps](https://products.groupdocs.app/conversion/jpg-to-tex)
 
 ## Offline Latex Editor
 - [LatexDraw](http://latexdraw.sourceforge.net/) : LaTeXDraw is a graphical drawing editor for LaTeX. LaTeXDraw can be used to 1) generate PSTricks code; 2) directly create PDF or PS pictures.

@@ -16,6 +16,7 @@ draft: false
 ## E-book search engine (libgen)
 - [http://185.39.10.101/](http://185.39.10.101/)
 - [genlib.rus](https://gen.lib.rus.ec)
+- [libgen.fun](https://libgen.fun/)
 - [libgen.rs](https://libgen.rs/)*
 - [libgen.is](http://libgen.is/)*
 - [libgen.st](http://libgen.st/)*
@@ -38,6 +39,7 @@ draft: false
 * [Library Genesis](https://libgen.fun/)
 * [IPFS Free Library - freeread.org](https://freeread.org/ipfs/)
 * [IPFS Cluster - Collaborative Clusters | IPFS Cluster](https://collab.ipfscluster.io/)
+- [Library Genesis](https://libgen.fun/dweb.html) Libgen on IPFS
 
 ## Technical standard search engine
 - [standarts](https://libgen.lc/standarts/index.php)

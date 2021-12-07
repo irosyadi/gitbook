@@ -38,8 +38,11 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [Making deep neural networks paint to understand how they work - by Paras Chopra - Towards Data Science](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
     * [paraschopra/abstract-art-neural-network: Generating abstract art through neural networks in PyTorch](https://github.com/paraschopra/abstract-art-neural-network)
 
-## GAN
+## GAN Project/Paper
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
+- [AI Demos | NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
+- [HyperStyle](https://yuval-alaluf.github.io/hyperstyle/) StyleGAN Inversion
+- [Pollinations.AI](https://old.pollinations.ai/)
 
 ## Style GAN
 * [Making Anime Faces With StyleGAN · Gwern.net](https://www.gwern.net/Faces?ref=mlnews#examples)
@@ -73,6 +76,7 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
 - [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
+- [Fakelish](https://fakelish.nwtgck.org/) Fake English Words
 
 ## GAN Image Superresolution
 - [Cupscale](https://github.com/n00mkrad/cupscale)
@@ -123,6 +127,9 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [UJI Generative Arts](https://doersino.github.io/uji/)
 - [Generative arts](https://opinionatedguide.github.io/#/Design/d5-gen)
 - [mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
+- [4K Desktop wallpaper generator](https://tanck.nl/wallpaper/)
+- [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
+- [https://www.artbreeder.com/landing_page/](https://www.artbreeder.com/landing_page/)
 
 
 ## Music Generation
@@ -136,6 +143,9 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [Real-time Performance RNN in the Browser](https://magenta.tensorflow.org/performance-rnn-browser)
 - [GRUV: Algorithmic Music Generation using Recurrent Neural Networks - Aran Nayebi](https://sites.google.com/site/anayebihomepage/cs224dfinalproject)
     - [MattVitelli/GRUV: GRUV is a Python project for algorithmic music generation.](https://github.com/MattVitelli/GRUV)
+
+## Video Generation
+- [Hyperchroma](https://hyperchroma.app/) A music player that creates real-time music videos (hyperchroma.app)
 
 ## Colorization
 - Pix2pix vs CycleGAN
@@ -161,3 +171,7 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
 * [Weights & Biases – Developer tools for ML](https://wandb.ai/site)
 * [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
+
+
+## Image Generation Detector
+- [AI Generated Image Detector](https://www.galeras.io/)

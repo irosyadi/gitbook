@@ -59,3 +59,9 @@ draft: false
 > You're learning how to learn. While also getting some useful field-specific information out of it.
 > Structure and standards.  Finding the right information, in the right order isn’t easy for everyone.
 > Education isn't really about acquiring information; its about learning methods to engage with materials and information to draw conclusions and then express further possibilities in written and spoken form.
+
+## Metric
+> Any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.
+- Goodhart's law
+> When a measure becomes a target, it ceases to be a good measure.
+-  Goodhart's law by Marilyn Strathern 

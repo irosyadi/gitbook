@@ -177,6 +177,7 @@ draft: false
 * [bitcoinbook/bitcoinbook: Mastering Bitcoin 2nd Edition - Programming the Open Blockchain](https://github.com/bitcoinbook/bitcoinbook)
 * [barbagroup/AeroPython: Classical Aerodynamics of potential flow using Python and Jupyter Notebooks](https://github.com/barbagroup/AeroPython)
 * [barbagroup/CFDPython: A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/](https://github.com/barbagroup/CFDPython)
+* [The Joy of Cryptography](https://joyofcryptography.com/) License: CC-BY-NC
 
 ## CS eBooks
 - [Colin Stebbins Gordon Open CS Book List](https://csgordon.github.io/books.html)

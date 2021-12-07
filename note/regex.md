@@ -17,6 +17,7 @@ draft: false
 - [Rexegg](https://rexegg.com/) : regex learning
 - [Regexbuddy](https://www.regexbuddy.com/)
 - [RegExr: Learn, Build, & Test RegEx](https://regexr.com/) : online tool to learn, build, & test regex
+- [py_regular_expressions/interactive_exercises at master · learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
 
 ## Regex Testing
 - [Debuggex](https://www.debuggex.com/)

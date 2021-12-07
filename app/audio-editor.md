@@ -15,3 +15,6 @@ draft: false
 
 ## Online
 - [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)
+
+## Audio Programming Language
+- [maximecb/noisecraft: Browser-based visual programming language and platform for sound synthesis.](https://github.com/maximecb/noisecraft)
