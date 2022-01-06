@@ -605,7 +605,7 @@ _underline, fail in Gitbook and Gatsby_
 ==highlight, fail in Gitbook and Gatsby==  
 _underline, fail in Gitbook and Gatsby_  
 
-## 19. Task Lists
+## 19. Task Lists (Checkbox, Tick Mark)
 
 ***markdown***
 ```md

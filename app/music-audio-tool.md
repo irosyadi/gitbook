@@ -64,8 +64,7 @@ Benefits/drawbacks:
 
 Use cases:
 
-- Record Zoom Webinar to Audacity
-- Transcribe Zoom Webinar to Speechtexter, Google Docs etc.
+- Record Zoom Webinar to Speechtexter, Google Docs etc.
 
 ### Audio Input Mixing
 
@@ -73,16 +72,27 @@ Use cases:
 
 Use cases:
 
-- Record with multiple input (our voice + music from AIMP) to Audacity
+- Record with multiphttps://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023055947660_4903.pngP) to Audacity
 - Broadcast with multiple input (our voice + music from AIMP) to Zoom, Youtube etc.
 
 ### Audio Output Mixing
 
 ![Audio Output Mixing](_v_images/20211023060503358_26770.png)
 
+
+Setting:
+
+- OS Sound Setting
+    - Outphttps://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023060503358_26770.pngine 1 VAC Microphone
+- VAC Repeater Setting
+    - Wave in: Line 1 VAC Microphone
+    - Wave out: Speaker/Headphone
+    - Start
+
 Use cases:
 
 - Transcribe (and listen) Zoom Seminar to Speaker and Speechtexter, Google Docs
+- Translate Youtube Video using Google Translate
 
 ### Zoom Audio Recording/Transcription
 
@@ -90,8 +100,7 @@ Use cases:
 
 ### Google Meet Audio Transcription
 
-- Open Google Meet, using default Mic
-- Open Speechtexter, using default Mic
+- Open Google Meet, usihttps://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023061101034_12558.pngsing default Mic
 
 But we cannot do both Speechtexter and Google Docs
 We cannot do both Speechtexter and Voice Note

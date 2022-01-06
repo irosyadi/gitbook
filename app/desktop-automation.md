@@ -28,3 +28,5 @@ draft: false
 - [Automation Platform - Leading RPA Company | UiPath](https://www.uipath.com/)
 - [Bardeen.ai | Proactive Workflow Automation Tool](https://www.bardeen.ai/)
 - [Automa - Chrome Web Store](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
+- [Browser Automation, Data Extraction and Web Testing | Progress iMacros](https://www.progress.com/imacros)
+- [Kholid060/automa: A chrome extension for automating your browser by connecting blocks](https://github.com/Kholid060/automa)

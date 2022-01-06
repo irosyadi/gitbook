@@ -54,17 +54,21 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [colinrsmall/ehm_faces](https://github.com/colinrsmall/ehm_faces)
 * [StyleGAN versions](https://nvlabs.github.io/stylegan2/versions.html)
 * [t04glovern/stylegan-pokemon: Generating Pokemon cards using a mixture of StyleGAN and RNN to create beautiful & vibrant cards ready for battle!](https://github.com/t04glovern/stylegan-pokemon)
+
+
+## Paper
 * [2011.05552End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks](https://arxiv.org/abs/2011.05552)
 * [1812.04948 A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
+* [EditGAN](https://nv-tlabs.github.io/editGAN/)
 
 ### This Thing Does Not Exist
-* [This eye does not exist](https://thiseyedoesnotexist.com/story/)
-* [This vessel does not exist.](https://thisvesseldoesnotexist.com/#/)
-* [EvgenyKashin/ganarts: This T-shirt does not exist](https://github.com/EvgenyKashin/ganarts)
-* [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
-* [Finca Es Cormó di Friendly district - Guest suites for Rent](https://thisrentaldoesnotexist.com/)
-* [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-* [This Music Video Does Not Exist](https://www.thismusicvideodoesnotexist.com/)
+- [This eye does not exist](https://thiseyedoesnotexist.com/story/)
+- [This vessel does not exist.](https://thisvesseldoesnotexist.com/#/)
+- [EvgenyKashin/ganarts: This T-shirt does not exist](https://github.com/EvgenyKashin/ganarts)
+- [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
+- [Finca Es Cormó di Friendly district - Guest suites for Rent](https://thisrentaldoesnotexist.com/)
+- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
+- [This Music Video Does Not Exist](https://www.thismusicvideodoesnotexist.com/)
 - [hic et nunc - hic et nunc](https://www.hicetnunc.xyz/AIREGAN)
 - [https://www.aire-gan.com](https://www.aire-gan.com/)
 - [This sneaker does not exist](https://thissneakerdoesnotexist.com/)
@@ -81,11 +85,10 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 ## GAN Image Superresolution
 - [Cupscale](https://github.com/n00mkrad/cupscale)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
+- [hi, generate with your photo](https://filter.mot.omg.lol/)
 
 ## GAN
 - [Making Anime Faces With StyleGAN · Gwern.net](https://www.gwern.net/Faces)
-
-
 
 ## Style-GAN
 * [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)

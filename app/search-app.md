@@ -10,6 +10,9 @@ draft: false
 
 # Search Engine App
 
+## List
+- [Alternative search engines](https://fabform.io/a/alternative-search-engines)
+
 ## Map
 - [Searchengine Map](https://www.searchenginemap.com/)
 - [Gnod Search | Compare Search Engines](https://www.gnod.com/search/)

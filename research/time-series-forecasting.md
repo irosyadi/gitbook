@@ -112,6 +112,8 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Time-Series Forecasting with Facebook Prophet and OmniSci](https://www.omnisci.com/blog/time-series-forecasting-with-facebook-prophet-and-omnisci?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=time-series-forecasting-with-facebook-prophet-and-omnisci&utm_content=blog)
 - [Is Facebook's "Prophet" the Time-Series Messiah, or Just a Very Naughty Boy?](https://www.microprediction.com/blog/prophet), [HN Discussion](https://news.ycombinator.com/item?id=27695574)
 - [Kats | Kats](https://facebookresearch.github.io/Kats/)
+- [ourownstory/neural_prophet: NeuralProphet: A simple forecasting package](https://github.com/ourownstory/neural_prophet)
+- [NeuralProphet: The neural evolution of Meta’s Prophet](https://ai.facebook.com/blog/neuralprophet-the-neural-evolution-of-facebooks-prophet/)
 
 ## Note on Multivariate and Univariate
 - [On the Suitability of Long Short-Term Memory Networks for Time Series Forecasting](https://machinelearningmastery.com/suitability-long-short-term-memory-networks-time-series-forecasting/)
@@ -172,6 +174,11 @@ top open source deep learning for time series forecasting frameworks.
 - [Sorry ARIMA, but I’m Going Bayesian | Stitch Fix Technology – Multithreaded](https://multithreaded.stitchfix.com/blog/2016/04/21/forget-arima/)
 - [11 Classical Time Series Forecasting Methods in Python (Cheat Sheet)](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 - [Hidden Markov Models - An Introduction | QuantStart](https://www.quantstart.com/articles/hidden-markov-models-an-introduction/)
+- [Nixtla/nixtla: Automated time series processing and forecasting.](https://github.com/Nixtla/nixtla)
+- [Is Facebook's "Prophet" the Time-Series Messiah, or Just a Very Naughty Boy?](https://www.microprediction.com/blog/prophet)
+- [unit8co/darts: A python library for easy manipulation and forecasting of time series.](https://github.com/unit8co/darts)
+- [Introduction — statsmodels](https://www.statsmodels.org/stable/index.html)
+- [Benchmarking Facebook’s Prophet – Nikolaos Kourentzes](https://kourentzes.com/forecasting/2017/07/29/benchmarking-facebooks-prophet/)
 
 ## Timeseries RNN
 - [Spice.ai](https://github.com/spiceai)

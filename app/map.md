@@ -83,6 +83,7 @@ draft: false
 - [Live Cyber Threat Map](https://threatmap.checkpoint.com/) - Live map of cyberattacks.
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
 - [Missilemap](https://nuclearsecrecy.com/missilemap/) - Simulate of missile reaches
+- [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-53.74871,44.29688&extent=51.72703,258.04688&sort=largest&listOnlyShown=true) - earthquakes
 
 ## Historic
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.

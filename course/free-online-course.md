@@ -169,3 +169,5 @@ draft: false
 
 ## Course
 [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) ([deepmind.com](https://news.ycombinator.com/from?site=deepmind.com))
+
+- [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)

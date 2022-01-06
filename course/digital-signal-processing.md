@@ -61,6 +61,7 @@ draft: false
 - [willfehlmusic/Python_Sketchpads: Tutorial Python projects covering a number of topics. These are tutorials to make, certain concepts of interest, absolutely clear to the user.](https://github.com/willfehlmusic/Python_Sketchpads)
 - [Virtual Labs](http://vlabs.iitkgp.ernet.in/dsp/index.html)
 - [Lab 0 - Introduction to Module Set - Purdue Digital Signal Processing Labs (ECE 438) - OpenStax CNX](https://cnx.org/contents/0JSc5_LI@4.2:9mF_0fms@3/Lab-0-Introduction-to-Module-Set)
+- [Making sounds using SDL and visualizing them on a simulated oscilloscope. | NICK TASIOS](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
 
 
 ## Audio Programming

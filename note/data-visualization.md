@@ -88,6 +88,7 @@ draft: false
 
 ## Math Visualization
 - [Fourier Coefficients : MIT Mathlets](https://mathlets.org/mathlets/fourier-coefficients/)
+- [Fourier Cube](https://static.laszlokorte.de/fourier/)
 - [Mafs: React components for math visualization](https://mafs.dev/)
 - [Math Inspector - A visual programming environment for scientific computing with numpy and scipy](https://mathinspector.com/)
 

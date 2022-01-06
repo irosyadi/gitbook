@@ -32,6 +32,9 @@ draft: false
 - [Mathigon](https://github.com/mathigon) : License MIT
     - [mathigon/mathigon.io: Mathigon's Open Source Website](https://github.com/mathigon/mathigon.io)
     - [Mathigon – Textbook of the Future](https://mathigon.org/)
+- [Setosa data visualization and visual explanations](https://setosa.io/#/)
+    - [Explained Visually](https://setosa.io/ev/)
+
 
 ## Interactive Web
 
@@ -78,4 +81,7 @@ draft: false
 - [Machine Learning Interactive Visualization](../research/ml-visualization.md)
 - [Interactive Books](../book/interactive-book.md)
 - [Data Visualization](../note/data-visualization.md)
+
+## Interactive Tools
+- [Moos.app - Design tool for interactive content](https://moos.app/)
 

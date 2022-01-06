@@ -49,6 +49,8 @@ draft: false
 # GPT Alternatives
 - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/)
 - [Studio | AI21](https://studio.ai21.com/sign-up)
+- [GPT-3 open-source alternatives: GPT-Neo and GPT-J](https://nlpcloud.io/gpt-3-open-source-alternatives-gpt-j-gpt-neo.html)
+- [textcortex · PyPI](https://pypi.org/project/textcortex/)
 
 ## NLP
 - [Real-time Market Map - 180+ GPT-3 Examples, Demos, Apps, Showcase, and NLP Use-cases | GPT-3 Demo](https://gpt3demo.com/map)

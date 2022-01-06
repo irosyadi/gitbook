@@ -23,6 +23,10 @@ draft: false
 - [7 things I wish I had done during my PhD - Dr Veronika CH](https://veronikach.com/phd-advice/7-things-i-wish-i-had-done-during-my-phd/)
 - [Things You Are Allowed To Do, Academic Edition](https://bastian.rieck.me/blog/posts/2021/things/)
 
+## Critic to Higher Education
+- [I found that college fails to live up to being “The Great Equalizer” | Hacker News](https://news.ycombinator.com/item?id=29614837)
+
+
 ## PhD Management
 - Advisor should express his expectations for student finishing and tailoring those expectations to student career goals clear up front
 - Each time, make evaluation of those expectations
@@ -32,3 +36,5 @@ draft: false
     - 1 first author paper in a top-tier or second tier venue (goes in dissertation)
     - 1 collaborative paper with another PhD student (have to learn how to collaborate)
 - [PhD Guidelines](https://docs.google.com/document/d/11D3kHElzS2HQxTwPqcaTnU5HCJ8WGE5brTXI4KLf4dM/preview?pru=AAABdEuvtyI*GzkahQDc6258ENvVeY5r0w)
+- [Lessons from my PhD - Austin Z. Henley](https://web.eecs.utk.edu/~azh/blog/lessonsfrommyphd.html)
+- [10 reasons Ph.D. students fail](https://matt.might.net/articles/ways-to-fail-a-phd/)

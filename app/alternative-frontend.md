@@ -24,6 +24,7 @@ draft: false
 
 ## List
 - [mendel5/alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
+- [digitalblossom/alternative-frontends: Alternative privacy-respecting frontends for popular services](https://github.com/digitalblossom/alternative-frontends)
 - [Simple Web](https://simple-web.org/)
 
 ## Redirector

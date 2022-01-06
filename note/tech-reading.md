@@ -39,3 +39,30 @@ draft: false
 ## Reading Tips
 - [How I read books: a guide on how to learn](https://denzhadanov.com/how-i-read-books-a-guide-on-how-to-learn-a943123a4aeb)
 - [The Complete Guide to Effective Reading](https://maartenvandoorn.nl/reading-guide/)
+
+## ML Reading
+- [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- [The Great Bifurcation – Stratechery by Ben Thompson](https://stratechery.com/2021/the-great-bifurcation/)
+
+## Working
+- [How to lure employees back to the office? You can't. Not now. Not ever. | ZDNet](https://www.zdnet.com/article/they-really-arent-going-back-work-from-home-is-here-to-stay/)
+
+## Classless CSS
+- [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
+- [GDCSS - An accessible alternative to HTML5 CSS resets](https://gdcss.netlify.app/)
+- [BareCSS](http://barecss.com/)
+- [μ css framework](https://bafs.github.io/mu/)
+- [sakura: a minimal classless css framework / theme](https://oxal.org/projects/sakura/)
+- [holiday.css - a minimalist classless CSS theme](https://holidaycss.js.org/)
+- [Water.css](https://watercss.kognise.dev/)
+
+### List of Clasless CSS
+- [CSS Bed](https://www.cssbed.com/)
+- [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/)
+
+
+## Machine Learning
+- [ANN-Benchmarks](http://ann-benchmarks.com/) ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search
+
+## Search
+- [Talk to Books](https://books.google.com/talktobooks/) Fast Google Books content search

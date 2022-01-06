@@ -28,10 +28,13 @@ draft: false
 ## Command Line Calculator
 - [kalk - A flexible calculator that supports variables and functions defined by the user](https://kalk.strct.net/) web and desktop
 - [NoteCalc - A handy note taking app with built in calculator](https://bbodi.github.io/notecalc3/) in-browser calculator, WASM
+- [OpalCalc: A New Generation of Calculator](https://www.skytopia.com/software/opalcalc/)
+- [SpeedCrunch](http://speedcrunch.org/): user-defined variables, user functions, complex number, unit conversion, statistical functions, integer & bitwise arithmetic, basic math
 - [Instacalc](https://instacalc.com/)
 - [Lastcalc](http://lastcalc.org/)
 - [kalk](https://kalk.dev/) desktop
-- [Qalculate! - the ultimate desktop calculator](https://qalculate.github.io/)
+- [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.xyz/)
+- [Qalculate! - the ultimate desktop calculator](https://qalculate.github.io/) : symbolic calculation
 - [GitHub - mkulesh/microMathematics: microMathematics Plus - Extended visual calculator](https://github.com/mkulesh/micromathematics)
 - [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/)
     - [mkhan45/CalcuLaTeX-Web: Basic web frontend for CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX-Web)
