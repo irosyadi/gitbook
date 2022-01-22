@@ -34,6 +34,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Copy and Paste Symbols 🔥 HotSymbol](https://www.hotsymbol.com/)
 - [Unicode Lookup](https://unicode.emnudge.dev/)
 - [Basic Latin — ✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
+- [Unicode Search 😄](http://xahlee.info/comp/unicode_index.html)
 
 ## Emoji
 - [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
