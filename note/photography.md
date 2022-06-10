@@ -24,4 +24,4 @@ draft: false
 - [Tips Beginner](https://rainbowplantlife.com/tips-beginner-food-photographer-part-i/)
 
 ## Simulator
-- [Exposure Simulator](http://www.andersenimages.com/tutorials/exposure-simulator/)
+- [Exposure Simulator](https://www.andersenimages.com/tutorials/exposure-simulator/)

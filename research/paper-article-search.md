@@ -35,6 +35,11 @@ draft: false
 - [telegram](https://telegram.me/scihubot)
 - [Love Science,Love Sci-Hub! – The latest Sci-Hub working domain](https://lovescihub.wordpress.com/)
 
+## Article
+- [Distill — Latest articles about machine learning](https://distill.pub/)
+- [Xirva | Browse and Upload Scientific Papers on the Decentralised Web](https://www.xirva.org/)
+- [CVF Open Access](https://openaccess.thecvf.com/menu)
+
 
 
 

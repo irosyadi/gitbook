@@ -40,4 +40,4 @@ draft: false
 #### Link
 
 - [Octave Online](https://octave-online.net/)
-- [E-learning Unsoed](http://e-learning.unsoed.ac.id/course/view.php?id=626)
+- [E-learning Unsoed](https://e-learning.unsoed.ac.id/course/view.php?id=626)

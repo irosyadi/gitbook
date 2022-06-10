@@ -23,7 +23,7 @@ draft: false
 - [hneemann/Digital: A digital logic designer and circuit simulator.](https://github.com/hneemann/Digital)
 - [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
 - [SimulIDE](https://www.simulide.com/2020/09/simulide0413-released.html) : Real Time Electronic Circuit Simulator. With PIC, AVR and Arduino simulation.
-- [Home - QucsStudio](http://qucsstudio.de/)
+- [Home - QucsStudio](https://qucsstudio.de/)
 - [Digital Logic Sim by Sebastian Lague](https://sebastian.itch.io/digital-logic-sim)
 
 ## Electronic Diagram
@@ -45,7 +45,7 @@ draft: false
 - [Electronic Tutorials](https://www.electronics-tutorials.ws/)
 - [Learn Sparkfun](https://learn.sparkfun.com/)
 - [All About Circuits](https://www.allaboutcircuits.com)
-- [Talking Electronics](http://www.talkingelectronics.com/)
+- [Talking Electronics](https://www.talkingelectronics.com/)
 - [Learning the Art of Electronics: A Hands-on Approach | by Thomas C. Hayes](https://learningtheartofelectronics.com/)
 - [Electronics with Jim Fiore at MVCC](https://www2.mvcc.edu//users/faculty/jfiore/index.cfm)
 - [Electromagnetics, Volume 1](https://vtechworks.lib.vt.edu/handle/10919/84164)

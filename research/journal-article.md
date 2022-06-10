@@ -59,3 +59,7 @@ draft: false
 
 ## Journal Notes
 - [Publikasi Jurnal](https://teddit.net/r/indonesia/comments/myo5iq/faq_tentang_publikasi_ke_jurnal_dan_conferences/)
+
+## Journal Article Tools
+* [JournalGuide - Home](https://www.journalguide.com/)
+* [JournalSeek - A Searchable Database of Online Scholarly Journals](http://journalseek.net/)

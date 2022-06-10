@@ -28,7 +28,7 @@ draft: false
 - [Why We Should End the Data Economy - The Reboot](https://thereboot.com/why-we-should-end-the-data-economy/)
 - [Publish and Perish - The Intrinsic Perspective](https://erikhoel.substack.com/p/publish-and-perish)
 - [The Absurdity of Peer Review. What the pandemic revealed about… | by Mark Humphries | Jun, 2021 | Elemental](https://elemental.medium.com/the-absurdity-of-peer-review-1d58e5d9e661)
-- [Keep Your Identity Small](http://www.paulgraham.com/identity.html)
+- [Keep Your Identity Small](https://www.paulgraham.com/identity.html)
 - [The Systems Thinker – A Lifetime of Systems Thinking - The Systems Thinker](https://thesystemsthinker.com/a-lifetime-of-systems-thinking/)
 
 ## Article
@@ -50,7 +50,7 @@ draft: false
 ## Classless CSS
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 - [GDCSS - An accessible alternative to HTML5 CSS resets](https://gdcss.netlify.app/)
-- [BareCSS](http://barecss.com/)
+- [BareCSS](https://barecss.com/)
 - [μ css framework](https://bafs.github.io/mu/)
 - [sakura: a minimal classless css framework / theme](https://oxal.org/projects/sakura/)
 - [holiday.css - a minimalist classless CSS theme](https://holidaycss.js.org/)
@@ -62,7 +62,7 @@ draft: false
 
 
 ## Machine Learning
-- [ANN-Benchmarks](http://ann-benchmarks.com/) ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search
+- [ANN-Benchmarks](https://ann-benchmarks.com/) ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search
 
 ## Search
 - [Talk to Books](https://books.google.com/talktobooks/) Fast Google Books content search

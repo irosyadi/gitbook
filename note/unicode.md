@@ -25,6 +25,9 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Detexify LaTeX handwritten symbol recognition](https://detexify.kirelabs.org/classify.html)
 
 ## Unicode Search
+* [Copy Paste Dump](https://c.r74n.com/)
+* [Unicode Explorer](https://unicode-explorer.com/)
+* [Basic Latin — ✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search](https://unicodelookup.com/)
 - [Unicode Search](https://unicode-search.net/)
 - [Unicode Table](https://unicode-table.com/en/)

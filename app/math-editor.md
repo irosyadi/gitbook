@@ -36,10 +36,7 @@ draft: false
 - [kalker - A flexible calculator that supports variables and functions defined by the user](https://kalker.xyz/)
 - [Qalculate! - the ultimate desktop calculator](https://qalculate.github.io/) : symbolic calculation
 - [GitHub - mkulesh/microMathematics: microMathematics Plus - Extended visual calculator](https://github.com/mkulesh/micromathematics)
-- [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/)
-    - [mkhan45/CalcuLaTeX-Web: Basic web frontend for CalcuLaTeX](https://github.com/mkhan45/CalcuLaTeX-Web)
-    - [mkhan45/CalcuLaTeX: in progress pretty printing calculator language](https://github.com/mkhan45/CalcuLaTeX)
-    - [CalcuLaTeX](https://calcula.tech/)
+- [CalcuLaTeX](https://mkhan45.github.io/CalcuLaTeX-Web/): [mkhan45/CalcuLaTeX: in progress pretty printing calculator language](https://github.com/mkhan45/CalcuLaTeX), [CalcuLaTeX](https://calcula.tech/)
 - [engineerJS Calculation Tools for Engineers (r2175)](http://engineerjs.com/)
 
 ## Online Math Calculator

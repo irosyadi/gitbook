@@ -10,7 +10,12 @@ draft: false
 
 # Bandung Purwokerto
 
-## Travel
+## Jarak
+- Estimasi: Purbalingga - Bandung 279 km, 7 jam 45 menit perjalanan
+- Rute: 6 hr 53 min (356 km), via Jl. Tol Cikopo - Palimanan
+- Rute: 7 hr 48 min (279 km), via Jl. Nasional III
+
+## Travel Bandung Purwokerto
 - Daltrans Travel
     - Armada: Toyota Hiace, Luxio, Elf Long, dan APV Elf
     - Kontak Agen: Bandung (022 – 87308578) (081220023869), Purwokerto (081220023869), Bandung 081220023869
@@ -62,13 +67,13 @@ draft: false
     - Tarif Harga Tiket : Rp 110.000
     - Armada : Toyota Hiace
     - [Urban Transport](https://urbanstransport.co.id/)
-- Citra Trans
+- Citra Trans (Purwokerto+Purbalingga)
     - Armada: Avanza , Luxio, Innova, Isuzu Elf, Toyota Hiace
     - Tarif: 230000
     - Kontak Agen: Purwokerto 08112784325
     - Jadwal Purwokerto 06.00 12.00 16.00 21.00
     - Website: [Purwokerto Bandung PP Citra Trans](https://www.citratrans.com/travel-purwokerto-bandung/) [Travel Bandung Purwokerto PP Citra Trans](https://www.citratrans.com/travel-bandung-purwokerto/)
-- Sanjaya Travel
+- Sanjaya Travel (Purwokerto+Purbalingga)
     - Kontak Agen Purwokerto: 08112784360
     - Armada: Avanza, Luxio, Kijang Innova, Isuzu Elf, Hino Dutro
     - Tarif: 230.000
@@ -84,6 +89,46 @@ draft: false
     - Web: [Mitra Trans](https://mitratrans.co.id/purwokerto-bandung/)
     - Kontak Agen: 0811251191
     - Jadwal Purwokerto 19.00
+    
+## Travel Bandung Purbalingga
+- Eltrans Travel (Purwokerto+Purbalingga)
+    - Website: [Travel Purbalingga Bandung Antar Jemput - Eltrans Travel 085777779957](https://eltranstravel.com/travel-purbalingga-bandung/)
+    - Kontak: 085777779957
+    - Jadwal Purbalingga 07.00 13.00 19.00
+    - Jadwal Bandung 07.00 13.00 19.00
+    - Harga Tiket Rp.200.000
+- Citra Trans Travel  (Purwokerto+Purbalingga)
+    - Web: [Travel Purbalingga Bandung PP Harga Murah Booking Online - Citra Trans](https://www.citratrans.com/travel-purbalingga-bandung/)
+    - Kontak: 08112784325
+    - Jadwal Pagi : 06.00, Siang : 12.00/13.00, Sore : 16.00/17.00, Malam : 21.00    
+    - Rute: Purbalingga – Purwokerto – Majenang – Banjar – Ciamis – Tasikmalaya – Malangbong – Nagrek – Cicalengka – Cileunyi – Bandung
+    - Harga Tiket: 200.000
+- Sanjaya (Purwokerto+Purbalingga)
+    - Web: [Travel Purbalingga Bandung Harga Tiket Executive Murah - Sanjaya Tour](https://sanjayatour.com/travel-purbalingga-bandung/)
+    - Kontak: 08112784360
+    - Armada: Avanza, Luxio, Kijang Innova, Isuzu Elf, Hino Dutro
+    - Rute: Purbalingga | Purwokerto | Ajibarang | Majenang | Banjar Patroman | Ciamis | Tsikmalaya | Nagreg | Cileunyi | Bandung
+    - Jadwal: Jam 03.00, 06.00, 08.00, 11.00, 15.00, 18.00, 20.00
+    - Jadwal: 07.30 – 08.30, 18.30 – 20.00
+- Baritrans
+    - Web: [Baritrans - Tour & Travel](https://baritrans.com/index.php)    
+    - Rute: Purbalingga-Purwokerto
+    - Jadwal: 16.00
+    - Harga: 250000
+    - Kontak: 081227426127
+- Urbans (Purwokerto+Purbalingga)
+    - Web: [U' - Let's Go..](https://urbanstransport.co.id/#sq-tab-section)
+    - Jadwal: 06:00 | 18:00    
+    - Kontak Purwokerto 081 2211 8210, Bandung: 0821-2200-1010
+
+
+- Ayotrans:
+    - Web: [Travel Bandung Purbalingga (PP) | Order Online : 0811-355-099](https://ayotrans.com/tour/travel-bandung-purbalingga/)   
+    - Kontak:  0811355099
+    - Harga: 250000
+    - Jadwal: 07.00, 19.00
+    
+
 
 ## Bus
 - Bus Budiman (Bisnis Seat 2-2)

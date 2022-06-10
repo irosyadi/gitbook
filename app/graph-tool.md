@@ -18,8 +18,8 @@ draft: false
 
 ## Geometry
 * [GeoGebra | Free Math Apps - used by over 100 Million Students & Teachers Worldwide](https://www.geogebra.org/), [Geogebra Download](https://wiki.geogebra.org/en/Reference:GeoGebra_Installation)
-* [Mathematical Tool GCLC - Geometry Constructions -> LaTeX Converter](http://poincare.matf.bg.ac.rs/~janicic//gclc/)
-* [LaTeXDraw - A vector drawing editor for LaTeX](http://latexdraw.sourceforge.net/)
+* [Mathematical Tool GCLC - Geometry Constructions -> LaTeX Converter](http://poincare.matf.bg.ac.rs/~janicic//gclc/) 
+* [LaTeXDraw - A vector drawing editor for LaTeX](http://latexdraw.sourceforge.net/) LaTeXDraw is a graphical drawing editor for LaTeX. LaTeXDraw can be used to 1) generate PSTricks code; 2) directly create PDF or PS pictures. 
 * [The Ipe extensible drawing editor](http://ipe.otfried.org/)
 * [Eukleides home page – Overview](http://www.eukleides.org/overview.html)
 * [GNU Dr. Geo, be a geometer!](http://www.drgeo.eu/)

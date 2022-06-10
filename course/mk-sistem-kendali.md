@@ -20,13 +20,13 @@ draft: false
     - Kelas B : Ruang C-201, Selasa 10.40, 47 mhs
 
 ## Referensi
-- Norman S. Nise, Control Systems Engineering \[[website](http://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
+- Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
 - Richard C. Dorf and Robert H. Bishop, Modern Control Systems \[[website](https://www.pearson.com/us/higher-education/program/Dorf-Modern-Control-Systems-13th-Edition/PGM328731.html?tab=resources)\]
 - Farid Golnaraghi and Benjamin C. Kuo, Automatic Control Systems \[[website](https://www.accessengineeringlibrary.com/content/book/9781259643835)\]
 - Brian Douglas, The Fundamentals of Control Theory \[[website](https://www.patreon.com/briandouglas)\]\[[ebook](https://bit.ly/2XLlAKl)\]
 - Pao C. Chau, Process Control: A First Course With MATLAB \[[website](https://www.cambridge.org/id/academic/subjects/engineering/chemical-engineering/process-control-first-course-matlab?format=PB)\]
-- Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](http://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
+- Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
 - [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
@@ -41,7 +41,7 @@ draft: false
 
 ## Interactive Learning
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
-- [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+- [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Video
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)

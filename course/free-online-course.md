@@ -49,7 +49,7 @@ draft: false
 - [DeepCourse](https://arthurdouillard.com/deepcourse/)  License: Apache
 
 ## Linear Algebra
-- [MATH 42201/52201](http://www.math.kent.edu/~reichel/courses/intr.num.comp.1/syllabus.html)
+- [MATH 42201/52201](https://www.math.kent.edu/~reichel/courses/intr.num.comp.1/syllabus.html)
 - [Linear Algebra 2019 Fall](https://speech.ee.ntu.edu.tw/~hylee/la/2019-fall.html)
 
 ## Electrical Circuit Course Notes
@@ -123,7 +123,7 @@ draft: false
 
 ## Course
 - [CS 329S | Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
-- [CS230 Deep Learning](http://cs230.stanford.edu/)
+- [CS230 Deep Learning](https://cs230.stanford.edu/)
 
 
 ## Course
@@ -134,19 +134,19 @@ draft: false
 - [Applied Compositional Thinking for Engineers – Applied Compositional Thinking for Engineers](https://applied-compositional-thinking.engineering/)
 
 ## Distributed Systems
-- [Distributed Systems Course](http://www.distributedsystemscourse.com/)
+- [Distributed Systems Course](https://www.distributedsystemscourse.com/)
 
 ## Course
 * [lijqhs/deeplearning-notes: Notes for Deep Learning Specialization Courses led by Andrew Ng.](https://github.com/lijqhs/deeplearning-notes) License: MIT
 * [https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) Lecture Slides from the 2012 Stanford Coursera course
-* [ISLR Textbook Slides, Videos and Resources](http://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) Introduction to Statistical Learning: With Applications in R Lecture Slides and Videos
+* [ISLR Textbook Slides, Videos and Resources](https://fs2.american.edu/alberto/www/analytics/ISLRLectures.html) Introduction to Statistical Learning: With Applications in R Lecture Slides and Videos
 * [Entire Computer Science Curriculum in 1000 YouTube Videos - Laconicml](https://laconicml.com/computer-science-curriculum-youtube-videos/)
     * [Computer Science Currriculum in 1000 Videos (no Ads)](https://cs1000.vercel.app/)
 
 ## Fast.ai Online Course
-- [Practical Deep Learning for Coders](http://course.fast.ai/)
+- [Practical Deep Learning for Coders](https://course.fast.ai/)
 - [Part 2: Deep Learning from the Foundations](https://course19.fast.ai/part2)
-- [Practical Data Ethics](http://ethics.fast.ai/)
+- [Practical Data Ethics](https://ethics.fast.ai/)
 - [Computational Linear Algebra](https://github.com/fastai/numerical-linear-algebra/blob/master/README.md)
 - [Code-First Introduction to Natural Language Processing](https://www.fast.ai/2019/07/08/fastai-nlp/)
 

@@ -12,6 +12,10 @@ draft: false
 
 Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
+## Internal Link Reference
+[About Me](/blog/about-me)
+In VNote App `/blog/about-me` refer to `C://blog/about-me`
+
 ## Number and Bullet
 
 1. One
@@ -74,7 +78,7 @@ Here is the comment:
 </div>
 
 <div>
-<iframe src="http://eth0.me/" frameborder="0" width="100" height="50"</iframe>
+<iframe src="https://eth0.me/" frameborder="0" width="100" height="50"</iframe>
 </div>
 
 ## Image Hosting in Github

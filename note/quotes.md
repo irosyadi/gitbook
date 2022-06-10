@@ -122,3 +122,24 @@ If you can fill the unforgiving minute
 With sixty seconds’ worth of distance run—  
  Yours is the Earth and everything that’s in it,  
 And—which is more—you’ll be a Man, my son!
+
+
+## Will Rogers Phenomenon
+
+The Will Rogers phenomenon is obtained when moving an element from one set to another set raises the average values of both sets:
+
+_When the Okies left Oklahoma and moved to California, they raised the average intelligence level in both states._
+
+The effect will occur when both of these conditions are met:  
+
+- The element being moved is below average for its current set. Removing it will raise the average of the remaining elements.
+- The element being moved is above the current average of the set it is entering. Adding it to the new set will raise its average.
+
+## Judgement
+> My willingness to judge something should be proportional to how much I know about it.
+
+[My Seatbelt Rule for Judgment](https://www.dannyguo.com/blog/my-seatbelt-rule-for-judgment/)
+
+> Do not remove a fence until you know why it was put up in the first place.
+
+[Chesterton’s Fence: A Lesson in Second Order Thinking - Farnam Street](https://fs.blog/chestertons-fence/)

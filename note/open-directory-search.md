@@ -147,17 +147,17 @@ You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is m
 [https://odcrawler.xyz/](https://odcrawler.xyz/)
 [https://www.filechef.com/](https://www.filechef.com/)
 [https://opendirsearch.abifog.com/](https://opendirsearch.abifog.com/)
-[http://palined.com/search/](http://palined.com/search/)
+[https://palined.com/search/](https://palined.com/search/)
 [https://ewasion.github.io/opendirectory-finder/](https://ewasion.github.io/opendirectory-finder/)
 [https://open-directories.reecemercer.dev/](https://open-directories.reecemercer.dev/)
 [https://lumpysoft.com/](https://lumpysoft.com/)
 [https://www.eyeofjustice.com/od/](https://www.eyeofjustice.com/od/)
 [https://sites.google.com/view/l33tech/tools/ods](https://sites.google.com/view/l33tech/tools/ods)
-[http://lendx.org/](http://lendx.org/)
+[https://lendx.org/](https://lendx.org/)
 
 ### Archiving And Searching Engines:-
 [https://the-eye.eu/](https://the-eye.eu/) (archives and indexes Web Pages)
-[http://archive.ph/](http://archive.ph/) (archives web snapshots)
+[https://archive.ph/](https://archive.ph/) (archives web snapshots)
 [https://archive.org/](https://archive.org/) ( The Internet Archive)
 [https://archive.org/web/](https://archive.org/web/) (The Wayback Machine)
 

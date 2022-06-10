@@ -21,14 +21,14 @@ draft: false
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 
 ## Online Book
-- [CSA - Your Controls Resource](http://www.controlsystemsacademy.com/)
+- [CSA - Your Controls Resource](https://www.controlsystemsacademy.com/)
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
 - [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
 - [Linear Physical Systems Analysis](https://lpsa.swarthmore.edu/)
 
 ## Interactive Learning
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
-- [Umich Control Tutorials](http://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
+- [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Specific Topics
 - [Linear Physical Systems - Erik Cheever](https://lpsa.swarthmore.edu/)
@@ -60,19 +60,19 @@ draft: false
 
 ## Control Theory Interactive
 [ICCT](https://icct.cafre.unipi.it/)
-- Control Systems Academy - http://www.controlsystemsacademy.com/
+- Control Systems Academy - https://www.controlsystemsacademy.com/
 - CBE30338: https://jckantor.github.io/CBE30338/
 - Linear Physica l Systems Analysis: https://lpsa.swarthmore.edu/
 - Python in Education (Institute of Control Theory): https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en
-[Computational Methods for Control of Infinite-dimensional Systems | Institute for Mathematics and its Applications](http://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
+[Computational Methods for Control of Infinite-dimensional Systems | Institute for Mathematics and its Applications](https://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
 
 ## Python Control
 - [Python Control Systems Library — Python Control Systems Library dev documentation](https://python-control.readthedocs.io/en/latest/)
 - [mpc.pytorch: A fast and differentiable MPC solver for PyTorch](https://locuslab.github.io/mpc.pytorch/)
 
 ## Intelligent Control
-- [About the Book | DATA DRIVEN SCIENCE & ENGINEERING](http://www.databookuw.com/)
-    - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton http://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
+- [About the Book | DATA DRIVEN SCIENCE & ENGINEERING](https://www.databookuw.com/)
+    - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton https://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
     - [dylewsky/Data_Driven_Science_Python_Demos: IPython notebooks with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton](https://github.com/dylewsky/Data_Driven_Science_Python_Demos)
 
 

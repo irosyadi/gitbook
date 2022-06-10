@@ -181,3 +181,45 @@ Link:
 [9] Tepat dalam Mencari Informasi Digital
 [10] Buat Kreasi Inovasi Digital
  
+## Proyek: Pelatihan Kecakapan Literasi Digital
+
+Apa itu Literasi Digital?
+
+Literasi Digital adalah 
+
+- kemampuan dalam belajar, bekerja, dan hidup dengan menggunakan  teknologi digital (internet, media sosial, perangkat mobile) sebagai sarana komunikasi dan akses informasi.
+- kemampuan menemukan, menilai, dan menyampaikan informasi dengan menggunakan perangkat digital
+- pengetahuan dan kemampuan teknis untuk menggunakan teknologi komunikasi dan informasi untuk mencari, menilai, membuat, dan menyampaikan informasi
+
+Apa tujuan dari Literasi Digital
+
+- Masyarakat dapat meningkatkan kemampuan berpikir kreatif dan kritis dengan/dalam menggunakan teknologi informasi dan komunikasi
+- Masyarakat dapat mengembangkan inovasi dan meningkatkan kesejahteraan dengan menggunakan teknologi informasi dan komunikasi
+- Masyarakat dapat mengubah keadaan sosial dengan teknologi informasi dan komunikasi
+
+Apa saja ukuran Literasi Digital suatu masyarakat?
+
+- Budaya Digital (digital culture) 
+- Etika Digital (digital ethics) 
+- Kecakapan Digital (digital skill) 
+- Keamanan Digital (digital safety)
+
+Bagaimana cara meningkatkan kecakapan Literasi Digital masyarakat?
+
+- Pelatihan kecakapan literasi digital
+- Sosialisasi kesadaran dan kecakapan literasi digital
+
+Apa saja topik pelatihan dan sosialisasi Literasi Digital masyarakat?
+
+- Etika dan empati secara digital (termasuk anti cyberbullying, etika sharing).
+- Privasi dan keamanan digital (privasi online, keamanan data dan akses, malware dan phising, kesadaran jejak digital).
+- Hak dan kewajiban warga digital.
+- Kesehtan digital (pengaturan screen time, keseimbangan kehidupan online dan offline, mengatur identitas online, menjaga relasi online).
+- Kesadaran sebagai konsumen digital.
+- Menemukan dan memverifikasi informasi digital.
+- Membuat den mencampur konten digital.
+- Pedoman Berinternet Sehat
+- Kewirausahaan Digital
+- Dampak sosial media untuk anak dan remaja
+- Keamanan siber untuk bisnis online
+- Eksploitasi seksual pada internet

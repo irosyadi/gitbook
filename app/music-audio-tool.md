@@ -122,3 +122,8 @@ We can do both Zoom and Speechtexter/VoiceNote/Dictanote
 
 ##  Music Generation
 - [2108.12290 Music Composition with Deep Learning: A Review](https://arxiv.org/abs/2108.12290)
+
+## Audio Machine Learning
+- [tyiannak/pyAudioAnalysis: Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications](https://github.com/tyiannak/pyAudioAnalysis)
+- [librosa — librosa 0.8.1 documentation](https://librosa.org/doc/latest/index.html) python package for music and audio analysis
+- [Yaafe/Yaafe: Audio features extraction](https://github.com/Yaafe/Yaafe)

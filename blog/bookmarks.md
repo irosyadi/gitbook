@@ -158,7 +158,7 @@ draft: false
 - [SageMath](https://www.sagemath.org/)
 
 ## Python
-- [Python Tutor](http://www.pythontutor.com/)
+- [Python Tutor](https://www.pythontutor.com/)
 
 ## Embedded System
 - [Embedded System Course](http://ee402.eeng.dcu.ie/)

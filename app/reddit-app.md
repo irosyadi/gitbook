@@ -22,6 +22,7 @@ draft: false
 - [Scrolldit](https://www.scrolldit.com/)
 - [Teddit](https://teddit.net/) : open source, non-javascript
 - [Libreddit](https://libredd.it/) : private front end
+- [Simpleddit](http://www.simpleddit.com/)
 - [Reddium](https://reddium.vercel.app/) : reddium in medium like interface
 
 ## Reddit Images Frontends
@@ -34,6 +35,8 @@ draft: false
 - [Popular Pics](https://popular.pics/)
 - [Pholder](https://pholder.com/)
 - [Subredd](https://www.subredd.com)
+- [Redditery](http://www.redditery.com/)
+- [Reddit Image Viewer](https://reddit-image-viewer.vercel.app/)
 
 ## Reddit Videos Frontends
 - [Reddit TV](https://redditv.ca/)

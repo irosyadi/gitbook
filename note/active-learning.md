@@ -110,7 +110,7 @@ draft: false
         - Emphasis
 
 Example of CBL  [National Center for Case Study Teaching in Science (NCCSTS)](https://sciencecases.lib.buffalo.edu/)
-[Case-based learning - EduTech Wiki](http://edutechwiki.unige.ch/en/Case-based_learning)
+[Case-based learning - EduTech Wiki](https://edutechwiki.unige.ch/en/Case-based_learning)
 [Case-Based Teaching | MGH Institute of Health Professions](https://www.mghihp.edu/faculty-staff-faculty-compass-teaching/case-based-teaching)
 
 ### Problem-based Learning

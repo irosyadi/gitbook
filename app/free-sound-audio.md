@@ -52,3 +52,13 @@ draft: false
 
 ## Birdsong Dataset
 - [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)
+
+## Free Audio File
+* [Royalty Free Stock Music, Download Free MP3s for Videos | Mixkit](https://mixkit.co/free-stock-music/)
+* [Reshot | Free icons, illustrations & photos](https://www.reshot.com/?utm_source=mixkit&utm_campaign=mixkit-header)
+* [Freesound - tags](https://freesound.org/browse/tags/)
+* [Free Sound Effects Download - Pixabay](https://pixabay.com/sound-effects/)
+* [Download FREE Sound Effects](https://www.zapsplat.com/)
+* [Free SFX](https://freesfx.co.uk/Music.aspx)
+* [Royalty Free Background Music Downloads - Fesliyan Studios](https://www.fesliyanstudios.com/)
+* [Find sounds (Free Sound Effects) • BigSoundBank.com](https://bigsoundbank.com/search)

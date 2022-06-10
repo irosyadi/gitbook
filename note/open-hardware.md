@@ -35,8 +35,8 @@ draft: false
 - [Watchy by SQFMI | Watchy](https://watchy.sqfmi.com/)
 - [LibreCellular 21.04](https://librecellular.org/)
 - [cariboulabs/cariboulite: CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR](https://github.com/cariboulabs/cariboulite)
-- [Internet-in-a-Box](http://internet-in-a-box.org/) 💡 Pengabdian kepada Masyarakat
-- [IIAB/FAQ - OLPC](http://wiki.laptop.org/go/IIAB/FAQ)
+- [Internet-in-a-Box](https://internet-in-a-box.org/) 💡 Pengabdian kepada Masyarakat
+- [IIAB/FAQ - OLPC](https://wiki.laptop.org/go/IIAB/FAQ)
 - [FreedomBox - Personal Server at Home](https://freedombox.org/)
 
 ## Hardware
