@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  PDF Tools: Reader, Editor, and Converter
+title:  PDF Tools - Reader, Editor, and Converter
 date: 2020-06-16 16:11:58
 category: app
 tags: ["pdf", "editor"]
 draft: false
 ---
 
-# PDF Tools: Reader, Editor, and Converter
+# PDF Tools - Reader, Editor, and Converter
 
 ## Online
 - [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
