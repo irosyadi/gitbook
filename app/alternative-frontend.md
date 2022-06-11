@@ -13,6 +13,14 @@ draft: false
 💡 Alternative frontends offer ad-free and light browsing experiences.  
 💡 Alternative frontends also offer better user experiences than their original apps.
 
+
+## Collection
+- [digitalblossom/alternative-frontends: 🔐🌐 Privacy-respecting web frontends for popular services](https://github.com/digitalblossom/alternative-frontends#quora)
+- [Farside](https://farside.link/)
+
+## Tools
+- [LibRedirect](https://libredirect.github.io/)  Redirector
+
 ## Twitter
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
