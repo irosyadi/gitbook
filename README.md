@@ -1,6 +1,8 @@
 # Imron Rosyadi
 
-Hi, welcome to my digital garden.
+![](https://readme-typing-svg.herokuapp.com?font=Caveat&lines=Hi+%F0%9F%91%8B;Welcome+to+my+digital+garden)
+
+Hi 👋, Welcome to my digital garden.
 
 Before you explore my garden, here is a random cat which life inside the garden.
 
@@ -34,6 +36,11 @@ Thank you for exploring.
 And here is another cat.
 
 ![Random Loremflickr Cat](https://loremflickr.com/200/200/cat)
+
+
+[![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
+[![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
+[![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
 
 
 
