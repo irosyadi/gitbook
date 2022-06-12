@@ -15,7 +15,7 @@ draft: false
 
 ## Digital Drawing in Hand Draw Style
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw)
-- [Excalideck | Weapon for Legendary Slides](https://excalideck.com/)
+- [Excalideck - Weapon for Legendary Slides](https://excalideck.com/)
 - [Zwibbler](https://zwibbler.com/demo/)
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) in sketch or draw style.
 - [WebSequenceDiagrams](https://www.websequencediagrams.com/)

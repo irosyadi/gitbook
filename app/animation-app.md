@@ -16,7 +16,7 @@ draft: false
 - [Clara.io](https://clara.io/) : Web-based Keyframe Animation
 - [Daz3D](https://www.daz3d.com/daz_studio) : Motion Capture, Keyframe Animation 
 - [MakeHuman](https://www.makehumancommunity.org/) : Motion Capture, Keyframe Animation
-- [Mixamo](https://www.mixamo.com/#/) : Web-based Motion Capture, Keyframe Animation |
+- [Mixamo](https://www.mixamo.com/#/) : Web-based Motion Capture, Keyframe Animation
 - [SmartBody](https://smartbody.ict.usc.edu/about) : Motion Capture
 
 ## Stop Motion Animation

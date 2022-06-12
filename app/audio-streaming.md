@@ -1,16 +1,23 @@
 ---
 layout: default
 author: irosyadi
-title: Radio and Sound Apps
+title: Audio, Music, Radio, and Podcast Streaming Apps
 date: 2020-12-21 17:08:25
 category: app
-tags: ["radio", "sound", "music"]
+tags: ["radio", "audio", "music", "podcast"]
 draft: false
 ---
 
-# Radio and Sound Apps
+# Audio, Music, Radio, and Podcast Streaming Apps
 
-## Noise Generator
+Audio, Music, Radio, and Podcast Streaming Apps.
+
+Related links:
+🔗 [Audio, Music, Radio, and Podcast Streaming Apps](/app/audio-streaming)
+🔗 [Audio and Music Tools](/app/audio-tool)
+🔗 [Free Audio and Music](/app/free-audio)
+
+## Web-based Noise Generator
 - [Soft Murmur](https://asoftmurmur.com/)
 - [Shhh Sound: sounds to increase focus and relax](https://www.shhhsound.com/)
 - [My Noise](https://mynoise.net/)
@@ -19,7 +26,7 @@ draft: false
 - [Relax to the sound of rain with Rainfor.me](http://rainfor.me/) Rain only
 - [Listen to Smooth Jazz and Rain Sounds - JazzAndRain.com](http://www.jazzandrain.com/) Rain only
 
-## Relaxing Ambient Music
+## Web-based Ambient Music and Audio
 * [Zen Radio](https://www.zenradio.com/#popular)
 * [Soma FM](https://somafm.com/)
 * [lofi.limo – streaming music for work and study time](http://lofi.limo/)
@@ -40,9 +47,6 @@ draft: false
 - [Radio Garden](https://radio.garden)
 - [Streema - Listen to Live Internet Radio - Global AM and FM Online Radio Stations](https://streema.com/)
 - [join the party! - plug.dj](https://plug.dj/)
-
-## Music Generator
-* [typedrummer](http://typedrummer.com/)
 
 ## Podcast
 * [Audio shows and podcasts | AiringPods](http://www.airingpods.com/)

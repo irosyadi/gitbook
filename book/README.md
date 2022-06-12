@@ -10,3 +10,4 @@ draft: false
 
 # Book
 
+{% include list.liquid all=true %}

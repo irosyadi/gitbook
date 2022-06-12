@@ -23,3 +23,4 @@ The notes in the blog work as a starting point to more deep and through notes in
 6. Expand interesting articles in the [note] or [artikel] folder into a tutorial or a book in their respective project-style folders, for examples: [markdown], [pvsystems], etc.
 7. The notes in project-style folders will content-heavy notes (descriptive notes supported with citations (links)).
 
+{% include list.liquid all=true %}

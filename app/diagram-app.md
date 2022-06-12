@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Diagram Apps
+title:  Awesome List of Diagram Apps
 date: 2020-12-21 09:52:27
 category: app
 tags: ["diagram"]
 draft: false
 ---
 
-# Diagram Apps
+# Awesome List of Diagram Apps
 
 List of Diagram Apps  
 

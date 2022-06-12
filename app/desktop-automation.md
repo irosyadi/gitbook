@@ -1,19 +1,18 @@
 ---
 layout: default
 author: irosyadi
-title:  Desktop and Browser Automation
+title:  Awesome Desktop and Browser Automation
 date: 2021-11-06 03:45:20
 category: app
 tags: ["dekstop", "browser", "automation"]
 draft: false
 ---
 
-# Desktop and Browser Automation
+# Awesome Desktop and Browser Automation
 
 ## Desktop Automation
 - [RaiMan's SikuliX](http://sikulix.com/) SikuliX automates anything you see on the screen of your desktop computer
 - [Windows/Mac/Linux Desktop Automation 2021. Free Robotic Process Automation (RPA) Software](https://ui.vision/rpa/x/desktop-automation)
-
 
 ## Browser Automation
 - [Browserflow - Automate your work on any website](https://browserflow.app/)

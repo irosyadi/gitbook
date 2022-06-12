@@ -10,3 +10,4 @@ draft: false
 
 # Research
 
+{% include list.liquid all=true %}

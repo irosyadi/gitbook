@@ -10,3 +10,4 @@ draft: false
 
 # Catatan
 
+{% include list.liquid all=true %}

@@ -1,14 +1,23 @@
 ---
 layout: default
 author: irosyadi
-title:  Journal and Scientific Article
+title:  Awesome Scientific Journal Tools
 date: 2020-12-04 21:54:47
 category: research
-tags: ["journal", "impact factor", "APC"]
+tags: ["journal", "research", "academia"]
 draft: false
 ---
 
-# Journal and Scientific Article
+# Awesome Scientific Journal Tools
+
+Related links:
+🔗 [Paper and Article Search Tools](/research/paper-search)
+🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)
+🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)
+🔗 [Awesome Science Blogs and Forums](/research/science-blog)
+🔗 [Awesome Scientific Journal Tools](/research/journal-tool)
+🔗 [Awesome Conferences Tools](/research/conference-tool)
+🔗 [Awesome Latex Apps](/research/latex-app)
 
 ## Impact Factor
 - [Scimago JR ](https://www.scimagojr.com/journalrank.php) Journal Rank

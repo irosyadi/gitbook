@@ -50,7 +50,7 @@ draft: false
 * [Interactive Machine Learning List](https://p.migdal.pl/interactive-machine-learning-list/)
 * [Explorable Explanations](https://explorabl.es/)
 * [BetterExplained – Math lessons that click](https://betterexplained.com/)
-* [Tungsteno | Online Mathematics for Everybody](https://www.tungsteno.io/)
+* [Tungsteno - Online Mathematics for Everybody](https://www.tungsteno.io/)
 * [Interactive Mathematics - Learn math while you play with it!](https://www.intmath.com/)
 
 ## Interactive 

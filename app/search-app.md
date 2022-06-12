@@ -15,7 +15,7 @@ draft: false
 
 ## Map
 - [Searchengine Map](https://www.searchenginemap.com/)
-- [Gnod Search | Compare Search Engines](https://www.gnod.com/search/)
+- [Gnod Search - Compare Search Engines](https://www.gnod.com/search/)
 
 ## Main Search Engines
 - [Google](https://www.google.com/)

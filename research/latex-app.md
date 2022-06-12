@@ -1,14 +1,23 @@
 ---
 layout: default
 author: irosyadi
-title:  Awesome List of Latex Apps
+title:  Awesome Latex Apps
 date: 2020-12-14 15:19:51
 category: research
-tags: ["latex"]
+tags: ["writing", "research", "academia"]
 draft: false
 ---
 
-# Awesome List of Latex Apps
+# Awesome Latex Apps
+
+Related links:
+🔗 [Paper and Article Search Tools](/research/paper-search)
+🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)
+🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)
+🔗 [Awesome Science Blogs and Forums](/research/science-blog)
+🔗 [Awesome Scientific Journal Tools](/research/journal-tool)
+🔗 [Awesome Conferences Tools](/research/conference-tool)
+🔗 [Awesome Latex Apps](/research/latex-app)
 
 ## Learn Latex
 - [Learn Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)

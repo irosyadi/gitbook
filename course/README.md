@@ -10,3 +10,4 @@ draft: false
 
 # Course
 
+{% include list.liquid all=true %}

@@ -4,8 +4,8 @@ author: irosyadi
 title:  Free and Open Electrical Engineering Books
 date: 2020-07-26 19:46:47
 category: book
-tags: ["free", "open", "electrical engineering", "book"
-]draft: false
+tags: ["free", "open", "electrical engineering", "book"]
+draft: false
 ---
 
 # Free and Open Electrical Engineering Books

@@ -10,6 +10,14 @@ draft: false
 
 # Penulisan Naskah Ilmiah Bidang Teknik Elektro
 
+Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
+
+Link terkait:
+🔗 [Istilah Baku di Bidang Teknik Elektro](/catatan/kbbi-teknik)
+🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)
+🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](/catatan/puebi-teknik)
+
+
 ## Pedoman Dasar Penulisan Naskah Ilmiah
 - Awali dengan membaca pedoman penulisan dan patuhi seluruh pedoman. Untuk Teknik Elektro Unsoed, pedoman yang dipakai adalah [podoterus](https://github.com/Elektro-Unsoed/podoterus).
 - Tulis naskah dengan mengaktifkan fitur pemeriksa ejaan (*spell checker*) bahasa Indonesia pada pengolah kata anda.

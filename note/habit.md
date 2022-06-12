@@ -58,7 +58,7 @@ draft: false
 - see food, eat food, feel good
 
 ## Habit
-- [A simple way to break a bad habit | Judson Brewer - YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4&list=PL79A8suCuHLCNk_WNP9EuKROeWg5QwPOP&index=16)
-- [The secret to self control | Jonathan Bricker | TEDxRainier - YouTube](https://www.youtube.com/watch?v=tTb3d5cjSFI)
+- [A simple way to break a bad habit - Judson Brewer - YouTube](https://www.youtube.com/watch?v=-moW9jvvMr4&list=PL79A8suCuHLCNk_WNP9EuKROeWg5QwPOP&index=16)
+- [The secret to self control - Jonathan Bricker - TEDxRainier - YouTube](https://www.youtube.com/watch?v=tTb3d5cjSFI)
 - [How I Tricked My Brain To Like Doing Hard Things (dopamine detox) - YouTube](https://www.youtube.com/watch?v=9QiE-M1LrZk)
-- [Tim Urban: Inside the mind of a master procrastinator | TED - YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)
+- [Tim Urban: Inside the mind of a master procrastinator - TED - YouTube](https://www.youtube.com/watch?v=arj7oStGLkU)

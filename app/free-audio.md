@@ -1,15 +1,23 @@
 ---
 layout: default
 author: irosyadi
-title:  Free Sound, Music, and Audio
+title:  Free Audio and Music
 date: 2021-05-23 12:09:21
-category: category
-tags: ["free", "sound", "audio"]
+category: app
+tags: ["free", "audio", "music"]
 draft: false
 ---
 
-# Free Sound, Music, and Audio
+# Free Audio and Music
 
+Free downloadable audio and music files.
+
+Related links:
+🔗 [Audio, Music, Radio, and Podcast Streaming Apps](/app/audio-streaming)
+🔗 [Audio and Music Tools](/app/audio-tool)
+🔗 [Free Audio and Music](/app/free-audio)
+
+## Free Audio
 - [Freesound.org](https://freesound.org/)
     - [Freesound Lab](https://labs.freesound.org/)
     - [Freesound dataset at Zenodo](https://zenodo.org/record/4060432#.X3xrgi8RqL4)
@@ -33,27 +41,7 @@ draft: false
 - [Musopen](https://musopen.org/)
 - [Open Game Art](https://opengameart.org/)
 - [Joseph Mc Dade](https://josephmcdade.com/music)
-
-## Sound: Ambient
-* [Sounds For Sleep](https://sounds4sleep.com/#0)
-* [Ambient rain simulator for pluviophiles. Relaxing sound of rain.](https://pluvior.com/)
-* [Defonic | A fabulous ambient noise generator](https://defonic.com/)
-* [Online Background Noises • Relaxing Sounds • Noise Masking](https://noises.online/)
-* [A Soft Murmur](https://asoftmurmur.com/)
-* [Custom SoundPad - Tabletop Audio](https://tabletopaudio.com/custom_sp.html)
-- [Defonic | A fabulous ambient noise generator](https://defonic.com/)
-
-## Ambient Music
-- [Focusli - lofi music to relax/study to](https://www.focusli.com/)
-- [Focus at Work • Relax at Home • Sleep at Night | myNoise ®](https://mynoise.net/)
-
-## Sound
 - [Centuries of Sound](https://centuriesofsound.com/)
-
-## Birdsong Dataset
-- [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)
-
-## Free Audio File
 * [Royalty Free Stock Music, Download Free MP3s for Videos | Mixkit](https://mixkit.co/free-stock-music/)
 * [Reshot | Free icons, illustrations & photos](https://www.reshot.com/?utm_source=mixkit&utm_campaign=mixkit-header)
 * [Freesound - tags](https://freesound.org/browse/tags/)
@@ -62,3 +50,30 @@ draft: false
 * [Free SFX](https://freesfx.co.uk/Music.aspx)
 * [Royalty Free Background Music Downloads - Fesliyan Studios](https://www.fesliyanstudios.com/)
 * [Find sounds (Free Sound Effects) • BigSoundBank.com](https://bigsoundbank.com/search)
+
+## Free Ambient Audio
+* [Sounds For Sleep](https://sounds4sleep.com/#0)
+* [Ambient rain simulator for pluviophiles. Relaxing sound of rain.](https://pluvior.com/)
+* [Defonic | A fabulous ambient noise generator](https://defonic.com/)
+* [Online Background Noises • Relaxing Sounds • Noise Masking](https://noises.online/)
+* [A Soft Murmur](https://asoftmurmur.com/)
+* [Custom SoundPad - Tabletop Audio](https://tabletopaudio.com/custom_sp.html)
+- [Defonic | A fabulous ambient noise generator](https://defonic.com/)
+
+## Free Ambient Music
+- [Focusli - lofi music to relax/study to](https://www.focusli.com/)
+- [Focus at Work • Relax at Home • Sleep at Night | myNoise ®](https://mynoise.net/)
+
+## Free Birdsong
+- [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)
+
+## Creative Commons Licensed Music
+- [CC Hound](https://cchound.com/)
+- [Starfrosch](https://starfrosch.com/)
+- [CCTrax](https://cctrax.com/)
+- [Free Music Archive](https://freemusicarchive.org/)
+- [Fangchia](https://media.fangchia.com/)
+- [Incompetech](https://incompetech.filmmusic.io/search/)
+
+## Free Licensed Music
+- [BBC Sound Effect](https://bbcsfx.acropolis.org.uk/) License: free for educational use

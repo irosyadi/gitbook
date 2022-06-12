@@ -71,7 +71,7 @@ draft: false
 ## Youtube Alternatives
 - [Trending - Piped](https://piped.kavin.rocks/)
 - [FreeTube - The Private YouTube Client](https://freetubeapp.io/)
-- [Invidious-Instances | Invidious Documentation](https://docs.invidious.io/Invidious-Instances.md)
+- [Invidious-Instances - Invidious Documentation](https://docs.invidious.io/Invidious-Instances.md)
 
 ## Youtube
 - [Update Youtube Tittle](https://www.labnol.org/update-youtube-title-200818)
@@ -79,6 +79,6 @@ draft: false
 - [arturssmirnovs/youtube-video-views-title-update: YouTube video title updater: This video has X views and X likes.](https://github.com/arturssmirnovs/youtube-video-views-title-update)
 
 ## PHP File
-- [Single-file PHP file manager, browser and photo gallery | Files](https://www.files.gallery/)
+- [Single-file PHP file manager, browser and photo gallery - Files](https://www.files.gallery/)
 - [h5ai · modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee · larsjung.de](https://larsjung.de/h5ai/)
 - [Single File PHP Gallery 4.8.1](https://sye.dk/sfpg/)

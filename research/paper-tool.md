@@ -1,20 +1,27 @@
 ---
 layout: default
 author: irosyadi
-title:  Article/Paper Writing and Reading Tools and Research Assistants
-date: 2021-01-11 21:05:13
+title:  Awesome Research and Academic Writing Assistant Tools
+date: 2022-06-03 21:05:13
 category: research
-tags: ["article", "writing"]
+tags: ["article", "paper", "writing", "assistant", "research", "academia"]
 draft: false
 ---
 
-# Article/Paper Writing and Reading Tools and Research Assistants
+# Awesome Research and Academic Writing Assistant Tools
+
+Related links:
+🔗 [Paper and Article Search Tools](/research/paper-search)
+🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)
+🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)
+🔗 [Awesome Science Blogs and Forums](/research/science-blog)
+🔗 [Awesome Scientific Journal Tools](/research/journal-tool)
+🔗 [Awesome Conferences Tools](/research/conference-tool)
+🔗 [Awesome Latex Apps](/research/latex-app)
 
 ## Chrome Extension and Script
-
 ### Multitools
 * [Lazy Scholar - Chrome Web Store](https://chrome.google.com/webstore/detail/lazy-scholar/fpbdcofpbclblalghaepibbagkkgpkak?hl=en-US)
-
 ### Arxiv
 * [Arxiv Vanity Plugin - Chrome Web Store](https://chrome.google.com/webstore/detail/arxiv-vanity-plugin/jfnlkegibnoaagfdabjkchhocdhnoofk)
 * [ArxivTools - Chrome Web Store](https://chrome.google.com/webstore/detail/arxivtools/hmebhknlgddhfbbdhgplnillngljgmdi?authuser=1&hl=fr)
@@ -53,25 +60,6 @@ draft: false
 - Keenious
 - Data Finder
 
-## Article/Paper Search
-- [Google Scholar](https://scholar.google.com/)
-- [Home | Microsoft Academic](https://academic.microsoft.com/home)
-- [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
-- [NASA/ADS Paper Search](https://ui.adsabs.harvard.edu/)
-- [TL;DR Now](https://tldrnow.com/)
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/)
-- [Zenodo - Research. Shared.](https://zenodo.org/)
-- [Science Direct Search Engine](https://www.sciencedirect.com/search?qs=)
-- [BASE (Bielefeld Academic Search Engine): Basic Search](https://www.base-search.net/)
-- [Zhuanzhi](https://www.zhuanzhi.ai/)
-- [Internet Archive Scholar](https://scholar.archive.org/)
-- [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
-- [ResearchHub | Open Science Community](https://www.researchhub.com/all)
-- [Orvium - Accelerating Scientific Publishing](https://orvium.io/researcher/)
-
-## Thesis Search
-- [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)
-
 ## Reference Tools
 - [Anystyle](https://anystyle.io/) : parse academic references
 - [Citation Finder](https://citation-finder.now.sh/) : parse academic references
@@ -99,9 +87,7 @@ draft: false
 ## Article/Paper Reading
 - [Ten Simple Rules for Reading a Scientific Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 
-## Research Assistant
-
-### Paper Article Exploration
+## Article/Paper Exploration
 - [Elicit | The AI Research Assistant](https://elicit.org/search)
 - [Connected Papers | Find and explore academic papers](https://www.connectedpapers.com/)
 - [Litmaps](https://app.litmaps.com/)
@@ -114,17 +100,39 @@ draft: false
 * [SciSpace by Typeset | Discover](https://typeset.io/search)
 * [Research Rabbit](https://researchrabbitapp.com/home)
 * [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
+- [Litmaps](https://app.litmaps.co/)
 
-### Paper Reading Tools
+## Article/Paper Reading Tools
 - [arXiv Vanity – Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
+- [Paper Time - tune in to CS Research](https://papertime.app/) CS Paper in voice
+- [ExplainThisPaper- Medical Papers Explained Simply](https://explainthispaper.com/)
 
-### Web Annotation
+## Web Annotation
 - [Brainer • research easier • free Chrome extension](https://brainer.app/)
 - [Home : Hypothesis](https://web.hypothes.is/)
 
-### Open Data
+## Research Open Data
 - [Microsoft Research Open Data](https://msropendata.com/)
 - [Academic Torrents](https://academictorrents.com/)
+
+## List of Researcher and Academia Tools
+- [Scolary](https://scolary.com/)
+- [Tools for Academic Research | Tools for Academic Research | KausalFlow](https://tools.kausalflow.com/)
+- [emptymalei/awesome-research: a curated list of tools to help you with your research/life](https://github.com/emptymalei/awesome-research)
+
+## Research/Academia Forums 
+- [Research Code](https://researchcode.com/)
+- [DeepAI: The front page of A.I. | DeepAI](https://deepai.org/) AI Forum
+
+## PDF-related Paper/Article Tools
+- [Paper to HTML | Allen Institute for AI](https://papertohtml.org/) pdf to html
+- [belinghy/PDFRefPreview: Preview citations and other internal links in PDFs on mouse hover in the browser.](https://github.com/belinghy/PDFRefPreview)
+
+## Research Proposal Writing Tips
+- https://owll.massey.ac.nz/assignment-types/research-proposal-structure.php
+- https://research.com/research/how-to-write-a-research-proposal
+- https://www.scribbr.com/dissertation/research-proposal/
+- https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal
 
 ## Research Writing Tips
 * [Research Tools](https://openmetric.org/tool/#be-organized)
@@ -133,50 +141,3 @@ draft: false
 * [8 Best Academic Writing Software 2022 Guide](https://windowsreport.com/software-academic-writing/)
 * [Home - Tools for Effective Writing - LibGuides at University of Saint Mary](https://stmary.libguides.com/toolsforeffectivewriting)
 * [195 Best Writing Tools And Resources Every Student Needs](https://ivypanda.com/blog/best-writing-tools-and-resources/)
-
-## Researcher Academia Tools
-- [Scolary](https://scolary.com/)
-- [Tools for Academic Research | Tools for Academic Research | KausalFlow](https://tools.kausalflow.com/)
-- [emptymalei/awesome-research: a curated list of tools to help you with your research/life](https://github.com/emptymalei/awesome-research)
-
-## Research Paper Tools
-- [Litmaps](https://app.litmaps.co/)
-
-## Scientific Paper
-* [AMiner - AI Powered Academic Network Mining](https://www.aminer.org/)
-* [You are Crossref - Crossref](https://www.crossref.org/)
-* [Dimensions AI | The most advanced scientific research database](https://www.dimensions.ai/)
-* [The Lens - Free & Open Patent and Scholarly Search](https://www.lens.org/)
-* [OpenAlex: The open catalog to the global research system](https://openalex.org/)
-* [OpenCitations - Home](https://opencitations.net/)
-* [Scopus preview - Scopus - Welcome to Scopus](https://www.scopus.com/home.uri)
-* [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
-
-## Article Paper Search
-* [OAmg · Open Access for Everyone · Download and read over 200 million research papers](https://oa.mg/)
-* [Internet Archive Scholar](https://scholar.archive.org/)
-* [Search articles | Unpaywall](http://unpaywall.org/articles)
-* [OurResearch: Tools to make research more open](https://ourresearch.org/)
-* [PDF search engine for free scientific publications - FreeFullPDF](http://www.freefullpdf.com/#gsc.tab=0)
-
-## Research
-- [Research Code](https://researchcode.com/)
-- [DeepAI: The front page of A.I. | DeepAI](https://deepai.org/) AI Forum
-
-## Article Paper
-- [Paper Time - tune in to CS Research](https://papertime.app/) CS Paper in voice
-
-## Research Proposal
-- https://owll.massey.ac.nz/assignment-types/research-proposal-structure.php
-- https://research.com/research/how-to-write-a-research-proposal
-- https://www.scribbr.com/dissertation/research-proposal/
-- https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal
-
-## Paper
-- [Paper to HTML | Allen Institute for AI](https://papertohtml.org/) pdf to html
-
-## Paper
-- [ExplainThisPaper- Medical Papers Explained Simply](https://explainthispaper.com/)
-
-## PDF
-- [belinghy/PDFRefPreview: Preview citations and other internal links in PDFs on mouse hover in the browser.](https://github.com/belinghy/PDFRefPreview)

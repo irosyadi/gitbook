@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  PDF Tools - Reader, Editor, and Converter
+title:  PDF Tools
 date: 2020-06-16 16:11:58
 category: app
 tags: ["pdf", "editor"]
 draft: false
 ---
 
-# PDF Tools - Reader, Editor, and Converter
+# PDF Tools
 
 ## Online
 - [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
@@ -24,6 +24,7 @@ draft: false
 * [PDF to Text - pdftotext.github.io](https://pdftotext.github.io/) : Convert PDF to text, OCR
 * [PDF Table Util](https://pdftableutil.possiblenull.com/app/) : Convert PDF Table to text
 * [Diff PDFs - ParePdf](https://parepdf.com/) : Compare two PDFs
+* [PDFTRon](https://www.pdftron.com/webviewer/demo/) : document manipulation
 * [https://kc0bfv.github.io/WASM-PDF-Combiner/](https://kc0bfv.github.io/WASM-PDF-Combiner/)
 
 ## PDF Reader
