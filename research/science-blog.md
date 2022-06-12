@@ -10,14 +10,14 @@ draft: false
 
 # Awesome Science Blogs and Forums
 
-Related links:
-🔗 [Paper and Article Search Tools](/research/paper-search)
-🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)
-🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)
-🔗 [Awesome Science Blogs and Forums](/research/science-blog)
-🔗 [Awesome Scientific Journal Tools](/research/journal-tool)
-🔗 [Awesome Conferences Tools](/research/conference-tool)
-🔗 [Awesome Latex Apps](/research/latex-app)
+Related links:  
+🔗 [Paper and Article Search Tools](/research/paper-search)  
+🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)  
+🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)  
+🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
+🔗 [Awesome Scientific Journal Tools](/research/journal-tool)  
+🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Latex Apps](/research/latex-app)  
 
 ## AI-related Blogs
 - [Stanford](http://ai.stanford.edu/blog/)

@@ -12,10 +12,10 @@ draft: false
 
 Panduan penulisan naskah ilmiah di bidang Teknik Elektro.
 
-Link terkait:
-🔗 [Istilah Baku di Bidang Teknik Elektro](/catatan/kbbi-teknik)
-🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)
-🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](/catatan/puebi-teknik)
+Link terkait:  
+🔗 [Istilah Baku di Bidang Teknik Elektro](/catatan/kbbi-teknik)  
+🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)  
+🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](/catatan/puebi-teknik)  
 
 
 ## Pedoman Dasar Penulisan Naskah Ilmiah

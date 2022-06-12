@@ -1,14 +1,14 @@
 ---
 layout: default
 author: irosyadi
-title:  Awesome List of Youtube Apps
+title:  Awesome Youtube Apps
 date: 2021-04-16 08:34:01
 category: app
 tags: ["youtube"]
 draft: false
 ---
 
-# Awesome List of Youtube Apps
+# Awesome Youtube Apps
 
 ## Youtube Alternative Frontend
 - [Invidious](https://invidio.us/) : 
@@ -34,11 +34,13 @@ draft: false
 - [yt-dlp/yt-dlp: A youtube-dl fork with additional features and fixes](https://github.com/yt-dlp/yt-dlp)
 - [blackjack4494/yt-dlc: media downloader and library for various sites.](https://github.com/blackjack4494/yt-dlc)
 
-
 ## Youtube Transcript
 - [Hieroglyph](https://hierogly.ph/) get youtube transcript or transcibe text
     - alternative: ` youtube-dl --sub-langs [DESIRED LANGUAGE]`
 - [Editr's Youtube Subtitle Generator](https://www.editr.io/beta)
+
+## Youtube Subtitle
+- [Filmot - Subtitle and Video Metadata Search Engine](https://filmot.com/)
 
 ## Youtube Segment
 - [Segmentel](http://www.segmentel.com/)

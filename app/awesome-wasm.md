@@ -10,9 +10,9 @@ draft: false
 
 # Awesome WASM Apps
 
-Related links:
-🔗 [Audio and Music Tools - WASM](/app/audio-tool)
-🔗 [PDF Tools - WASM](/app/pdf-tool)
+Related links:  
+🔗 [Audio and Music Tools - WASM](/app/audio-tool)  
+🔗 [PDF Tools - WASM](/app/pdf-tool)  
 
 ## List of WASM Apps
 - [Awesome WASM](https://github.com/mbasso/awesome-wasm)

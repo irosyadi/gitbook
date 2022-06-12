@@ -90,6 +90,30 @@ draft: false
 - [MATH 1220 Linear Algebra 1 by Michael Doob](https://linearalgebra.math.umanitoba.ca/math1220/) License:  CC (?) Pretext Book
 - [Elements of Linear and Multilinear Algebra by John M. Erdman](https://web.pdx.edu/~erdman/ELMA/) [PDF](https://web.pdx.edu/~erdman/ELMA/multilinear_algebra_pdf.pdf) License: CC-BY
 
+## Book Recommendation
+- [Amazon - Linear Algebra with Applications: Williams, Gareth: 9781284120097: Books](https://www.amazon.com/Linear-Algebra-Applications-Gareth-Williams/dp/1284120090)
+- [Matrix Analysis & Applied Linear Algebra](http://matrixanalysis.com/)
+- [Linear Algebra for Everyone, Gilbert Strang](https://math.mit.edu/~gs/everyone/)
+- [Introduction to Linear Algebra (Gilbert Strang): Strang, Gilbert: 9780980232776: Amazon.com: Books](https://www.amazon.com/Introduction-Linear-Algebra-Gilbert-Strang/dp/0980232775)
+- [Linear Algebra: A Modern Introduction: Poole, David: 8601421990653: Books - Amazon](https://www.amazon.com/Linear-Algebra-Introduction-David-Poole/dp/1285463242)
+- [Linear Algebra and Its Applications: Lay, David, Lay, Steven, McDonald, Judi: 9780321982384: Amazon.com: Books](https://www.amazon.com/Linear-Algebra-Its-Applications-5th/dp/032198238X)
+- [Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 8581000033141: Books: Amazon.com](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
+- [Linear Algebra: Step by Step: Singh, Kuldeep: 8601300149776: Books: Amazon.com](https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)
+- [No Bullshit Guide to Linear Algebra](https://minireference.gumroad.com/l/noBSLA)
+- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Free Linear Algebra textbook, from Jim Hefferon](https://hefferon.net/linearalgebra/index.html) CC-BY
+- [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/) CC-BY
+- [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
+- [Practical Linear Algebra: A Geometry Toolbox , Fourth Edition](http://www.farinhansford.com/books/pla/)
+- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Linear and Geometric Algebra](http://www.faculty.luther.edu/~macdonal/laga/)
+- [Contents - 3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
+
+## Video Recommendation
+- [3Blue1Brown: Linear Alg - YouTube](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
+- [Essence of linear algebra - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
+- [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications - YouTube](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
+
 ## Table of Contents some of the Open Books
 ### Interactive Linear Algebras by Dan Margalit
 1. Systems of Linear Equations: Algebra (pp 1-27)

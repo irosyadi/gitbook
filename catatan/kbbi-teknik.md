@@ -12,10 +12,10 @@ draft: false
 
 Istilah baku di bidang teknik elektro berdasar KBBI dan Pedoman Pembentukan Istilah.
 
-Link terkait:
-🔗 [Istilah Baku di Bidang Teknik Elektro](/catatan/kbbi-teknik)
-🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)
-🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](/catatan/puebi-teknik)
+Link terkait:  
+🔗 [Istilah Baku di Bidang Teknik Elektro](/catatan/kbbi-teknik)  
+🔗 [Penulisan Naskah Ilmiah Bidang Teknik Elektro](/catatan/naskah-teknik)  
+🔗 [Pedomaan Ejaan Naskah Bidang Teknik Elektro](/catatan/puebi-teknik)  
 
 ## Contoh Kata Baku dan Tidak Baku
 - *analisis* bukan *analisa*
