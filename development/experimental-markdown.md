@@ -23,6 +23,8 @@ In github.io and netlify, it successfully goes to about-me page. It was fail in 
 - [Interactive Books](/book/interactive-book)
 - [Data Visualization](/note/data-visualization)
 
+Success in Netlify, success in Github and Gitbook
+
 ### Type 2
 - [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
 - [Machine Learning Interactive Visualization](../research/ml-visualization.md)
