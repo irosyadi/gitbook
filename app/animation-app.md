@@ -8,8 +8,11 @@ tags: ["animation"]
 draft: false
 ---
 
-
 # Awesome List of Animation Apps
+
+Related links:  
+🔗 [Awesome List of Animation Apps](/app/animation-app) 
+🔗 [Face and Pose Animation](/app/face-pose-animation)  
 
 ## 3D Animation
 - [Blender](https://www.blender.org/) : Motion Capture, Keyframe Animation 
@@ -18,6 +21,9 @@ draft: false
 - [MakeHuman](https://www.makehumancommunity.org/) : Motion Capture, Keyframe Animation
 - [Mixamo](https://www.mixamo.com/#/) : Web-based Motion Capture, Keyframe Animation
 - [SmartBody](https://smartbody.ict.usc.edu/about) : Motion Capture
+- [(t,i,x,y,z) => "creative code golfing"](https://doersino.github.io/tixyz/?code=Math.sin%28x*y*z%2F128%2Bt%29)
+    - [doersino/tixyz: A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.](https://github.com/doersino/tixyz)
+- [Zdog · Round, flat, designer-friendly pseudo-3D engine for canvas and SVG](https://zzz.dog/)
 
 ## Stop Motion Animation
 - [Boats Animator](https://www.charlielee.uk/boats-animator/) : Stop Motion
@@ -38,6 +44,13 @@ draft: false
 - [Tween UI](https://tweenui.com/animator/)
 - [vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib)
 
+## Animation from Drawing
+- [Animated Drawings](https://sketch.metademolab.com/)
+
+## Animation
+- [Animatize - animations the easy way](https://animatize.com/)
+- [de-stillary: Animated Paintings](https://sketchy.cs.brown.edu/textures/#/textures/)
+
 ## Review
 - [Best Animation Software](https://all3dp.com/1/best-20-3d-animation-software/#smartbody)
 
@@ -56,10 +69,14 @@ draft: false
 - [Mechanical Movement Animations](http://507movements.com/)
 - [Animations of Electrical Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
 
-
 ## Animation in SVG
 - [Bestsnip Animation Studio](https://bestsnip.com/mobile/)
 - [Bestsnip Animation Studio](https://bestsnip.com/svg_animation/)
+
+## Online Animation and Visualization Apps
+- [msgviz](https://www.msgviz.com/edit/VZbEOj49U)
+- [Nodes.io](https://nodes.io/)
+- [BlockStudio 3](https://www.blockstud.io/)
 
 ## Animation Examples
 - [Brushless DC Motor Simulator](https://simulators.drbasheers.com/UCI/x497.6/motor/open_loop_no_pwm.html)

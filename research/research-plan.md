@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Research Plan
 date: 2021-08-16 21:55:51
-category: category
+category: research
 tags: ["research"]
 draft: false
 ---

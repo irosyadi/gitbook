@@ -1,14 +1,18 @@
 ---
 layout: default
 author: irosyadi
-title:  Face Motion
+title:  Face and Pose Animation
 date: 2020-11-20 08:57:13
 category: app
-tags: ["face", "pose", "animation", "generator"]
+tags: ["animation", "generative"]
 draft: false
 ---
 
 # Face and Pose Animation
+
+Related links:  
+🔗 [Awesome List of Animation Apps](/app/animation-app) 
+🔗 [Face and Pose Animation](/app/face-pose-animation)  
 
 ## Face and Pose Animator
 - [F-Clone](https://f-clone.com/)

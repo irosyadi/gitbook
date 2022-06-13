@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Spreadshseet (Sheet) Apps
 date: 2021-04-04 17:43:36
-category: category
+category: app
 tags: ["spreadsheet", "sheet"]
 draft: false
 ---

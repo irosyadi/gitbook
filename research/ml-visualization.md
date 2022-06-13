@@ -10,6 +10,13 @@ draft: false
 
 # Awesome List of Machine Learning Visualization
 
+Related links:  
+🔗 [Awesome List of Data Visualization](/note/data-visualization)  
+🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
+🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Interactive Books](/book/interactive-book)  
+
+## Machine Learning Visualization
 - [Distill Pub](https://distill.pub/) : Visualizing AI algorithms
     - [Activation Atlas](https://distill.pub/2019/activation-atlas/)
     - [Meaning of Weights](https://distill.pub/2020/circuits/zoom-in/)
@@ -28,9 +35,4 @@ draft: false
 - [Explained](https://towardsdatascience.com/convolutional-neural-networks-explained-9cc5188c4939)
 - [CS231n Explanatin](https://cs231n.github.io/convolutional-networks/)
 
-## Look Also
-- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](../research/ml-visualization.md)
-- [Interactive Books](../book/interactive-book.md)
-- [Data Visualization](../note/data-visualization.md)
 

@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Op-Amp
 date: 2021-03-23 06:08:47
-category: category
+category: note
 tags: ["opamp"]
 draft: false
 ---

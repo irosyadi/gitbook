@@ -10,14 +10,14 @@ draft: false
 
 # Paper and Article Search Tools
 
-Related link:
-🔗 [Paper and Article Search Tools](/research/paper-search)
-🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)
-🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)
-🔗 [Awesome Science Blogs and Forums](/research/science-blog)
-🔗 [Awesome Scientific Journal Tools](/research/journal-tool)
-🔗 [Awesome Conferences Tools](/research/conference-tool)
-🔗 [Awesome Latex Apps](/research/latex-app)
+Related link:  
+🔗 [Paper and Article Search Tools](/research/paper-search)  
+🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)  
+🔗 [Awesome Research and Academic Writing Assistant Tools](/research/paper-tool)  
+🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
+🔗 [Awesome Scientific Journal Tools](/research/journal-tool)  
+🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Latex Apps](/research/latex-app)  
 
 ## Article Search Flowchart
 [Guide to Finding Articles/Books - Google Docs](https://docs.google.com/document/d/1ZwWs8JOrlkrrqiHwkQSwc4_NM85Zbzc9t9ifQ1rHZgM/edit)

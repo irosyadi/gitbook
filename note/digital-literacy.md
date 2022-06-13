@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Digital Literacy
 date: 2021-09-18 12:50:53
-category: category
+category: note
 tags: ["digital", "literacy"]
 draft: false
 ---

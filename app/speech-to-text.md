@@ -2,13 +2,18 @@
 layout: default
 author: irosyadi
 title:  Speech to Text Apps
-date: 2021-01-09 19:41:00
-category: category
-tags: ["speech to text", "stt"]
+date: 2022-05-05 19:41:00
+category: app
+tags: ["conversion", "generator"]
 draft: false
 ---
 
 # Speech to Text Apps
+
+Related links:  
+🔗 [Speech to Text Apps](/app/speech-to-text)  
+🔗 [Text to Speech Apps](/app/text-to-speech)  
+🔗 [Speech to Speech (Fake Voice Generator)](/app/speech-to-speech)  
 
 ## Speech to Text
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : simpler although inferior

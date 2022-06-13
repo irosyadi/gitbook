@@ -2,15 +2,20 @@
 layout: default
 author: irosyadi
 title:  Text to Speech Apps
-date: 2020-12-29 05:14:38
+date: 2022-05-05 05:14:38
 category: app
-tags: ["text to speech", "tts"]
+tags: ["conversion", "generator"]
 draft: false
 ---
 
 # Text to Speech Apps
 
-## Text to Speech
+Related links:  
+🔗 [Speech to Text Apps](/app/speech-to-text)  
+🔗 [Text to Speech Apps](/app/text-to-speech)  
+🔗 [Speech to Speech (Fake Voice Generator)](/app/speech-to-speech)  
+
+## Text to Speech Apps
 - [Natural Readers](https://www.naturalreaders.com/), online and offline
 - [Modern Google-level STT Models Released](https://habr.com/en/post/519562/)
 - [codeforequity-at/botium-speech-processing: Botium Speech Processing](https://github.com/codeforequity-at/botium-speech-processing) : open source
@@ -29,8 +34,12 @@ draft: false
 - [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
 - [Narration Box | Everything you need to engage your audience with voice and audio.](https://narrationbox.com/)
 - [per.quest | Play Audio of an Article](https://per.quest/)
+* [Text to Speech – Realistic AI Voice Generator | Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
+* [neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
+- [Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/index.html)
+* [15.ai: Natural TTS with minimal viable data](https://15.ai/)
 
-## Study
+## Research
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)
 - [Kyubyong/speaker_adapted_tts: Making a TTS model with 1 minute of speech samples within 10 minutes](https://github.com/Kyubyong/speaker_adapted_tts)
 - [A highly efficient, real-time text to speech system deployed on CPUs](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/)
@@ -41,6 +50,3 @@ draft: false
 - [NVIDIA/tacotron2: Tacotron 2 - PyTorch implementation with faster-than-realtime inference](https://github.com/NVIDIA/tacotron2)
 - [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [r9y9/tacotron_pytorch: PyTorch implementation of Tacotron speech synthesis model.](https://github.com/r9y9/tacotron_pytorch)
-
-## Speech to Emoji
-* [15.ai: Waifu Voice Generator](https://15.ai/about)

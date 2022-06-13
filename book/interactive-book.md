@@ -4,12 +4,19 @@ author: irosyadi
 title:  Interactive Books
 date: 2020-08-10 19:36:40
 category: book
-tags: ["interactive", "book"]
+tags: ["visualization", "interactive", "book"]
 draft: false
 ---
 
 # Interactive Books
 
+Related links:  
+🔗 [Awesome List of Data Visualization](/note/data-visualization)  
+🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
+🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Interactive Books](/book/interactive-book)  
+
+## Interactive Books
 - [Immersive Math Linear Algebra](https://immersivemath.com/ila/index.html)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
 - [Think Scipy](https://runestone.academy/runestone/books/published/thinkcspy/index.html)

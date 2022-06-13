@@ -19,7 +19,7 @@ At the moment, here are the categories:
 * Course: Course notes for my students.
 * Development: Notes about how I develop this site.
 * How To: How-to notes.
-* Markdown: Markdown syntax and 
+* Markdown: Notes about markdown syntax. 
 * Note: Categorical notes, in English.
 * Research: Notes related to my research.
 

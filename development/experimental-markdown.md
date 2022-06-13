@@ -13,10 +13,33 @@ draft: false
 Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
 ## Internal Link Reference
-
+### Type 1
 [About Me](/blog/about-me)
 In VNote App `/blog/about-me` refer to `C://blog/about-me`
 In github.io and netlify, it successfully goes to about-me page. It was fail in gitbook.
+
+- [Interactive and Explorable Sites](/app/interactive-explorable-web)
+- [Machine Learning Interactive Visualization](/research/ml-visualization)
+- [Interactive Books](/book/interactive-book)
+- [Data Visualization](/note/data-visualization)
+
+### Type 2
+- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
+- [Machine Learning Interactive Visualization](../research/ml-visualization.md)
+- [Interactive Books](../book/interactive-book.md)
+- [Data Visualization](../note/data-visualization.md)
+
+Fail in Netlify, success in Github and Gitbook
+
+### Type 3
+- [Interactive and Explorable Sites](/app/interactive-explorable-web.md)
+- [Machine Learning Interactive Visualization](/research/ml-visualization.md)
+- [Interactive Books](/book/interactive-book.md)
+- [Data Visualization](/note/data-visualization.md)
+
+
+
+
 
 ## Random Image
 

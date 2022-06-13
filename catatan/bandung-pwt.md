@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Bandung - Purwokerto
 date: 2021-07-31 09:22:46
-category: category
+category: catatan
 tags: ["bandung", "purwokerto"]
 draft: false
 ---

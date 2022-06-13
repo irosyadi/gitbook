@@ -10,6 +10,12 @@ draft: false
 
 # Awesome List of Data Visualization
 
+Related links:  
+🔗 [Awesome List of Data Visualization](/note/data-visualization)  
+🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
+🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Interactive Books](/book/interactive-book)  
+
 ## Visualization eBook
 - [Data Visualization by Kieran Healy](https://socviz.co/index.html#preface) License: -
 - [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) License: CC-BY-NC
@@ -43,6 +49,8 @@ draft: false
 - [https://rougier.github.io/python-visualization-landscape/landscape-colors.html](https://rougier.github.io/python-visualization-landscape/landscape-colors.html)
 - [Riverspirit's MPLG](https://everydayanchovies.github.io/mplg/mplg) MATPLOTLIB GUI
 
+## Data Visualization
+- [Superset](https://superset.apache.org/) Open source data visualization and business intelligence
 
 ## Visualization Examples
 - [Visualization Periodic Table](https://letsandeepio.github.io/viz-method-table/) or [Visual Literacy](https://www.visual-literacy.org/periodic_table/periodic_table.html#)
@@ -92,9 +100,5 @@ draft: false
 - [Mafs: React components for math visualization](https://mafs.dev/)
 - [Math Inspector - A visual programming environment for scientific computing with numpy and scipy](https://mathinspector.com/)
 
----
-## Look Also
-- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](../research/ml-visualization.md)
-- [Interactive Books](../book/interactive-book.md)
-- [Data Visualization](../note/data-visualization.md)
+## Visualization
+- [The Science of Visual Data Communication: What Works - Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, Jessica Hullman, 2021](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)

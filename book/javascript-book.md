@@ -3,7 +3,7 @@ layout: default
 author: irosyadi
 title:  Javascripts Books, Tutorials, and Courses
 date: 2021-04-04 19:28:10
-category: category
+category: book
 tags: ["javascript", "book", "tutorial", "course"]
 draft: false
 ---

@@ -37,6 +37,7 @@ draft: false
 - [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
 - [Hackr News App](https://hackr-news-dj.netlify.app/top) : Fast
 - [Haxplore](https://haxplore.pabue.co/): with key shortcut
+- [News for Hackers | Hazumi](https://www.hazumi.news/)
 
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications
