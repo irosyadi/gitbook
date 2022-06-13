@@ -23,7 +23,7 @@ In github.io and netlify, it successfully goes to about-me page. It was fail in 
 - [Interactive Books](/book/interactive-book)
 - [Data Visualization](/note/data-visualization)
 
-Success in Netlify, success in Github and Gitbook
+Success in Netlify. Success in Github. Fail in Gitbook.
 
 ### Type 2
 - [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
@@ -31,7 +31,7 @@ Success in Netlify, success in Github and Gitbook
 - [Interactive Books](../book/interactive-book.md)
 - [Data Visualization](../note/data-visualization.md)
 
-Fail in Netlify, success in Github and Gitbook
+Fail in Netlify. Success in Github. Success in Gitbook.
 
 ### Type 3
 - [Interactive and Explorable Sites](/app/interactive-explorable-web.md)
@@ -39,22 +39,15 @@ Fail in Netlify, success in Github and Gitbook
 - [Interactive Books](/book/interactive-book.md)
 - [Data Visualization](/note/data-visualization.md)
 
+Fail in Netlify. Fail in Github. Success in Gitbook.
 
+### Type 4
+- [Interactive and Explorable Sites](../app/interactive-explorable-web)
+- [Machine Learning Interactive Visualization](../research/ml-visualization)
+- [Interactive Books](../book/interactive-book)
+- [Data Visualization](../note/data-visualization)
 
-
-
-## Random Image
-
- ![Random Picsum Image](https://picsum.photos/200/200)
-
-
-![Random Unsplash Cat](https://source.unsplash.com/200x200/?cat)
-
-
-![Random Loremflickr Cat](https://loremflickr.com/200/200/cat)
-
-![Random Face](https://generated.photos/face-generator)
-
+Netlify. Github. Gitbook.
 
 ## Number and Bullet
 
