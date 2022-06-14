@@ -10,26 +10,17 @@ draft: false
 
 #  Experimental Markdown
 
-Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
-
-## Equation
-
-\\(a \ne 0\\)
-
-$ a \ne 0 $
+Experimental markdown to check markdown parser compatibility between Gatsby, Jekyll, Gitbook, and Hugo.
 
 ## Internal Link Reference
-### Type 1*
-[About Me](/blog/about-me)
-In VNote App `/blog/about-me` refer to `C://blog/about-me`
-In github.io and netlify, it successfully goes to about-me page. It was fail in gitbook.
+### Type 1
 
 - [Interactive and Explorable Sites](/app/interactive-explorable-web)
 - [Machine Learning Interactive Visualization](/research/ml-visualization)
 - [Interactive Books](/book/interactive-book)
 - [Data Visualization](/note/data-visualization)
 
-Success in Netlify. Success in Github. Fail in Gitbook.
+Success in Gatsby. Success in Jekyll. Fail in Gitbook. Fail in Hugo.
 
 ### Type 2
 - [app/Interactive and Explorable Sites](../app/interactive-explorable-web.md)
@@ -37,7 +28,7 @@ Success in Netlify. Success in Github. Fail in Gitbook.
 - [book/Interactive Books](../book/interactive-book.md)
 - [note/Data Visualization](../note/data-visualization.md)
 
-Fail in Netlify. Success in Github. Success in Gitbook.
+Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ### Type 3
 - [Interactive and Explorable Sites](/app/interactive-explorable-web.md)
@@ -45,7 +36,7 @@ Fail in Netlify. Success in Github. Success in Gitbook.
 - [Interactive Books](/book/interactive-book.md)
 - [Data Visualization](/note/data-visualization.md)
 
-Fail in Netlify. Fail in Github. Success in Gitbook.
+Fail in Gatsby. Fail in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ### Type 4
 - [Interactive and Explorable Sites](../app/interactive-explorable-web)
@@ -53,7 +44,7 @@ Fail in Netlify. Fail in Github. Success in Gitbook.
 - [Interactive Books](../book/interactive-book)
 - [Data Visualization](../note/data-visualization)
 
-Fail in Netlify. Success in Github. Success in Gitbook.
+Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ## Number and Bullet
 
@@ -107,19 +98,6 @@ Here is the comment:
 ☝️ remember  
 ⚡️ flash
 
-## Iframe
-```
-<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-```
-
-<div>
-<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-
-<div>
-<iframe src="https://eth0.me/" frameborder="0" width="100" height="50"</iframe>
-</div>
-
 ## Image Hosting in Github
 
 ![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png)
@@ -136,3 +114,17 @@ Here is the comment:
 github.io and gitbook.io cannot render svg
 
 ![crocodile](https://snapsvg.io/assets/images/crocodile.svg)
+
+## Iframe
+```
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+<div>
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<div>
+<iframe src="https://eth0.me/" frameborder="0" width="100" height="50"</iframe>
+</div>
+

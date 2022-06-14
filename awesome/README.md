@@ -1,13 +1,13 @@
 ---
 layout: default
 author: irosyadi
-title:  Book
+title:  Awesome
 date: 2020-06-01 20:09:34
-category: book
-tags: ["readme", "book"]
+category: awesome
+tags: ["category, "awesome"]
 draft: false
 ---
 
-# Book
+# Awesome
 
 {% include list.liquid all=true %}
