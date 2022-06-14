@@ -47,6 +47,11 @@ draft: false
 - [Mojeek](https://www.mojeek.com/) - privacy oriented
 - [Okeano - The search engine that cleans the ocean and respects your privacy](https://okeano.com/)
 - [Million Short - What haven't you found?](https://millionshort.com/) Tuning search results
+* [You.com](https://you.com/)
+* [Breeze through your searches™](https://breezethat.com/#gsc.tab=0)
+* [Neeva - Ad-free, private search](https://neeva.com/)
+* [Kagi Search](https://kagi.com/)
+* [Andi - Radically better search](https://andisearch.com/)
 
 ## Archive.org Search Engine
 - [Archive.org Book Search](https://archive.org/details/texts)
@@ -56,12 +61,21 @@ draft: false
 - [Archive.org Image Search](https://archive.org/details/image)
 - [Decentralized Internet Archive](https://dweb.archive.org/details/home)
 
-## Specific Search Engine
+## Code Search Engine
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
+- [grep.app | code search](https://grep.app/)
+
+## Specific Search Engine
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
 - [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
-- [Marginalia Search](https://search.marginalia.nu/) Blog search
-- 
+
+## Blog Search Engine
+* [Marginalia Search](https://search.marginalia.nu/) Blog search
+* [Heline - Code search for modern developer 🚀.](https://heline.dev/)
+* [Blog Surf | Blog Search Engine](https://blogsurf.io/)
+
+## Powerpoint Search Engine
+- [SlideToDoc.com - one of the largest repository of presentations](https://slidetodoc.com/) Powerpoint search
 
 ## Programmable Search Engine
 * [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk)

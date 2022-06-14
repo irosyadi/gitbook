@@ -74,3 +74,11 @@ draft: false
 * [binyamin/eleventy-garden: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
 * [crisrojas/Zettels: Zettels Hugo Theme](https://github.com/crisrojas/Zettels)
     * [Punto de entrada - crisrojas](https://www.crisrojas.com/notes/)
+    
+## Digital Garden Notetaking
+* [A Meta-Tour of This Site](https://maggieappleton.com/metatour)
+* [MaggieAppleton/maggieappleton.com-V2: A digital garden built with Next.js, React, and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.](https://github.com/MaggieAppleton/maggieappleton.com-V2)
+* [MaggieAppleton/digital-gardeners: Resources, links, projects, and ideas for gardeners tending their digital notes on the public interwebs](https://github.com/MaggieAppleton/digital-gardeners)
+* [mathieudutour/gatsby-digital-garden: 🌷 🌻 🌺 Create a digital garden with Gatsby](https://github.com/mathieudutour/gatsby-digital-garden/)
+* [Ecliptik's Digital Garden 🌱](https://garden.ecliptik.com/)
+* [A Brief History and Ethos of the Digital Garden - Obsidian Hub - Obsidian Publish](https://publish.obsidian.md/hub/05+-+Concepts/A+Brief+History+and+Ethos+of+the+Digital+Garden)

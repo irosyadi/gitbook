@@ -2,14 +2,13 @@
 layout: default
 author: irosyadi
 title: Generative Machine Learning GAN
-date: 2021-11-17 09:12:41
+date: 2022-06-11 09:12:41
 category: research
 tags: ["generative", "machine", "learning", "GAN"]
 draft: false
 ---
 
 # Generative Machine Learning GAN
-
 
 ## GAN 
 The dataset was web-scraped for an original 20k samples, then a custom MRCNN model was trained for image segmentation and cropping before being fed into the 128 DCGAN, trained on local hardware, 1660
@@ -29,15 +28,6 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [Artificial Images - YouTube](https://www.youtube.com/user/bustbright/playlists)
 
-## Generative Patterns
-* [Generative Art with Compositional Pattern Producing Networks and GANs - K](https://kwj2104.github.io/2018/cppngan/)
-    * [Generative Art with CPPN-GANs Part II - K](https://kwj2104.github.io/2018/cppngan-2/)
-    * [kwj2104/CPPN-WGAN: Generative Art Experiments](https://github.com/kwj2104/CPPN-WGAN)
-    * [marcin7Cd/variant-of-CPPN-GAN: based on https://github.com/kwj2104/CPPN-WGAN, but on chineses fonts and improved architecture](https://github.com/marcin7Cd/variant-of-CPPN-GAN)
-* [mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
-* [Making deep neural networks paint to understand how they work - by Paras Chopra - Towards Data Science](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
-    * [paraschopra/abstract-art-neural-network: Generating abstract art through neural networks in PyTorch](https://github.com/paraschopra/abstract-art-neural-network)
-
 ## GAN Project/Paper
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
 - [AI Demos | NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
@@ -50,37 +40,14 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 * [NVlabs/stylegan: StyleGAN - Official TensorFlow Implementation](https://github.com/NVlabs/stylegan)
     * [P StyleGAN on Oxford Visual Geometry Group Flowers 102 Dataset 💐🌻🌷🥀🌺🌹🌸🌼 : computervision](https://old.reddit.com/r/computervision/comments/bfcnbj/p_stylegan_on_oxford_visual_geometry_group/)
     * [Visual Geometry Group - University of Oxford](https://www.robots.ox.ac.uk/~vgg/data/flowers/)
-* [ThisPresidentDoesNotExist: Generating Artistic Presidential Portraits using Style-based Adversarial Networks and Transfer Learning: Theory and Implementation in Tensorflow - by Adrian Yijie Xu - GradientCrescent - Medium](https://medium.com/gradientcrescent/this-president-does-not-exist-generating-artistic-portraits-of-donald-trump-using-stylegan-a97a17902dd4)
 * [colinrsmall/ehm_faces](https://github.com/colinrsmall/ehm_faces)
 * [StyleGAN versions](https://nvlabs.github.io/stylegan2/versions.html)
 * [t04glovern/stylegan-pokemon: Generating Pokemon cards using a mixture of StyleGAN and RNN to create beautiful & vibrant cards ready for battle!](https://github.com/t04glovern/stylegan-pokemon)
-
 
 ## Paper
 * [2011.05552End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks](https://arxiv.org/abs/2011.05552)
 * [1812.04948 A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 * [EditGAN](https://nv-tlabs.github.io/editGAN/)
-
-### This Thing Does Not Exist
-- [This eye does not exist](https://thiseyedoesnotexist.com/story/)
-- [This vessel does not exist.](https://thisvesseldoesnotexist.com/#/)
-- [EvgenyKashin/ganarts: This T-shirt does not exist](https://github.com/EvgenyKashin/ganarts)
-- [thesecatsdonotexist.com](http://thesecatsdonotexist.com/)
-- [Finca Es Cormó di Friendly district - Guest suites for Rent](https://thisrentaldoesnotexist.com/)
-- [This Person Does Not Exist](https://thispersondoesnotexist.com/)
-- [This Music Video Does Not Exist](https://www.thismusicvideodoesnotexist.com/)
-- [hic et nunc - hic et nunc](https://www.hicetnunc.xyz/AIREGAN)
-- [https://www.aire-gan.com](https://www.aire-gan.com/)
-- [This sneaker does not exist](https://thissneakerdoesnotexist.com/)
-- [This Meme Does Not Exist - Imgflip](https://imgflip.com/ai-meme)
-- [This x does not exist](https://thisxdoesnotexist.com/)
-- [This beach does not exist](https://thisbeachdoesnotexist.com/)
-- [This Chemical Does Not Exist](https://www.thischemicaldoesnotexist.com/)
-- [TheseToonsDoNotExist](http://www.thesetoonsdonotexist.com/)
-- [This Word Does Not Exist](https://www.thisworddoesnotexist.com/)
-- [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
-- [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
-- [Fakelish](https://fakelish.nwtgck.org/) Fake English Words
 
 ## GAN Image Superresolution
 - [Cupscale](https://github.com/n00mkrad/cupscale)
@@ -108,32 +75,8 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 ## Research
 - [An enhanced 3D model and generative adversarial network for automated generation of horizontal building mask images and cloudless aerial photographs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1474034621001336?via%3Dihub)
 
-## Image Generator
-- [Object Wake-up: 3-D Object Reconstruction, Animation, and in-situ Rendering from a Single Image](https://arxiv.org/abs/2108.02708)
-- [🤖 🖼 AI Text-To-Image Art Generator - NightCafe Creator](https://creator.nightcafe.studio/text-to-image-art)
-- [makeai.art - create AI-generated from just a description](https://makeai.art/)
-- [NeuralBlender.com](https://neuralblender.com/)
-- [Google Colab](https://colab.research.google.com/drive/1Foi0mCSE6NrW9oI3Fhni7158Krz4ZXdH)
-- [DALL·E mini - a Hugging Face Space by flax-community](https://huggingface.co/spaces/flax-community/dalle-mini)
-- [Generative Tools - Google Docs](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/edit)
-
 ## Research
 - [Realless](https://realless.glitch.me/) Generative webs with blinking eyes
-
-## Generative Art
-- [Context Free Art](https://contextfreeart.org/)
-- [Skitching in HTML](http://canonical.org/~kragen/sw/dev3/skitch)
-- [xosh.org/Stochastic-L-System/](http://xosh.org/Stochastic-L-System/)
-- [L-Systems](https://lsystems.raphaelpour.de/)
-- [Tool.Graphics | Mondrian](https://tool.graphics/mondrian)
-- [Tool.Graphics | Suprematism](https://tool.graphics/suprematism)
-- [UJI Generative Arts](https://doersino.github.io/uji/)
-- [Generative arts](https://opinionatedguide.github.io/#/Design/d5-gen)
-- [mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
-- [4K Desktop wallpaper generator](https://tanck.nl/wallpaper/)
-- [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
-- [https://www.artbreeder.com/landing_page/](https://www.artbreeder.com/landing_page/)
-
 
 ## Music Generation
 - [deepjazz: deep learning for jazz](https://deepjazz.io/) [jisungk/deepjazz: Deep learning driven jazz generation using Keras & Theano!](https://github.com/jisungk/deepjazz)
@@ -161,20 +104,16 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
     - [Tutorial](https://towardsdatascience.com/colorizing-black-white-images-with-u-net-and-conditional-gan-a-tutorial-81b2df111cd8?source=friends_link&sk=e9d275985a6e00ada31e48ddc903fc9d) 
     - [Jupyter in Colab](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
 
-
-## Art Generation
-- [Art by an AI | A daily prompt competition. Alice the AI generates images of the top 10 winning prompts each day.](https://artbyanai.com/)
-- [NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-gb/studio/canvas/)
-
 ## Machine Learning: Image Generator
 * [Same Energy Beta](https://same.energy/about)
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
 
-## Text to Image Generation
-* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
-* [Weights & Biases – Developer tools for ML](https://wandb.ai/site)
-* [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
+## GAN
+- [Gradio demo for GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://huggingface.co/spaces/akhaliq/GFPGAN)
 
+## Generation
+* [saharmor/dalle-playground: A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/](https://github.com/saharmor/dalle-playground)
 
-## Image Generation Detector
-- [AI Generated Image Detector](https://www.galeras.io/)
+## Lightboard
+- [Lightboard Best Practices The Camera Side - YouTube](https://www.youtube.com/watch?v=CCbBg6PH5a0)
+- [Lightboard.info](https://www.lightboard.info/home)

@@ -65,6 +65,12 @@ Related link:
 
 ## Thesis Search
 - [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)
+- [NTNU Open](https://ntnuopen.ntnu.no/ntnu-xmlui/)
+- [Student theses](https://www.diva-portal.org/)
+- [OATD – Open Access Theses and Dissertations](https://oatd.org/)
+- [British Library EThOS - Search and order theses online](https://ethos.bl.uk/Home.do;jsessionid=69F98BD591E9D270DF481A5F0F53DB09)
+- [EBSCO Open Dissertations Project - Join the Movement](https://biblioboard.com/opendissertations/)
+- [Global ETD Search](http://search.ndltd.org/)
 
 ## Paper Search Engine (Sci-hub)
 - [sci-hub.ee](https://sci-hub.ee/) or [sci-hub.st](https://sci-hub.st/) or [sci-hub.se](https://sci-hub.se/) or [sci-hub.do](https://sci-hub.do/) or [sci-hub.ai](https://sci-hub.ai/)

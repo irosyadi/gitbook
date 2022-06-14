@@ -71,3 +71,9 @@ draft: false
 - [Lemmy](https://dev.lemmy.ml/) : open source self hosted
 - [Raddle](https://raddle.me/)
 - [Gurlic](https://gurlic.com/)
+
+## Reddit
+* [Redditle - Reddit-only Google Search](https://redditle.com/)
+* [SearchBettr - Search Better - Instant Reddit Search](https://www.searchbettr.com/)
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=769530.5730064241)
+* [Related subreddits based on your comments](https://anvaka.github.io/sayit/?query=)

@@ -85,3 +85,6 @@ draft: false
 
 ## Hacker News Books
 - [HackerNews Books Recommendation](https://hacker-recommended-books.vercel.app/category/0/past-6-months/page/0/0)
+
+## Hacker News
+* [HackerLoop](https://devss.io/)

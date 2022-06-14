@@ -24,7 +24,7 @@ draft: false
 - [VidMix.app](https://vidmix.app/) WASM Video Editor
 
 ## Video
-- [Video Hub App | Video Hub App](https://videohubapp.com/en/) Local Video looks like Youtube
+- [Video Hub App - Video Hub App](https://videohubapp.com/en/) Local Video looks like Youtube
 
 ## Free Video Editor  
 ### Online
@@ -34,12 +34,12 @@ draft: false
 - [Video recording for work — Tella](https://www.tella.tv/)
 - [Crello – Free Graphic Design Software with 50,000+ Free Templates](https://crello.com/)
 - [VEED - Online Video Editor - Video Editing Made Simple](https://www.veed.io/)
-- [Free, beautiful, and customizable Instagram post templates | Canva](https://www.canva.com/instagram-posts/templates/)
+- [Free, beautiful, and customizable Instagram post templates - Canva](https://www.canva.com/instagram-posts/templates/)
 - [Kapwing — Edit Video and Create Content Online](https://www.kapwing.com/)
 - [Viedit](https://viedit.com/)
 - [Toonclip](https://toonclip.com/)
 * [Shotcut - Home](https://shotcut.org/)
-* [OpenShot Video Editor | Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](https://www.openshot.org/)
+* [OpenShot Video Editor - Free, Open, and Award-Winning Video Editor for Linux, Mac, and Windows!](https://www.openshot.org/)
 
 ### Windows
 - [Openshot](https://www.openshot.org/)
@@ -53,7 +53,7 @@ draft: false
 - [VidMix.app](https://vidmix.app/)
 
 ## Machine Learning Video Processing
-- [Runway | CREATE IMPOSSIBLE VIDEO](https://runwayml.com/)
+- [Runway - CREATE IMPOSSIBLE VIDEO](https://runwayml.com/)
 - [Scrawl-canvas Tensorflow experiment 002](https://codepen.io/kaliedarik/pen/ZEeoZaP)
 - [Scrawl-canvas MediaPipe experiment 001](https://codepen.io/kaliedarik/pen/PopBxBM)
 - [Let's play Connect-The-Dots ... on your face!](https://codepen.io/kaliedarik/pen/VwpGrVG)
@@ -70,7 +70,7 @@ draft: false
 - [Zulko/moviepy: Video editing with Python](https://github.com/Zulko/moviepy)
 
 ## Video Synthesis
-- [ST-NeRF: Compositing And Editing For Video Synthesis | Unite.AI](https://www.unite.ai/st-nerf-compositing-and-editing-for-video-synthesis/)
+- [ST-NeRF: Compositing And Editing For Video Synthesis - Unite.AI](https://www.unite.ai/st-nerf-compositing-and-editing-for-video-synthesis/)
 
 ## Video
 - [Descript - Create podcasts, videos, and transcripts](https://www.descript.com/) Descript is a collaborative audio/video editor that works like a doc. It includes transcription, a screen recorder, publishing, full multitrack editing

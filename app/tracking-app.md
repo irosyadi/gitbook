@@ -11,7 +11,7 @@ draft: false
 # Tracking Apps
 
 ## Vessel Ship Trackers
-- [MarineTraffic: Global Ship Tracking Intelligence | AIS Marine Traffic](https://www.marinetraffic.com/)
+- [MarineTraffic: Global Ship Tracking Intelligence - AIS Marine Traffic](https://www.marinetraffic.com/)
 - [My Ship Tracking Free Realtime AIS Vessel Tracking Vessels Finder Map - ship tracker](https://www.myshiptracking.com/)
 - [Free AIS Ship Tracking of Marine Traffic - VesselFinder](https://www.vesselfinder.com/)
 - [Shipmap](https://www.shipmap.org/)

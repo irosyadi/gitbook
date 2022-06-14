@@ -18,13 +18,13 @@ Related links:
 🔗 [Free Audio and Music](/app/free-audio)  
 
 ## AI Apps for Audio
-- [Cleanvoice AI | Get rid of filler words from your audio recordings](https://cleanvoice.ai/)
+- [Cleanvoice AI - Get rid of filler words from your audio recordings](https://cleanvoice.ai/)
 - [PyTorchVideo · A deep learning library for video understanding research](https://pytorchvideo.org/)
-- [Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/)
+- [Descript - All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/)
 - [Auphonic](https://auphonic.com/landing)
 - [Revoldiv](https://revoldiv.com/)
 * [AudioStellar](http://www.audiostellar.xyz/)
-- [GuitarML | Zak Jost](https://blog.zakjost.com/post/guitarml/) Audio Enhancement Machine Learning
+- [GuitarML - Zak Jost](https://blog.zakjost.com/post/guitarml/) Audio Enhancement Machine Learning
 - [tyiannak/pyAudioAnalysis: Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications](https://github.com/tyiannak/pyAudioAnalysis)
 - [librosa — librosa 0.8.1 documentation](https://librosa.org/doc/latest/index.html) python package for music and audio analysis
 - [Yaafe/Yaafe: Audio features extraction](https://github.com/Yaafe/Yaafe)
@@ -41,7 +41,7 @@ Related links:
 
 ## Audio Creation
 ### Audio and Music Programming
-- [Alda – Text-Based Programming Language for Music Composition | Hacker News](https://news.ycombinator.com/item?id=28198641)
+- [Alda – Text-Based Programming Language for Music Composition - Hacker News](https://news.ycombinator.com/item?id=28198641)
 - [maximecb/noisecraft: Browser-based visual programming language and platform for sound synthesis.](https://github.com/maximecb/noisecraft)
 - [helio.fm](https://helio.fm/) libre music composition software
 - [Faust Programming Language](https://faust.grame.fr/)

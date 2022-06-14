@@ -19,9 +19,19 @@ draft: false
 - [Blokada - the best ad blocker for Android and iOS, free and open source](https://blokada.org/#download)
 - [AdAway/AdAway: AdAway is a free and open source ad blocker for Android.](https://github.com/AdAway/AdAway)
 
-## Ublock Adblock
+## Ublock
 - [Ultimate Ublock Origin Guide](https://www.maketecheasier.com/ultimate-ublock-origin-superusers-guide/)
+- [Available uBlock filter templates :: letsblock.it](https://letsblock.it/filters)
 
 ## Adblock Tester
 - [Adblock-Tester](https://adblock-tester.com/)
 - [Can you block it](https://canyoublockit.com/testing/)
+
+## Adblock
+* [Connect to public AdGuard DNS server](https://adguard-dns.io/en/public-dns.html)
+
+## Android System-Wide Adblock
+* [RethinkDNS | Fast, secure, configurable, private DNS + Firewall for Android.](https://rethinkdns.com/)
+* [NetGuard - A simple way to block access to the internet per app](https://netguard.me/)
+* [TrackerControl for Android | Monitor and control trackers and ads.](https://trackercontrol.org/)
+* [Blokada - the popular mobile adblocker and VPN for Android and iOS](https://blokada.org/)

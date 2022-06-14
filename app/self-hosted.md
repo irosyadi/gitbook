@@ -37,7 +37,7 @@ draft: false
 ## Self-hosted
 - [Endxo - Self Hosted](https://endxo.com/self-hosted)
 - [Endxo - Curated tech search](https://endxo.com/)
-- [Open Source Personal Management System | Personal Management System](https://volmarg.github.io/)
+- [Open Source Personal Management System - Personal Management System](https://volmarg.github.io/)
 - [Clone Wars - Open source clones of popular sites](https://gourav.io/clone-wars)
 
 ## Self-hosted

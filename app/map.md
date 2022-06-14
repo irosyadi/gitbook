@@ -10,6 +10,11 @@ draft: false
 
 # Awesome List of Maps
 
+Related links:  
+🔗 [app/Awesome List of Maps](/app/map)  
+🔗 [app/Map Tools](/app/map-tool)  
+🔗 [app/Earth Map and Tools](/app/earth-map)  
+
 ## General Purpose
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
@@ -84,11 +89,17 @@ draft: false
 - [NUKEMAP](https://nuclearsecrecy.com/nukemap/) - Simulate explosions of nuclear weapons.
 - [Missilemap](https://nuclearsecrecy.com/missilemap/) - Simulate of missile reaches
 - [Latest Earthquakes](https://earthquake.usgs.gov/earthquakes/map/?extent=-53.74871,44.29688&extent=51.72703,258.04688&sort=largest&listOnlyShown=true) - earthquakes
+- [Inatews](https://inatews.bmkg.go.id/) earthquake
+- [Inasafe](https://realtime.inasafe.org/realtime/) earthquake
+- [Iris](http://ds.iris.edu/seismon/index.phtml) earthquake
+- [Geofon](https://geofon.gfz-potsdam.de/) earthquake
+- [Shakenet](https://shakenet.raspberryshake.org/) earthquake
 
 ## Historic
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
 - [Dutch Colonial Maps](https://ubl.webattach.nl/apps/s7)
+- [Indonesia Maps - Perry-Castañeda Map Collection - UT Library Online](https://maps.lib.utexas.edu/maps/indonesia.html)
 
 ## 3D Earth
 - [Blue Marble](https://bluemarble.nitk.in/static.html)
@@ -97,6 +108,18 @@ draft: false
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
 - [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
 - [Language Maps](https://langscape.umd.edu/map.php)
+
+## Solar Map
+- [View Shade on a Map - Shade Map](https://shademap.app/#-7.2484,112.7419,10z,1641687803669t,0b,0p)
+- [ShadowCalculator - Show sun shadows on google maps](http://shadowcalculator.eu/#/lat/50.08/lng/19.9)
+
+## Hydrological Map
+- [River Runner Global](https://river-runner-global.samlearner.com/)
+- [Global River Runner | global-river-runner](https://ksonda.github.io/global-river-runner/)
+
+## Geological Map
+* [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#260=)
+* [Dinosaur Images & Facts - The Online Database](https://dinosaurpictures.org/)
 
 ## Extraterrestrial
 
@@ -121,3 +144,13 @@ draft: false
 
 ### Universe
 - [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - Interactive 3D map of the universe.
+
+## Indonesia
+### Geospatial Indonesia
+- https://gis.dukcapil.kemendagri.go.id/peta/
+- https://tanahair.indonesia.go.id/portal-web
+- https://geoportal.esdm.go.id/ketenagalistrikan/
+- https://sig.bps.go.id/webmap/infrastruktur2019/
+- https://sig.bps.go.id/webgis/tematik-interaktif
+- https://sig.bps.go.id/webmap/podes/
+- https://geoportal.bps.go.id/maps/apps/webappviewer/index.html?id=f42d9c43c74d414f96926866c0512b62

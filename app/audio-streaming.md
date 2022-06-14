@@ -37,12 +37,14 @@ Related links:
 * [Nightwave Plaza - Online Vaporwave Radio](https://plaza.one/)
 * [Ambient Sleeping Pill – Internet Radio for Sleep, Meditation & Relaxation](https://ambientsleepingpill.com/)
 * [DI.FM - addictive electronic music](https://www.di.fm/)
-* [Zen Radio | Relaxation & Meditation Music](https://www.zenradio.com/#popular)
+* [Zen Radio - Relaxation & Meditation Music](https://www.zenradio.com/#popular)
 * [Interstellar - drkmnd, Arbour - Deezer](https://www.deezer.com/en/playlist/9054155762?utm_content=playlist-9054155762&deferredFl=1)
 * [Now Playing on Poolsuite FM: Enjoy Your Life - Oby Onyioha by Juvenilia](https://poolsuite.net/)
 * [Coffitivity](https://coffitivity.com/)
 * [musicForProgramming();](https://musicforprogramming.net/latest/)
 * [Moss Garden](https://moss.garden/)
+* [Focus at Work • Relax at Home • Sleep at Night - myNoise ®](https://mynoise.net/)
+* [Focus at Work • Relax at Home • Sleep at Night - myNoise ®](https://mynoise.net/howToUseSoundMachines.php)
 
 ## Internet Radio
 - [Radio Garden](https://radio.garden)
@@ -50,7 +52,7 @@ Related links:
 - [join the party! - plug.dj](https://plug.dj/)
 
 ## Podcast
-* [Audio shows and podcasts | AiringPods](http://www.airingpods.com/)
+* [Audio shows and podcasts - AiringPods](http://www.airingpods.com/)
 
 ## Audio Collection
 - [Every Noise at Once](https://everynoise.com/)

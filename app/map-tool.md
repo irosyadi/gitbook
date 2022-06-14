@@ -4,11 +4,16 @@ author: irosyadi
 title:  Map Tools
 date: 2021-11-16 09:02:50
 category: app
-tags: ["osm", "map"]
+tags: ["map", "tool", "app"]
 draft: false
 ---
 
 # Map Tools
+
+Related links:  
+🔗 [app/Awesome List of Maps](/app/map)  
+🔗 [app/Map Tools](/app/map-tool)  
+🔗 [app/Earth Map and Tools](/app/earth-map)  
 
 ## OSM OpenStreetMap Tools
 - [Open Layers](https://openlayers.org/) -  App to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source
@@ -85,3 +90,8 @@ draft: false
 ## Map-based Estimator
 - [Mapchecking](https://www.mapchecking.com) : check the crowd size estimation on map
 
+## Mapping
+- [Getting started with QGIS, PostgreSQL and PostGIS - CYBERTEC](https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/)
+
+## Map Games
+* [Back Of Your Hand](https://backofyourhand.com/-7.45774,109.29869/XLVHWF)

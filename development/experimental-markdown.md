@@ -12,8 +12,14 @@ draft: false
 
 Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
+## Equation
+
+\\(a \ne 0\\)
+
+$ a \ne 0 $
+
 ## Internal Link Reference
-### Type 1
+### Type 1*
 [About Me](/blog/about-me)
 In VNote App `/blog/about-me` refer to `C://blog/about-me`
 In github.io and netlify, it successfully goes to about-me page. It was fail in gitbook.
@@ -26,10 +32,10 @@ In github.io and netlify, it successfully goes to about-me page. It was fail in 
 Success in Netlify. Success in Github. Fail in Gitbook.
 
 ### Type 2
-- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](../research/ml-visualization.md)
-- [Interactive Books](../book/interactive-book.md)
-- [Data Visualization](../note/data-visualization.md)
+- [app/Interactive and Explorable Sites](../app/interactive-explorable-web.md)
+- [research/Machine Learning Interactive Visualization](../research/ml-visualization.md)
+- [book/Interactive Books](../book/interactive-book.md)
+- [note/Data Visualization](../note/data-visualization.md)
 
 Fail in Netlify. Success in Github. Success in Gitbook.
 
@@ -47,7 +53,7 @@ Fail in Netlify. Fail in Github. Success in Gitbook.
 - [Interactive Books](../book/interactive-book)
 - [Data Visualization](../note/data-visualization)
 
-Netlify. Github. Gitbook.
+Fail in Netlify. Success in Github. Success in Gitbook.
 
 ## Number and Bullet
 

@@ -80,7 +80,6 @@ draft: false
 - [How to Change YouTube Title With Real Time View Count, The Tom Scott way – TechZip](https://techzip.in/how-to-change-youtube-title-with-real-time-view-count-the-tom-scott-way/)
 - [arturssmirnovs/youtube-video-views-title-update: YouTube video title updater: This video has X views and X likes.](https://github.com/arturssmirnovs/youtube-video-views-title-update)
 
-## PHP File
-- [Single-file PHP file manager, browser and photo gallery - Files](https://www.files.gallery/)
-- [h5ai · modern HTTP web server index for Apache httpd, lighttpd, nginx and Cherokee · larsjung.de](https://larsjung.de/h5ai/)
-- [Single File PHP Gallery 4.8.1](https://sye.dk/sfpg/)
+## Reddit
+* [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=769530.5730064241)
+* [Related subreddits based on your comments](https://anvaka.github.io/sayit/?query=)
