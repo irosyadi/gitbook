@@ -1,13 +1,13 @@
 ---
 layout: default
 author: irosyadi
-title:  About Me
+title:  Book
 date: 2020-06-01 20:09:34
-category: me
-tags: ["writing"]
+category: book
+tags: ["readme", "book"]
 draft: false
 ---
 
-# About Me
+# Book
 
 {% include list.liquid all=true %}
