@@ -53,6 +53,7 @@ draft: false
 23. [David Seah](https://davidseah.gitbook.io/davidseah/) Stacks: Gitbook
 24. [Mental Nodes](https://www.mentalnodes.com/) Stacks: Tiddlywiki
 25. [Home · Scott Spence](https://scottspence.com/) Stacks: Gatsby
+26. [whoibrar Notes](https://notes.whoibrar.com/) Stacks: [Jekyll-Digital-Gardern](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll)
 
 
 ## List of Second Brain Blog
