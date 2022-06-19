@@ -4,7 +4,7 @@ author: irosyadi
 title:  Chrome How To
 date: 2021-01-13 06:11:10
 category: howto
-tags: ["Chrome"]
+tags: ["browser"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Sistem Kendali Cerdas
 date: 2021-02-21 19:08:55
 category: course
-tags: ["kendali", "control systems", "kuliah"]
+tags: ["control system", "kuliah"]
 draft: false
 ---
 

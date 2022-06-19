@@ -4,7 +4,7 @@ author: irosyadi
 title: Notepad++ How To
 date: 2020-12-20 21:29:43
 category: howto
-tags: ["notepad++"]
+tags: ["document", "code"]
 draft: false
 ---
 

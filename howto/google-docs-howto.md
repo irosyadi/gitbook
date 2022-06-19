@@ -4,7 +4,7 @@ author: irosyadi
 title:  Google Docs How To
 date: 2021-01-11 19:35:33
 category: howto
-tags: ["Google Docs"]
+tags: ["document"]
 draft: false
 ---
 

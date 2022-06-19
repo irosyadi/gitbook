@@ -4,7 +4,7 @@ author: irosyadi
 title:  Numerical Computing Resources
 date: 2021-01-14 19:20:02
 category: book
-tags: ["matlab", "octave"]
+tags: ["numerical"]
 draft: false
 ---
 

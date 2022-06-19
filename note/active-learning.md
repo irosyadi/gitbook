@@ -4,7 +4,7 @@ author: irosyadi
 title:  Active Learning
 date: 2021-02-23 04:55:09
 category: note
-tags: ["active", "learning", "case based", "problem based"]
+tags: ["learning"]
 draft: false
 ---
 

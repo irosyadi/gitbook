@@ -47,9 +47,7 @@ draft: false
 
 ## Deepfake Face Photo Generator
 - [Photo Generation for profile pics](https://generated.photos/anonymizer)
-- [Face Maker AI | Massless](https://massless.io/tool/face-maker-ai/)
 - [Face Generator – Generate Faces Online Using AI](https://generated.photos/face-generator)
-- [Generate look-a-like photos to protect your identity](https://generated.photos/anonymizer)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)
 
 ## Image Generator

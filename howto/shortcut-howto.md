@@ -4,7 +4,7 @@ author: irosyadi
 title:  Shortcut How To
 date: 2021-04-10 17:53:41
 category: howto
-tags: ["shortcut"]
+tags: ["windows"]
 draft: false
 ---
 

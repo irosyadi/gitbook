@@ -128,16 +128,24 @@ Related links:
 - [Paper to HTML | Allen Institute for AI](https://papertohtml.org/) pdf to html
 - [belinghy/PDFRefPreview: Preview citations and other internal links in PDFs on mouse hover in the browser.](https://github.com/belinghy/PDFRefPreview)
 
-## Research Proposal Writing Tips
-- https://owll.massey.ac.nz/assignment-types/research-proposal-structure.php
-- https://research.com/research/how-to-write-a-research-proposal
-- https://www.scribbr.com/dissertation/research-proposal/
-- https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal
 
-## Research Writing Tips
-* [Research Tools](https://openmetric.org/tool/#be-organized)
-* [A Research to Engineering Workflow | Dustin Tran](http://dustintran.com/blog/a-research-to-engineering-workflow)
-* [Academic Writing Tools and Research Software – A Comprehensive Guide - Ref-n-Write: Scientific Research Paper Writing Software Tool - Improve Academic English Writing Skills](https://www.ref-n-write.com/blog/academic-writing-tools-and-research-software-a-comprehensive-guide/)
-* [8 Best Academic Writing Software 2022 Guide](https://windowsreport.com/software-academic-writing/)
-* [Home - Tools for Effective Writing - LibGuides at University of Saint Mary](https://stmary.libguides.com/toolsforeffectivewriting)
-* [195 Best Writing Tools And Resources Every Student Needs](https://ivypanda.com/blog/best-writing-tools-and-resources/)
+## Testing
+### Generic Paper Search
+- [digital twin - Google Scholar](https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=digital+twin&btnG=) ⭐⭐ (features: time filter, two-variable sorting)
+- [digital twin | Semantic Scholar](https://www.semanticscholar.org/search?q=digital%20twin&sort=relevance) ⭐⭐⭐ (features: multi-variable filter, multi-variable sorting)
+- [SciSpace | Discover research findings in their entirety](https://typeset.io/search?q=digital%20twin) ⭐⭐ (features: multi-variable filter, multi-variable sorting)
+- [digital twin in Publications - Dimensions](https://app.dimensions.ai/discover/publication?search_mode=content&search_text=digital%20twin&search_type=kws&search_field=full_search) ⭐⭐⭐ (features: multi-variable filter, multi-variable sorting)
+- [Zenodo](https://zenodo.org/search?page=1&size=20&q=digital%20twin) ⭐⭐ (features: multi-variable filter, multi-variable sorting)
+
+### Paper Graph Search
+- [digital twin | Connected Papers Search](https://www.connectedpapers.com/search?q=digital%20twin) ⭐⭐⭐ (features: auto-generated citation graph, prior-derivative work)
+- [Search for Papers | Inciteful.xyz](https://inciteful.xyz/search?q=digital%20twin) ⭐⭐⭐ (features: auto-generated citation graph, similar paper, top-related paper, top authors, top journals)
+- [Elicit | The AI Research Assistant](https://elicit.org/search?q=digital+twin) ⭐⭐ (features: writing assistant with language models)
+- [Search - ORKG](https://www.orkg.org/orkg/search/digital%20twin?types=&createdBy=) ⭐⭐⭐ (features: comparison paper, paper search, )
+
+### Paper Graph Writing Assistant
+- [Litmaps](https://app.litmaps.com/) ⭐⭐ features: auto-generated citation graph, seed)
+- [Research Rabbit](https://researchrabbitapp.com/home) ⭐⭐⭐
+- [Paperscape](http://my.paperscape.org/) ⭐⭐
+- [Iris.ai - Your Science Assistant](https://the.iris.ai/explore/map/)
+

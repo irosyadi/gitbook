@@ -4,7 +4,7 @@ author: irosyadi
 title:  Embedded Systems
 date: 2021-01-14 19:16:12
 category: course
-tags: ["embedded", "system"]
+tags: ["embedded system"]
 draft: false
 ---
 

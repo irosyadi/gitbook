@@ -126,3 +126,9 @@ Accuracy has two definitions:
 
 Learn more:
 1. [POCD](https://blog.pocd.com.au/scientific/understanding-precision-accuracy-and-basic-statistics/)
+
+## Machine Learning Overfitting Handling
+- [Handling overfitting in deep learning models | by Bert Carremans | Towards Data Science](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
+- [Overfitting in Machine Learning: What It Is and How to Prevent It](https://elitedatascience.com/overfitting-in-machine-learning)
+- [8 Simple Techniques to Prevent Overfitting | by David Chuan-En Lin | Towards Data Science](https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d)
+- [Bias Variance Tradeoff](https://elitedatascience.com/bias-variance-tradeoff)

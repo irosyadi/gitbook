@@ -4,11 +4,11 @@ author: irosyadi
 title:  Machine Learning Andrew Ng Quizes
 date: 2021-01-06 03:57:09
 category: course
-tags: ["quiz", "machine learning"]
+tags: ["machine learning"]
 draft: false
 ---
 
-# Machine Learning Andrew Ng Quizes
+# Machine Learning Andrew Ng Quizzes
 
 ## Week 1
 

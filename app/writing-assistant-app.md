@@ -155,6 +155,7 @@ Related links:
 * [Writer - Content Editor](https://app.writer.com/organization/263466/team/269958/document/3709137?hideTrialBanner=true)
 * [Sapling](https://sapling.ai/user_setup)
 * [Compose AI: Automate Your Writing](https://www.compose.ai/)
+* [how to write well - You.com | The search engine you control.](https://you.com/search?q=how%20to%20write%20well)
 
 ## Writing Tips
 - [Writing Well](http//www.julian.com/guide/write/intro)
@@ -163,3 +164,44 @@ Related links:
 
 ## Language Editing Service
 - [List in PNAS](https://www.pnas.org/page/authors/language-editing)
+
+## Research
+* [CoAuthor – Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/)
+* [Browse CoAuthor – CoAuthor – Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/browse/)
+
+## Writing
+- [ProWritingAid: The AI-Powered Writing Assistant](https://prowritingaid.com/) premium
+- [Linggle - Language Reference Search Engines - NLPLab](https://linggle.com/) English grammar and linguistic search engine. It helps you check word choice, usage and collocations in order to make your writing more natural. . free
+- [OZDIC.COM - English collocation dictionary](https://ozdic.com/). online English collocations dictionary which helps you to find words that often appear together and gives you an idea of how the words are used. free
+- [Academic Phrasebank for Academic Writers, Students and Researchers](https://www.trinka.ai/academic-phrasebank) Freemium
+- [WriteBetter – A linguistic search engine](https://writebetter.io/) Free
+- [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
+- [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
+
+## Paper Search
+- [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/index)
+- [Essay Structure.docx - Table of Contents](https://www.brad.ac.uk/T4-css-corporate/wimba-test/index.htm)
+
+## LanguageTool
+### LanguageTool Server
+- Obsidian `http://localhost:8081/v2/check?`
+- MS Word `http://localhost:8081/v2`
+- Chrome Extension `http://localhost:8081/v2/`
+Test : `http://localhost:8081/v2/check?language=en-US&text=my+text`
+
+## Zotero
+* [sync Zotero Documentation](https://www.zotero.org/support/sync)
+* [How to Use Zotero and Scrivener for Research-Driven Writing - JSTOR Daily](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/)
+* [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
+- [plugins Zotero Documentation](https://www.zotero.org/support/plugins)
+- [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
+
+## Self-publishing Book
+- [So you want to self-publish books and courses on programming | CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+- [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/)
+- [Why books donʼt work | Andy Matuschak](https://andymatuschak.org/books/)
+- [Writing a Technical Book • AndreGarzia.com](https://andregarzia.com/2021/04/writing-a-technical-book.html)
+- [Little Webby Press](https://little.webby.press/) Web Platform for Writing Publishing Book
+- [Writing a Programming Book in 2021 – JM Tirado](https://jmtirado.net/writing-a-programming-book-in-2021/)
+
+💡 : Writing programming books tips

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Anaconda How To
 date: 2021-01-07 04:57:02
 category: howto
-tags: ["anaconda", "python"]
+tags: ["python"]
 draft: false
 ---
 

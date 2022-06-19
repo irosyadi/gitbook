@@ -11,8 +11,8 @@ draft: false
 # Awesome List of Animation Apps
 
 Related links:  
-🔗 [Awesome List of Animation Apps](/app/animation-app) 
-🔗 [Face and Pose Animation](/app/face-pose-animation)  
+🔗 [App/Awesome List of Animation Apps](/app/animation-app) 
+🔗 [App/Face and Pose Animation](/app/face-pose-animation) 
 
 ## 3D Animation
 - [Blender](https://www.blender.org/) : Motion Capture, Keyframe Animation 

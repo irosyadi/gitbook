@@ -25,6 +25,15 @@ draft: false
 - [Machine Learning Course with Python](https://github.com/machinelearningmindset/machine-learning-course) License: -
 - Notes for the [Reinforcement Learning course](https://github.com/dalmia/David-Silver-Reinforcement-learning) by David Silver along with implementation of various algorithms.
 
+## Machine Learning Certification at Google
+- [Professional ML Engineer Certification  |  Certifications  |  Google Cloud](https://cloud.google.com/certification/machine-learning-engineer)
+- [Google Cloud skills campaign](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
+- [Baseline: Data, ML, AI | Qwiklabs](https://google.qwiklabs.com/quests/34)
+- [Registration  |  Certifications  |  Google Cloud](https://cloud.google.com/certification/register)
+- [ML Academy Webinar](https://cloudonair.withgoogle.com/events/ml-lab)
+- [Qwiklabs - Hands-On Cloud Training](https://google.qwiklabs.com/)
+- [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+
 
 ## Machine Learning Books
 
@@ -76,5 +85,52 @@ draft: false
 - [Cool Machine Learning Books](https://matpalm.com/blog/cool_machine_learning_books/)
 - [Free Machine Learning Resource](https://www.marktechpost.com/free-resources/)
 
-## Articles about Machine Learning
-- [Review about ML](https://link.springer.com/article/10.1007/s10462-018-09679-z)
+## Machine Learning Notes
+- [Archive](https://pabloinsente.github.io/archive) License: CC0
+    - [Introduction to Linear Algebra for Applied Machine Learning with Python](https://pabloinsente.github.io/intro-linear-algebra)
+    - [Introduction to Linear Regression - mathematics and application with Python](https://pabloinsente.github.io/intro-linear-regression)
+    - [The Recurrent Neural Network - Theory and Implementation of the Elman Network and LSTM](https://pabloinsente.github.io/the-recurrent-net)
+    - [The Convolutional Neural Network - Theory and Implementation of LeNet-5 and AlexNet](https://pabloinsente.github.io/the-convolutional-network)
+    - [The Multilayer Perceptron - Theory and Implementation of the Backpropagation Algorithm](https://pabloinsente.github.io/the-multilayer-perceptron)
+    - [The ADALINE - Theory and Implementation of the First Neural Network Trained With Gradient Descent](https://pabloinsente.github.io/the-adaline)
+    - [The Perceptron - A Guided Tutorial Through Its History and Implementation In Python](https://pabloinsente.github.io/the-perceptron)
+    - [The McCulloch-Pitts Artificial Neuron Model - Theory and Implementation](https://pabloinsente.github.io/the-mcculloch-pitts-artificial-neuron-model)
+    
+## Machine Learning Seminar
+- [Stanford MLSys Seminar Series – Stanford MLSys Seminar Series](https://mlsys.stanford.edu/)
+
+## About ML Books
+If you're strong in software engineering, I recommend Machine Learning Mastery with Python by Jason Brownlee as it's very hands-on in Python and helps you run code to "see" how ML works.
+
+If you're weak in software engineering and Python, I recommend A Whirlwind Tour Of Python by Jake VanderPlas, and its companion book Python Data Science Handbook.
+
+If you're strong in architecting / product management, I recommend Building Machine Learning Powered Applications by Emmanuel Ameisen since it explains it more from an SDLC perspective, including things like scoping, design, development, testing, general software engineering best practices, collaboration, etc.
+
+If you're weak in architecting / product management, I typically recommend User Story Mapping by Jeff Patton and Making Things Happen by Scott Berkun, which are both excellent how-tos with great examples to build on.
+
+If you're strong in math, I recommend Understanding Machine Learning from Theory to Algorithm by Shalev-Shwartz and Ben-David, as it has all the mathematics for ML and actually has some pseudocode for implementation which helps bridge the gap into actual software development (the book's title is very accurate!)
+
+For someone who is weak in the math of ML, I recommend Introduction to Statistical Learning by Hastie et al (along with the Python port of the code https://github.com/emredjan/ISL-python ) which I think does just enough hand holding to move someone from "did high school math 20 years ago" to "I understand what these hyperparameters are optimizing for."
+
+## Transformers
+- [Learn Transformers from Scratch](https://e2eml.school/transformers.html)
+
+## Machine Learning Tutorial
+- [Scikit Learn](https://inria.github.io/scikit-learn-mooc/#) Lincese: CC BY
+
+## Learn Deep Learning
+- [Data Science Project Ideas](https://www.theinsaneapp.com/2020/08/data-science-project-ideas-with-source-code.html)
+
+## Machine Learning
+- [Fast AI Launch FastAI v2 Library and Free Books](https://www.fast.ai/2020/08/21/fastai2-launch/)
+- [Video Face Recognition](https://roundbit.tech/w/video-face-recognition/)
+- [Fast AI Book Launch](https://www.fast.ai/2020/08/21/fastai2-launch/)
+    - [Course Practical Deep Learning for Coders](https://course.fast.ai/) 
+    - [GitHub Colab](https://github.com/fastai/fastbook)
+    - [Practical Data Ethics](https://ethics.fast.ai/)
+    
+## Machine Learning
+- [Awesome Production of Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
+- [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
+- [Learn ML Effectively](https://www.youtube.com/watch?v=r2X9Se6ayGQ&feature=share)
+

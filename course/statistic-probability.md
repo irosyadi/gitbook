@@ -4,7 +4,7 @@ author: irosyadi
 title:  Statistics and Probability
 date: 2021-01-01 08:00:30
 category: course
-tags: ["statistic", "probability"]
+tags: ["statistics", "probability"]
 draft: false
 ---
 

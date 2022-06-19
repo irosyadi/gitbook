@@ -4,7 +4,7 @@ author: irosyadi
 title:  MATLAB How To
 date: 2020-12-20 21:28:08
 category: howto
-tags: ["matlab"]
+tags: ["numerical"]
 draft: false
 ---
 

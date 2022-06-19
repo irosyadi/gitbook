@@ -4,11 +4,11 @@ author: irosyadi
 title:  JS for the Blog
 date: 2020-12-12 15:25:37
 category: development
-tags: ["js"]
+tags: ["javascript"]
 draft: false
 ---
 
-# JS for the Blog
+# Java Script for the Blog
 
 <script type="module" src="https://js.withorbit.com/orbit-web-component.js"></script>
 

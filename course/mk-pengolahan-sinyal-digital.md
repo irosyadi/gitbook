@@ -4,7 +4,7 @@ author: irosyadi
 title:  MK Pengolahan Sinyal Digital
 date: 2021-02-21 19:09:01
 category: course
-tags: ["pengolahan", "sinyal", "digital", "digital", "signal", "processing", "kuliah"]
+tags: ["signal processing", "kuliah"]
 draft: false
 ---
 

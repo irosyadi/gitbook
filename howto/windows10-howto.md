@@ -4,7 +4,7 @@ author: irosyadi
 title:  Windows 10 How To
 date: 2020-12-20 21:26:54
 category: howto
-tags: ["windows10"]
+tags: ["windows"]
 draft: false
 ---
 

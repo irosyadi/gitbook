@@ -4,7 +4,7 @@ author: irosyadi
 title:  Blog Resources
 date: 2020-12-21 11:44:46
 category: development
-tags: ["blog", "resource"]
+tags: ["web"]
 draft: false
 ---
 

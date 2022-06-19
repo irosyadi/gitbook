@@ -4,7 +4,7 @@ author: irosyadi
 title:  Google Sheet How To
 date: 2021-04-29 15:35:09
 category: howto
-tags: ["Google Sheet"]
+tags: ["spreadsheet"]
 draft: false
 ---
 

@@ -4,7 +4,7 @@ author: irosyadi
 title:  Programming for Kids Books, Tutorials, and Courses
 date: 2021-04-04 19:35:46
 category: book
-tags: ["programming", "kid"]
+tags: ["programming"]
 draft: false
 ---
 

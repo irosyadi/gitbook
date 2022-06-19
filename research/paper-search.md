@@ -24,7 +24,6 @@ Related link:
 
 ## Article/Paper Search Tools
 - [Google Scholar](https://scholar.google.com/)
-- [Home | Microsoft Academic](https://academic.microsoft.com/home)
 - [Semantic Scholar | AI-Powered Research Tool](https://www.semanticscholar.org/)
 - [NASA/ADS Paper Search](https://ui.adsabs.harvard.edu/)
 - [TL;DR Now](https://tldrnow.com/)

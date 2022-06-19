@@ -38,6 +38,7 @@ draft: false
 - [Hackr News App](https://hackr-news-dj.netlify.app/top) : Fast
 - [Haxplore](https://haxplore.pabue.co/): with key shortcut
 - [News for Hackers | Hazumi](https://www.hazumi.news/)
+- [Ditzes - Frontpage](https://ditzes.com/frontpage)
 
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications
