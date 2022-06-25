@@ -12,6 +12,7 @@ draft: false
 
 ## List
 - [Alternative search engines](https://fabform.io/a/alternative-search-engines)
+- [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
 ## Map
 - [Searchengine Map](https://www.searchenginemap.com/)
@@ -81,3 +82,9 @@ draft: false
 * [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk)
 * [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:z6sb5swu8zm)
 * [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:owj6ymgttag)
+
+## Web history Search Engine
+* [YaCyWiki](https://wiki.yacy.net/index.php/Hauptseite)
+* [Visit websites, find them again.](https://www.browserparrot.com/)
+* [ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
+* [a5huynh/spyglass: A personal search engine](https://github.com/a5huynh/spyglass#installation)

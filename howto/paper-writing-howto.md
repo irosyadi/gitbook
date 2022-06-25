@@ -29,6 +29,7 @@ draft: false
 * [Tips & Tools – The Writing Center • University of North Carolina at Chapel Hill](https://writingcenter.unc.edu/tips-and-tools/)
 * [UW-Madison Writer’s Handbook – The Writing Center – UW–Madison](https://writing.wisc.edu/handbook/)
 * [Purdue OWL // Purdue Writing Lab](https://owl.purdue.edu/owl/purdue_owl.html)
+* [ALL GUIDES Alphabetically - LibGuides at University of Reading](https://libguides.reading.ac.uk/)
 
 
 ## Academic Writing Tools
@@ -55,6 +56,7 @@ draft: false
 * [8 Best Academic Writing Software 2022 Guide](https://windowsreport.com/software-academic-writing/)
 * [Home - Tools for Effective Writing - LibGuides at University of Saint Mary](https://stmary.libguides.com/toolsforeffectivewriting)
 * [195 Best Writing Tools And Resources Every Student Needs](https://ivypanda.com/blog/best-writing-tools-and-resources/)
+- [Essay Structure.docx - Table of Contents](https://www.brad.ac.uk/T4-css-corporate/wimba-test/index.htm)
 
 ## Newspaper Writing
 - [Writing Tips from The Economics](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)

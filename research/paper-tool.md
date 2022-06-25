@@ -142,6 +142,7 @@ Related links:
 - [Search for Papers | Inciteful.xyz](https://inciteful.xyz/search?q=digital%20twin) ⭐⭐⭐ (features: auto-generated citation graph, similar paper, top-related paper, top authors, top journals)
 - [Elicit | The AI Research Assistant](https://elicit.org/search?q=digital+twin) ⭐⭐ (features: writing assistant with language models)
 - [Search - ORKG](https://www.orkg.org/orkg/search/digital%20twin?types=&createdBy=) ⭐⭐⭐ (features: comparison paper, paper search, )
+- [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/index)
 
 ### Paper Graph Writing Assistant
 - [Litmaps](https://app.litmaps.com/) ⭐⭐ features: auto-generated citation graph, seed)

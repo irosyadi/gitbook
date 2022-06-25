@@ -24,6 +24,7 @@ Related links:
 - [Writer](https://writer.com/)
 - [Hemingway](https://www.hemingwayapp.com/) : Free web based app, spellchecker with style and readability grading.
 - [Writefull ](https://writefull.com/) : Free web based and desktop app. Corrects grammar, vocabulary, punctuation, and more - aimed specifically at academic writing.
+    - [Writefull Revise — Writefull](https://www.writefull.com/writefull-revise) (upload document to check)
 - [TextRanch](https://textranch.com/)
 - [Ginger](https://www.gingersoftware.com/grammarcheck)
 - [Linguix](https://linguix.com/grammar-check)
@@ -178,9 +179,6 @@ Related links:
 - [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
-## Paper Search
-- [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/index)
-- [Essay Structure.docx - Table of Contents](https://www.brad.ac.uk/T4-css-corporate/wimba-test/index.htm)
 
 ## LanguageTool
 ### LanguageTool Server
@@ -205,3 +203,12 @@ Test : `http://localhost:8081/v2/check?language=en-US&text=my+text`
 - [Writing a Programming Book in 2021 – JM Tirado](https://jmtirado.net/writing-a-programming-book-in-2021/)
 
 💡 : Writing programming books tips
+
+
+## Comparison of Free
+- Compose.ai (extension: Chrome, features: autocomplete)
+- Writer.com (extension: Chrome, Word, features: autocorrect, grammar, spelling, punctuation)
+- Linguix.com (extension: Chrome, features: grammar, paraphrase, web editor)
+- Quilbot (features: paraphrase)
+- hyperwriteai.com (extension: Chrome, features: text generation)
+- longshot.ai (extension: chrome, features: paraphrase)
