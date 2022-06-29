@@ -79,9 +79,12 @@ draft: false
 - [SlideToDoc.com - one of the largest repository of presentations](https://slidetodoc.com/) Powerpoint search
 
 ## Programmable Search Engine
-* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk)
-* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:z6sb5swu8zm)
-* [Programmable Search Engine](https://cse.google.com/cse?cx=011891153054809598175:owj6ymgttag)
+* [beritaSE](https://cse.google.com/cse?cx=011891153054809598175:t6yq5j3glzk#gsc.tab=0&gsc.sort=date)
+* [irosyadiSE](https://cse.google.com/cse?cx=2930d59c835059502)
+* [forumSE](https://cse.google.com/cse?cx=f877569f8868038c9)
+* [writingSE](https://cse.google.com/cse?cx=6d49738c752dd4ec5)
+* [papereSE](https://cse.google.com/cse?cx=dfc1a088718cfdfb1)
+* [wordSE](https://cse.google.com/cse?cx=7b2d4a903688b4bf5)
 
 ## Web history Search Engine
 * [YaCyWiki](https://wiki.yacy.net/index.php/Hauptseite)

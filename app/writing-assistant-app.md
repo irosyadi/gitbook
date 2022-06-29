@@ -189,10 +189,11 @@ Test : `http://localhost:8081/v2/check?language=en-US&text=my+text`
 
 ## Zotero
 * [sync Zotero Documentation](https://www.zotero.org/support/sync)
+* [kb:webdav services Zotero Documentation](https://www.zotero.org/support/kb/webdav_services)
 * [How to Use Zotero and Scrivener for Research-Driven Writing - JSTOR Daily](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/)
 * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
-- [plugins Zotero Documentation](https://www.zotero.org/support/plugins)
-- [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
+* [plugins Zotero Documentation](https://www.zotero.org/support/plugins)
+* [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
 
 ## Self-publishing Book
 - [So you want to self-publish books and courses on programming | CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
