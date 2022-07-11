@@ -24,6 +24,7 @@ draft: false
 - [Libreddit](https://libredd.it/) : private front end
 - [Simpleddit](http://www.simpleddit.com/)
 - [Reddium](https://reddium.vercel.app/) : reddium in medium like interface
+- [Troddit](https://www.troddit.com/) : open source
 
 ## Reddit Images Frontends
 - [Reddpics](https://reddpics.com/)
