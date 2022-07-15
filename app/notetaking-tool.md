@@ -44,3 +44,29 @@ draft: false
 - [Brick](https://brick.do/)
 - [novelWriter – A markdown-like editor for writing novels](https://novelwriter.io/) ideal for novel
 - [Manuskript – Open-source tool for writers](https://www.theologeek.ch/manuskript/) ideal for novel
+
+## Notetaking
+* [MonsterWriter - A Pleasant Way to Write a Thesis or Article](https://www.monsterwriter.app/)
+- [Drift using Tiddly Wiki — Collect. Organize. Grow.](https://akhater.github.io/drift/)
+* [Quarto](https://quarto.org/)
+- [landing.md - bangle.io](https://bangle.io/ws/bangle-help) markdown notetaking
+- [Calculist Sample Document](https://app.calculist.io/sample) markdown with calculation
+- [Bricks](https://free.getbricks.app/) notetaking with calculation
+- [Nulis](https://nulis.io/)
+- [Saga | Make sense of your knowledge](https://saga.so/)
+- [TreeSheets](https://strlen.com/treesheets/)
+- [NotesHub - Cross-platform, markdown based note-taking app](https://about.noteshub.app/)
+- [bangle-io/bangle-io: A web only WYSIWYG note taking app that saves notes locally in markdown format.](https://github.com/bangle-io/bangle-io)
+- [Blaze Mark ⚡](https://rabbithols.github.io/blazemark/)
+- [Super Simple Offline Markdown Editor — Notes](https://notes.cx/ZkZNL9vFr)
+
+## Markdown Note
+- [Bangle.io](https://bangle.io/)
+- [Typora — a markdown editor, markdown reader.](https://typora.io/)
+- [Markdown to Slideshow : MarkShow](https://mark.show/#)
+
+## Zettelkasten
+- [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground | The Daily Pony](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
+
+## Notetaking HTML Generator
+- [Triplelog Writer](https://triplelog.com/writer/)

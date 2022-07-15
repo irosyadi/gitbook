@@ -55,6 +55,8 @@ draft: false
 - [BackgroundRemover.app](https://backgroundremover.app/)
 - [nadermx/backgroundremover: BackgroundRemover lets you Remove Background from images and video with a simple command line interface](https://github.com/nadermx/backgroundremover)
 - [Designify - Turn any photo into awesome](https://www.designify.com/) Background Remover
+* [Remove unwanted objects from photos by dragging boxes](https://cleanupphotos.com/)
+* [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
 
 ## Image Generation
 - [Bruzu: Image Generation API](https://bruzu.com/)

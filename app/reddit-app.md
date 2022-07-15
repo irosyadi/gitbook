@@ -31,12 +31,12 @@ draft: false
 - [RIB](https://rib.darkmirage.com/)*
 - [danb](https://danb.me/viewr/)*
 - [Scroller](https://scrolller.com/)
-- [Redditgrid](https://www.redditgrid.com/)
-- [Popular Pics](https://popular.pics/)
+- [Redditgrid](https://www.redditgrid.com/) - image server
+- [Popular Pics](https://popular.pics/) - image server
 - [Pholder](https://pholder.com/)
 - [Subredd](https://www.subredd.com)
-- [Redditery](http://www.redditery.com/)
-- [Reddit Image Viewer](https://reddit-image-viewer.vercel.app/)
+- [Redditery](http://www.redditery.com/) - image server
+- [Reddit Image Viewer](https://reddit-image-viewer.vercel.app/) - image server
 
 ## Reddit Videos Frontends
 - [Reddit TV](https://redditv.ca/)

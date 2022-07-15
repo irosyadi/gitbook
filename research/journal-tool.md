@@ -59,6 +59,18 @@ Related links:
 - [Find journals | Elsevier® JournalFinder](https://journalfinder.elsevier.com/)
 - [Internet Archive Scholar](https://scholar.archive.org/) Scholar Archive
 
+
+## Journal Keyword Alert and RSS
+- [Academic feeds & alerts - RSS, email, & table of contents alerts - LibGuides at MIT Libraries](https://libguides.mit.edu/c.php?g=175947&p=1158942)
+- [Journal alerts - Staying current with your research - All guides at RMIT University](https://rmit.libguides.com/c.php?g=336183&p=2262276)
+- [Using RSS to increase user awareness of e-resources in academic libraries - Social Web](https://www.25yearsofprogramming.com/social-web/using-rss-to-increase-user-awareness-of-e-resources-in-academic-libraries.html)
+- [Journal Alerts - Keeping Your Research Current - Guides at University of Western Australia](https://guides.library.uwa.edu.au/keepingresearchcurrent/journal-alerts)
+- [Journal Alerts - Keeping Current - Library Guides at UC Berkeley](https://guides.lib.berkeley.edu/keeping-current)
+- [Journal Alerts - Journal Alerts & Search Alerts - Academic Guides at Walden University](https://academicguides.waldenu.edu/library/alerts/journal)
+- [Stork, Powerful algorithms for publication tracking](https://www.storkapp.me/index.php)
+- [JournalTOCs](https://www.journaltocs.ac.uk/)
+- [Journal Alerts](https://webofscience.help.clarivate.com/en-us/Content/journal-alerts.html)
+
 ## Journal Publisher List
 * [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
 * [SAGE Journals: Your gateway to world-class research journals](https://journals.sagepub.com/)

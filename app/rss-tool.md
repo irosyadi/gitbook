@@ -16,6 +16,7 @@ draft: false
 ## Get RSS from Non-RSS Web
 - [RSS Box](https://rssbox.herokuapp.com/) [Github ](https://github.com/stefansundin/rssbox) Open Source
 - [RSS Bridge](https://github.com/RSS-Bridge/rss-bridge) Open Source - Self-hosted
+- [RSS-Bridge](https://rss-bridge.bb8.fun/)
 - [RSS Hub](https://github.com/DIYgod/RSSHub)
 - [RSS Proxy](https://rssproxy.migor.org/) [GitHub](https://github.com/damoeb/rss-proxy/)
 - [Pipes Digital](https://pipes.digital/) [Doc RSS Hub](https://docs.rsshub.app/en/)
@@ -35,3 +36,5 @@ draft: false
 ## RSS to HTML
 - [RSS 2 HTML](https://rss.bloople.net/)
 - [FREE Feed Widget. Fully Customisable and Easy To Use. Up to 5 feeds](https://surfing-waves.com/feed.htm)
+
+

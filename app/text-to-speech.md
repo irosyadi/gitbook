@@ -34,10 +34,12 @@ Related links:
 - [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
 - [Narration Box | Everything you need to engage your audience with voice and audio.](https://narrationbox.com/)
 - [per.quest | Play Audio of an Article](https://per.quest/)
-* [Text to Speech – Realistic AI Voice Generator | Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
-* [neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
+- [Text to Speech – Realistic AI Voice Generator | Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
+- [neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
 - [Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/index.html)
-* [15.ai: Natural TTS with minimal viable data](https://15.ai/)
+- [15.ai: Natural TTS with minimal viable data](https://15.ai/)
+- [Introducing Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
+- [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 
 ## Research
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)

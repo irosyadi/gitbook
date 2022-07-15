@@ -53,6 +53,9 @@ draft: false
 * [Neeva - Ad-free, private search](https://neeva.com/)
 * [Kagi Search](https://kagi.com/)
 * [Andi - Radically better search](https://andisearch.com/)
+* [hnhx/librex: A privacy respecting free as in freedom meta search engine for Google and popular torrent sites](https://github.com/hnhx/librex)
+    * [LibreX](https://librex.beparanoid.de/)
+* [Teclis - Non-commercial Web Search](http://teclis.com/)
 
 ## Archive.org Search Engine
 - [Archive.org Book Search](https://archive.org/details/texts)
@@ -91,3 +94,6 @@ draft: false
 * [Visit websites, find them again.](https://www.browserparrot.com/)
 * [ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
 * [a5huynh/spyglass: A personal search engine](https://github.com/a5huynh/spyglass#installation)
+
+## Search
+- [Talk to Books](https://books.google.com/talktobooks/) Fast Google Books content search

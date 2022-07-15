@@ -185,6 +185,27 @@ draft: false
 - [Open Data Structures](https://opendatastructures.org/) License: CC-BY
 - [Runestone Interactive Books](https://runestone.academy/runestone/books/index) License: CC-BY
 
+## 2022 eBook
+- [Approved Textbooks | American Inst. of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
+- [DeZero Book](https://koki0702.github.io/dezero-book/en/index.html)
+* [OpenIntro: developer and promoter of educational products that are free, transparent, and lower barriers to education.](https://www.openintro.org/)
+* [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
+- [Welcome - Practical Cryptography for Developers](https://cryptobook.nakov.com/) ebook, License: MIT
+- [Computer Networks From Scratch](https://www.networksfromscratch.com/index.html)
+- [Computer Networks: A Systems Approach — Computer Networks: A Systems Approach Version 6.2-dev documentation](https://book.systemsapproach.org/)
+* [Introduction - 3D Math Primer for Graphics and Game Development](https://gamemath.com/book/intro.html)
+* [Introduction · Crafting Interpreters](https://craftinginterpreters.com/introduction.html)
+- [JavaScript for impatient programmers (ES2021 edition)](https://exploringjs.com/impatient-js/toc.html)
+- [Handbook of Graph Drawing and Visualization](https://cs.brown.edu/people/rtamassi/gdhandbook/)
+- [The Joy of Cryptography](https://joyofcryptography.com/) License: CC-BY-NC-SA
+- ["Current" NEETS Modules (USN) in PDF format -Training:COMPATT](http://www.compatt.com/Tutorials/NEETS/NEETS.html)
+- [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
+- [Thomas Wong Textbook: Introduction to Classical and Quantum Computing](http://www.thomaswong.net/#publications)
+- [Statistical Rethinking | Richard McElreath](https://xcelab.net/rm/statistical-rethinking/) [rmcelreath/stat_rethinking_2022: Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022) [resources/Rethinking_2 at master · pymc-devs/resources](https://github.com/pymc-devs/resources/tree/master/Rethinking_2) [Statistical Rethinking 2022 - YouTube](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)
+- [Welcome — Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
+- [LibreTexts - Free The Textbook](https://libretexts.org/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Table of Contents - Practical Python Projects](https://practicalpython.yasoob.me/toc.html)
 
 
 

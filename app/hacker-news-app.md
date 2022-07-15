@@ -39,6 +39,7 @@ draft: false
 - [Haxplore](https://haxplore.pabue.co/): with key shortcut
 - [News for Hackers | Hazumi](https://www.hazumi.news/)
 - [Ditzes - Frontpage](https://ditzes.com/frontpage)
+- [hn](https://read-hn.herokuapp.com/)
 
 ## List of Hacker News Reader
 - [HNPWA](https://hnpwa.com/) : List of HN Reader as Progressive Web Applications

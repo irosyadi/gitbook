@@ -83,3 +83,6 @@ draft: false
 ## Video
 - [Typestudio: Text-Based Video Editor](https://typestudio.co)
 - [Milk Video: turn webinars into video highlights](https://milk.video/)
+
+## Video Editing
+* [Magma Studio: The browser-based art collaboration platform for artists, teams and studios | Magma Studio](https://magmastudio.io/)

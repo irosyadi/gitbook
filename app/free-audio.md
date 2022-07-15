@@ -58,11 +58,22 @@ Related links:
 * [Online Background Noises • Relaxing Sounds • Noise Masking](https://noises.online/)
 * [A Soft Murmur](https://asoftmurmur.com/)
 * [Custom SoundPad - Tabletop Audio](https://tabletopaudio.com/custom_sp.html)
-- [Defonic | A fabulous ambient noise generator](https://defonic.com/)
+* [Defonic | A fabulous ambient noise generator](https://defonic.com/)
 
 ## Free Ambient Music
 - [Focusli - lofi music to relax/study to](https://www.focusli.com/)
 - [Focus at Work • Relax at Home • Sleep at Night | myNoise ®](https://mynoise.net/)
+- [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)
+* [shhh Noise: sounds to increase focus and relax](https://www.shhhnoise.com/?ref=insanelyusefulwebsites)
+* [lofi.co - relax & focus](https://lofi.co/)
+* [Brick Wall — Iconic](https://iconic.app/brick-wall/)
+* [musicForProgramming();](https://musicforprogramming.net/latest/)
+* [Music for Programming | Hacker News](https://news.ycombinator.com/item?id=32009440)
+* [Blue Turtle - YouTube](https://www.youtube.com/c/BlueTurtle/videos)
+* [Ayanna Heaven @ MoMA for UNIQLO NYC Nights July 2022](https://wfh.dj/)
+* [Macroblank - YouTube](https://www.youtube.com/c/Macroblank)
+* [Rainwave Video Game Music Radio](https://rainwave.cc/all/)
+
 
 ## Free Birdsong
 - [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)

@@ -47,22 +47,8 @@ draft: false
 ## Working
 - [How to lure employees back to the office? You can't. Not now. Not ever. | ZDNet](https://www.zdnet.com/article/they-really-arent-going-back-work-from-home-is-here-to-stay/)
 
-## Classless CSS
-- [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
-- [GDCSS - An accessible alternative to HTML5 CSS resets](https://gdcss.netlify.app/)
-- [BareCSS](https://barecss.com/)
-- [μ css framework](https://bafs.github.io/mu/)
-- [sakura: a minimal classless css framework / theme](https://oxal.org/projects/sakura/)
-- [holiday.css - a minimalist classless CSS theme](https://holidaycss.js.org/)
-- [Water.css](https://watercss.kognise.dev/)
 
-### List of Clasless CSS
-- [CSS Bed](https://www.cssbed.com/)
-- [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/)
-
-
-## Machine Learning
-- [ANN-Benchmarks](https://ann-benchmarks.com/) ANN-Benchmarks is a benchmarking environment for approximate nearest neighbor algorithms search
-
-## Search
-- [Talk to Books](https://books.google.com/talktobooks/) Fast Google Books content search
+## Interesting Reading
+- [What Makes a Great Opening Line? ‹ Literary Hub](https://lithub.com/what-makes-a-great-opening-line/)
+* [25+ Years of Personal Knowledge Management. From scattered ideas to networked thoughts](https://dsebastien.net/blog/2022-04-03-25-years-of-personal-knowledge-management)
+* [The illusion of evidence based medicine | The BMJ](https://www.bmj.com/content/376/bmj.o702)

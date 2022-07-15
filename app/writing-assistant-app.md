@@ -69,6 +69,12 @@ Related links:
 - [Linguix Free Writing Assistant](https://linguix.com/) [Linguix](https://app.linguix.com/docs/my) Free
 - [- AJE](https://secure.aje.com/en/researcher/grammar-check) Free
 - [Paperpal](https://paperpal.com/) Free
+- [Autofix all grammar errors with Grammarly](https://github.com/isneuu/autofix-grammarly-errors)
+- [Grammark - Free Grammar Checker](https://grammark.org/#/)
+- [Gramara](https://app.gramara.com/)
+- [Phrase Finder](https://www.phrases.org.uk/index.html)
+- [English POS Tagger](http://erg.delph-in.net/logon)
+- [Vale.sh - A linter for prose](https://vale.sh/) `vale --config=C:\vale text.md`
 
 ### Browser Extension Grammar Checkers
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)
@@ -180,8 +186,8 @@ Related links:
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
 
-## LanguageTool
-### LanguageTool Server
+## LanguageTools
+### LanguageTools Server
 - Obsidian `http://localhost:8081/v2/check?`
 - MS Word `http://localhost:8081/v2`
 - Chrome Extension `http://localhost:8081/v2/`

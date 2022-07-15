@@ -34,6 +34,7 @@ Related links:
     - https://github.com/gooofy/zamia-speech
     - https://commonvoice.mozilla.org/en/datasets
     - https://www.openslr.org/resources.php
+- [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 
 
 ## Speech to Text Indonesian Support

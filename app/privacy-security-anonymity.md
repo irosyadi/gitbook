@@ -31,7 +31,7 @@ draft: false
 ## Site Information
 - [Site Information Tools](https://www.wmtips.com/tools/info/) : useful information of site (rankings, SEO and linking information, whois data, IP address details, analyse page data, server response headers)
 - [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing/search) : examines billions of URLs per day looking for unsafe websites
-- [URL Void](https://www.urlvoid.com/) : URL reputation and trustwortiness
+- [URL Void](https://www.urlvoid.com/) : URL reputation and trustworthiness
 - [DNSStuff Tools](https://tools.dnsstuff.com/)
 
 ## Window Apps
@@ -44,3 +44,80 @@ draft: false
 - HTTPS Everywhere : Encrypt the Web! Automatically use HTTPS security on many sites.
 - uBlock Origin : Finally, an efficient blocker. Easy on CPU and memory.
 - Google Direct : Remove tracking links from Google Search results
+
+## Anonimity Security
+* [Redact - Delete Your Social Media Posts](https://redact.dev/)
+* [The Hitchhiker’s Guide to Online Anonymity | The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
+* [Kash](https://kg.dev/thoughts/be-anonymous)
+
+## Privacy
+- [degoogle | A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://degoogle.jmoore.dev/)
+
+## Windows Privacy
+- [Privacy is sexy 🍑🍆 - Enforce privacy & security on Windows and macOS](https://privacy.sexy/)
+- [TemporalAgent7/awesome-windows-privacy: A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows](https://github.com/TemporalAgent7/awesome-windows-privacy)
+
+## Privacy
+- [GitHub - pluja/awesome-privacy: Awesome Privacy - A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS.](https://github.com/pluja/awesome-privacy)
+- [ThinkPrivacy](https://thinkprivacy.ch/)
+- [Opt out of global data surveillance programs like PRISM, XKeyscore, and Tempora - PRISM Break - PRISM Break](https://prism-break.org/en/)
+
+## Privacy
+- [Opinion | They Stormed the Capitol. Their Apps Tracked Them. - The New York Times](https://www.nytimes.com/2021/02/05/opinion/capitol-attack-cellphone-data.html)
+- [Your Fingerprint Can Be Hacked For $5. Here’s How. - Kraken Blog](https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/)
+
+## Browser Privacy
+- [BrowserAudit](https://browseraudit.com/)
+- [Browser Privacy Test :: WebBrowserTools](https://webbrowsertools.com/privacy-test/)
+- [BrowserLeaks - Web Browser Fingerprinting - Browsing Privacy](https://browserleaks.com/)
+- [Cover Your Tracks](https://coveryourtracks.eff.org/)
+
+## Password
+- [NIST Password Guidelines and Best Practices for 2020](https://auth0.com/blog/dont-pass-on-the-new-nist-password-guidelines/)
+- [Choosing Secure Passwords - Schneier on Security](https://www.schneier.com/blog/archives/2014/03/choosing_secure_1.html)
+- [Password policy: updating your approach - NCSC.GOV.UK](https://www.ncsc.gov.uk/collection/passwords/updating-your-approach)
+- [Have I Been Pwned: Pwned Passwords](https://haveibeenpwned.com/Passwords)
+- [duffn/dumb-password-rules: Shaming sites with dumb password rules.](https://github.com/duffn/dumb-password-rules)
+- [xkcd: Password Strength](https://xkcd.com/936/)
+
+
+## Security
+- [Phish.Report - Easily report phishing sites](https://phish.report/)
+
+## Security
+- [SadeghHayeri/GreenTunnel: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.](https://github.com/SadeghHayeri/GreenTunnel)
+
+
+## Security
+- [Share a secret | 🤫 scrt.link](https://scrt.link/)
+
+## Security
+- [Dark Patterns in UI and UX](https://www.darkpatterns.org/)
+
+
+## Security
+- [permission.site](https://permission.site/) check permission allowed in your browser
+
+## Security
+- [Machine Identification Code - Wikipedia](https://en.m.wikipedia.org/wiki/Machine_Identification_Code)
+
+## Security
+- [CRXcavator](https://crxcavator.io/) : Inspect Chrome Extension content for malicious code
+
+## Security
+[Umbrella Security Tips](https://github.com/securityfirst/Umbrella_content/blob/master/md/en/communications_email_advanced.md) License: CC BY
+
+## Security
+- [Known DNS Providers | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-providers#adguard-dns)
+- [DNSCrypt Public Server](https://dnscrypt.info/public-servers/)
+- [DNSCrypt Client](https://dnscrypt.info/implementations)
+- [Creating your own VPN with PiHole & UnBound on AWS](https://skerritt.blog/pihole-vpn/)
+- [UltimatePiHoleVPN](https://gist.github.com/HarvsG/51edbaf2421da9d768098242005d4e82)
+- [Set up a Pi-hole VPN on an AWS Lightsail instance](https://victoria.dev/blog/set-up-a-pi-hole-vpn-on-an-aws-lightsail-instance/)
+- [Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs](https://github.com/rajannpatel/Pi-Hole-PiVPN-on-Google-Compute-Engine-Free-Tier-with-Full-Tunnel-and-Split-Tunnel-OpenVPN-Configs/blob/master/README.md)
+- [OpenVPN+PiHole ad-blocking on AWS Lightsail for 3.50$/mo](https://medium.com/fillory/openvpn-pihole-ad-blocking-on-aws-lightsail-for-3-50-mo-7e814eafff84)
+
+## Security
+- [Warp Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare)
+- [Warp Plus](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED)
+- [Goodbye DPI](https://github.com/ValdikSS/GoodbyeDPI)

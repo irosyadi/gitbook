@@ -81,6 +81,7 @@ draft: false
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists — Python Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [Python Tutorial](https://www.w3schools.com/python/default.asp)
+- [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 ## List of Python Books
 - [List of Python Books](https://pythonbooks.revolunet.com/)

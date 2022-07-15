@@ -107,4 +107,10 @@ draft: false
 ## Domain Name Search
 - [Domain Name Search | Instant Availability Check | TLD List | Price Comparison](https://domain.garden/)
 
+## Domain Name Generator
+* [Domain Name Generator](https://instantdomainsearch.com/domain/generator?q=book)
+* [Domain Name Search | Instant Availability Check | TLD List | Price Comparison](https://domain.garden/)
+* [Mashword - Name Generator](https://mashword.com/search?words=digital%20twin&tld=com)
+* [Wuzmo - Creative Names For New Projects](https://wuzmo.com/)
+
 
