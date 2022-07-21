@@ -44,10 +44,16 @@ draft: false
 >> If it is stupid but it works, it isn't stupid
 ― Mercedes Lackey
 
-
 ## Simple
 >>“You live simple, you train hard, and live an honest life. Then you are free.”
 ― Eliud Kipchoge
+
+## Writing
+>> "Writing is Nature's way of showing you how sloppy your thinking is"
+- Bob Mugele
+
+>> It is difficult to know what you should know when you have a lot to learn and are in an intelligence-signaling environment. A side effect of having written detailed technical notes is that I calibrate my confidence on a topic. If I now understand something, I am sure of it and can explain myself clearly. If I don’t understand something, I have a sense of why it is difficult to understand or what prerequisite knowledge I am missing.
+
 
 
 ## Collection

@@ -93,6 +93,9 @@ draft: false
 ## Writing Tools
 - Wincompose: text replacement (inferior to espanso)
 
+## Others
+- Screen Ruler : screen ruler (inferior to Picpick)
+
 ## My Old Computer Specs
 - IdeaPad C340-14API 9AID
 - Serial : MP1PVV78

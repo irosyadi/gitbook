@@ -32,6 +32,7 @@ draft: false
 - [Remove BG](https://www.remove.bg/) : remove background with AI
 - [Erase BG](https://erase.bg/) : remove background with AI
 - [RemoveBackground.app](https://removebackground.app/)
+- [Online Background Remover 100% Free | PicWish](https://picwish.com/)
 
 ## Dithering
 - [Dithering Image](https://ditherit.com/)

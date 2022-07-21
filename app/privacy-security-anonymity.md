@@ -121,3 +121,10 @@ draft: false
 - [Warp Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare)
 - [Warp Plus](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED)
 - [Goodbye DPI](https://github.com/ValdikSS/GoodbyeDPI)
+
+solution : VPN, power tunnel (android), power tunnel pc, green tunnel, wireguard, webproxy, etc
+advantage of power tunnel and green tunnel : you will connect through local proxy which mean your quota internet usage would not exceed
+the disadvantage : sometimes it not work against DPI filter from ISP
+advantage of vpn, wireguard, webproxy : work smoothly against DPI filter or other gov censor
+the disadvantage : your internet quota will be exceed, since you connect through remote proxy. There will be extra data need to be carried
+openvpn personal recomendation is [this](https://www.vpnjantit.com/free-openvpn), or [this](https://www.tcpvpn.com/)

@@ -15,6 +15,7 @@ This is a list of awesome apps for Windows 10.
 ## Browser
 - Google Chrome : browser from Google
 - Microsoft Edge : browser from Microsoft
+- Epic Privacy Browser : no history no tracking browser
 - Mozilla Firefox : privacy oriented browser
 - Opera : browser with VPN
 - FlashPeak Slimjet8 : lightweight chrome-based browser
@@ -213,8 +214,8 @@ This is a list of awesome apps for Windows 10.
 - Glance by Mirametrix: object detection
 - BlueStacks : Android Emulator
 - BlueStacks X: Bluestack Gaming Platform
-- Screen Ruler : screen ruler
 - Anki : card repetition learning app
+- Picpick : screen shoot, desktop record, screen ruler, color picker
 
 ## PDF Tool
 - CutePDF Writer: pdf writer, pdf printer
@@ -277,6 +278,7 @@ This is a list of awesome apps for Windows 10.
 - OBS Studio : streaming, screen recording
 - OBS Virtual Cam : virtual cam add on for OBS
 - VLC Media Player : video player
+- SMPlayer: video player, GUI for mpv player
 
 ## Visualization
 - Microsoft PowerBI Desktop
