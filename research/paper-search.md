@@ -61,6 +61,7 @@ Related link:
 - [Zhuanzhi](https://www.zhuanzhi.ai/)
 - [Internet Archive Scholar](https://scholar.archive.org/)
 - [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
+- [Whiterose](https://eprints.whiterose.ac.uk/)
 
 ## Thesis Search
 - [Diva Thesis Search](https://www.diva-portal.org/smash/search.jsf?dswid=-4671)

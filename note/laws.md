@@ -20,3 +20,6 @@ draft: false
 
 > "In any dispute the intensity of feeling is inversely proportional to the value of the issues at stake. That is why academic politics are so bitter."
 >> - Sayre's Law
+
+>"Any headline that ends in a question mark can be answered by the word no."
+>> - Betteridge's law of headlines

@@ -22,6 +22,12 @@ draft: false
 - [Hyundai Motor to adopt digital twin in latest move of virtual technology use - KED Global](https://www.kedglobal.com/tech/newsView/ked202107050009) Hyundai
 - [Hyundai Motor Group Pilots Digital Twin Technology to Improve EV Battery Performance](https://www.hyundaimotorgroup.com/news/CONT0000000000032191) Hyundai
 - [Maintaining Industrial Assets with a Digital Twin | QAD Blog](https://www.qad.com/blog/2020/07/maintaining-industrial-assets-with-a-digital-twin)
+- [Industry 4.0: ŠKODA AUTO Vrchlabí plant has made use of ‘Digital twin’ - ŠKODA Storyboard](https://www.skoda-storyboard.com/en/press-releases/industry-4-0-skoda-auto-vrchlabi-plant-has-made-use-of-digital-twin/) Skoda
+- [Renault Group’s vehicles are now built by using a digital twin - Renault Group](https://www.renaultgroup.com/en/news-on-air/news/vehicle-digital-twin-when-physical-and-digital-models-unite/) Renault
+- [What is Digital Twin Technology and How It Benefits Manufacturing in the Industry 4.0 Era? - SL Controls](https://slcontrols.com/en/what-is-digital-twin-technology-and-how-can-it-benefit-manufacturing/#:~:text=A%20digital%20twin%20uses%20virtual,maintained%20through%20real%2Dtime%20updates.)
+- [Digital Twins Technology, Its Benefits & Challenges to Information Security | GlobalLogic](https://www.globallogic.com/insights/blogs/if-you-build-products-you-should-be-using-digital-twins/)
+- [What Are the Benefits of a Digital Twin?](https://www.resonai.com/blog/benefits-of-a-digital-twin)
+- [Why Accenture lists ‘digital twins’ as top-five technology trend in 2021  | VentureBeat](https://venturebeat.com/2021/03/12/why-accenture-lists-digital-twins-as-top-five-technology-trend-in-2021/)
 
 ## Digital Twin Simulation
 * [HASH - Complex Systems Simulation](https://hash.ai/)
