@@ -18,8 +18,9 @@ This is a list of awesome apps for Windows 10.
 - Epic Privacy Browser : no history no tracking browser
 - Mozilla Firefox : privacy oriented browser
 - Opera : browser with VPN
-- FlashPeak Slimjet8 : lightweight chrome-based browser
+- FlashPeak Slimjet : lightweight chrome-based browser
 - Chrome Remote Dekstop : remote desktop
+- Epic Privacy Browser
 
 ## Built in Windows 10 Apps
 - Camera (Windows 10) : camera
@@ -85,6 +86,7 @@ This is a list of awesome apps for Windows 10.
 ## File Sync
 - SyncFolder : file folder sync
 - Syncthing : file cloud sync
+- Synctrayzor : Syncthing GUI
 - rclone : file cloud sync (portable, direct)
 
 ## File Downloader and Transfer
@@ -123,7 +125,7 @@ This is a list of awesome apps for Windows 10.
 - draw.io : graphic editor
 - Graphviz : graphics and drawing package (library)
 - OriginLab : scientific graphic editor
-- yed
+- yed : graphich editor
 
 ## Hand Writing
 - Microsoft Whiteboard
@@ -201,6 +203,7 @@ This is a list of awesome apps for Windows 10.
 - Logseq : browser based notetaking
 - mdsilo : Lightweight plain-text knowledge silo and networked-writing tool.
 - VS Code : code editor
+- Quarto : markdown meet Jupyter notebook
 
 ## Office Suite
 - LibreOffice : open source office suite (Writer, Calc, Impress, Draw, Math, Base)
@@ -216,6 +219,7 @@ This is a list of awesome apps for Windows 10.
 - BlueStacks X: Bluestack Gaming Platform
 - Anki : card repetition learning app
 - Picpick : screen shoot, desktop record, screen ruler, color picker
+- Screenruler: screen ruler
 
 ## PDF Tool
 - CutePDF Writer: pdf writer, pdf printer
@@ -302,7 +306,9 @@ This is a list of awesome apps for Windows 10.
 - Rainmeter : desktop visualization
 - TaskbarX : taskbar visualization
 - Bluegrams : windows ruler
+- Rocketdock : desktop toolbar launcher
 - UI Vision RP XModules : Windows Automation
+- WindowTop : window top
 
 ## Writing Tools
 - Grammarly for Windows : grammar checker
@@ -314,6 +320,7 @@ This is a list of awesome apps for Windows 10.
 - Espanso : text expansion
 - Ditto : clipboard manager, copy-paste
 - Harzing's Publish or Perish : scientific writing helper
+- Vale : linter for prose.
 
 ## Voice Command
 - Alexa

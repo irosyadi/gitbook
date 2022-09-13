@@ -16,6 +16,8 @@ draft: false
 - [Lite CNN](https://lite.cnn.com/en)
 - [Legible News](https://legiblenews.com/)
 - [Skinny Guardian](https://www.skinnyguardian.xyz/)
+- [Alterslash, the unofficial Slashdot digest](https://alterslash.org/)
+- [68k.news: Headlines From the Future](http://68k.news/)
 
 ## Text Only Websites
 - [Hacker News](https://news.ycombinator.com/news) : forum
@@ -48,4 +50,14 @@ draft: false
     - [John.Doe](https://john-doe.neocities.org/), [John Doe Jekyll](https://github.com/bradleytaunt/john-doe-jekyll),  [Void in PHP](https://github.com/josephernest/void), [Yellow in PHP](https://datenstrom.se/yellow/)
     - [Kerkour](https://kerkour.fr/), [Hugo Blog](https://github.com/bloom42/blog)
 - [Leanternet](https://www.leanternet.com/)
+- [A List Of Text-Only News Sites - GreyCoder](https://greycoder.com/a-list-of-text-only-new-sites/)
+- [Hyperlinked Text](https://sjmulder.nl/en/textonly.html)
+- [eink.link](https://eink.link/)
 
+## Float Number
+- [Float Toy](https://evanw.github.io/float-toy/)
+
+
+## Unicode
+
+- [Confusables](https://confusables.gc.codes/)

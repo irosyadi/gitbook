@@ -4,7 +4,7 @@ author: irosyadi
 title:  PHM in Motor
 date: 2022-06-20 12:50:53
 category: research
-tags: ["PHM, "motor"]
+tags: ["PHM", "motor"]
 draft: false
 ---
 

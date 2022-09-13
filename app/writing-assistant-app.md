@@ -200,6 +200,7 @@ Test : `http://localhost:8081/v2/check?language=en-US&text=my+text`
 * [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
 * [plugins Zotero Documentation](https://www.zotero.org/support/plugins)
 * [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
+* The best attacchment sync: 4shared (https://webdav.4shared.com/zotero), 15 GB. Alternative: GDrive with this hack: [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
 
 ## Self-publishing Book
 - [So you want to self-publish books and courses on programming | CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
