@@ -41,11 +41,6 @@ Related links:
 - [Writing Assistant](https://www.writing-assistant.com/)
 - [Scribens](https://www.scribens.com/)
 - [LanguageTool](https://languagetool.org/) : open source, self-hosted, integration with VSCode
-    - [Language Tools Community](https://community.languagetool.org/)
-    - Language tools local HTTP server, [help](https://dev.languagetool.org/http-server):
-        - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin "*"`
-        - Test the server with [http://localhost:8081/v2/check?language=en-US&text=my+text](http://localhost:8081/v2/check?language=en-US&text=my+text)
-        - In windows, run on `cmd` not `powershell`.
 - [Grammar Check - Free Essay Checker - Virtual Writing Tutor](https://virtualwritingtutor.com/)
 - [Online Text Correction](https://www.onlinecorrection.com/)
 - [Online Editor – Grammar Checker](https://www.grammarcheck.net/editor/)
@@ -84,13 +79,6 @@ Related links:
 ### MS Word Add In Grammar Checkers
 - [Writefull ](https://writefull.com/)
 - [Grammarly](https://app.grammarly.com/)
-- [LanguageTool unofficial MS Word add-in](https://github.com/jaumeortola/languagetool-msword10-addin): be used with a local LanguageTool server
-
-### Visual Studio Code Add In Grammar Checkers
-- [LanguageTool Wrapper for VSCode](https://marketplace.visualstudio.com/items?itemName=raymondcamden.languagetool), [Github Repo](https://github.com/cfjedimaster/vscode-languagetool)
-- [LanguageTool for VSCode](https://marketplace.visualstudio.com/items?itemName=adamvoss.vscode-languagetool), deceased, continued with:
-    - [LanguageTool Linter for VSCode](https://marketplace.visualstudio.com/items?itemName=davidlday.languagetool-linter) [Github Repo](https://github.com/davidlday/vscode-languagetool-linter)
-- [Latex and LanguageTool for VSCode](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) [Github Repo](https://github.com/valentjn/vscode-ltex)
 
 ## Plagiarism Checkers
 - [Free Plagiarism Checker by Writer](https://writer.com/plagiarism-checker/?msID=19ae875c-8c8a-49f3-bec7-3f94a797a6b1)
@@ -185,22 +173,6 @@ Related links:
 - [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
-
-## LanguageTools
-### LanguageTools Server
-- Obsidian `http://localhost:8081/v2/check?`
-- MS Word `http://localhost:8081/v2`
-- Chrome Extension `http://localhost:8081/v2/`
-Test : `http://localhost:8081/v2/check?language=en-US&text=my+text`
-
-## Zotero
-* [sync Zotero Documentation](https://www.zotero.org/support/sync)
-* [kb:webdav services Zotero Documentation](https://www.zotero.org/support/kb/webdav_services)
-* [How to Use Zotero and Scrivener for Research-Driven Writing - JSTOR Daily](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/)
-* [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
-* [plugins Zotero Documentation](https://www.zotero.org/support/plugins)
-* [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
-* The best attacchment sync: 4shared (https://webdav.4shared.com/zotero), 15 GB. Alternative: GDrive with this hack: [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
 
 ## Self-publishing Book
 - [So you want to self-publish books and courses on programming | CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)

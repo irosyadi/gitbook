@@ -125,3 +125,10 @@ Related links:
     - [How to Create a Jupyter-Book Website From Scratch](https://pabloinsente.github.io/how-to-create-a-jupyter-book-website-from-scratch)
 * [8 surprising ways how to use Jupyter Notebook | MLJAR](https://mljar.com/blog/how-to-use-jupyter-notebook/)
 
+## Jupyter
+- [The Jupyter+git problem is now solved · fast.ai](https://www.fast.ai/2022/08/25/jupyter-git/)
+- [nbdev+Quarto: A new secret weapon for productivity · fast.ai](https://www.fast.ai/2022/07/28/nbdev-v2/)
+- [nbdev – Create delightful software with Jupyter Notebooks](https://nbdev.fast.ai/)
+- [ReviewNB - Jupyter Notebook Code Reviews & Collaboration](https://www.reviewnb.com/)
+- [Jupyter Notebooks as Markdown Documents, Julia, Python or R Scripts — Jupytext documentation](https://jupytext.readthedocs.io/en/latest/index.html)
+
