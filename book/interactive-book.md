@@ -13,7 +13,7 @@ draft: false
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
 🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
-🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
 ## Interactive Books
@@ -56,7 +56,7 @@ Related links:
 - [NASA: Prospect](http://nasaprospect.com/)
 
 ## Look Also
-- [Interactive and Explorable Sites](../app/interactive-explorable-web.md)
+- [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
 - [Machine Learning Interactive Visualization](../research/ml-visualization.md)
 - [Interactive Books](../book/interactive-book.md)
 - [Data Visualization](../note/data-visualization.md)

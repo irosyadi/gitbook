@@ -32,3 +32,6 @@ draft: false
 ## Julia-based Books
 - [Julia for Data Science](https://www.david-anthoff.com/jl4ds/stable/) License CC-BY-NC-ND
 - [Quantitative Economics with Julia](https://julia.quantecon.org/index_toc.html)
+
+## Web-based Control Simulation
+- [Collimator - Data driven design and simulation](https://www.collimator.ai/)

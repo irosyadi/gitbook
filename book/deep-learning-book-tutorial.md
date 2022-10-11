@@ -1,4 +1,4 @@
----
+ ---
 layout: default
 author: irosyadi
 title:  Deep Learning Books, Tutorials, and Courses

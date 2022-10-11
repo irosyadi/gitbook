@@ -35,6 +35,7 @@ draft: false
 - [helloele](https://github.com/prakis/helloele)
 - [LBRY - Content Freedom](https://lbry.com/)
 - [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
+- [cl1p.net - The internet clipboard](https://cl1p.net/)
 
 ## Web-RTC File Transfer
 - [Wormhole](https://wormhole.app/)
@@ -57,3 +58,7 @@ draft: false
 
 
 
+
+
+## File Send
+* [Sendfiles.online](https://sendfiles.online/?lang=en)

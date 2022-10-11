@@ -15,11 +15,9 @@ At the moment, here are the categories:
 * App: Collection of interesting web, desktop, or phone apps.
 * Awesome: Categorical notes about something awesome.
 * Book: Collection of interesting books.
-* Catatan: Blog, in Indonesian.
 * Course: Course notes for my students.
 * Development: Notes about how I develop this site.
 * How To: How-to notes.
-* Markdown: Notes about markdown syntax.
 * Me: About me and my stuffs.
 * Note: Blog, in English.
 * Random: Random notes, links, and bookmarks.

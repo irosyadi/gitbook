@@ -38,3 +38,19 @@ draft: false
 - [FREE Feed Widget. Fully Customisable and Easy To Use. Up to 5 feeds](https://surfing-waves.com/feed.htm)
 
 
+
+
+## RSS
+- [Newsy - Instantly turn your unused domain names into an awesome social news aggregator & monetize!](https://www.newsy.co/) RSS to website aggregator
+
+## RSS to JSOn
+- [RSS to JSON Converter online - rss2json.com](https://rss2json.com/)
+
+## RSS
+- [sumi.news](https://sumi.news/)
+
+## News Feed
+* [Feed - QotNews](https://news.t0.vc/)
+* [AllTop.com - Popular News Sites for Any Topic](https://alltop.com/)
+* [Skimfeed V5.5 - Tech News](https://skimfeed.com/)
+* [sumi.news](https://sumi.news/)

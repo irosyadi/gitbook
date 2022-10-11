@@ -18,3 +18,6 @@ draft: false
 - [Azure Free](https://azure.microsoft.com/en-us/pricing/details/app-service/windows/) and [Azure for Student](https://azure.microsoft.com/en-us/free/students/)
 - [Alibaba Free](https://www.alibabacloud.com/campaign/free-trial)
 - [Red Hat Openshift](https://www.openshift.com/trial/)
+
+## Cloud Computing Comparison
+- [CloudOptimizer](https://cloudoptimizer.io/)

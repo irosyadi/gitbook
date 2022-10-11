@@ -41,3 +41,7 @@ draft: false
 * [mindee/doctr: docTR (Document Text Recognition) - a seamless, high-performing & accessible library for OCR-related tasks powered by Deep Learning.](https://github.com/mindee/doctr)
 
 
+
+
+## OCR
+* [dpScreenOCR User Manual](https://danpla.github.io/dpscreenocr/manual.html)

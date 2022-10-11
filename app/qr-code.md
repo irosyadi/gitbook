@@ -29,3 +29,6 @@ draft: false
 - [Ginifab](https://www.ginifab.com/feeds/qr_code/qr_code_scanner.html)
 - [ImgOnline](https://www.imgonline.com.ua/eng/scan-qr-bar-code.php)
 - [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/qrcode-generator-and-reader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
+
+## QR Code
+- [QRImage](https://hughchen.github.io/qr_image/)

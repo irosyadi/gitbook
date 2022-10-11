@@ -182,3 +182,14 @@ top open source deep learning for time series forecasting frameworks.
 
 ## Timeseries RNN
 - [Spice.ai](https://github.com/spiceai)
+
+## Timeseries Forecasting
+- [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
+- [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
+- [Introduction to Econometrics with R](https://www.econometrics-with-r.org/index.html)
+- [Time Series Forecasting Using Recurrent Neural Network and Vector Autoregressive Model: When and How - Databricks](https://databricks.com/session/time-series-forecasting-using-recurrent-neural-network-and-vector-autoregressive-model-when-and-how)
+- [Economics 312 Reading List - Economics - Reed College](https://www.reed.edu/economics/parker/s10/312/readings.html)
+
+## Time-series Forecasting
+- [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)
+- [statsforecast - Statistical ⚡️ Forecast](https://nixtla.github.io/statsforecast/)

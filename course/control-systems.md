@@ -58,6 +58,11 @@ draft: false
 - [MATLAB Channel: Understanding Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 - [MATLAB Channel: Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
+## Control Learning Videos
+- [Christopher Lum - YouTube](https://www.youtube.com/c/ChristopherLum/videos)
+- [katkimshow - YouTube](https://www.youtube.com/c/katkimshow/featured)
+- [Control Theory in Practice - YouTube](https://www.youtube.com/channel/UCV3CS_ygnzwGzjBXKjVdQIQ)
+
 ## Control Theory Interactive
 [ICCT](https://icct.cafre.unipi.it/)
 - Control Systems Academy - https://www.controlsystemsacademy.com/

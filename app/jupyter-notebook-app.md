@@ -112,6 +112,7 @@ Related links:
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [mljar/mercury: Mercury: easily convert Python notebook to web app and share with others](https://github.com/mljar/mercury)
 * [Build web app from Python Notebook | MLJAR](https://mljar.com/mercury/)
+* [Notebooks](https://jupyterspot.com/) Collaborative Jupyter Whiteboards
 
 ## Blog with Jupyter
 - [fastpages | An easy to use blogging platform with support for Jupyter Notebooks.](https://fastpages.fast.ai/)

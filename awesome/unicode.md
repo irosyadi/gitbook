@@ -115,3 +115,15 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 
 ## Emoji
 - [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
+
+
+## Zalgo Text Generator
+- [Zalgo Text Generator ― LingoJam](https://lingojam.com/ZalgoText)
+- [Zalgo Text Generator by Tchouky](https://eeemo.net/)
+- [Symbols ☯ Emoji](https://fsymbols.com/)
+
+## Emoji
+* [OpenMoji](https://openmoji.org/)
+
+## Emoji
+- [OpenMoji](https://openmoji.org/)

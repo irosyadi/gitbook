@@ -13,7 +13,7 @@ draft: false
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
 🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
-🔗 [Awesome List of Interactive and Explorable Webs](/app/interactive-explorable-web)  
+🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
 ## Visualization eBook
@@ -148,3 +148,14 @@ Related links:
 * [Charts](http://visualizationuniverse.com/charts/)
 * [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/)
 * [DataVis.ca](https://www.datavis.ca/index.php)
+* [Python Graph Gallery](https://www.python-graph-gallery.com/)
+* [Plotly Python Graphing Library](https://plotly.com/python/)
+
+## Online Visualization
+* [Pricing | Create charts and maps with Datawrapper](https://www.datawrapper.de/pricing)
+* [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+* [Visualizations - datamatic.io](https://datamatic.io/)
+* [Online Chart & Graph Maker| LiveGap](https://charts.livegap.com/#TypesofCharts)
+* [Charts  |  Google Developers](https://developers.google.com/chart/)
+* [Gist - Data becomes knowledge](https://www.gistapp.com/)
+* [RAWGraphs](https://www.rawgraphs.io/)
