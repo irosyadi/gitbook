@@ -9,14 +9,20 @@ draft: false
 ---
 
 # Network Speed Test Apps
-- [fast.com](https://fast.com/) : from Netflix, direct measure
-- [cloudflare](https://speed.cloudflare.com/) : from Cloudflare, direct measure
-- [googlefiber](https://speed.googlefiber.net/)
-- [librespeed unsoed](https://st3d.unsoed.ac.id/)
-- [speedtest](https://www.speedtest.net/) : from speedtest.net, also has CLI
-- [speedtest.cbn.id](https://speedtest.cbn.id/) : from speedtest.net
-- [biznet](https://speedtest.biznetnetworks.com/) : from speedtest.net direct measure
-- [Librespeed](https://librespeed.org/) : open source
-- [st3d unsoed](https://st3d.unsoed.ac.id/) : unsoed librespeed server
-- [Openspeedtest](https://openspeedtest.com/)
+## Global
+- [fast.com](https://fast.com/) : by Netflix, directly measure 
+- [cloudflare](https://speed.cloudflare.com/) : by Cloudflare, directly measure
+- [googlefiber](https://speed.googlefiber.net/) : by Google
+- [speedtest](https://www.speedtest.net/) : by speedtest.net, also has CLI
+- [openspeedtest](https://openspeedtest.com/)
 - [speed of me](https://speedof.me/)
+
+## Global, self-hosted
+- [Librespeed](https://librespeed.org/) : open source
+
+## Indonesia
+- [librespeed at unsoed](https://st3d.unsoed.ac.id/) : hosted librespeed, by Unsoed
+- [speedtest at CBN](https://speedtest.cbn.id/) : hosted speedtest by CBN.id
+- [speedtests at biznet](https://speedtest.biznetnetworks.com/) : hosted speedtest by biznet
+
+_published in Mataroa and Bearblog_

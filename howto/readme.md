@@ -1,11 +1,11 @@
 ---
-title:  Research
+title:  How To
 date: 2020-06-01 20:09:34
-category: research
-tags: ["category", "research"]
+category: howto
+tags: ["howto"]
 draft: false
 ---
 
-# Research
+# How To
 
 {% include list.liquid all=true %}

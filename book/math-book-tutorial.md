@@ -17,6 +17,7 @@ draft: false
 - [Introduction to Applied Linear Algebra – Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 - [Book: Calculus (OpenStax) - Mathematics LibreTexts](https://math.libretexts.org/Bookshelves/Calculus/Book%3A_Calculus_(OpenStax))
 - [Elementary Calculus](https://www.math.wisc.edu/~keisler/calc.html)
+- [Free Mathematics Books](http://www.e-booksdirectory.com/mathematics.php)
 
 
 ### GPL/GFDL

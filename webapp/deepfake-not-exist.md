@@ -105,3 +105,4 @@ draft: false
 
 ## Not Exist
 * [This Food Does Not Exist 🍪🍰🍣🍹 | stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu/)
+* [Nyx.gallery - AI-generated photography](https://nyx.gallery/)

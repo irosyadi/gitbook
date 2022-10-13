@@ -1,11 +1,11 @@
 ---
-title:  Research
+title: Web Development
 date: 2020-06-01 20:09:34
-category: research
-tags: ["category", "research"]
+category: webdev
+tags: ["webdev"]
 draft: false
 ---
 
-# Research
+# Web Development
 
 {% include list.liquid all=true %}

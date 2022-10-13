@@ -42,4 +42,5 @@ draft: false
 - [Lexica](https://lexica.art/)
 - [Stable Diffusion - a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stable-diffusion)
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
-- 
+- [GuyTevet/motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model"](https://github.com/GuyTevet/motion-diffusion-model)
+- [invoke-ai/InvokeAI: This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.](https://github.com/invoke-ai/InvokeAI)

@@ -341,6 +341,9 @@ Important
 - [RobotComponents/Printed-BLDC-motor at main · RepRapLtd/RobotComponents](https://github.com/RepRapLtd/RobotComponents/tree/main/Printed-BLDC-motor) [Blog - RepRap Ltd](https://reprapltd.com/blog/)
 - [High quality draft with 0.18\_pre with tutorial - FreeCAD Forum](https://forum.freecadweb.org/viewtopic.php?f=24&t=32446&hilit=brushless)
 
+## BLDC Motor Simulation
+- [joewa/open-bldc-modelica: Multi physics simulation models for open-bldc](https://github.com/joewa/open-bldc-modelica)
+
 
 HMI Python
 

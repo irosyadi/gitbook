@@ -14,7 +14,6 @@ Audio and music processing tools.
 
 Related links:  
 🔗 [Audio, Music, Radio, and Podcast Streaming Apps](audio-streaming.md)  
-🔗 [Audio and Music Tools](audio-tool.md)  
 🔗 [Free Audio and Music](../multimedia/free-audio.md)
 
 
@@ -47,6 +46,7 @@ Related links:
 - [maximecb/noisecraft: Browser-based visual programming language and platform for sound synthesis.](https://github.com/maximecb/noisecraft)
 - [helio.fm](https://helio.fm/) libre music composition software
 - [Faust Programming Language](https://faust.grame.fr/)
+- [Glicol](https://glicol.org/)  Next-generation computer music language.
 
 ### AI Audio and Music Generator
 * [AI Melody Generator](https://dopeloop.ai/melody-generator/)
@@ -77,6 +77,7 @@ Related links:
 ## Audio Editor
 ### Desktop Audio Editor
 - Audacity, #opensource
+- [Bespoke Synth](https://www.bespokesynth.com/)
 
 ### Online Audio Editor
 - [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)Audio Editor 

@@ -1,3 +1,13 @@
+---
+title: eBook
+date: 2020-11-28 08:37:00
+category: book
+tags: ["book"]
+draft: false
+---
+
+# eBook
+
 ## Interesting Online Books
 - [Data Mining in Social Science](https://legacy.gitbook.com/book/lingfeiwu1/data-mining-in-social-science/details)
 - [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
@@ -44,3 +54,5 @@
 ## Ebook
 - [2012 Book Archive](https://2012books.lardbucket.org/)
 - [Saylor Academy | Saylor Academy](https://learn.saylor.org/)
+- [The Feynman Lectures on Physics Website](https://www.feynmanlectures.caltech.edu/info/)
+- [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html)
