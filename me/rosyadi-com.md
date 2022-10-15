@@ -1,20 +1,21 @@
 ---
-layout: default
-author: irosyadi
-title:  Services on rosyadi.com
+aliases: [Services on rosyadi.com and irosyadi Blog Networks]
+title: Services on rosyadi.com and irosyadi Blog Networks
+tags: ["app", "self-hosted", "imron"]
 date: 2020-12-13 04:17:16
 category: me
-tags: ["app", "self-hosted", "imron"]
 draft: false
 ---
 
 # Services on rosyadi.com and irosyadi Blog Networks
 
 ## Public Services on rosyadi.com
+
 - [Nonpersistent Kanban Board](https://rosyadi.com/kanban/)
 - [Nonpersistent Notepad](https://rosyadi.com/kanban/note/)
 
 ## Personal Services on rosyadi.com
+
 - [Dashboard](https://rosyadi.com/dash/) : access all personal sites in rosyadi.com
 - [Organizer](https://rosyadi.com/organ/) : Homelab services organizer, [powered by Organizr](https://github.com/causefx/organizr)
 - [Cloud Drive](https://rosyadi.com/drive/) : Cloud drive, [powered by Nextcloud](https://nextcloud.com/)
@@ -31,29 +32,31 @@ draft: false
 - [Form](https://rosyadi.com/form/) : online form [powered by Formtools](https://formtools.org/)
 
 ## Blogs on rosyadi.com
+
 - [Bludit](https://rosyadi.com/bludit/) : static web [powered by Bludit](https://www.bludit.com/)
 - [Masjid Hamzah](https://rosyadi.com/masjid/) : web for masjid Hamzah, powered by Wordpress
 - info.rosyadi.com
 - blog.rosyadi.com
 
 ## Internal Services
+
 - [Video Downloader](https://rosyadi.com/videodl/): video downloader [powered by Alltube](https://github.com/Rudloff/alltube)
 - [Proxy](https://rosyadi.com/proxy/): proxy [powered by PHPProxy](https://www.php-proxy.com/)
 - [File Share](https://rosyadi.com/send/): file share [powered by Jirafeau](https://gitlab.com/mojo42/Jirafeau)
 - [Fulltext RSS](https://rosyadi.com/fullrss/): get full text RSS [powered by Fivefilters](https://www.fivefilters.org/full-text-rss/)
 
-<!-- 
-- [Load File](https://rosyadi.com/load-file/) : simple PHP script for uploading file to server
-- [Load URL](https://rosyadi.com/load-url/) : simple PHP script for transferring to server
+<!--
+- [Load File](<https://rosyadi.com/load-file/)> : simple PHP script for uploading file to server
+- [Load URL](<https://rosyadi.com/load-url/)> : simple PHP script for transferring to server
 -->
 
-
 ## irosyadi Blog Networks
-* [irosyadi – note of a life](https://imronrosyadi.wordpress.com/)
+
+- [irosyadi–note of a life](https://imronrosyadi.wordpress.com/)
 
 ## Host Management
-* [Yandex Connect](https://connect.yandex.com/portal/home) : mail management
-<!-- [CPanel](https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951) -->
 
+- [Yandex Connect](https://connect.yandex.com/portal/home) : mail management
+<!-- [CPanel](<https://srv66.niagahoster.com:2083/cpsess2968925572/frontend/paper_lantern/index.html?login=1&post_login=22825537690951)> -->
 
 ![i-yellow](_v_images/20210410142500299_7907.png)

@@ -1,14 +1,14 @@
 ---
-layout: default
-author: irosyadi
-title:  Paper Curation
+aliases: [Curated Papers]
+title: Curated Papers
+tags: ["paper", "search"]
 date: 2022-06-02 17:15:49
 category: research
-tags: ["paper", "search"]
 draft: false
 ---
 
-## Curated Papers
+# Curated Papers
+
 - [42 Papers](https://42papers.com/) Trending papers in AI and Computer Science
 - [Papers with Code](https://paperswithcode.com/)
 - [Deep AI org](https://deepai.org/) AI News and AI Curated Papers
@@ -19,7 +19,7 @@ draft: false
 - [ExplainThisPaper- Medical Papers Explained Simply](https://explainthispaper.com/)
 - [Research Digest](https://digest.bps.org.uk/)
 
+# Paper Discussion
 
-## Paper Discussion
 - [ShortScience.org - Making Science Accessible!](https://www.shortscience.org/)
 - [Venues - OpenReview](https://openreview.net/)

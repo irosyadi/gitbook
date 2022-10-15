@@ -1,21 +1,22 @@
 ---
-layout: default
-author: irosyadi
-title:  Online Drawing Tools and Whiteboard Apps
+aliases: [Drawing Tools]
+title: Drawing Tools
+tags: ["drawing", "whiteboard"]
 date: 2020-09-14 11:04:15
 category: app
-tags: ["drawing", "whiteboard"]
 draft: false
 ---
 
 # Drawing Tools
 
 ## Online Drawing Tools
+
 - [Figma](https://www.figma.com)
 - [Ballpoint IO](https://ballpoint.io/files/examples/gopher)
 - [Aggie](https://aggie.io/)
 
 ## Collaborative Online Whiteboard
+
 - [BeeCanvas](https://beecanvas.com/) - multimedia, invitation only
 - [tldraw](https://www.tldraw.com/) - free, simple, multi user
 - [svgedit - Powerful SVG-Editor for your browser](https://svg-edit.github.io/svgedit/)

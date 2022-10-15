@@ -1,56 +1,47 @@
 ---
-layout: default
-author: irosyadi
-title:  Welcome
+aliases: [Imron Rosyadi]
+title: Imron Rosyadi
+tags: ["imron"]
 date: 2025-01-01 00:00:01
 category: me
-tags: ["imron"]
 draft: false
 ---
 
-# Welcome
+<p align="center">
+  <img src="https://source.unsplash.com/200x200/?cat" />
+</p>
 
-![](https://readme-typing-svg.herokuapp.com?font=Caveat&lines=Hi+%F0%9F%91%8B;Welcome+to+my+digital+garden)
+![](https://readme-typing-svg.herokuapp.com?lines=Hi+%F0%9F%91%8B;I'm+Imron)
 
-Hi 👋, Welcome to my digital garden.
+  
 
-Before you explore my garden, here is a random cat which life inside the garden.
+# Imron Rosyadi
 
-![Random Unsplash Cat](https://source.unsplash.com/200x200/?cat)
+- 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
 
-I write immediately random thought or something I found. Usually, I write it into a blog note. Then, in my spare time, I will expand them into a specific note or put them to the related note and category. 
+## Contact me:
 
-At the moment, here are the categories:
+- 📫 Mail: irosyadi@duck.com
 
-* App: Collection of interesting web, desktop, or phone apps.
-* Awesome: Categorical notes about something awesome.
-* Book: Collection of interesting books.
-* Catatan: Blog, in Indonesian.
-* Course: Course notes for my students.
-* Development: Notes about how I develop this site.
-* How To: How-to notes.
-* Markdown: Notes about markdown syntax.
-* Me: About me and my stuffs.
-* Note: Blog, in English.
-* Random: Random notes, links, and bookmarks.
-* Research: Notes related to my research.
+## Knowledge Bases
 
-I wrote my notes in Markdown (markdown-it flavor) using VNote in my Windows 10 laptop. Then I push them to Github. So my notes can also be read in Github. Then I make them live as FOUR static websites.
+- 📕 [irosyadi.netlify.app](https://irosyadi.netlify.app) or [irosyadi.github.io](https://irosyadi.github.io) or [irosyadi.gitbook.io](https://irosyadi.gitbook.io) : big lists of apps, web-apps, technologies, learning, hacking, and writing notes
 
-Why do I need FOUR websites for my similar notes? I dunno. They were started as my experiment so I could choose the better one. But as time flies, they are live together. I need to sync the notes structure using SyncFolder app in Windows.
+## Digital Gardens
 
-So here are all of the sites:
-- 📘 [https://irosyadi.github.io](https://irosyadi.github.io) : a Jekyll site, served by Github.
-- 📙 [https://irosyadi.gitbook.io](https://irosyadi.gitbook.io) : a Gitbook site, served by Gitbook.
-- 📕 [https://irosyadi.netlify.app](https://irosyadi.netlify.app) : a Gatsby site, served by Netlify.
-- 📗 [https://imron.pages.dev](https://imron.pages.dev) : a Hugo site, served by Cloudflare Pages.
+- 📗 [irosyadi-garden.netlify.app](https://irosyadi-garden.netlify.app) : non-technical blog
+- 📘 [irosyadi-wiki.netlify.app](https://irosyadi-wiki.netlify.app) : digital twin-related notes
 
-Thank you for exploring.
-And here is another cat.
+## Simple Blogs
 
-![Random Loremflickr Cat](https://loremflickr.com/200/200/cat)
+- 📑 [irosyadi.mataroa.blog](https://irosyadi.mataroa.blog) or [irosyadi.bearblog.dev](https://irosyadi.bearblog.dev) : simple lists of important web-apps
 
+## Landing Page
 
-[![Twitter: irosyadi](https://img.shields.io/twitter/follow/irosyadi?style=social)](https://twitter.com/irosyadi)
-[![Linkedin: irosyadi](https://img.shields.io/badge/-irosyadi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/irosyadi/)](https://www.linkedin.com/in/irosyadi/)
-[![GitHub: irosyadi](https://img.shields.io/github/followers/irosyadi?label=follow&style=social)](https://github.com/irosyadi)
+- 📚 [irosyadi-web.netlify.app](https://irosyadi-web.netlify.app)
+
+## Portals
+
+- 🌏 [rosyadi.com](https://rosyadi.com)
+- 🌏 [ipwt.org](https://ipwt.org)

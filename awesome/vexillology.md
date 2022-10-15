@@ -1,18 +1,18 @@
 ---
-layout: default
-author: irosyadi
-title:  Vexillology - Science about Flag
+aliases: [Vexillology]
+title: Vexillology
+tags: ["flag"]
 date: 2020-07-29 20:33:36
 category: awesome
-tags: ["flag"]
 draft: false
 ---
 
-# Vexillology - Science about Flag
+# Vexillology
 
 Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and usage of flags or, by extension, any interest in flags in general.
 
 ## Books
+
 - [The World Encyclopedia of Flags](https://www.goodreads.com/book/show/15932248-the-world-encyclopedia-of-flags) - [Albert Znamierowski](https://en.wikipedia.org/wiki/Alfred_Znamierowski) (2013)
 - [Flag, Nation and Symbolism in Europe and America](https://www.amazon.com/Flag-Nation-Symbolism-Europe-America/dp/0415458544), collection of research papers about the symbolism of flags.
 - [Complete Flags of the World](https://www.goodreads.com/book/show/22495388-complete-flags-of-the-world) - DK (2014)
@@ -22,11 +22,13 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Good Flag Bad Flag](https://nava.org/good-flag-bad-flag/)
 
 ## Journal
-- [Raven](https://nava.org/raven-a-journal-of-vexillology/) 
-- [Flag Research Quarterly](https://nava.org/flag-research-quarterly/) 
+
+- [Raven](https://nava.org/raven-a-journal-of-vexillology/)
+- [Flag Research Quarterly](https://nava.org/flag-research-quarterly/)
 - [Flags in Context: A Discussion of Design, Genre, and Aesthetics by Perry Dane](https://nava.org/digital-library/raven/Raven_v15_2008_p043-080.pdf)
 
 ## Web
+
 - [r/vexillology](https://old.reddit.com/r/vexillology/)
 - [FIAV](https://fiav.org/)
 - [Fun with Flags](https://publish.uwo.ca/~cwils92/funwithflags/index.html)
@@ -38,21 +40,16 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [All Flags World](https://www.all-flags-world.com/)
 
 ## Dataset
+
 - [Flags](https://www.flags.net/)
 - [Wikipedia Flag](https://data.world/pbi/country-flag-database-from-wikipedia)
 - [UCI Dataset](https://archive.ics.uci.edu/ml/datasets/Flags)
 - [Country Flags](https://hjnilsson.github.io/country-flags/) [GitHub](https://github.com/hjnilsson/country-flags)
-- [Country Flags #2](https://cristiroma.github.io/countries/) [GitHub](https://github.com/cristiroma/countries)
+- [Country Flags](https://cristiroma.github.io/countries/) [GitHub](https://github.com/cristiroma/countries)
 - [Kaggle](https://www.kaggle.com/skrzym/world-flags)
 - [Wikipedia List of Flags](https://www.wikiwand.com/en/Lists_of_flags)
 
 ## Flag Design
+
 - [Nava](https://nava.org/navanews/Commission-Report-Final-US.pdf)
 - [Good Flag Bad Flag](https://nava.org/digital-library/design/GFBF_English.pdf)
-
-## Beli Bendera
-- [Toko1](https://www.tokopedia.com/hoothoothooray/bendera-semua-negarahiasan-benderabendera-aseandekorasi-bendera?trkid=f%3DCa4374L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera_bmexp%3D48_po%3D23_catid%3D4374_bmexp%3D48&whid=0)
-- [Toko2](https://www.tokopedia.com/ombotak/bendera-negara-dunia-eropa-asia-afrika-isi-50-negara-uk-14-x-21-5?trkid=f%3DCa4374L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera_bmexp%3D48_po%3D34_catid%3D4374_bmexp%3D48&whid=0)
-- [Toko3 Bendera Meja](https://www.tokopedia.com/apdlawyershop/bendera-meja-negara-dunia-lengkap-semua-negara-ada-plus-tiang-kayu-ok?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D17_catid%3D4374_bmexp%3D48&whid=0)
-- [Toko4 Bendera Kapal](https://www.tokopedia.com/silverior/bendera-kibar-kain-negara-dunia-ship-flag-bendera-kapal?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D40_catid%3D4374_bmexp%3D48&whid=0)
-- [Bendera Kecil](https://www.tokopedia.com/depuspa/bendera-dunia-kecil-100-pcs-bendera-negara-negara-dunia?trkid=f%3DCa0000L000P0W0S0Sh%2CCo0Po0Fr0Cb0_src%3Dsearch_page%3D1_ob%3D101_q%3Dbendera+dunia_bmexp%3D48_po%3D42_catid%3D4374_bmexp%3D48&whid=0)

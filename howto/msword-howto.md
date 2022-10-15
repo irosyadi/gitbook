@@ -1,17 +1,16 @@
 ---
-layout: default
-author: irosyadi
+aliases: [Microsoft Word How To]
 title: Microsoft Word How To
+tags: ["word"]
 date: 2022-09-12 15:35:09
 category: howto
-tags: ["word"]
 draft: false
 ---
-
 
 # Microsoft Word How To
 
 ## Word Add-in
+
 - LanguageTool
 - Grammarly
 - WriteBetter

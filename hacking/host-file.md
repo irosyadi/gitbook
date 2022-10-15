@@ -1,8 +1,8 @@
 ---
 aliases: [Hosts File Management]
-title: "Hosts File Management"
-date: 2022-10-11 08:26
+title: Hosts File Management
 tags: ["tag"]
+date: 2022-10-11 08:26
 category: category
 draft: false
 ---
@@ -10,12 +10,14 @@ draft: false
 # Hosts File Management
 
 ## Hosts File
+
 - Manually edit `C:\Windows\System32\drivers\etc` [etc](file:///C:/Windows/System32/drivers/etc)
 - [Hosts File Editor](https://github.com/scottlerch/HostsFileEditor) : edit hosts file
 - [HostsMan](http://abelhadigital.com/hostsman/#downloads) : import hosts file
 - [Hosts Switcher](https://github.com/svejdo1/HostsSwitcher) : switch between many hosts files
 
 ## Hosts List
+
 - [StevenBlack/hosts: 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.](https://github.com/StevenBlack/hosts)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
 - [anudeepND/blacklist: Curated and well-maintained hostfile to block ads, tracking, cryptomining, and more! Updated regularly. ⚡🔒](https://github.com/anudeepND/blacklist)

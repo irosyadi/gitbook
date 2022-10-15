@@ -1,8 +1,9 @@
 ---
+aliases: [Drawing and Diagram]
 title: Drawing and Diagram
+tags: ["drawing", "diagram"]
 date: 2020-06-01 20:09:34
 category: drawing
-tags: ["drawing", "diagram"]
 draft: false
 ---
 

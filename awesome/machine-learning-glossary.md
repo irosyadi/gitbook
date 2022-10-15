@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Machine Learning Glossary
+aliases: [Machine Learning Glossary]
+title: Machine Learning Glossary
+tags: ["machine learning"]
 date: 2020-07-11 20:29:35
 category: awesome
-tags: ["machine learning"]
 draft: false
 ---
 
@@ -13,6 +12,7 @@ draft: false
 These are references for an upcoming book about terms in machine learning.
 
 List:
+
 - [Google ML Glossary](https://developers.google.com/machine-learning/glossary)
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/glossary.html)
 - [AI Dictionary](https://medium.com/heuritech/the-artificial-intelligence-dictionary-for-beginners-514019ec9f36)

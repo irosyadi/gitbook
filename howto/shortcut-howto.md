@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Shortcut How To
+aliases: [Shortcut How To]
+title: Shortcut How To
+tags: ["windows"]
 date: 2021-04-10 17:53:41
 category: howto
-tags: ["windows"]
 draft: false
 ---
 
 # Shortcut How To
 
 ## Chrome
+
 - Incognito : Ctrl + Shift + N
 - Open Last Closed Tab : Ctrl + Shift + T
 - Close the Active Right Away : Ctrl + W
@@ -21,6 +21,7 @@ draft: false
 - Clear Browsing Data : Ctrl + Shift + Delete
 
 ## Vimium
+
 - Help : ?
 - scroll up : j , scroll down : k
 - scroll up half page : u , scroll down hal page : d
@@ -31,10 +32,10 @@ draft: false
 - find mode : / , next find : n
 - open history/bookmark : o , open history/bookmark in new tab : O
 - open vomnibar : o
-- go one tab left : J,  go one tab right : K
+- go one tab left : J, go one tab right : K
 - new tab : t, search tab : T
 - close tab : x, restore closed tab: X
-- ]], [[  : 'next' or '>' and 'previous' '<'
+- ]], [[ : 'next' or '>' and 'previous' '<'
 - gu : go up one level in the URL hierarchy, gU : go up to root of the URL hierarchy
 - ge : edit the current URL
 - H : back history, L : forward history

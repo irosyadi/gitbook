@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  CT-Scan for Covid Classification using Machine Learning
+aliases: [CT-Scan for Covid-19 Classification using Machine Learning]
+title: CT-Scan for Covid-19 Classification using Machine Learning
+tags: ["covid", "machine learning"]
 date: 2020-11-29 14:44:52
 category: research
-tags: ["covid", "machine learning"]
 draft: false
 ---
 
 # CT-Scan for Covid-19 Classification using Machine Learning
 
 ## Dataset
+
 - [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
     - [Paper](https://www.medrxiv.org/node/76881.external-links.html)
 - [ieee8023/covid-chestxray-dataset](https://github.com/ieee8023/covid-chestxray-dataset)
@@ -23,12 +23,15 @@ draft: false
 - [Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets | Nature Communications](https://www.nature.com/articles/s41467-020-17971-2)
     - [Clara Deploy AI COVID-19 Classification | NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:clara:ai-covid-19): two categories (Covid, Normal)
 - [LIDC-IDRI - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
+
 ## Notes
+
 - [Kaggle](https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19)
 - [Adrian Rosenbrerck](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) [GitHub Repo, work in progress](https://github.com/AleGiovanardi/covidhelper)
 - [PaperswithCode](https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about)
 
 ## Github
+
 - [AlexTS1980/COVID-CT-Mask-Net](https://github.com/AlexTS1980/COVID-CT-Mask-Net) : Segmentation and Classification, category (COVID, pneumonia, normal), Mask R-CNN.
     - [Presentation](https://github.com/AlexTS1980/COVID-CT-Mask-Net/blob/master/presentations/COVID_19_Presentation_Kent.pdf)
     - [Lightweight Model For The Prediction of COVID-19 Through The Detection And Segmentation of Lesions in Chest CT Scans](https://www.medrxiv.org/content/10.1101/2020.10.30.20223586v2.full.pdf)
@@ -56,11 +59,12 @@ draft: false
 - [paper/harmony-search-and-otsu-based-system-for](https://paperswithcode.com/paper/harmony-search-and-otsu-based-system-for)
 
 ## Paper
+
 - [A Deep Learning System to Screen Novel Coronavirus Disease 2019 Pneumonia](https://www.sciencedirect.com/science/article/pii/S2095809920301636)
     - [Deep learning system to screen coronavirus disease 2019 pneumonia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175452/) - similar with above paper
 - Imaging and clinical features of patients with 2019 novel coronavirus SARS-CoV-2, Xi Xu et al.
 - Chest CT findings in patients with coronavirus disease 2019 (COVID-19): a comprehensive review, Jinkui Li et al.
-- CT in coronavirus disease 2019 (COVID-19): a systematic review of chest CT findings in 4410 adult patients,
+- CT in coronavirus disease 2019 (COVID-19): a systematic review of chest CT findings in 4410 adult patients,  
 Vineeta Ojha et al.
 - iCTCF: an integrative resource of chest computed tomography images and clinical features of patients with COVID-19 pneumonia, Wanshan Ning et al. [Project Site](http://ictcf.biocuckoo.cn/), [Europe PMC Open Access](https://europepmc.org/article/ppr/ppr141530) [Research Square](https://www.researchsquare.com/article/rs-21834/v1)
 - Computed Tomography (CT) Imaging Features of Patients with COVID-19: Systematic Review and Meta-Analysis, Ephrem Awulachew et al. [NCBI Open Access](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7378588/)

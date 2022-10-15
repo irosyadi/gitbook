@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Free Apps for Students
+aliases: [Free Apps for Students]
+title: Free Apps for Students
+tags: ["free", "student"]
 date: 2020-09-14 10:41:48
 category: app
-tags: ["free", "student"]
 draft: false
 ---
 
 # Free Apps for Students
 
 ## Free Student Software List
+
 - [Free Student Software](https://freestudentsoftware.com/) - dead
 - [Free Software for Student](https://onthehub.com/product-category/free-software/)
 - [Software 4 Students](https://www.software4students.co.uk/)
@@ -20,6 +20,7 @@ draft: false
 - [Hacker Promos](https://www.hackerpromos.com/)
 
 ## Free Software for Student
+
 - [Auto Desk Education](https://www.autodesk.com/education/free-software/featured) : Autocad, Autodesk, Inventor
 - [Ansys](https://www.ansys.com/academic)
 - [Solid Edge 3D CAD](https://www.plm.automation.siemens.com/plmapp/education/solid-edge/en_us/free-software/student)

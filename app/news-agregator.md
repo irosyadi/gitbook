@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  News Agregator
+aliases: [News Agregator]
+title: News Agregator
+tags: ["news", "agregator"]
 date: 2020-12-28 19:55:02
 category: app
-tags: ["news", "agregator"]
 draft: false
 ---
 
 # News Agregator
 
 ## News Aggregator
+
 - [Alltop](https://alltop.com/)
 - [PopUrls](http://popurls.com/)
 - [Use Panda](https://app.usepanda.com/#/)

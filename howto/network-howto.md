@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Network How To
+aliases: [Network How To]
+title: Network How To
+tags: ["network"]
 date: 2021-04-05 07:11:29
 category: howto
-tags: ["network"]
 draft: false
 ---
 
 # Network How To
 
 ## Network Connection Test
+
 - `ping`
 - `tracert`
 - `pathping`

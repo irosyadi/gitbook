@@ -1,19 +1,20 @@
 ---
-layout: default
-author: irosyadi
-title:  Awesome List of File Converter Apps
+aliases: [Awesome List of File Converter Apps]
+title: Awesome List of File Converter Apps
+tags: ["file", "converter"]
 date: 2020-10-11 21:48:47
 category: app
-tags: ["file", "converter"]
 draft: false
 ---
 
 # Awesome List of File Converter Apps
 
 ## List File Converter
+
 - [ConvertF.com - Online Converter](https://convertf.com/)
 
 ## Cloud-based File Converter
+
 - [mp4.to](https://mp4.to/) : video file converter
 - [pdf.to](https://pdf.to/) : document file converter
 - [word.to](https://word.to/) : document file converter
@@ -42,11 +43,13 @@ draft: false
 - [Free .png to .pdf image converter.](https://png.to-pdf.net/)
 
 ## WASM File Converter
+
 - [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter
 
 ## Offline File Converter Apps
+
 - [File Converter](https://file-converter.org/) : Windows app
 - [NCH tools file converter](https://www.nchsoftware.com/software/converters.html)
 - Pandoc
-- [Handbrake ](https://handbrake.fr/) : Video converter
+- [Handbrake](https://handbrake.fr/) : Video converter
 - [Pazeera](https://www.pazera-software.com/)

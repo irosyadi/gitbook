@@ -1,4 +1,7 @@
 # Welcome
+
+
+
 <p align="center">
   <img src="https://source.unsplash.com/200x200/?cat" />
 </p>
@@ -12,32 +15,19 @@
 ### Contact me:
 - 📫 Mail: irosyadi@duck.com
 
-### Knowledge Base
-- 📕 https://irosyadi.netlify.app
-- 📘 https://irosyadi.github.io
-- 📙 https://irosyadi.gitbook.io
+### Knowledge Bases
+- 📕 [irosyadi.netlify.app](https://irosyadi.netlify.app) or [irosyadi.github.io](https://irosyadi.github.io) or [irosyadi.gitbook.io](https://irosyadi.gitbook.io) : big lists of apps, web-apps, technologies, learning, hacking, and writing notes
 
-## Digital Garden
-- 📃 https://irosyadi-garden.netlify.app
-- 📃 https://irosyadi-wiki.netlify.app
+### Digital Gardens
+- 📗 [irosyadi-garden.netlify.app](https://irosyadi-garden.netlify.app) : non-technical blog
+- 📘 [irosyadi-wiki.netlify.app](https://irosyadi-wiki.netlify.app) : digital twin-related notes
 
-## Simple Blog
-- 📃 https://irosyadi.mataroa.blog
-- 📃 https://irosyadi.bearblog.dev
+### Simple Blogs
+- 📑 [irosyadi.mataroa.blog](https://irosyadi.mataroa.blog) or  [irosyadi.bearblog.dev](https://irosyadi.bearblog.dev) : simple lists of important web-apps
 
-## Landing Page
-- 📗 https://irosyadi-web.netlify.app
-- 🌏 https://rosyadi.com
+### Landing Page
+- 📚 [irosyadi-web.netlify.app](https://irosyadi-web.netlify.app)
 
-## Github Profile
-
-![Github Metrics](https://metrics.lecoq.io/irosyadi?template=classic&base.indepth=false&base.hireable=false&config.timezone=Asia%2FJakarta)
-
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irosyadi&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irosyadi" />
-</p>
-
-<p align="center">
-<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irosyadi&layout=compact" />
-</p>
+### Portals
+- 🌏 [rosyadi.com](https://rosyadi.com)
+- 🌏 [ipwt.org](https://ipwt.org)

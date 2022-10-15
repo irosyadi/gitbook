@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Open Culture
+aliases: [Open Culture]
+title: Open Culture
+tags: ["open", "culture"]
 date: 2020-12-21 09:39:55
 category: note
-tags: ["open", "culture"]
 draft: false
 ---
 
 # Open Culture
 
 ## Open Culture Web
+
 - [Open Culture](https://www.openculture.com/)
 - [OPen Science Handbook](https://open-science-training-handbook.gitbook.io/book/)
 - [OSF.io](https://osf.io/)
@@ -18,6 +18,7 @@ draft: false
 - [Console](https://console.substack.com/)
 
 ## Awesome Open Source
+
 - [Awesome Open Source Documents](https://github.com/nacyot/awesome-opensource-documents)
 - [Awesome Open Source](https://awesomeopensource.com/)
 - [Prism Break](https://prism-break.org/en/all/)
@@ -26,4 +27,5 @@ draft: false
 - [Opensource Builders](https://opensource.builders/)
 
 ## Open AI Project
+
 - [OpenCog](https://wiki.opencog.org/w/The_Open_Cognition_Project)

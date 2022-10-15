@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Text to Speech Apps
+aliases: [Text to Speech Apps]
+title: Text to Speech Apps
+tags: ["conversion", "generator"]
 date: 2022-05-05 05:14:38
 category: app
-tags: ["conversion", "generator"]
 draft: false
 ---
 
@@ -16,6 +15,7 @@ Related links:
 🔗 [Speech to Speech (Fake Voice Generator)](../multimedia/speech-to-speech.md)  
 
 ## Text to Speech Apps
+
 - [Natural Readers](https://www.naturalreaders.com/), online and offline
 - [Modern Google-level STT Models Released](https://habr.com/en/post/519562/)
 - [codeforequity-at/botium-speech-processing: Botium Speech Processing](https://github.com/codeforequity-at/botium-speech-processing) : open source
@@ -28,13 +28,13 @@ Related links:
 - [Mozilla Common Voice](https://commonvoice.mozilla.org/en)
 - [Amazon Polly](https://aws.amazon.com/polly/)
 - [Descript | Create podcasts, videos, and transcripts](https://www.descript.com/)
-- [Synthesize Voice AI and Natural Sounding Text-to-Speech — Replica](https://replicastudios.com/)
+- [Synthesize Voice AI and Natural Sounding Text-to-Speech—Replica](https://replicastudios.com/)
 - [15.ai: Natural TTS with minimal data](https://15.ai/)
 - [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
 - [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
 - [Narration Box | Everything you need to engage your audience with voice and audio.](https://narrationbox.com/)
 - [per.quest | Play Audio of an Article](https://per.quest/)
-- [Text to Speech – Realistic AI Voice Generator | Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
+- [Text to Speech–Realistic AI Voice Generator | Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
 - [neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
 - [Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/index.html)
 - [15.ai: Natural TTS with minimal viable data](https://15.ai/)
@@ -42,6 +42,7 @@ Related links:
 - [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 
 ## Research
+
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)
 - [Kyubyong/speaker_adapted_tts: Making a TTS model with 1 minute of speech samples within 10 minutes](https://github.com/Kyubyong/speaker_adapted_tts)
 - [A highly efficient, real-time text to speech system deployed on CPUs](https://ai.facebook.com/blog/a-highly-efficient-real-time-text-to-speech-system-deployed-on-cpus/)
@@ -53,14 +54,14 @@ Related links:
 - [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [r9y9/tacotron_pytorch: PyTorch implementation of Tacotron speech synthesis model.](https://github.com/r9y9/tacotron_pytorch)
 
-
 ## Text to Speech
-* [Dimio Software](http://dimio.altervista.org/eng/)
-* [TinyGem.org - bookmarking and content recommendations for people who love to read Hacker News.](https://tinygem.org/listen/)
-* [https://www.locserendipity.com/TTS.html](https://www.locserendipity.com/TTS.html)
-* [MycroftAI/mimic3: A fast local neural text to speech engine for Mycroft](https://github.com/MycroftAI/mimic3)
-* [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis - NVIDIA ADLR](https://nv-adlr.github.io/Flowtron)
-* [Matter - Chrome Web Store](https://chrome.google.com/webstore/detail/matter/knjbgabkeojmfdhindppcmhhfiembkeb)
-* [Text To Speech](https://tts.cns.wtf/)
-* [Coqui](https://coqui.ai/)
-* [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
+
+- [Dimio Software](http://dimio.altervista.org/eng/)
+- [TinyGem.org - bookmarking and content recommendations for people who love to read Hacker News.](https://tinygem.org/listen/)
+- [https://www.locserendipity.com/TTS.html](https://www.locserendipity.com/TTS.html)
+- [MycroftAI/mimic3: A fast local neural text to speech engine for Mycroft](https://github.com/MycroftAI/mimic3)
+- [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis - NVIDIA ADLR](https://nv-adlr.github.io/Flowtron)
+- [Matter - Chrome Web Store](https://chrome.google.com/webstore/detail/matter/knjbgabkeojmfdhindppcmhhfiembkeb)
+- [Text To Speech](https://tts.cns.wtf/)
+- [Coqui](https://coqui.ai/)
+- [Balabolka](http://www.cross-plus-a.com/balabolka.htm)

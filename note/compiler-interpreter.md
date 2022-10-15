@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  About Compiler Interpreter
+aliases: [About Compiler and Interpreter]
+title: About Compiler and Interpreter
+tags: ["compiler", "interpreter"]
 date: 2020-07-03 20:26:29
 category: note
-tags: ["compiler", "interpreter"]
 draft: false
 ---
 
@@ -20,9 +19,9 @@ Note that this distinction doesn't make sense for interpreters: an interpreter r
 
 So, we have:
 
--   AOT compiler: compiles before running
--   JIT compiler: compiles while running
--   interpreter: runs
+- AOT compiler: compiles before running
+- JIT compiler: compiles while running
+- interpreter: runs
 
 JIT Compilers
 -------------
@@ -48,8 +47,5 @@ It is also possible and in fact common to combine those two approaches: two phas
 
 Note that the role that the interpreter plays in the case of a mixed-mode execution engine, namely providing fast startup, and also potentially collecting information and providing fallback capability may alternatively also be played by a second JIT compiler. This is how V8 works, for example. V8 never interprets, it always compiles. The first compiler is a very fast, very slim compiler that starts up very quick. The code it produces isn't very fast, though. This compiler also injects profiling code into the code it generates. The other compiler is slower and uses more memory, but produces much faster code, and it can use the profiling information collected by running the code compiled by the first compiler.
 
-
-
-Reference:
+Reference:  
 [Interpreter vs JIT](https://pediaa.com/what-is-the-difference-between-interpreter-and-jit-compiler/)
-

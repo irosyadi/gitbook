@@ -1,8 +1,8 @@
 ---
 aliases: [Bookmarklets]
-title: "Bookmarklets"
-date: 2022-10-11 08:22
+title: Bookmarklets
 tags: ["tag"]
+date: 2022-10-11 08:22
 category: category
 draft: false
 ---
@@ -10,6 +10,7 @@ draft: false
 # Bookmarklets
 
 ## Bookmarklets
+
 - [41 Bookmarklets to Boost Your Productivity in Chrome, Firefox & Safari | The Tech Basket](https://www.thetechbasket.com/most-useful-bookmarklets/)
 - [100+ Useful Bookmarklets For Better Productivity | Ultimate List - Hongkiat](https://www.hongkiat.com/blog/100-useful-bookmarklets-for-better-productivity-ultimate-list/)
 - [The 12 Best Bookmarklets Every Browser Should Have](https://www.online-tech-tips.com/cool-websites/the-12-best-bookmarklets-every-browser-should-have/)

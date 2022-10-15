@@ -1,19 +1,20 @@
 ---
-layout: default
-author: irosyadi
-title:  Machine Learning for Sport Pose Analysis
+aliases: [Machine Learning for Sport Pose Analysis]
+title: Machine Learning for Sport Pose Analysis
+tags: ["machine learning", "sport", "pose estimation"]
 date: 2020-10-11 21:21:34
 category: research
-tags: ["machine learning", "sport", "pose estimation"]
 draft: false
 ---
 
 # Machine Learning for Sport Pose Analysis
 
 ## Pose Estimation
+
 - [Pose Estimation in Jetson Device](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) [Blog](https://developer.nvidia.com/blog/creating-a-human-pose-estimation-application-with-deepstream-sdk/)
 
 ## Sport Pose Analysis
+
 - [Badminton Pose Analysis](https://github.com/deepaktalwardt/badminton-pose-analysis)
 - [Action Dataset (Tennis and Badminton)](https://www.cvssp.org/acasva/Downloads)
 - [Ref-1](https://www.researchgate.net/publication/316477606_Computer_vision_for_sports_Current_applications_and_research_topics)
@@ -26,7 +27,9 @@ draft: false
 - [Ref-8](https://ieeexplore.ieee.org/document/8686917)
 
 ## Pose Estimation
+
 ### Methods
+
 - HRNet
 - OpenPose
 - HigherHRNet
@@ -36,6 +39,7 @@ draft: false
 - Personlab
 
 ### Datasets
+
 - [COCO](https://cocodataset.org/#home) (Common Objects in Context)
     - Benchmark; Images from Flickr
 - [MPII Human Pose](https://human-pose.mpi-inf.mpg.de/) (body_25)

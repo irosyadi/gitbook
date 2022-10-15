@@ -1,4 +1,10 @@
-## Note Calculator
+---
+title: note-calculator
+tags: 
+---
+
+# Note Calculator
+
 - [Math Notepad](https://mathnotepad.com/)
 - [Recomputer](https://xixixao.github.io/recomputer/)
 - [NoteCalc](https://bbodi.github.io/notecalc3/notecalc#)
@@ -9,13 +15,15 @@
 - [Numbr](https://numbr.dev/)
 - [NumPad](https://numpad.io/)
 
+# Calculator
 
-## Calculator
-* [figr.app - Your notepad calculator](https://www.figr.app/)
+- [figr.app - Your notepad calculator](https://www.figr.app/)
 
-## Calculator
-* [Calca - The Text Editor that Loves Math](http://calca.io/)
-* [SpeQ Mathematics](https://speqmath.com/)
+# Calculator
 
-## Calculator
+- [Calca - The Text Editor that Loves Math](http://calca.io/)
+- [SpeQ Mathematics](https://speqmath.com/)
+
+# Calculator
+
 - [Notepad Calculator](http://notepadcalculator.com/)

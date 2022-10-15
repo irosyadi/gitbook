@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Web Performance Analysis
+aliases: [Web Metrics and Performance Analysis]
+title: Web Metrics and Performance Analysis
+tags: ["web", "performance", "test"]
 date: 2020-11-20 05:51:43
 category: app
-tags: ["web", "performance", "test"]
 draft: false
 ---
 

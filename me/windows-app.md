@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  My Awesome List of Windows Apps
+aliases: [My Awesome List of Windows Apps]
+title: My Awesome List of Windows Apps
+tags: ["imron", "app"]
 date: 2020-08-05 20:34:24
 category: me
-tags: ["imron", "app"]
 draft: false
 ---
 
@@ -13,6 +12,7 @@ draft: false
 This is a list of awesome apps for Windows 10.
 
 ## Browser
+
 - Google Chrome : browser from Google
 - Microsoft Edge : browser from Microsoft
 - Epic Privacy Browser : no history no tracking browser
@@ -23,19 +23,23 @@ This is a list of awesome apps for Windows 10.
 - Epic Privacy Browser
 
 ## Built in Windows 10 Apps
+
 - Camera (Windows 10) : camera
 - Microsoft News
 
 ## Citation Manager
+
 - Mendeley Desktop : citation manager
 - Zotero : open source citation manager
 
 ## Collaboration
+
 - GitHub Dekstop
 - Github CLI* (gh)
 - Git
 
 ## Command Line Interface
+
 - speedtest: `speedtest`
 - gping: `gping example.com`
 - [is-up](https://github.com/sindresorhus/is-up-cli): `is-up example.com`
@@ -43,6 +47,7 @@ This is a list of awesome apps for Windows 10.
 - Ubuntu : ubuntu on top Windows 10
 
 ## Computing Programming
+
 - Anaconda3 : numerical computation, python
 - Arduino : Arduino programming
 - Microsoft Visual Studio Code : IDE
@@ -53,17 +58,20 @@ This is a list of awesome apps for Windows 10.
 - Maxima computer algebra system
 - Fritzing : electronic design
 - Kalk : command-line calculator
-- Kalker : command-line scientific calculator 
-- Qalc and Qalculate : command-line scientific calculator 
+- Kalker : command-line scientific calculator
+- Qalc and Qalculate : command-line scientific calculator
 
 ## Cloud Storage
+
 - Microsoft OneDrive
 
 ## Drawing App
+
 - Inkscape: open source vector graphic drawing and editor
 - Fresh Paint*
 
 ## Ebook and Document Converter
+
 - calibre : ebook manager
 - Pandoc : document converter engine (tex, latex, markdown, word, odt)
 - pandoc-crossref : reference plugin for pandoc
@@ -71,6 +79,7 @@ This is a list of awesome apps for Windows 10.
 - Panwriter : GUI for Pandoc (tex, latex, markdown, word, odt)
 
 ## File Search
+
 - Listary : file search (embedded in Windows Explorer)
 - Wizfile : file search
 - fzf ([Github Repo](https://github.com/junegunn/fzf)): file search CLI
@@ -84,12 +93,14 @@ This is a list of awesome apps for Windows 10.
 - Windows Czkawka : file duplicate finder
 
 ## File Sync
+
 - SyncFolder : file folder sync
 - Syncthing : file cloud sync
 - Synctrayzor : Syncthing GUI
 - rclone : file cloud sync (portable, direct)
 
 ## File Downloader and Transfer
+
 - Youtube-DLG (youtube-dl-gui): video download manager
 - wget : file download (portable, direct, terminal)
 - croc : file transfer
@@ -97,6 +108,7 @@ This is a list of awesome apps for Windows 10.
 - FireDM : download manager
 
 ## File Tools
+
 - 7-Zip : file archiver, file compression
 - File Converter : file converter
 - FileMenu Tools : file menu tools
@@ -109,6 +121,7 @@ This is a list of awesome apps for Windows 10.
 - TidyTabs : tab extension for any windows
 
 ## Framework
+
 - Node.js
 - Ruby
 - Yarn
@@ -121,6 +134,7 @@ This is a list of awesome apps for Windows 10.
 - Hugo Extended
 
 ## Graphic Editor
+
 - Microsoft Visio: diagram and vector graphic drawing and editor from Microsoft
 - draw.io : graphic editor
 - Graphviz : graphics and drawing package (library)
@@ -128,12 +142,14 @@ This is a list of awesome apps for Windows 10.
 - yed : graphich editor
 
 ## Hand Writing
+
 - Microsoft Whiteboard
 - Xournal++ : note taking and PDF annotation tool
 - Microsoft Font Maker : convert handwriting to font
 - gInk : desktop handwriting (portable)
 
 ## Image and Photo Tools
+
 - Microsoft Photos : photo manager and viewer
 - ShareX : screenshot tools (complete)
 - Snip & Sketch : screenshot tools (quick, simple, windows default)
@@ -141,6 +157,7 @@ This is a list of awesome apps for Windows 10.
 - Irfan View shell extension
 
 ## Image Photo Editor Converter
+
 - paint.net : image editor (free, complete)
 - Paint 3D
 - Pixillion Image Converter : image converter
@@ -149,6 +166,7 @@ This is a list of awesome apps for Windows 10.
 - XnConvert : image converter, batch editor
 
 ## Latex Math Editor
+
 - MiKTex : LaTex engine
 - KLatexFormula : LaTex formula editor
 - TexStudio : LaTex editor
@@ -157,17 +175,20 @@ This is a list of awesome apps for Windows 10.
 - Math Input Panel : Equation Editor
 
 ## Laptop Tools
+
 - Lenovo Hotkeys
 - Lenovo Vantage
 - Lenovo Vantage Service
 
 ## Map
+
 - Google Earth Pro
 - Maps (Windows 10)
 - JOSM: OSM map editor
 - SS Panet
 
 ## Music and Audio
+
 - AIMP : music audio player
 - Groove Music : music audio player (Windows 10)
 - Audacity : audio editor
@@ -179,6 +200,7 @@ This is a list of awesome apps for Windows 10.
 - Eartrumpet : Speaker Mix, Setting
 
 ## Network Tools
+
 - NetSetMan : network setting and manager
 - NETworkManager : network tools
 - WinMTR : ping and trace route (portable, direct)
@@ -190,9 +212,10 @@ This is a list of awesome apps for Windows 10.
 - Telerik Fiddler : web debug
 - IPFS Desktop* : decentralized file system
 - Librespeed: CLI network speed test
-- dnslookpu: CLI DNS lookup 
+- dnslookpu: CLI DNS lookup
 
 ## Note Taking and Code Editor
+
 - Notepad++ : note taking, text editor
 - OneNote : note taking (Office Suite)
 - Sticky Notes : note taking (Windows 10)
@@ -206,11 +229,13 @@ This is a list of awesome apps for Windows 10.
 - Quarto : markdown meet Jupyter notebook
 
 ## Office Suite
+
 - LibreOffice : open source office suite (Writer, Calc, Impress, Draw, Math, Base)
 - Microsoft Office : office suite from Microsoft (Word, Excel, Powerpoint, Access)
 - Scrivener : word processor
 
 ## Others
+
 - Nimbletext : text batch manipulation
 - BabelMap : unicode character
 - V380 : Webcam monitoring
@@ -222,6 +247,7 @@ This is a list of awesome apps for Windows 10.
 - Screenruler: screen ruler
 
 ## PDF Tool
+
 - CutePDF Writer: pdf writer, pdf printer
 - ByteScout PDF Multitool* : pdf editor (split, merge, rotate, remove), pdf extractor (table, image), pdf compressor, pdf OCR, pdf converter (image, html), pdf parser
 - PDFsam Basic: pdf editor (split, combine, merge, rotate)
@@ -236,16 +262,19 @@ This is a list of awesome apps for Windows 10.
 - Poppler : pdf rendering engine
 
 ## Phone Connection
+
 - KDE Connect
 - Your Phone (Windows 10)
 - Minimal ADB and Fastboot
 - Scrcpy: Android phone control on windows
-- adb:  Android Debug Bridge (adb)
+- adb: Android Debug Bridge (adb)
 
 ## Productivity
+
 - Pomodoro Logger : kanban, pomodoro, timer
 
 ## Portable Apps
+
 - duck
 - xournal
 - xsltproc
@@ -256,38 +285,46 @@ This is a list of awesome apps for Windows 10.
 - FireDM : download manager
 
 ## Remote Desktop and Tools
+
 - WinSCP
 
 ## Security
+
 - Authy Desktop : 2FA, two factor authentication
 - Malwarebytes : anti malware
 - ShutUP10 (OOSU10): Windows permission editor
 
 ## Software Application Manager
+
 - Chocolatey : software application manager
 - Chocolatey GUI : GUI for chocolatey
 - Revo Uninstaller : software application uninstaller
 
 ## Video Conference
+
 - Skype : messaging, video conference
 - Zoom : video conference
 - Microsoft Teams : video conference
 
 ## Video Editor
+
 - FFmpeg : video processing library/engine
 - Handbrake : video converter
 - HitFilm Express* : video editor (complete editing)
 
 ## Video Player and Streaming
+
 - OBS Studio : streaming, screen recording
 - OBS Virtual Cam : virtual cam add on for OBS
 - VLC Media Player : video player
 - SMPlayer: video player, GUI for mpv player
 
 ## Visualization
+
 - Microsoft PowerBI Desktop
 
 ## Windows and Desktop Tools
+
 - AutoHotkey : automation for Windows
 - CCEnhancer : enhancer for CCleaner
 - CCleaner : junk, storage cleaner
@@ -311,6 +348,7 @@ This is a list of awesome apps for Windows 10.
 - WindowTop : window top
 
 ## Writing Tools
+
 - Grammarly for Windows : grammar checker
 - Grammarly for MS Office Suite : grammar checker
 - Languagetool Server
@@ -323,10 +361,12 @@ This is a list of awesome apps for Windows 10.
 - Vale : linter for prose.
 
 ## Voice Command
+
 - Alexa
 - Cortana
 
 ## VPN and Anonymity
+
 - ProtonVPN : VPN
 - Cloudflare WARP* : VPN
 - OpenVPN : VPN
@@ -336,5 +376,3 @@ This is a list of awesome apps for Windows 10.
 - Powertunnel
 
 ## My Computer Specs
-
-

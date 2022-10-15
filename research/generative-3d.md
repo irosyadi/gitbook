@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
+aliases: [Generative 3D Image]
 title: Generative 3D Image
+tags: ["generative", "image"]
 date: 2022-09-30 10:12:41
 category: research
-tags: ["generative", "image"]
 draft: false
 ---
 

@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Face Expression and Detection
+aliases: [Face Expression and Detection]
+title: Face Expression and Detection
+tags: ["face expression", "machine learning"]
 date: 2020-11-20 09:00:27
 category: research
-tags: ["face expression", "machine learning"]
 draft: false
 ---
 

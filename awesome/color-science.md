@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Color Science and Tools
+aliases: [Color Science and Tools]
+title: Color Science and Tools
+tags: ["color"]
 date: 2020-10-11 21:00:05
 category: awesome
-tags: ["color"]
 draft: false
 ---
 
 # Color Science and Tools
 
 ## Color Palette Tools
+
 - [Dopely Colors - A Free Solution to all your Color Problems](https://colors.dopely.top/)
 - [Paletton](https://paletton.com/) color palette tools
 - [Adobe Color Wheel](https://color.adobe.com/create/color-wheel)
@@ -30,6 +30,7 @@ draft: false
 - [I want Hue](https://medialab.github.io/iwanthue/) Good Site for Color Naming
 
 ## Color Format Converter
+
 - [Colorizer](https://colorizer.org/) online color format converter
 - [Convert a Color](https://convertacolor.com) : HEX, RGB, CMYK, HSL
 - [Nix Sensor](https://www.nixsensor.com/free-color-converter/) : CIELAB, CMYK, HEX, RGB, XYZ
@@ -45,7 +46,7 @@ draft: false
 - [Colormine Convert](https://colormine.org/convert/) the most complete conversion
 - [MATLAB App](https://www.mathworks.com/matlabcentral/fileexchange/28790-colorspace-transformations), [also MATLAB](https://www.mathworks.com/matlabcentral/fileexchange/57138-lch-rgb-conversion-tools)
 - [Excel](https://ccc.orgfree.com/)
-- [Excel ](https://rgbcmyk.com.ar/en/xla-2/)
+- [Excel](https://rgbcmyk.com.ar/en/xla-2/)
 - [Formula](https://www.brucelindbloom.com/index.html?Math.html)
 - [Color Calculator](https://www.brucelindbloom.com/index.html?ColorCalculator.html)
 - [Unitpedia](https://www.unitpedia.com/color-converter/) HEX, RGB, HSL, CMYK, HSV, Lab, Lch, Xyz, Hwb
@@ -54,6 +55,7 @@ draft: false
 - [Coolors](https://coolors.co/bd3848)
 
 ### Note on LCH to RGB Conversion
+
 - [Converting Color](https://convertingcolors.com/), clamping if outside RGB gamut
 - [Unitpedia](https://www.unitpedia.com/color-converter/), clamping if outside RGB gamut
 - [Colormine](https://colormine.org/color-converter), clamping if outside RGB gamut
@@ -64,6 +66,7 @@ draft: false
 - [Acute Components](https://colors.acutecomponents.com/)
 
 ### LCH Color Picker
+
 - [LCH Color](https://codepen.io/leaverou/pen/YzPGwZp)
 - [HCL Color PIcker](https://hclwizard.org/hclcolorpicker/)
 - [HCL Color Picker](https://bl.ocks.org/mbostock/3e115519a1b495e0bd95)
@@ -76,6 +79,7 @@ draft: false
 - GIMP
 
 ## Color Naming
+
 - [C0ffee](https://c0ffee.surge.sh/) Color name in leet code
 - [Bada55](https://bada55.io/) Color name in leet code
 - [CSS Words](https://thejacklawson.com/csswords/) Color name in leet code
@@ -104,6 +108,7 @@ draft: false
 - [Colorize](https://alexbeals.com/projects/colorize/) Color name mapped to color
 
 ## Colorimetry Notes
+
 - HSV/HSL are cylindrical representation of RGB
 - Problem of RGB: discontinuity of luminance, it is also not based on how the human eye perceive colors. See [here](https://hclwizard.org/why-hcl/) or [here](https://cscheid.github.io/lux/demos/hcl/hcl.html) or [example of the effect here](https://colorspace.r-forge.r-project.org/articles/endrainbow.html) and the [problem of rainbow color](https://eagereyes.org/basics/rainbow-color-map)
 - [Problem in HSV](https://www.vis4.net/blog/2011/12/avoid-equidistant-hsv-colors/)
@@ -118,17 +123,18 @@ draft: false
 - [Colorblind and LCH](https://laptrinhx.com/around-the-world-in-80-shades-building-color-blind-accessible-dataviz-3818144432/)
 
 ## Learn Color
+
 - [Coursera: Information Vizualization](https://www.coursera.org/lecture/information-visualization-applied-perception/)
 - [Color by Nasa](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
-- [Theory of Color](https://medialab.github.io/iwanthue/theory/): If RGB fits to how screens produce colors, if CIE L*a*b* fits to how we perceive colors, HCL fits to how we think colors. It is like HSL, but perceptively unbiased. 
+- [Theory of Color](https://medialab.github.io/iwanthue/theory/): If RGB fits to how screens produce colors, if CIE L*a*b* fits to how we perceive colors, HCL fits to how we think colors. It is like HSL, but perceptively unbiased.
 - [CIE Color Space](https://hyperphysics.phy-astr.gsu.edu/hbase/vision/cie.html), [chromaticity](https://hyperphysics.phy-astr.gsu.edu/hbase/vision/colper.html#c2)
 - [Khan Pixar](https://www.khanacademy.org/computing/pixar/color)
 - [Nasa](https://colorusage.arc.nasa.gov/color_science.php)
 - [Color Notes](https://helpful.knobs-dials.com/index.php/Color_notes_-_color_spaces)
 - [Colorgen Color for Programmer](https://peteroupc.github.io/colorgen.html) and [this](https://peteroupc.github.io/suppcolor.html)
 
-
 ## Article about Color
+
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [Rules for using Color](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
 - [About Colormap](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
@@ -137,7 +143,7 @@ draft: false
 - [Color](https://www.handprint.com/HP/WCL/color18a.html) License: [CC-ND, translation allowed](https://www.handprint.com/HP/WCL/faq.html)
 - [Color FAQ](https://poynton.ca/ColorFAQ.html)
 - [Color Online](https://sites.google.com/site/djcbriggs/colour-online)
-- [Kay Web ](https://www1.icsi.berkeley.edu/~kay/)
+- [Kay Web](https://www1.icsi.berkeley.edu/~kay/)
 - [Color Matters](https://www.colormatters.com/)
 - [Color Theory](https://www.interaction-design.org/literature/topics/color-theory)
 - [Color Theory for Designers 1](https://www.smashingmagazine.com/2010/01/color-theory-for-designers-part-1-the-meaning-of-color/) [Part 2](https://www.smashingmagazine.com/2010/02/color-theory-for-designers-part-2-understanding-concepts-and-terminology/) [Part 3](https://www.smashingmagazine.com/2010/02/color-theory-for-designer-part-3-creating-your-own-color-palettes/)
@@ -148,25 +154,28 @@ draft: false
 - [handprint : the geometry of color perception](https://www.handprint.com/HP/WCL/color2.html)
 - [All 16,777,216 RGB colours « David Naylor: Blog](http://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/)
 
-
 ## Ebook
+
 - [COLOR EXPERIENCE](https://www.handprint.com/CE/book.html)
 
 ## Color
+
 - [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker/)
 - [An interactive review of Oklab | Raph Levien’s blog](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
 - [Interactive color picker comparison](https://bottosson.github.io/misc/colorpicker/)
 - [SKEEM - 3D colorscheme generator](https://wolframhempel.github.io/skeeem/#62CC12,#060000,#F7E80B,#251DA7,#EF06B8)
 - [Color space conversions](http://colorjs.github.io/color-space/#112832)
 - [Visual representation of color names in different color models](https://codepen.io/meodai/full/zdgXJj)
-- [FarbVélo —— Random Color Cycler](https://farbvelo.elastiq.ch/)
+- [FarbVélo——Random Color Cycler](https://farbvelo.elastiq.ch/)
 - [Towards richer colors on the Web | Darker Ink](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
 
 ## Colormap
+
 - [How Bad Is Your Colormap? | Pythonic Perambulations](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
 - [Google AI Blog: Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 
 ## Color Palette
+
 - [Colormind - the AI powered color palette generator](http://colormind.io/)
 - [Color Hunt](https://colorhunt.co/palette/00a19dfff8e5ffb344e05d5d)
 - [Color Palette Generator](https://www.degraeve.com/color-palette/)
@@ -176,8 +185,9 @@ draft: false
 - [Color Palette Generator - Create Beautiful Color Schemes](https://colors.muz.li/)
 - [Color palette, the color scheme for artists | Adobe Color](https://color.adobe.com/explore)
 - [Color wheel, a color palette generator | Adobe Color](https://color.adobe.com/create/color-wheel/)
-* [joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)
+- [joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)
 
 ## Color
+
 - [Which color scale to use when visualizing data | Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 - [Sorted CSS Colors](https://enes.in/sorted-colors/)

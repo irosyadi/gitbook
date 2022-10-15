@@ -1,20 +1,20 @@
 ---
-layout: default
-author: irosyadi
-title:  My Awesome Android Apps
+aliases: [My Awesome Android Apps]
+title: My Awesome Android Apps
+tags: ["app", "imron"]
 date: 2021-02-10 11:31:04
 category: me
-tags: ["app", "imron"]
 draft: false
 ---
 
 # My Awesome Android Apps
 
 ## Security
+
 * [1.1.1.1](https://play.google.com/store/apps/details?id=com.cloudflare.onedotonedotonedotone)
 
-
 ## Islam
+
 * [Adzkar](https://play.google.com/store/apps/details?id=com.fazrilab.adzkar)
 * [AI & Python](https://play.google.com/store/apps/details?id=itools.aiwithpython)
 * [AI with Python Tutorial](https://play.google.com/store/apps/details?id=com.ben.Tutorial.aiwithpython)
@@ -411,7 +411,7 @@ draft: false
 * [trendingGithub](https://play.google.com/store/apps/details?id=com.trendinggithub)
 * [Typing Hero](https://play.google.com/store/apps/details?id=sen.typinghero)
 * [Ulum Al-Qur'an](https://play.google.com/store/apps/details?id=smk.adzikro.indextemaquran)
-* [Unicode CharMap – Lite](https://play.google.com/store/apps/details?id=net.mihainita.unicodecharmap)
+* [Unicode CharMap–Lite](https://play.google.com/store/apps/details?id=net.mihainita.unicodecharmap)
 * [UnicodePad](https://play.google.com/store/apps/details?id=jp.ddo.hotmist.unicodepad)
 * [Universal Remote For SkyWorth](https://play.google.com/store/apps/details?id=com.illusions.skyworthuniversalremotecontrol)
 * [V380 Pro](https://play.google.com/store/apps/details?id=com.macrovideo.v380pro)

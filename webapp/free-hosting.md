@@ -1,8 +1,8 @@
 ---
 aliases: [Free Hosting]
-title: "Free Hosting"
-date: 2022-10-06 09:55
+title: Free Hosting
 tags: ["hosting"]
+date: 2022-10-06 09:55
 category: category
 draft: false
 ---
@@ -41,9 +41,9 @@ No monthly time limit
 Unlimited REPLs  
 30 minute inactivity timeout
 
-[Fly App](https://fly.io/docs/about/pricing/)
+[Fly App](https://fly.io/docs/about/pricing/)  
 Resources included for free on all plans:
--   Up to 3 shared-cpu-1x 256mb VMs
--   3GB persistent volume storage (total)
--   160GB outbound data transfer
 
+- Up to 3 shared-cpu-1x 256mb VMs
+- 3GB persistent volume storage (total)
+- 160GB outbound data transfer

@@ -1,14 +1,16 @@
 ---
+aliases: [DNS Leak Checkers]
 title: DNS Leak Checkers
+tags: ["dns"]
 date: 2020-06-01 20:09:34
 category: hacking
-tags: ["dns"]
 draft: false
 ---
 
 # DNS Leak Checkers
 
 ## DNS Leak Checkers
+
 * [dnscheck.tools](https://dnscheck.tools/#results)
 * [ipleak.net](https://ipleak.net/)
 * [BrowserLeaks](https://browserleaks.com/ip)
@@ -17,10 +19,12 @@ draft: false
 * [DNS Leak](https://dnsleak.com/)
 
 ## Specific DNS Service Checkers
+
 * [1.1.1.1](https://cloudflare-dns.com/help/)
 * [AdGuard](https://adguard.com/en/test.html)
 
 ## List of DNS Leak Checkers
+
 * [Test Your DNS Servers](https://routersecurity.org/testdns.php)
 
 _published in Mataroa and Bearblog_

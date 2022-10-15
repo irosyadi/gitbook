@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Spartan and Text Only Websites
+aliases: [Spartan and Text Only Websites]
+title: Spartan and Text Only Websites
+tags: ["text only"]
 date: 2020-11-14 08:36:37
 category: app
-tags: ["text only"]
 draft: false
 ---
 
 # Spartan and Text Only Websites
 
 ## Text Only Newssites
+
 - [CSM](https://www.csmonitor.com/layout/set/text/textedition)
 - [Text Only NPR](https://text.npr.org/)
 - [Lite CNN](https://lite.cnn.com/en)
@@ -20,6 +20,7 @@ draft: false
 - [68k.news: Headlines From the Future](http://68k.news/)
 
 ## Text Only Websites
+
 - [Hacker News](https://news.ycombinator.com/news) : forum
 - [Duck Duck Go Lite](https://duckduckgo.com/lite/) : simple search engine
 - [Wiby](https://wiby.me/) : text only search engine
@@ -31,6 +32,7 @@ draft: false
 - [Txti](https://txti.es/) : make a web page text only
 
 ## Text Only Blogs
+
 - [Peter Norvig](https://norvig.com/)
 - [Sam Altman](https://blog.samaltman.com/)
 - [Science Hobyist](https://amasci.com/) : blog about science
@@ -40,14 +42,16 @@ draft: false
 - [Solar Lowtech Megazine](https://solar.lowtechmagazine.com/)
 
 ## Lite and Fast Websites
+
 - [Greater Wrong](https://www.greaterwrong.com/) Lesswrong lite reader
 - [Wikipedia Lite](https://en.m.wikipedia.org/wiki/Main_Page)
 - [Reuters Mobile](https://mobile.reuters.com/)
 
 ## List of Spartan Websites
+
 - [1MB Club](https://1mb.club/) : performance-focused web pages found across the internet.
 - [10kb Club](https://10kbclub.com/)
-    - [John.Doe](https://john-doe.neocities.org/), [John Doe Jekyll](https://github.com/bradleytaunt/john-doe-jekyll),  [Void in PHP](https://github.com/josephernest/void), [Yellow in PHP](https://datenstrom.se/yellow/)
+    - [John.Doe](https://john-doe.neocities.org/), [John Doe Jekyll](https://github.com/bradleytaunt/john-doe-jekyll), [Void in PHP](https://github.com/josephernest/void), [Yellow in PHP](https://datenstrom.se/yellow/)
     - [Kerkour](https://kerkour.fr/), [Hugo Blog](https://github.com/bloom42/blog)
 - [Leanternet](https://www.leanternet.com/)
 - [A List Of Text-Only News Sites - GreyCoder](https://greycoder.com/a-list-of-text-only-new-sites/)
@@ -55,8 +59,8 @@ draft: false
 - [eink.link](https://eink.link/)
 
 ## Float Number
-- [Float Toy](https://evanw.github.io/float-toy/)
 
+- [Float Toy](https://evanw.github.io/float-toy/)
 
 ## Unicode
 

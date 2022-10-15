@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Free Cloud Compute Infrastructure
+aliases: [Free Cloud Compute Infrastructure]
+title: Free Cloud Compute Infrastructure
+tags: ["free", "cloud", "compute"]
 date: 2020-11-14 08:32:12
 category: app
-tags: ["free", "cloud", "compute"]
 draft: false
 ---
 
@@ -20,4 +19,5 @@ draft: false
 - [Red Hat Openshift](https://www.openshift.com/trial/)
 
 ## Cloud Computing Comparison
+
 - [CloudOptimizer](https://cloudoptimizer.io/)

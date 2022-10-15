@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Programming for Kids Books, Tutorials, and Courses
+aliases: [Programming for Kids Books, Tutorials, and Courses]
+title: Programming for Kids Books, Tutorials, and Courses
+tags: ["programming"]
 date: 2021-04-04 19:35:46
 category: book
-tags: ["programming"]
 draft: false
 ---
 
 # Programming for Kids Books, Tutorials, and Courses
 
 ## Learn Programming for Kids
+
 - [Hedy](https://www.hedycode.com/hedy?lang=en)
     - [Felienne/hedy: Hedy is a gradual programming language, which increases in syntactic elements level by level.](https://github.com/Felienne/hedy)
 - [Simple BlockMirror Example](https://blockpy-edu.github.io/BlockMirror/docs/index.html)

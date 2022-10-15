@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Awesome Science Blogs and Forums
+aliases: [Awesome Science Blogs and Forums]
+title: Awesome Science Blogs and Forums
+tags: ["science", "blog" , "research", "academia"]
 date: 2022-06-02 22:49:42
 category: research
-tags: ["science", "blog" , "research", "academia"]
 draft: false
 ---
 
@@ -20,6 +19,7 @@ Related links:
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
 ## AI-related Blogs
+
 - [Stanford](http://ai.stanford.edu/blog/)
 - [CMU](https://blog.ml.cmu.edu/)
 - [Google](https://ai.googleblog.com/)

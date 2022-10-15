@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Markdown for This Blog
+aliases: [Markdown for This Blog]
+title: Markdown for This Blog
+tags: ["markdown"]
 date: 2020-11-26 21:10:40
 category: development
-tags: ["markdown"]
 draft: false
 ---
 
@@ -28,8 +27,11 @@ Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
 ***display***
 
 ### h3 Heading
+
 #### h4 Heading
+
 ##### h5 Heading
+
 ###### h6 Heading
 
 ## 2. Paragraphs
@@ -79,10 +81,10 @@ This text is ___really important___
 ***display***
 
 **This is bold text**  
-__This is bold text__  
+**This is bold text**  
 *This is italic text*  
-_This is italic text_  
-This text is ___really important___  
+*This is italic text*  
+This text is ***really important***  
 
 ## 5. Blockquotes
 
@@ -105,18 +107,25 @@ This text is ___really important___
 ***display***
 
 > This is the first line of paragraph, followed by blank line
-> 
+>
 > Blockquotes can also be nested...
+>
+
 >> ...by using additional greater-than signs right next to each other...
+
+> >
 > > > ...or with spaces between arrows.
 >
+> >
+>
 > ### with a heading
-> 
+>
 > - and list
 > - list
 > - with **bold** and *italic* text
 
 ## 6. Lists
+
 ### 6.1. Unordered
 
 ***markdown***
@@ -138,15 +147,15 @@ To end a list, there should be one empty line above.
 
 ***display***
 
-+ To start a list, there should be an empty line above
-+ Create a list by starting a line with `+`, `-`, or `*`
+- To start a list, there should be an empty line above
+- Create a list by starting a line with `+`, `-`, or `*`
 - Changing the sign will add a linespace
-+ Add text under an item  
+- Add text under an item  
 This is a text under an item. Notice that there are two spaces at the end above.
 - Sub-lists are made by indenting 2 spaces:
-  * Item 2a
-  * Item 2b
-* Item 3
+  - Item 2a
+  - Item 2b
+- Item 3
 
 To end a list, there should be one empty line above.  
 
@@ -169,17 +178,17 @@ Notice that there are two spaces at the end above to make a new text under item.
 ***display***
 
 1. Item 1
-1. Item 2  
+2. Item 2  
 Notice that the sequence number is irrelevant.  
 Markdown will change the sequence automatically when renderring.  
 Notice that there are two spaces at the end above to make a new text under item.
 3. Sub-lists are made by indenting 4 spaces
     1. Item 3a
     2. Item 3b
-8. Any number for item 4
-
+4. Any number for item 4
 
 ### 6.3. Offset in Oredered List
+
 - didn't work in Gitbook
 
 ***markdown***
@@ -192,9 +201,9 @@ Notice that there are two spaces at the end above to make a new text under item.
 
 ***display***
 
-57. will started with offset 57
-1. so it will be 58
-2. this is 59
+1. will started with offset 57
+2. so it will be 58
+3. this is 59
 
 ## 7. Elements in Lists
 
@@ -217,16 +226,16 @@ Notice that there are two spaces at the end above to make a new text under item.
 
 ***display***
 
-* To add another element in a list while preserving the continuity of the list...
-* add blank lines in between
+- To add another element in a list while preserving the continuity of the list...
+- add blank lines in between
 
     I need to add another paragraph below the second list item.
 
-* the third list item.
+- the third list item.
 
     > A blockquote would look great below the second list item.
 
-* the fourth list item.
+- the fourth list item.
 
 ***markdown***
 
@@ -250,21 +259,24 @@ Notice that there are two spaces at the end above to make a new text under item.
 
 ***display***
 
-1.  This image is inline ![wikquote](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png).
-2.  Linux mascot is called Tux.
+1. This image is inline ![wikquote](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/35px-Wikiquote-logo.svg.png).
+2. Linux mascot is called Tux.
 
     ![Tux, the Linux mascot](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Tux.png/220px-Tux.png)
+
 3. Tux is really cool.
 4. For quote in ordered list, add five spaces.
+
      > A blockquote would look great below the second list item.
-5.  But, for code blocks in the lists, add eight spaces or two tabs:
+
+5. But, for code blocks in the lists, add eight spaces or two tabs:
 
         <html>
           <head>
             <title>Test</title>
           </head>
 
-6.  So okay for now
+6. So okay for now
 
 ## 8. Code
 
@@ -284,6 +296,7 @@ This is inline `code`.
     // add four spaces before for code
     like this
 ```
+
 ***display***
 
     // add four spaces before for code
@@ -325,17 +338,18 @@ example [without %20](https://www.example.com/my great page)
 **display**
 
 This is [link](https://example.com/)  
-This is [link with title](https://example.com/ "title text!")
-https://example.com/  
+This is [link with title](https://example.com/ "title text!")  
+<https://example.com/>  
 <https://www.markdownguide.org>  
 I love supporting the **[EFF](https://eff.org)**.  
 This is the *[Markdown Guide](https://www.markdownguide.org)*.  
 See the section on [`code`](#code).  
-But  `https://www.example.com`  
+But `https://www.example.com`  
 but be careful with [%20 link](https://www.example.com/my%20great%20page)  
-example [without %20](https://www.example.com/my great page)
+example [without %20](<https://www.example.com/my> great page)
 
 ### 9.1. Email Linkify
+
 - didn't work in Gatsby and Gitbook
 
 ***markdown***
@@ -374,8 +388,8 @@ I knew [History of Indonesia][3]
 It doesn't have [hobbit-hole][hh].
 
 [1]: <https://en.wikipedia.org/wiki/Indonesia>
-[2]: https://en.wikipedia.org/wiki/Indonesia#Etymology "Etymology of Indonesia"
-[3]: https://en.wikipedia.org/wiki/Indonesia#History 'History of Indonesia'
+[2]: <https://en.wikipedia.org/wiki/Indonesia#Etymology> "Etymology of Indonesia"
+[3]: <https://en.wikipedia.org/wiki/Indonesia#History> 'History of Indonesia'
 [hh]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 
 ## 11. Images
@@ -394,8 +408,7 @@ It doesn't have [hobbit-hole][hh].
 ![Wikipedia with Optional Text](https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Optional Text")  
 ![Wikipedia with Alt Text, reference style][id1]  
 
-[id1]: https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png "Optional Text"
-
+[id1]: <https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png> "Optional Text"
 
 ## 12. Escaping Characters
 
@@ -418,11 +431,13 @@ It doesn't have [hobbit-hole][hh].
 \! exclamation mark
 
 ## 13. HTML Code
+
 - very restricted in Gitbook
 
 ### 13.1. HTML: Bold, Italic, Strikethrough
 
 ***markdown***
+
 ```md
 This <em>word</em> is italic.  
 This <strong>word</strong> is bold.  
@@ -436,6 +451,7 @@ This <strong>word</strong> is bold.
 This <del>word</del> is deleted with strikethorouugh.
 
 ### 13.2. Others HTML Code
+
 - didn't work in Gitbook
 
 ***markdown***
@@ -461,9 +477,11 @@ x<sup>2</sup>+y<sup>2</sup>=0
 Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
 
 ## 14. Horizontal Rules
+
 - didn't work in Gitbook
 
 ***markdown***
+
 ```md
 ___
 
@@ -483,6 +501,7 @@ ___
 ***
 
 ## 15. Heading ID
+
 - didn't work for Gatsby
 
 ***markdown***
@@ -528,7 +547,6 @@ Link to [Heading IDs](#heading-ids)
     markdown = Redcarpet.new("ruby syntax highlighting")
     puts markdown.to_html
     ```
-
 
 ***display***
 
@@ -591,8 +609,8 @@ puts markdown.to_html
 
 ~~strikethrough~~  
 
-
 ### 18.2. Highlighting and Underline
+
 - didn't work in Gitbook and Gatsby
 
 ```md
@@ -603,11 +621,12 @@ _underline, fail in Gitbook and Gatsby_
 ***display***
 
 ==highlight, fail in Gitbook and Gatsby==  
-_underline, fail in Gitbook and Gatsby_  
+*underline, fail in Gitbook and Gatsby*  
 
 ## 19. Task Lists (Checkbox, Tick Mark)
 
 ***markdown***
+
 ```md
 - [x] Write the press release
 - [ ] Update the website
@@ -625,6 +644,7 @@ _underline, fail in Gitbook and Gatsby_
 ### 20.1. Copy Pasted Emojies
 
 ***markdown***
+
 ```md
 Gone camping! ⛺ Be back soon.  
 That is so funny! 😂  
@@ -636,10 +656,12 @@ Gone camping! ⛺ Be back soon.
 That is so funny! 😂  
 
 ### 20.2. Shortcode Emoji
+
 - didn't work in Gitbook
 - in Gatsby and VNote, use Github Emoji Shortcode
 
 ***markdown***
+
 ```md
 Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 ```
@@ -649,9 +671,11 @@ Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 
 ## 21. Typographic Replacements, Superscript, Subscript
+
 - dind't work in Gatsby and Gitbook
 
 ***markdown***
+
 ```md
 autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-  
 superscript x^2^ and subscript H~2~O
@@ -675,15 +699,17 @@ x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;
 
 **display**
 
-&copy; &  &uml; &trade; &iexcl; &pound;  
+&copy; & &uml; &trade; &iexcl; &pound;  
 &amp; &lt; &gt; &yen; &euro; &reg; &plusmn; &para; &sect; &brvbar; &macr; &laquo; &middot;  
-x&sup2; y&sup3; &frac34; &frac14;  &times;  &divide;   &raquo; &#124;  
-18&ordm;C  &quot;  &apos;
+x&sup2; y&sup3; &frac34; &frac14; &times; &divide; &raquo; &#124;  
+18&ordm;C &quot; &apos;
 
 ---
+
 ## 23. Latex
 
 ### 23.1. Inline Equation
+
 - Equation with one dollar sign `$` works inline in VNote
 - Equation with two dollar signs `$$` works inline in Jekyll and Gitbook, but not in VNote
 
@@ -716,6 +742,7 @@ Newline equation with two dollar signs.
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
 ## 24. Specific HTML Code
+
 - didn't work in Gitbook
 
 ### 24.1. Drop Down List
@@ -741,9 +768,9 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
   <summary>Click this List ▶</summary>
   <p>
     <ul>
-      <li>irosyadi: https://irosyadi.netlify.app</li>
-      <li>irosyadi: https://irosyadi.gitbook.io</li>
-      <li>irosyadi: https://irosyadi.github.io</li>
+      <li>irosyadi: <https://irosyadi.netlify.app</li>>
+      <li>irosyadi: <https://irosyadi.gitbook.io</li>>
+      <li>irosyadi: <https://irosyadi.github.io</li>>
     </ul>
   </p>
 </details>
@@ -805,6 +832,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 ## 26. Admonition Styles
 
 ### 26.1. Admonition with CSS
+
 - CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css>
 - didn't work in Gitbook
 
@@ -829,6 +857,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 <div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
 
 ### 26.2. Admonition with Quote
+
 - worked in everywhere
 
 ***markdown***
@@ -841,9 +870,11 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 ***display***
 
 > **⚠️ WARNING!**
+>
 > > This is a warning for you...
 
 ### 26.3. Admonition with Table
+
 - worked in everywhere
 
 *** markdown***
@@ -860,11 +891,12 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 | :--------------------------- |
 | This is a warning for you... |
 
-
 ## 27. Footnote
+
 - didn't work in Gitbook
 
 ***markdown***
+
 ```md
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode].  
 
@@ -878,5 +910,7 @@ Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode
 Here's a simple footnote,[^1] and here's a longer one,[^bignote], and [^withcode]. But there is problem with Gitbook for footnote.
 
 [^1]: This is the first footnote, in Gitbook, there some problems.  
+
 [^bignote]: Here's another one.  
+
 [^withcode]: `code` or code in paragraphs  

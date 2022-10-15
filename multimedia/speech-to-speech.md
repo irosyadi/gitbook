@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Speech to Speech (Fake Voice Generator)
+aliases: [Speech to Speech (Fake Voice Generator)]
+title: Speech to Speech (Fake Voice Generator)
+tags: ["conversion", "generator"]
 date: 2022-05-05 06:14:38
 category: app
-tags: ["conversion", "generator"]
 draft: false
 ---
 
@@ -16,6 +15,7 @@ Related links:
 🔗 [Speech to Speech (Fake Voice Generator)](speech-to-speech.md)  
 
 ## Fake Voice Generator Apps
+
 - [15.ai: Natural TTS with minimal viable data](https://15.ai/)
 - [Uberduck](https://uberduck.ai/#mode=tts-basic)
 - [FakeYou. Deep Fake Text to Speech.](https://fakeyou.com/)

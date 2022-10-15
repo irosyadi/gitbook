@@ -1,7 +1,12 @@
+---
+aliases: [Deep Learning Books, Tutorials, and Courses]
+title: Deep Learning Books, Tutorials, and Courses
+tags: [1:]
+---
  ---
 layout: default
 author: irosyadi
-title:  Deep Learning Books, Tutorials, and Courses
+title: Deep Learning Books, Tutorials, and Courses
 date: 2020-08-17 17:08:47
 category: book
 tags: ["machine learning", "book", "tutorial", "course"]
@@ -11,6 +16,7 @@ draft: false
 # Deep Learning Books, Tutorials, and Courses
 
 ## Free Course in Deep Learning
+
 - [Coursera: Reinforcement Learning](https://www.coursera.org/specializations/reinforcement-learning)
 - [Yann Le Cun Pytorch Deep Learning](https://atcold.github.io/pytorch-Deep-Learning/), [Youtube](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq), [Github](https://github.com/Atcold/pytorch-Deep-Learning)
 - [Python ML Course](https://github.com/leriomaggio/python-ml-course) License: MIT
@@ -19,35 +25,41 @@ draft: false
 - [mrdbourke/tensorflow-deep-learning: All course materials for the Zero to Mastery Deep Learning with TensorFlow course.](https://github.com/mrdbourke/tensorflow-deep-learning) License: MIT
 
 ## Open Licensed Deep Learning Books and Tutorials
+
 - [Deep Learning with Keras and Tensorflow](https://github.com/leriomaggio/deep-learning-keras-tensorflow) License: MIT
 - [Practical Deep Learning for Coders](https://course.fast.ai/) [GitHub](https://github.com/fastai/course-v3) License: Apache
 - [Dive into Deep Learning](https://d2l.ai/), [Github](https://github.com/d2l-ai/d2l-en) License: CC-BY
 - [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/user/introduction.html), [GitHub](https://github.com/openai/spinningup) License: MIT
 
-
 ## CC-BY-NC Deep Learning Books and Tutorials
+
 - [Neural Networks and Deep Learning](https://neuralnetworksanddeeplearning.com/) [Code at Github](https://github.com/mnielsen/neural-networks-and-deep-learning) License: CC-BY-NC
 
 ## Free Deep Learning Books and Tutorials
+
 - [Deep Learning with PyTorch](https://www.manning.com/books/deep-learning-with-pytorch)
 - [Deep Learning Project](https://spandan-madan.github.io/DeepLearningProject/) License: -
 - [Code for Deep Learning Book](https://github.com/rasbt/deep-learning-book)
 - [Samuel Sena](https://medium.com/@samuelsena/pengenalan-deep-learning-8fbb7d8028ac) : Deep Learning Tutorial in Indonesian
 
 ## List of Deep Learning Books
+
 - [List Data Science Deep Learning Python](https://www.theinsaneapp.com/2020/08/free-data-science-deep-learning-python-ebooks.html)
 
 ## Deep Learning Tutorial
+
 - [Dataflowr - Deep Learning DIY](https://dataflowr.github.io/website/)
 
 ## Visualization
+
 - [ConvNetJS: Deep Learning in your browser](https://cs.stanford.edu/people/karpathy/convnetjs/)
 - [A Neural Network Playground](http://playground.tensorflow.org/)
 
 ## eBook
+
 - [Introduction | The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 - [Full Stack Deep Learning - Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
-- [Dive into Deep Learning — Dive into Deep Learning 0.16.1 documentation](http://d2l.ai/index.html)
+- [Dive into Deep Learning—Dive into Deep Learning 0.16.1 documentation](http://d2l.ai/index.html)
 
 ## Machine Learning
 
@@ -65,11 +77,13 @@ draft: false
 - [amitkaps/applied-machine-learning: Applied Machine Learning @ http://amitkaps.com/ml](https://github.com/amitkaps/applied-machine-learning)
 
 ### Machine Learning Course
+
 - [COMS W4995 Applied Machine Learning Spring 2019 - Schedule - Andreas C. Müller - Associate Research Scientist](https://www.cs.columbia.edu/~amueller/comsw4995s19/schedule/), [amueller/COMS4995-s19: COMS W4995 Applied Machine Learning - Spring 19](https://github.com/amueller/COMS4995-s19) License: CC0
 
 ### Learning NN
+
 - [Autotelic Computing: Neural Network 101](http://cjauvin.blogspot.com/2013/10/neural-network-101.html)
-- [Everything you need to know about Neural Networks and Backpropagation — Machine Learning Easy and Fun - by Gavril Ognjanovski - Towards Data Science](https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a)
+- [Everything you need to know about Neural Networks and Backpropagation—Machine Learning Easy and Fun - by Gavril Ognjanovski - Towards Data Science](https://towardsdatascience.com/everything-you-need-to-know-about-neural-networks-and-backpropagation-machine-learning-made-easy-e5285bc2be3a)
 - [Δ ℚuantitative √ourney - Gradient Descent with Backpropagation](http://outlace.com/Gradient-Descent.html)
 - [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/#/)
 - [How to Train Neural Networks With Backpropagation « The blog at the bottom of the sea](https://blog.demofox.org/2017/03/09/how-to-train-neural-networks-with-backpropagation/)
@@ -78,6 +92,7 @@ draft: false
 - [A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 
 ### Machine Learning
+
 - [Machine Learning for Everyone](https://vas3k.com/blog/machine_learning/)
 - [Vas3k](https://vas3k.com/) : good blog
 - [Neural Network Zoo](https://www.asimovinstitute.org/neural-network-zoo/)
@@ -89,18 +104,26 @@ draft: false
 - [Ecco - Look Inside Language Models](https://www.eccox.io/)
 
 ## Deep Learning References
-#### Books
+
+### Books
+
 - [Deep Learning, Ian Goodfellow and others](http://www.deeplearningbook.org/)
 - [Neural Networks and Deep Learning, Michael Nielsen](http://neuralnetworksanddeeplearning.com/)
-#### Courses
+
+### Courses
+
 - [cs231n.github.io](http://cs231n.github.io/)
 - [Berkeley deep RL course](http://rll.berkeley.edu/deeprlcourse/)
 - [CS 598 LAZ](https://slazebni.cs.illinois.edu/spring17/)
-#### Guides to deep learning
+
+### Guides to deep learning
+
 - [A guide to deep learning by YerevaNN research labs](http://yerevann.com/a-guide-to-deep-learning/)
 - [Unsupervised feature learning and deep learning tutorial](http://ufldl.stanford.edu/tutorial/), [amaas/stanford_dl_ex: Programming exercises for the Stanford Unsupervised Feature Learning and Deep Learning Tutorial](https://github.com/amaas/stanford_dl_ex)
 - [Most cited deep learning papers](https://github.com/terryum/awesome-deep-learning-papers)
-#### Tutorials, blogs, demos
+
+### Tutorials, blogs, demos
+
 - Convolution arithmetic tutorial: [web](http://deeplearning.net/software/theano_versions/dev/tutorial/conv_arithmetic.html), [arXiv](https://arxiv.org/abs/1603.07285)
 - [TensorFlow Playground](http://playground.tensorflow.org/)
 - [http://distill.pub/](http://distill.pub/)
@@ -110,7 +133,9 @@ draft: false
 - [Mixture Density Network tensorflow](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
 
 ## Deep Learning
+
 - [DEEP LEARNING · Deep Learning](https://atcold.github.io/NYU-DLSP21/)
 
 ## Machine Learning: Blog
+
 - [Rahmadya Trias Handayanto | "Just for a little kindness"](https://rahmadya.com/)

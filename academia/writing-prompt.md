@@ -1,4 +1,11 @@
-## Writing Prompt 
+---
+aliases: [Writing Prompt]
+title: Writing Prompt
+tags: []
+---
+
+# Writing Prompt
+
 * [Journal Prompt](https://dailyprompt.org/)
 * [Text Generators](http://www.languageisavirus.com/text-generators/index.php#.WGVcTPkrLcs)
 * [Word Play](https://www.languageisavirus.com/word-play/index.php)
@@ -10,5 +17,6 @@
 * [Brevity 500](https://brevity500.com/)
 * [Storium](https://storium.com/)
 
-## Writing
+# Writing
+
 * [Journal Prompt](https://dailyprompt.org/)

@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
+aliases: [Generative Audio Music]
 title: Generative Audio Music
+tags: ["generative", "audio", "music"]
 date: 2022-09-30 12:12:41
 category: research
-tags: ["generative", "audio", "music"]
 draft: false
 ---
 
@@ -13,6 +12,7 @@ draft: false
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 
 ## Music Generation
+
 - [deepjazz: deep learning for jazz](https://deepjazz.io/) [jisungk/deepjazz: Deep learning driven jazz generation using Keras & Theano!](https://github.com/jisungk/deepjazz)
 - [KarthikNayak/DeepRock: Rock Music using Deep Learning](https://github.com/KarthikNayak/DeepRock)
     - [Deeprock: LSTM based Rock Guitar Generator · Karthik Nayak](https://nayak.io/posts/deeprock/)
@@ -24,8 +24,10 @@ draft: false
 - [GRUV: Algorithmic Music Generation using Recurrent Neural Networks - Aran Nayebi](https://sites.google.com/site/anayebihomepage/cs224dfinalproject)
     - [MattVitelli/GRUV: GRUV is a Python project for algorithmic music generation.](https://github.com/MattVitelli/GRUV)
     
+
 ## Generative Musics
-* [Generative.fm - Play](https://play.generative.fm/browse)
-* [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)
-* [Tero Parviainen](https://teropa.info/)
-* [Streams | Musico](https://www.musi-co.com/listen/streams)
+
+- [Generative.fm - Play](https://play.generative.fm/browse)
+- [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)
+- [Tero Parviainen](https://teropa.info/)
+- [Streams | Musico](https://www.musi-co.com/listen/streams)

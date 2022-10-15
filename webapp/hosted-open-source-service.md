@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Hosted Open Source Services
+aliases: [Hosted Open Source Services]
+title: Hosted Open Source Services
+tags: ["self-hosted", "open source"]
 date: 2020-10-11 21:39:17
 category: app
-tags: ["self-hosted", "open source"]
 draft: false
 ---
 
 # Hosted Open Source Services
 
 ## Open Source Service Hosted
+
 - [Fossdaily](https://fossdaily.xyz/)
     - [IP Check](https://ip.fossdaily.xyz/)
     - [Librespeed](https://librespeed.fossdaily.xyz/)
@@ -83,5 +83,6 @@ draft: false
     - Element by Matrix
 
 ## Instances
+
 - [List Bibliogram Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
 - [List Invidious Instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) and [This List](https://instances.invidio.us/)

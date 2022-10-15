@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Awesome List of Diagram Apps
+aliases: [Awesome List of Diagram Apps]
+title: Awesome List of Diagram Apps
+tags: ["diagram"]
 date: 2020-12-21 09:52:27
 category: app
-tags: ["diagram"]
 draft: false
 ---
 
@@ -15,6 +14,7 @@ List of Diagram Apps
 - [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general-purpose-diagramming)
 
 ## Cloud-based Diagram App
+
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw) hand-draw-like diagram tools
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) hand-draw-like diagram tools
 - [Quiver](https://q.uiver.app/) : online math diagram tools, [Github Repo](https://github.com/varkor/quiver)
@@ -37,12 +37,13 @@ List of Diagram Apps
 - [GoJS Diagram and Graph Library for JavaScript and TypeScript](https://gojs.net/latest/index.html)
 
 ## Diagram as Code (Programmable Diagram)
+
 - [Plant UML](https://plantuml.com/)
 - [PlantText UML Editor](https://www.planttext.com/)
 - [Graphviz](https://www.graphviz.org/) : Programming language for drawing graphs
 - [Sketchviz](https://sketchviz.com/new) Grahphviz in sketch style
 - [Markdeep](https://casual-effects.com/markdeep/)
-- [Edotor — Online Graphviz Editor](https://edotor.net/)
+- [Edotor—Online Graphviz Editor](https://edotor.net/)
 - [flowchart.fun](https://flowchart.fun/)
 - [BPMN Sketch Miner](https://www.bpmn-sketch-miner.ai/index.html#)
 - [mermaid-js](https://mermaid-js.github.io/mermaid/#/)
@@ -58,11 +59,13 @@ List of Diagram Apps
 - [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
 
 ## Neural Network Diagram
+
 - [NN-SVG](https://alexlenail.me/NN-SVG/index.html) : neural network and deep learning architecture diagram
-* [HarisIqbal88/PlotNeuralNet: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
-* [NN SVG](https://alexlenail.me/NN-SVG/)
+- [HarisIqbal88/PlotNeuralNet: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
+- [NN SVG](https://alexlenail.me/NN-SVG/)
 
 ## Diagram
+
 - [ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG](https://github.com/ivanceras/svgbob) ASCII to SVG
     - [Svgbob editor](https://ivanceras.github.io/svgbob-editor/)
 - [https://mbarkhau.keybase.pub/asciigrid/](https://mbarkhau.keybase.pub/asciigrid/) ASCII Grid
@@ -71,10 +74,10 @@ List of Diagram Apps
 - [Mœbius ANSI Art Editor](https://blocktronics.github.io/moebius/)
 - [Kroki!](https://kroki.io/) Programmable Diagram
 
-
-
 ## Diagram
+
 - [penrose/penrose: Create beautiful diagrams just by typing mathematical notation in plain text.](https://github.com/penrose/penrose)
 
 ## Diagrams
+
 - [Stately Editor public beta](https://stately.ai/blog/stately-editor-public-beta)

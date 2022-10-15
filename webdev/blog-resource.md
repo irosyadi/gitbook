@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Blog Resources
+aliases: [Blog Resources]
+title: Blog Resources
+tags: ["web"]
 date: 2020-12-21 11:44:46
 category: development
-tags: ["web"]
 draft: false
 ---
 
 # Blog Resources
 
 ## Classless CSS - No Javascript
+
 - [List of Classless CSS](https://github.com/dbohdan/classless-css)
 - [Classless CSS Demo](https://dohliam.github.io/dropin-minimal-css/)
 - [Element CSS](https://elementcss.neocities.org/) a classless CSS
@@ -19,6 +19,7 @@ draft: false
 - [Uisual](https://github.com/uisual/freebies)
 
 ## Gatsby Starter
+
 - [Developer Diary](https://www.gatsbyjs.com/starters/willjw3/gatsby-starter-developer-diary)
 - [Blog with Lunr](https://www.gatsbyjs.com/starters/lukewhitehouse/gatsby-starter-blog-with-lunr)
 - [Calpa Blog](https://www.gatsbyjs.com/starters/calpa/gatsby-starter-calpa-blog)
@@ -37,6 +38,7 @@ draft: false
     - [jaesokim](https://jaeseokim.github.io/) [github](https://github.com/JaeSeoKim/jaeseokim.github.io)
 
 ## Jekyll Theme
+
 - [RTD Theme](https://github.com/rundocs/jekyll-rtd-theme) : honoring folder structure
 - [Just The Docs](https://github.com/pmarsceill/just-the-docs)
 - [Jekyll Doc Theme](https://github.com/aksakalli/jekyll-doc-theme) : honoring folder structure
@@ -44,6 +46,7 @@ draft: false
 - [Docsify](https://michaelcurrin.github.io/docsify-js-template/#/) [Docsify](https://docsify.js.org/#/), example [Docsify Open Publishin](https://github.com/hibbitts-design/docsify-open-publishing-starter-kit)
 
 ## Hugo Theme
+
 - [Slick](https://themes.gohugo.io/slick/)
 - [Zerostatic](https://github.com/zerostaticthemes/hugo-whisper-theme)
 - [Tokiwa](https://github.com/heyeshuang/hugo-theme-tokiwa)

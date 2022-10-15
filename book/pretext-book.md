@@ -1,17 +1,17 @@
 ---
-layout: default
-author: irosyadi
-title:  Pretext Book
+aliases: [Pretext Book]
+title: Pretext Book
+tags: ["free", "open", "book"]
 date: 2020-07-12 19:46:07
 category: book
-tags: ["free", "open", "book"]
 draft: false
 ---
 
 # Pretext Book
 
 ## Pretext Markup
-- [Pretext](https://pretextbook.org/index.html) 
+
+- [Pretext](https://pretextbook.org/index.html)
 - XML vocabulary for authors of research articles, textbooks, and monographs.
 - Like: DocBook + LaTeX + HTML.
 - Output: print, PDF, web, EPUB, Jupyter Notebooks
@@ -20,7 +20,9 @@ draft: false
 - Possibly [open book](https://aimath.org/textbooks/approved-textbooks/) written in Pretext also [this](https://jiblm.org/guides/index.php?category=jiblmjournal)
 
 ## Book with Pretext
+
 ### GFDL Licensed
+
 - [Pretext Guide](https://pretextbook.org/doc/guide/html/guide.html) License: GFDL
 - [Pretext Author Guide](https://pretextbook.org/doc/author-guide/html/pretext-author-guide.html) License: GFDL
 - [Git for Author](https://pretextbook.org/gfa/html/frontmatter-1.html) License: GFDL
@@ -31,6 +33,7 @@ draft: false
 - [Elementary Algebra](https://yoshiwarabooks.org/elem-alg/) License: GFDL
 
 ### CC-BY License
+
 - [Active Prelude to Calculus](https://activecalculus.org/APC.html) License: CC-BY
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
 - [Active Calculus](https://activecalculus.org//ACS.html) or [this](https://activecalculus.org/single/frontmatter.html) License: CC-BY
@@ -38,11 +41,12 @@ draft: false
 - [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 - [Introduction to Game Theory](https://nordstromjf.github.io/IntroGameTheory/frontmatter-1.html) License: CC-BY
 - [Precalculus: An Active Reading Approach: Elementary Functions](https://www.mhcc.edu/precalc1/) License: CC-BY
-- [Discrete Math 321 Class Notes ](https://www.math.wichita.edu/~hammond/class-notes/discrete-class-notes.html) License: CC (?)
+- [Discrete Math 321 Class Notes](https://www.math.wichita.edu/~hammond/class-notes/discrete-class-notes.html) License: CC (?)
 - [Discrete Mathematics](https://www.jiblm.org/mahavier/discrete/html/index.html) License: CC (?)
 - [Calculus I, II, and III: A Problem-Based Approach with Early Transcendental](https://www.jiblm.org/mahavier/calculus/html/book-1.html) License: CC (?)
 
 ### CC-BY-NC License
+
 - [Business Calculus with Excel](https://mathstat.slu.edu/~may/ExcelCalculus/) License: CC-BY-NC
 - [Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) License: CC-BY-NC
 - [Integral Calculus](https://www.math.ubc.ca/~CLP/CLP2/) License: CC-BY-NC
@@ -50,6 +54,7 @@ draft: false
 - [PCC SLC Math Resources Basic Math](https://spot.pcc.edu/slc/mathresources/output/html/) License: CC-BY
 
 ### Other License
+
 - [The Story of 8](https://mphitchman.com/eight/index.html)
 - [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html) License: -
 - [W214 Linear Algebra](https://math.sun.ac.za/bbartlett/w214-lin-alg/html/w214-lin-alg.html) License: -

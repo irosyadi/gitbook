@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Python Books, Tutorials, and Courses
+aliases: [Python Books, Tutorials, and Courses]
+title: Python Books, Tutorials, and Courses
+tags: ["python", "book", "tutorial"]
 date: 2020-06-19 19:37:43
 category: book
-tags: ["python", "book", "tutorial"]
 draft: false
 ---
 
@@ -13,11 +12,12 @@ draft: false
 ## Python Tutorials
 
 ### Open Licensed Python Tutorials
+
 - [Akuli](https://github.com/Akuli/python-tutorial) License: ZLIB
 - [Python 3 Workshop](https://github.com/ishpreet-singh/python3-workshop) License: MIT
 - [Data Snakes](https://github.com/datasnakes/python-hands-on-tutorial) License: MIT
 - [Whirlwind Tour of Python](https://nbviewer.jupyter.org/github/jakevdp/WhirlwindTourOfPython/blob/master/Index.ipynb), [GitHub](https://github.com/jakevdp/WhirlwindTourOfPython) License: CC0
-- [30 Seconds of Python ](https://github.com/30-seconds/30-seconds-of-python) License: CC0
+- [30 Seconds of Python](https://github.com/30-seconds/30-seconds-of-python) License: CC0
 - [Fluent Python](https://github.com/cundi/fluent-python) License: CC0
 - [Practical Python](https://github.com/dabeaz-course/practical-python) License: CC-BY
 - [Learn Python 3](https://github.com/michaelliao/learn-python3) License: GPL
@@ -29,10 +29,11 @@ draft: false
 - [Google Python Tutorial](https://developers.google.com/edu/python/) License: CC-BY
 - [Scientific Python Lectures](https://github.com/jrjohansson/scientific-python-lectures) License: CC-BY
 - [Cambridge Engineering](https://github.com/CambridgeEngineering/PartIA-Computing-Michaelmas) License: CC-BY
-- [Python 101 ](https://www.davekuhlman.org/python_101.html) License: MIT
+- [Python 101](https://www.davekuhlman.org/python_101.html) License: MIT
 - [2700 slides for programming with 1000 slides for Python](https://marko-knoebl.github.io/slides/) [GitHub](https://github.com/marko-knoebl/slides) License: CC-BY
 
 ## Python Tutorials
+
 - [zhiyzuo](https://github.com/zhiyzuo/python-tutorial) License: -
 - [in28minutes](https://github.com/in28minutes/python-tutorial-for-beginners) License: -
 - [purwnt](https://github.com/purwnt/Belajarpython), [Belajar Python](https://github.com/belajarpythoncom/belajarpython.com/tree/master/tutorials) License: -
@@ -46,6 +47,7 @@ draft: false
 ## Python Books
 
 ### CC-BY Python Books
+
 - [Python for Everybody](https://www.py4e.com/book) License: CC BY (NC for some case)
 - [Dive into Python](https://diveintopython3.problemsolving.io/) License: CC-BY
 - [Python Book](https://goalkicker.com/PythonBook/) License: CC-BY, File type:pdf
@@ -55,6 +57,7 @@ draft: false
 - [Learning with Python 2nd Edition (Using Python 2.x) by Jeffrey Elkner](https://www.openbookproject.net/thinkcs/python/english2e/#) License: GFDL
 
 ### CC-BY-NC Python Books
+
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) License: CC-BY-NC
 - [Think Stats](https://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
 - [Think Bayes](https://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
@@ -69,6 +72,7 @@ draft: false
 - [Hands on Python Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial/ch-html) License: CC-BY-NC
 
 ### CC-BY-NC-ND Python Books
+
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) License: CC-BY-NC-ND
 - [Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current/html/) License: CC-BY-NC-ND
 - [Programming Computer Vision Python](https://programmingcomputervision.com/) License: CC-BY-NC-ND
@@ -76,14 +80,16 @@ draft: false
 - [Bayesian Methods for Statistical Analysis](https://press.anu.edu.au/publications/bayesian-methods-statistical-analysis) License: CC-BY-NC-ND [Alternative](https://library.oapen.org/handle/20.500.12657/32424)
 
 ### Unknown License Python Books
+
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
 - [Learn Python Break Python](https://learnpythonbreakpython.com/)
-- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists — Python Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
+- [Python Programming And Numerical Methods: A Guide For Engineers And Scientists—Python Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 - [Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 ## List of Python Books
+
 - [List of Python Books](https://pythonbooks.revolunet.com/)
 - [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
 - [Python Getting Started](https://www.python.org/about/gettingstarted/)
@@ -91,5 +97,6 @@ draft: false
 - [pamoroso/free-python-books: Python books free to read online or download](https://github.com/pamoroso/free-python-books)
 
 ## Python Documentation and Tools
-- [First Python Notebook — First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
+
+- [First Python Notebook—First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
 - [Python Library Search](https://www.pythonstacks.com/python-packages/)

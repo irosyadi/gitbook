@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Awesome Free Stuffs from Internet
+aliases: [Awesome Free Stuffs from Internet]
+title: Awesome Free Stuffs from Internet
+tags: ["free"]
 date: 2020-07-17 20:30:25
 category: awesome
-tags: ["free"]
 draft: false
 ---
 
 # Awesome Free Stuffs from Internet
 
 ## Awesome Free Services
+
 - [Pipe Dream](https://pipedream.com/) like IFTTT-free
 - [Icon Free](https://thenounproject.com/)
 - [Project Gutenberg](https://www.gutenberg.org/)
@@ -30,6 +30,7 @@ draft: false
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10?ranMID=24542&ranEAID=0JlRymcP1YU&ranSiteID=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&epi=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00%29%287593%29%281243925%29%280JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ%29%28%29&irclickid=_kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00)
 
 ## Free Applications
+
 - Nimbletext
 - Lightworks - Video Editor
 - Shotcut - Video Editor
@@ -63,9 +64,11 @@ draft: false
 - Unreal Engine -the most open and advanced real-time 3D creation tool.
 - VS Code -free source-code editor.
 - Wavepad -Audio and music editor for Windows and Mac.
-- Wcostream - anime and animated TV-show/movie site with dubs and subs.
+- Wcostream - anime and animated TV-show/movie site with dubs and subs.  
 ​
+
 ## Free Learning Materials
+
 - Codecademy - free sessions and exercises for any coding language.
 - FreeCodeCamp - Learn to code at home.
 - Khan Academy -non-profit educational organization.
@@ -73,5 +76,5 @@ draft: false
 - Learn with Microsoft on Edx (Free) - Courses from Microsoft.
 - MIT courses -MIT's OpenCourseware.
 - Octave -software featuring a high-level programming language, primarily intended for numerical computations. Basically free MATLAB Alternative
-- R- programming language -free software environment for statistical computing and graphics
+- Rprogramming language -free software environment for statistical computing and graphics
 - W3Schools - The world's largest Web Development learning site.

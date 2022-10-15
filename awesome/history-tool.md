@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  History Tools and Apps
+aliases: [History Tools and Apps]
+title: History Tools and Apps
+tags: ["history"]
 date: 2021-11-13 08:14:50
 category: awesome
-tags: ["history"]
 draft: false
 ---
 
 # History Tools and Apps
 
 ## Indonesian History
+
 - [Digital Collections | Leiden University Libraries](https://digitalcollections.universiteitleiden.nl/)
 - [Dutch Colonial Maps KIT | Digital Collections](https://digitalcollections.universiteitleiden.nl/view/collection/kitmaps)
 - [Maps (KITLV) (under construction) | Digital Collections](https://digitalcollections.universiteitleiden.nl/maps-kitlv)

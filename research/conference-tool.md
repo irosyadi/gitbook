@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Awesome Conferences Tools
+aliases: [Awesome Conferences Tools]
+title: Awesome Conferences Tools
+tags: ["conference", "research", "academia"]
 date: 2022-06-01 22:49:42
 category: research
-tags: ["conference", "research", "academia"]
 draft: false
 ---
 
@@ -20,6 +19,7 @@ Related links:
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
 ## AI-related Conferences
+
 - [NIPS](https://nips.cc/)
 - [ICML](https://icml.cc/)
 - [EPAI](http://dmip.webs.upv.es/EPAI2020/)
@@ -29,6 +29,7 @@ Related links:
     - [Beyond Backprop @NeurIPS](https://beyondbackprop.github.io/)
 
 ## AI Journals
+
 - [Springer Progress in AI](https://www.springer.com/journal/13748)
 - [JMLR](https://www.jmlr.org/)
 - [Springer AI Review](https://www.springer.com/journal/10462)

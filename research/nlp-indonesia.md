@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  NLP for Bahasa Indonesia
+aliases: [NLP for Bahasa Indonesia]
+title: NLP for Bahasa Indonesia
+tags: ["nlp", "indonesia"]
 date: 2020-10-11 21:14:37
 category: research
-tags: ["nlp", "indonesia"]
 draft: false
 ---
 
 # NLP for Bahasa Indonesia
 
 ## Indonesian NLP Dataset
+
 - [ID-NLP-Resource](https://github.com/kmkurn/id-nlp-resource)
 - [Kirralabs](https://github.com/kirralabs/indonesian-NLP-resources)
 - [Kirralabs Text Clustering](https://github.com/kirralabs/text-clustering)

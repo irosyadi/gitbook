@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Jamstack
+aliases: [Jamstack and WebApps]
+title: Jamstack and WebApps
+tags: ["jamstack"]
 date: 2020-08-12 22:13:16
 category: app
-tags: ["jamstack"]
 draft: false
 ---
 
 # Jamstack and WebApps
 
 ## What is Jamstack?
+
 - Jamstack is Javascript, APIs, and Markup.
 - [Jamstack](https://snipcart.com/blog/jamstack)
 - [What is Jamstack](https://www.freecodecamp.org/news/what-is-the-jamstack-and-how-do-i-host-my-website-on-it/)
@@ -23,12 +23,14 @@ draft: false
     - [Third Party SaaS](https://github.com/agarrharr/awesome-static-website-services)
 
 ### List JavaScript Frontend Frameworks
+
 - React
 - Vue
 - Angular
 - Svelte
 
 ### List Static Site Generators
+
 - Next.js
 - Gatsby
 - Hugo
@@ -38,6 +40,7 @@ draft: false
 - Docosaurus
 
 ### List Headless CMS's
+
 - Contentful
 - Strapi
 - Netlify CMS
@@ -50,8 +53,8 @@ draft: false
 - [Stackbit](https://www.stackbit.com/)
 
 ### List of Deployments (Static Hosting)
-[Comparison](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
 
+[Comparison](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
 
 - [Github Pages](https://pages.github.com/)
 - Netlify:
@@ -64,7 +67,7 @@ draft: false
 - Google:
   - Firebase
   - Google Cloud Platform : [How to GCP](https://cloud.google.com/storage/docs/hosting-static-website)
-- [Azure Static Web Apps – App Service - Microsoft Azure](https://azure.microsoft.com/en-gb/services/app-service/static/?cdn=disable#features), [How to Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website)
+- [Azure Static Web Apps–App Service - Microsoft Azure](https://azure.microsoft.com/en-gb/services/app-service/static/?cdn=disable#features), [How to Azure](https://docs.microsoft.com/en-us/azure/storage/blobs/storage-blob-static-website)
 - Amazon:
   - AWS Amplify
   - [AWS](https://aws.amazon.com/getting-started/projects/host-static-website/)
@@ -79,9 +82,11 @@ draft: false
 - [CodaSite](https://codasite.app/)
 
 ### Host Comparison
+
 - [CloudFlare Pages, Netlify, Zeit, Github Pages, and Gitlab Pages. Where to host for free?](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
 
 ### Third Party SaaS
+
 - Comments
     - Disqus
     - Staticman
@@ -98,18 +103,20 @@ draft: false
     - Foxy.io
 
 ## Learn Jamstack
+
 - [How to host and deploy a static website or JAMstack app to AWS S3 and CloudFront](https://www.freecodecamp.org/news/how-to-host-and-deploy-a-static-website-or-jamstack-app-to-s3-and-cloudfront/) from freeCodeCamp
 - [A Step-by-Step Guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/) from Netlify
 - [Build your own Blog from Scratch using Eleventy](https://www.filamentgroup.com/lab/build-a-blog/) from filament group
 - [How to Host your Static Website with AWS - A Beginner's Guide](https://www.freecodecamp.org/news/a-beginners-guide-on-how-to-host-a-static-site-with-aws/) from freeCodeCamp
 - [Hugo Tutorial: How to Build & Host a (Very Fast) Static E-Commerce Site](https://snipcart.com/blog/hugo-tutorial-static-site-ecommerce) from SnipCart
 - [How to Build Authenticated Serverless JAMstack Apps with Gatsby and Netlify](https://www.freecodecamp.org/news/building-jamstack-apps/) from freeCodeCamp
-* [Which service? Netlify vs Vercel vs Azure Static Web App · Elio Struyf](https://www.eliostruyf.com/netlify-vs-vercel-vs-azure-static-web-app/)
-* [How to Deploy a Full-Stack App to the Web](https://acidtango.com/thelemoncrunch/how-to-deploy-a-full-stack-app-to-the-web/)
-* [10 Tips To Host Your Web Apps For Free](https://blog.patricktriest.com/host-webapps-free/)
-* [Deploy A Web App (Golang, Java, ...) To The Cloud For Free - Simply How](https://simply-how.com/free-paas-hosting)
+- [Which service? Netlify vs Vercel vs Azure Static Web App · Elio Struyf](https://www.eliostruyf.com/netlify-vs-vercel-vs-azure-static-web-app/)
+- [How to Deploy a Full-Stack App to the Web](https://acidtango.com/thelemoncrunch/how-to-deploy-a-full-stack-app-to-the-web/)
+- [10 Tips To Host Your Web Apps For Free](https://blog.patricktriest.com/host-webapps-free/)
+- [Deploy A Web App (Golang, Java, ...) To The Cloud For Free - Simply How](https://simply-how.com/free-paas-hosting)
 
 ## Gatsby Starters
+
 - [BooGi: Gatsby Starter - Gatsby](https://www.gatsbyjs.com/starters/filipowm/boogi)
 - [gatsby-starter-rocket-docs: Gatsby Starter - Gatsby](https://www.gatsbyjs.com/starters/Rocketseat/gatsby-starter-rocket-docs)
 - [gatsby-starter-docz-netlifycms: Gatsby Starter - Gatsby](https://www.gatsbyjs.com/starters/colbyfayock/gatsby-starter-docz-netlifycms)
@@ -125,8 +132,9 @@ draft: false
 - [codebushi/gatsby-starter-dimension: Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.](https://github.com/codebushi/gatsby-starter-dimension)
 
 ## Jekyll Themes
-* [mpa139/allanlab: Allan Lab website](https://github.com/mpa139/allanlab)
-* [liuyxpp/liuyxpp.github.io: Homepage for my research group as an example of LYX Jekyll Theme.](https://github.com/liuyxpp/liuyxpp.github.io)
-* [Niemeyer-Research-Group/niemeyer-research-group.github.io: Niemeyer Research Group site](https://github.com/Niemeyer-Research-Group/niemeyer-research-group.github.io)
-* [alshedivat/al-folio: A beautiful, simple, clean, and responsive Jekyll theme for academics](https://github.com/alshedivat/al-folio)
-* [mmistakes/minimal-mistakes: Jekyll theme for building a personal site, blog, project documentation, or portfolio.](https://github.com/mmistakes/minimal-mistakes)
+
+- [mpa139/allanlab: Allan Lab website](https://github.com/mpa139/allanlab)
+- [liuyxpp/liuyxpp.github.io: Homepage for my research group as an example of LYX Jekyll Theme.](https://github.com/liuyxpp/liuyxpp.github.io)
+- [Niemeyer-Research-Group/niemeyer-research-group.github.io: Niemeyer Research Group site](https://github.com/Niemeyer-Research-Group/niemeyer-research-group.github.io)
+- [alshedivat/al-folio: A beautiful, simple, clean, and responsive Jekyll theme for academics](https://github.com/alshedivat/al-folio)
+- [mmistakes/minimal-mistakes: Jekyll theme for building a personal site, blog, project documentation, or portfolio.](https://github.com/mmistakes/minimal-mistakes)
