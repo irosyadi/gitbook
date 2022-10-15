@@ -56,7 +56,7 @@ draft: false
 - [Calculist Sample Document](https://app.calculist.io/sample) markdown with calculation
 - [Bricks](https://free.getbricks.app/) notetaking with calculation
 - [Nulis](https://nulis.io/)
-- [Saga | Make sense of your knowledge](https://saga.so/)
+- [Saga - Make sense of your knowledge](https://saga.so/)
 - [TreeSheets](https://strlen.com/treesheets/)
 - [NotesHub - Cross-platform, markdown based note-taking app](https://about.noteshub.app/)
 - [bangle-io/bangle-io: A web only WYSIWYG note taking app that saves notes locally in markdown format.](https://github.com/bangle-io/bangle-io)
@@ -71,7 +71,7 @@ draft: false
 
 ## Zettelkasten
 
-- [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground | The Daily Pony](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
+- [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground - The Daily Pony](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 
 ## Notetaking HTML Generator
 

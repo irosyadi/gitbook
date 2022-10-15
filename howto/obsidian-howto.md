@@ -19,7 +19,7 @@ draft: false
 ## Obsidian Digital Garden Web
 
 - [Obsidian - Setup a Digital Garden with GitHub and Cloudflare Pages—Fiction Becomes Fact](https://fictionbecomesfact.com/obsidian-setup-digitalgarden)
-- [How To Create Open Source Obsidian Digital Garden | Hope's Garden](https://garden.umutyildirim.com/docs/tutorials/how%20to%20create%20open%20source%20obsidian%20digital%20garden/)
+- [How To Create Open Source Obsidian Digital Garden - Hope's Garden](https://garden.umutyildirim.com/docs/tutorials/how%20to%20create%20open%20source%20obsidian%20digital%20garden/)
 - [Publish your Obsidian Vault to your Digital Garden - Yordi Verkroost](https://yordi.me/publish-your-obsidian-vault-to-your-digital-garden/)
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 - [Green Web Template](https://garden.megu.space/)

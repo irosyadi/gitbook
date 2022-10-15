@@ -12,7 +12,7 @@ draft: false
 ## Funny Paper
 
 - [Improbable Research](https://www.improbable.com/ig-about/)
-- [Parachute use to prevent death and major trauma when jumping from aircraft: randomized controlled trial | The BMJ](https://www.bmj.com/content/363/bmj.k5094)
+- [Parachute use to prevent death and major trauma when jumping from aircraft: randomized controlled trial - The BMJ](https://www.bmj.com/content/363/bmj.k5094)
     - [Parachute use to prevent death and major trauma related to gravitational challenge: systematic review of randomised controlled trials -- Smith and Pell 327 (7429): 1459 -- BMJ](http://elucidation.free.fr/parachuteBMJ.pdf)
 - [Legal article examining the Fourth Amendment as it pertains to Jay-Z's 99 Problems](http://pdf.textfiles.com/academics/lj56-2_mason_article.pdf)
 - [Doug Zongker's paper on chicken](https://isotropic.org/papers/chicken.pdf)

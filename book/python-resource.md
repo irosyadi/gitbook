@@ -77,7 +77,7 @@ draft: false
 - [norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)
 - [karan/Projects-Solutions: Links to others' solutions to Projects (https://github.com/karan/Projects/)](https://github.com/karan/Projects-Solutions)
 - [tuvtran/project-based-learning: Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
-- [Code with Repl.it | Python projects for beginners](https://www.codewithrepl.it/)
+- [Code with Repl.it - Python projects for beginners](https://www.codewithrepl.it/)
 
 ## Python
 
@@ -94,7 +94,7 @@ draft: false
 ## Python
 
 - [Preface - Python resources for everybody](https://learnbyexample.github.io/py_resources/preface.html)
-- [ROSALIND | Problems](https://rosalind.info/problems/list-view/)
+- [ROSALIND - Problems](https://rosalind.info/problems/list-view/)
 
 ## Visual Python
 
@@ -114,8 +114,8 @@ draft: false
 - [Neural Networks from Scratch](https://nnfs.io/)
 - [Fluent Python](https://www.oreilly.com/library/view/fluent-python/9781491946237/)
 - [Introducing Python, 2nd Edition](https://www.oreilly.com/library/view/introducing-python-2nd/9781492051374/)
-- [Computational Physics: Problem Solving with Python, 3rd Edition | Wiley](https://www.wiley.com/en-us/Computational+Physics%3A+Problem+Solving+with+Python%2C+3rd+Edition-p-9783527413157)
-- [Classical Mechanics | A Computational Approach with Examples Using Mat](https://www.taylorfrancis.com/books/mono/10.1201/9781351024389/classical-mechanics-christopher-kulp-vasilis-pagonis)
+- [Computational Physics: Problem Solving with Python, 3rd Edition - Wiley](https://www.wiley.com/en-us/Computational+Physics%3A+Problem+Solving+with+Python%2C+3rd+Edition-p-9783527413157)
+- [Classical Mechanics - A Computational Approach with Examples Using Mat](https://www.taylorfrancis.com/books/mono/10.1201/9781351024389/classical-mechanics-christopher-kulp-vasilis-pagonis)
 - [Dynamical Systems with Applications using Python](https://link.springer.com/book/10.1007/978-3-319-78145-7)
 - [Numerical Python: Scientific Computing and Data Science Applications with Numpy, SciPy and Matplotlib](https://www.oreilly.com/library/view/numerical-python/9781484242469/)
 - [Scipy Lecture Notes—Scipy lecture notes](http://scipy-lectures.org/)

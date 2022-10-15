@@ -28,13 +28,13 @@ draft: false
 
 ## Machine Learning Certification at Google
 
-- [Professional ML Engineer Certification  |  Certifications  |  Google Cloud](https://cloud.google.com/certification/machine-learning-engineer)
+- [Professional ML Engineer Certification  -  Certifications  -  Google Cloud](https://cloud.google.com/certification/machine-learning-engineer)
 - [Google Cloud skills campaign](https://inthecloud.withgoogle.com/google-cloud-skills/register.html)
-- [Baseline: Data, ML, AI | Qwiklabs](https://google.qwiklabs.com/quests/34)
-- [Registration  |  Certifications  |  Google Cloud](https://cloud.google.com/certification/register)
+- [Baseline: Data, ML, AI - Qwiklabs](https://google.qwiklabs.com/quests/34)
+- [Registration  -  Certifications  -  Google Cloud](https://cloud.google.com/certification/register)
 - [ML Academy Webinar](https://cloudonair.withgoogle.com/events/ml-lab)
 - [Qwiklabs - Hands-On Cloud Training](https://google.qwiklabs.com/)
-- [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate | Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
+- [Preparing for Google Cloud Certification: Machine Learning Engineer Professional Certificate - Coursera](https://www.coursera.org/professional-certificates/preparing-for-google-cloud-machine-learning-engineer-professional-certificate)
 
 ## Machine Learning Books
 
@@ -73,7 +73,7 @@ draft: false
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Machine Lerning Book](https://www.cs.ubc.ca/~murphyk/MLbook/)
 - [abhishekkrthakur/approachingalmost: Approaching (Almost) Any Machine Learning Problem](https://github.com/abhishekkrthakur/approachingalmost)
-- [Mathematics for Machine Learning | Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.](https://mml-book.github.io/)
+- [Mathematics for Machine Learning - Companion webpage to the book “Mathematics for Machine Learning”. Copyright 2020 by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong. Published by Cambridge University Press.](https://mml-book.github.io/)
 - [mml-book/mml-book.github.io: Companion webpage to the book "Mathematics For Machine Learning"](https://github.com/mml-book/mml-book.github.io)
 
 ### Proprietary Machine Learning Books

@@ -76,9 +76,12 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 ## Unicode Art
 
 - [One line ASCII Art](https://1lineart.kulaone.com/#/)  
+
+```
 __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫̲͡ ̲̲̲͡͡π̲̲͡͡ ̲̲͡▫̲̲͡͡ ̲|̡̡̡ ̡ ̴̡ı̴̡̡ ̡͌l̡̡̡̡.___ : home  
 --------{---(@ : rose  
 (♥_♥) : love in my eyes
+```
 
 ## Text Stylish
 

@@ -15,4 +15,4 @@ draft: false
 
 ## Free Course
 
-- [Digital Design Course | edX](https://www.edx.org/course/digital-design-2)
+- [Digital Design Course - edX](https://www.edx.org/course/digital-design-2)

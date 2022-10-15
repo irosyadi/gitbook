@@ -16,7 +16,7 @@ draft: false
 * [Concept Whitening for Interpretable Image Recognition](https://arxiv.org/abs/2002.01650)
     * [zhiCHEN96/ConceptWhitening](https://github.com/zhiCHEN96/ConceptWhitening)
 * [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV)](https://arxiv.org/abs/1711.11279)
-    * [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) | Papers With Code](https://paperswithcode.com/paper/interpretability-beyond-feature-attribution#code)
+    * [Interpretability Beyond Feature Attribution: Quantitative Testing with Concept Activation Vectors (TCAV) - Papers With Code](https://paperswithcode.com/paper/interpretability-beyond-feature-attribution#code)
 * [Deep Learning-Based Human Pose Estimation: A Survey](https://arxiv.org/abs/2012.13392v3)
     * [zczcwh/DL-HPE](https://github.com/zczcwh/DL-HPE)
 * [Analysis of skin lesion images with deep learning](https://arxiv.org/abs/2101.03814v1)

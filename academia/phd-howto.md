@@ -11,7 +11,7 @@ draft: false
 
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/)
-- [Explorations of Style | A Blog about Academic Writing](https://explorationsofstyle.com/)
+- [Explorations of Style - A Blog about Academic Writing](https://explorationsofstyle.com/)
 - [Writing For Research–Medium](https://medium.com/@Write4Research)
 - [Raul Pacheco-Vega, PhD](http://www.raulpacheco.org/)
-- [patter | research education, academic writing, public engagement, funding, other eccentricities.](https://patthomson.net/)
+- [patter - research education, academic writing, public engagement, funding, other eccentricities.](https://patthomson.net/)

@@ -21,7 +21,7 @@ draft: false
 - eBook
     - [Invent with Python](https://inventwithpython.com/)
     - [Making Games with Python & Pygame](http://inventwithpython.com/pygame/)
-    - [Python for Kids | No Starch Press](https://nostarch.com/pythonforkids)
-    - [Manning | Hello World!](https://www.manning.com/books/hello-world)
+    - [Python for Kids - No Starch Press](https://nostarch.com/pythonforkids)
+    - [Manning - Hello World!](https://www.manning.com/books/hello-world)
         - [Hellow World 3rd](https://livebook.manning.com/book/hello-world-third-edition/about-this-book/1)
         - [Hello World 1st](https://livebook.manning.com/book/hello-world/chapter-1?origin=product-toc)

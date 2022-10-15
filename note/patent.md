@@ -11,7 +11,7 @@ draft: false
 
 ## Patent
 
-- [UU 28 tahun 2014 tentang Hak Cipta | Jogloabang](https://www.jogloabang.com/pustaka/uu-28-2014-hak-cipta#:~:text=Hak%20Cipta%20dalam%20Undang%2DUndang,dengan%20ketentuan%20peraturan%20perundang%2Dundangan.)
+- [UU 28 tahun 2014 tentang Hak Cipta - Jogloabang](https://www.jogloabang.com/pustaka/uu-28-2014-hak-cipta#:~:text=Hak%20Cipta%20dalam%20Undang%2DUndang,dengan%20ketentuan%20peraturan%20perundang%2Dundangan.)
 
 ## IP Patent
 
@@ -19,7 +19,7 @@ draft: false
 
 ## Patent
 
-- [Do patents kill innovation? The US patent office is asking | Hacker News](https://news.ycombinator.com/item?id=27785255)
+- [Do patents kill innovation? The US patent office is asking - Hacker News](https://news.ycombinator.com/item?id=27785255)
 
 ## HKI
 

@@ -28,20 +28,20 @@ draft: false
 
 ## Android System-Wide Adblock
 
-- [RethinkDNS | Fast, secure, configurable, private DNS + Firewall for Android.](https://rethinkdns.com/)
+- [RethinkDNS - Fast, secure, configurable, private DNS + Firewall for Android.](https://rethinkdns.com/)
 - [NetGuard - A simple way to block access to the internet per app](https://netguard.me/)
-- [TrackerControl for Android | Monitor and control trackers and ads.](https://trackercontrol.org/)
+- [TrackerControl for Android - Monitor and control trackers and ads.](https://trackercontrol.org/)
 - [Blokada - the popular mobile adblocker and VPN for Android and iOS](https://blokada.org/)
 
 ## Adblock
 
 - [Pricing - NextDNS](https://nextdns.io/pricing)
 - [Get AdGuard VPN subscription](https://adguard-vpn.com/en/license.html)
-- [Known DNS Providers | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-providers/)
+- [Known DNS Providers - AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-providers/)
 
 ## Testing Result
 
-|Browser|DNS Browser|DNS Router|Adblock|d32ward|adblocktester|tb|
-|---|---|---|---|---|---|---|
-|Slimjet Guest|DoH Adguard|-|No|73%|77/100|y-tp|
-|Slimjet Guest|-|-|No|12%|32/100|y-tsel|
+-Browser-DNS Browser-DNS Router-Adblock-d32ward-adblocktester-tb-
+-----------------------------
+-Slimjet Guest-DoH Adguard---No-73%-77/100-y-tp-
+-Slimjet Guest-----No-12%-32/100-y-tsel-

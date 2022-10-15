@@ -30,7 +30,7 @@ draft: false
 - [This Anime Does Not Exist](https://thisanimedoesnotexist.ai/)
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
 - [This Waifu Does Not Exist v3.5 (TWDNEv3.5) - Gwern](https://www.thiswaifudoesnotexist.net/)
-- [Free UI faces for designers, avatars, dummy faces, AI generated people faces | Lorem Faces](https://loremfaces.com/)
+- [Free UI faces for designers, avatars, dummy faces, AI generated people faces - Lorem Faces](https://loremfaces.com/)
 - [Fakelish](https://fakelish.nwtgck.org/) Fake English Words
 - [ThisPresidentDoesNotExist: Generating Artistic Presidential Portraits using Style-based Adversarial Networks and Transfer Learning: Theory and Implementation in Tensorflow - by Adrian Yijie Xu - GradientCrescent - Medium](https://medium.com/gradientcrescent/this-president-does-not-exist-generating-artistic-portraits-of-donald-trump-using-stylegan-a97a17902dd4)
 - [This Person Does Not Exist](https://thispersondoesnotexist.com/)
@@ -67,18 +67,18 @@ draft: false
 
 - [Waifu Labs - Welcome to Waifu Labs v2: How do AIs Create?](https://waifulabs.com/blog/ai-creativity)
 - [Waifu Labs - Magical Anime Portraits](https://waifulabs.com/)
-- [Danny King: Generative Art | Color Orbs - Overview](https://www.dannyking.uk/artwork/colororbs)
-- [Home | multimodal.art](https://multimodal.art/)
+- [Danny King: Generative Art - Color Orbs - Overview](https://www.dannyking.uk/artwork/colororbs)
+- [Home - multimodal.art](https://multimodal.art/)
 - [Artbreeder](https://artbreeder.com/)
 - [Generative Arts](https://app.wombo.art/)
-- [Art by an AI | A daily prompt competition. Alice the AI generates images of the top 10 winning prompts each day.](https://artbyanai.com/)
+- [Art by an AI - A daily prompt competition. Alice the AI generates images of the top 10 winning prompts each day.](https://artbyanai.com/)
 - [NVIDIA Canvas: Turn Simple Brushstrokes into Realistic Images](https://www.nvidia.com/en-gb/studio/canvas/)
 - [Context Free Art](https://contextfreeart.org/)
 - [Skitching in HTML](http://canonical.org/~kragen/sw/dev3/skitch)
 - [xosh.org/Stochastic-L-System/](http://xosh.org/Stochastic-L-System/)
 - [L-Systems](https://lsystems.raphaelpour.de/)
-- [Tool.Graphics | Mondrian](https://tool.graphics/mondrian)
-- [Tool.Graphics | Suprematism](https://tool.graphics/suprematism)
+- [Tool.Graphics - Mondrian](https://tool.graphics/mondrian)
+- [Tool.Graphics - Suprematism](https://tool.graphics/suprematism)
 - [UJI Generative Arts](https://doersino.github.io/uji/)
 - [Generative arts](https://opinionatedguide.github.io/#/Design/d5-gen)
 - [mxgmn/WaveFunctionCollapse: Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics](https://github.com/mxgmn/WaveFunctionCollapse)
@@ -99,7 +99,7 @@ draft: false
 ## Image Generation Detector
 
 - [AI Generated Image Detector](https://www.galeras.io/)
-- [Deepfake detection by human crowds, machines, and machine-informed crowds | PNAS](https://www.pnas.org/content/119/1/e2110013119)
+- [Deepfake detection by human crowds, machines, and machine-informed crowds - PNAS](https://www.pnas.org/content/119/1/e2110013119)
 
 ## Not Exist
 
@@ -107,11 +107,11 @@ draft: false
 
 ## Not Exist
 
-- [SafeAGI | This AI Does Not Exist](https://thisaidoesnotexist.com/)
+- [SafeAGI - This AI Does Not Exist](https://thisaidoesnotexist.com/)
 - [thesephist/modelexicon: This AI Does Not Exist: generate realistic descriptions of made-up machine learning models.](https://github.com/thesephist/modelexicon)
 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 
 ## Not Exist
 
-- [This Food Does Not Exist 🍪🍰🍣🍹 | stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu/)
+- [This Food Does Not Exist 🍪🍰🍣🍹 - stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu/)
 - [Nyx.gallery - AI-generated photography](https://nyx.gallery/)

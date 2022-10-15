@@ -12,5 +12,5 @@ draft: false
 ## Powerpoint
 
 - [Free PowerPoint Templates Design](https://www.free-powerpoint-templates-design.com/)
-- [SlidesMania | Free Google Slides themes and PowerPoint templates.](https://slidesmania.com/)
+- [SlidesMania - Free Google Slides themes and PowerPoint templates.](https://slidesmania.com/)
 - [SlidesCarnival: Best Free PPT Templates and Google Slides Themes](https://www.slidescarnival.com/)

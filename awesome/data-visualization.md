@@ -44,7 +44,7 @@ Related links:
 
 ## Web Visualization
 
-- [A Visualization Grammar | Vega](https://vega.github.io/vega/)
+- [A Visualization Grammar - Vega](https://vega.github.io/vega/)
 - [Charts.css](https://chartscss.org/)
 - [Chartist - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 - [Altair: Declarative Visualization in Python—Altair 4.1.0 documentation](https://altair-viz.github.io/)
@@ -71,11 +71,11 @@ Related links:
 ## Visualization and Complexity
 
 - [Complexity Explained](https://complexityexplained.github.io/)
-- [Complexity Explorables | Complexity Explorables](https://www.complexity-explorables.org/)
+- [Complexity Explorables - Complexity Explorables](https://www.complexity-explorables.org/)
 
 ## Visualization and Interactive
 
-- [Nodes–a new way to create with code | https://nodes.io](https://nodes.io/)
+- [Nodes–a new way to create with code - https://nodes.io](https://nodes.io/)
 - [cables](https://cables.gl/)
 
 ## Visualization
@@ -86,7 +86,7 @@ Related links:
 
 ## Visualization
 
-- [A High-Level Grammar of Interactive Graphics | Vega-Lite](https://vega.github.io/vega-lite/)
+- [A High-Level Grammar of Interactive Graphics - Vega-Lite](https://vega.github.io/vega-lite/)
 - [nalgeon/dataviz: Data visualization guide for presentations, reports, and dashboards](https://github.com/nalgeon/dataviz) License: CC-BY Source: [IBCS Standards • IBCS - International Business Communication Standards](https://www.ibcs.com/standards/)
 
 ## Visualization
@@ -105,11 +105,11 @@ Related links:
 
 ## Excel Visualization
 
-- [Home | RAWGraphs](https://rawgraphs.io/)
+- [Home - RAWGraphs](https://rawgraphs.io/)
 
 ## Data Visualization
 
-- [Flourish | Data Visualization & Storytelling](https://flourish.studio/)
+- [Flourish - Data Visualization & Storytelling](https://flourish.studio/)
 - [TextFrame](https://textframe.app/)
 
 ## Math Visualization
@@ -165,13 +165,13 @@ Related links:
 
 ## Data Visualization
 
-- [Marple | Data analysis platform for engineering teams](https://www.marpledata.com/)
-- [FlowingData | Data Visualization and Statistics](https://flowingdata.com/)
+- [Marple - Data analysis platform for engineering teams](https://www.marpledata.com/)
+- [FlowingData - Data Visualization and Statistics](https://flowingdata.com/)
 - [Junk Charts](https://junkcharts.typepad.com/junk_charts/)
 - [Home - Jim Vallandingham](https://vallandingham.me/)
 - [Datavisualization.ch](https://datavisualization.ch/)
 - [The Chartmaker Directory](http://chartmaker.visualisingdata.com/)
-- [Data Viz Project | Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
+- [Data Viz Project - Collection of data visualizations to get inspired and finding the right type.](https://datavizproject.com/)
 - [The Data Visualisation Catalogue](https://datavizcatalogue.com/index.html)
 - [Charts](http://visualizationuniverse.com/charts/)
 - [Magic Ink: Information Software and the Graphical Interface](http://worrydream.com/MagicInk/)
@@ -181,10 +181,10 @@ Related links:
 
 ## Online Visualization
 
-- [Pricing | Create charts and maps with Datawrapper](https://www.datawrapper.de/pricing)
-- [Dash Documentation & User Guide | Plotly](https://dash.plotly.com/)
+- [Pricing - Create charts and maps with Datawrapper](https://www.datawrapper.de/pricing)
+- [Dash Documentation & User Guide - Plotly](https://dash.plotly.com/)
 - [Visualizations - datamatic.io](https://datamatic.io/)
-- [Online Chart & Graph Maker| LiveGap](https://charts.livegap.com/#TypesofCharts)
-- [Charts  |  Google Developers](https://developers.google.com/chart/)
+- [Online Chart & Graph Maker- LiveGap](https://charts.livegap.com/#TypesofCharts)
+- [Charts  -  Google Developers](https://developers.google.com/chart/)
 - [Gist - Data becomes knowledge](https://www.gistapp.com/)
 - [RAWGraphs](https://www.rawgraphs.io/)

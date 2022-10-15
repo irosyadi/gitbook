@@ -83,7 +83,7 @@ When `Ti = Inf`, the controller has no derivative action. When `Td = 0`, the con
 Tune PID controllers.  
 Command: `pidTuner` Open PID Tuner for PID tuning.  
 The PID Tuner app automatically tunes the gains of a PID controller for a SISO plant to achieve a balance between performance and robustness.  
-Form—Controller form in PID Tuner: 'Parallel' | 'Standard'. See `pid` and `pidstd`.
+Form—Controller form in PID Tuner: 'Parallel' - 'Standard'. See `pid` and `pidstd`.
 
 ### pidtune
 
@@ -105,7 +105,7 @@ PID tuning algorithm for linear plant model.
 Continuous-time or discrete-time PID controller in Simulink.  
 The PID Controller block implements a PID controller (PID, PI, PD, P only, or I only).
 
-Form—Controller structure: Parallel (default) | Ideal
+Form—Controller structure: Parallel (default) - Ideal
 
 - Parallel. The controller output is the sum of the proportional, integral, and derivative actions, weighted independently by P, I, and D, respectively. For example, for a continuous-time parallel-form PID controller, the transfer function is:
 

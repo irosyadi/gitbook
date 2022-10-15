@@ -99,7 +99,7 @@ draft: false
 
 ## Video Editing
 
-- [Magma Studio: The browser-based art collaboration platform for artists, teams and studios | Magma Studio](https://magmastudio.io/)
+- [Magma Studio: The browser-based art collaboration platform for artists, teams and studios - Magma Studio](https://magmastudio.io/)
 
 ## Video Editor
 

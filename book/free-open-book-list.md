@@ -51,7 +51,7 @@ draft: false
 - [https://devfreebooks.github.io/](https://devfreebooks.github.io/)
 - [https://www.freetechbooks.com/](https://www.freetechbooks.com/)
 - [https://www.onlineprogrammingbooks.com/](https://www.onlineprogrammingbooks.com/)
-- [All books on bookdown.org | Bookdown](https://bookdown.org/home/archive/)
+- [All books on bookdown.org - Bookdown](https://bookdown.org/home/archive/)
 
 And some git repositories :
 

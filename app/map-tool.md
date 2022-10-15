@@ -24,7 +24,7 @@ Related links:
 - [Umap](https://umap.openstreetmap.fr/en/)
 - [Draw Poligon on Map](https://www.keene.edu/campus/maps/tool/)
 - [Create Custom Map - MapChart](https://mapchart.net/)
-- [A new way to make maps with OpenStreetMap | Protomaps](https://protomaps.com/blog/new-way-to-make-maps/) : display and anotating OSM Map in web
+- [A new way to make maps with OpenStreetMap - Protomaps](https://protomaps.com/blog/new-way-to-make-maps/) : display and anotating OSM Map in web
 - [mapschool: a free introduction to geo](https://mapschool.io/) : Map tutorial
 
 ## OSM
@@ -32,7 +32,7 @@ Related links:
 - [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](https://github.com/marceloprates/prettymaps)
 - [gboeing/osmnx: OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.](https://github.com/gboeing/osmnx)
 - [systemed/tilemaker: Make OpenStreetMap vector tiles without the stack](https://github.com/systemed/tilemaker)
-- [tilemaker | DIY vector tiles from OpenStreetMap data](https://tilemaker.org/)
+- [tilemaker - DIY vector tiles from OpenStreetMap data](https://tilemaker.org/)
 - [streetcomplete/StreetComplete: Easy to use OpenStreetMap editor for Android](https://github.com/streetcomplete/StreetComplete)
 - [Vespucci](http://vespucci.io/)
 - [StreetComplete - OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete)

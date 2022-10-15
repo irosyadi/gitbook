@@ -73,7 +73,7 @@ First-principle models may be the answer, using experimental data instead of sta
 
 ## Reference
 
-- [Soft Sensor Modeling Method by Maximizing Output-Related Variable Characteristics Based on a Stacked Autoencoder and Maximal Information Coefficients | Atlantis Press](https://www.atlantis-press.com/journals/ijcis/125917186/view)
+- [Soft Sensor Modeling Method by Maximizing Output-Related Variable Characteristics Based on a Stacked Autoencoder and Maximal Information Coefficients - Atlantis Press](https://www.atlantis-press.com/journals/ijcis/125917186/view)
 - [Soft sensing of product quality in the debutanizer column with principal component analysis and feed-forward artificial neural network - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1110016816000697)
 
 ## Ebook

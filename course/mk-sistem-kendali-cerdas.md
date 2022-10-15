@@ -40,7 +40,7 @@ draft: false
 
 - Liu Jinkun, Intelligent Control Design and MATLAB Simulation \[[website](https://www.springer.com/gp/book/9789811052620#reviews)\] \[[m-file download](https://shi.buaa.edu.cn/liujinkun/zh_CN/jxzy/8049/content/1217.htm#jxzy)\]
 - [Fuzzy and Neural Control by Babuska](https://www.matlabi.ir/wp-content/uploads/bank_papers/c%20paper/c25_www.Matlabi.ir_Fuzzy%20and%20Neural%20Control,%20Robert%20Babuska,%20Lecture%20Notes,%20Delft%20University%20of%20Technology.pdf)
-- [Intelligent Control - A Hybrid Approach Based on Fuzzy Logic, Neural Networks and Genetic Algorithms | Nazmul Siddique | Springer](https://www.springer.com/gp/book/9783319021348)
+- [Intelligent Control - A Hybrid Approach Based on Fuzzy Logic, Neural Networks and Genetic Algorithms - Nazmul Siddique - Springer](https://www.springer.com/gp/book/9783319021348)
 - Himanshu Singh & Yunis Ahmad Lone, Deep Neuro-Fuzzy Systems With Python: With Case Studies and Applications From the Industry \[[website](https://www.apress.com/gp/book/9781484253601)\]\[[python download](https://github.com/Apress/deep-neuro-fuzzy-systems-w-python)\]
 - Hung T. Nguyen & Nadipuram R. Prasad & Carol L. Walker & Elbert A. Walker, A First Course in Fuzzy and Neural Control \[[website](https://www.crcpress.com/A-First-Course-in-Fuzzy-and-Neural-Control/Nguyen-Prasad-Walker-Walker/p/book/9781584882442)\]
 
@@ -68,7 +68,7 @@ draft: false
 
 ### Video Links
 
-- [Neural Network | Online Course | MATLAB Helper - YouTube](https://www.youtube.com/playlist?list=PLmyWlxlLCcz8ct8rKtIO0ESXgEDvh7f5N)
+- [Neural Network - Online Course - MATLAB Helper - YouTube](https://www.youtube.com/playlist?list=PLmyWlxlLCcz8ct8rKtIO0ESXgEDvh7f5N)
 - [Artificial Intelligence Tutorial - YouTube](https://www.youtube.com/playlist?list=PLkmvobsnE0GEeD8ICPS5iwz0GCNhyqSre)
 - [Data-Driven Control with Machine Learning - YouTube](https://www.youtube.com/playlist?list=PLMrJAkhIeNNQkv98vuPjO2X2qJO_UPeWR)
 

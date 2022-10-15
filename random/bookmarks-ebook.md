@@ -13,7 +13,7 @@ draft: false
 
 * [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
-* [Plagiarism Checker | Graduateway](https://graduateway.com/plagiarism-checker/)
+* [Plagiarism Checker - Graduateway](https://graduateway.com/plagiarism-checker/)
 * [Ebookee: Free Download eBooks Search Engine!](https://www.ebookee.com/)
 * [hypertextbook](https://hypertextbook.com/)
 

@@ -22,4 +22,4 @@ draft: false
 ## Fun and Prank
 
 - [Busy Simulator](https://busysimulator.com/)
-- [All Black Screen | Make Your Screen Black](https://allblackscreen.com/)
+- [All Black Screen - Make Your Screen Black](https://allblackscreen.com/)

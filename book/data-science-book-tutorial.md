@@ -57,7 +57,7 @@ draft: false
 - [Data Science Self Learn](https://github.com/ossu/data-science)
 - [Data Science for Psychologists](https://bookdown.org/hneth/ds4psy/)
 - [Introduction to Data Science](https://rafalab.github.io/dsbook/)
-- [Data Science in Julia for Hackers | data_science_in_julia_for_hackers](https://datasciencejuliahackers.com/)
+- [Data Science in Julia for Hackers - data_science_in_julia_for_hackers](https://datasciencejuliahackers.com/)
 
 ## List of Data Science Books
 

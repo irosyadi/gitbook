@@ -22,10 +22,10 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 
 ## GAN Course
 
-- [Deep Learning Specialization | DeepLearning.AI](https://www.deeplearning.ai/program/deep-learning-specialization/)
-- [Machine Learning for Musicians | Berklee](https://college.berklee.edu/courses/mtec-345)
+- [Deep Learning Specialization - DeepLearning.AI](https://www.deeplearning.ai/program/deep-learning-specialization/)
+- [Machine Learning for Musicians - Berklee](https://college.berklee.edu/courses/mtec-345)
 - [MUSIC DATA MINING - a Music Information Retrieval (MIR) Online Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-music-information-retrieval/info)
-- [Arts and Entertainment Technology - Online Course | Kadenze](https://www.kadenze.com/courses/foundations-of-arts-and-entertainment-technologies-i/info)
+- [Arts and Entertainment Technology - Online Course - Kadenze](https://www.kadenze.com/courses/foundations-of-arts-and-entertainment-technologies-i/info)
 - [Introduction to Generative Arts and Computational Creativity - an Online Course at Kadenze](https://www.kadenze.com/courses/generative-art-and-computational-creativity/info)
 - [UAL - Apply Creative Machine Learning - Institute of CodingInstitute of Coding](https://instituteofcoding.org/courses/course/ual-apply-creative-machine-learning/)
 - [Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
@@ -34,7 +34,7 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 ## GAN Project/Paper
 
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
-- [AI Demos | NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
+- [AI Demos - NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
 - [HyperStyle](https://yuval-alaluf.github.io/hyperstyle/) StyleGAN Inversion
 - [Pollinations.AI](https://old.pollinations.ai/)
 

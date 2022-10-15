@@ -41,7 +41,7 @@ draft: false
 
 ## GPT Notes
 
-- [Algpt2 Part 2 | Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
+- [Algpt2 Part 2 - Bilal Khan](https://bkkaggle.github.io/blog/algpt2/2020/07/17/ALGPT2-part-2.html)
 - [bkane1/gpt3-instruct-sandbox: Interactive Jupyter Notebook Environment for using the GPT-3 Instruct API](https://github.com/bkane1/gpt3-instruct-sandbox)
 - [Twitter for Academic Research](https://developer.twitter.com/en/portal/petition/academic/is-it-right-for-you)
 
@@ -52,14 +52,14 @@ draft: false
 # GPT Alternatives
 
 - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/)
-- [Studio | AI21](https://studio.ai21.com/sign-up)
+- [Studio - AI21](https://studio.ai21.com/sign-up)
 - [GPT-3 open-source alternatives: GPT-Neo and GPT-J](https://nlpcloud.io/gpt-3-open-source-alternatives-gpt-j-gpt-neo.html)
 - [textcortex · PyPI](https://pypi.org/project/textcortex/)
 
 ## NLP
 
-- [Real-time Market Map - 180+ GPT-3 Examples, Demos, Apps, Showcase, and NLP Use-cases | GPT-3 Demo](https://gpt3demo.com/map)
+- [Real-time Market Map - 180+ GPT-3 Examples, Demos, Apps, Showcase, and NLP Use-cases - GPT-3 Demo](https://gpt3demo.com/map)
 - [kingoflolz/mesh-transformer-jax: Model parallel transformers in JAX and Haiku](https://github.com/kingoflolz/mesh-transformer-jax) Free GPT-J-6B
-    - [GPT-J “the open source cousin of GPT-3 everyone can use” | Hacker News](https://news.ycombinator.com/item?id=27727009)
+    - [GPT-J “the open source cousin of GPT-3 everyone can use” - Hacker News](https://news.ycombinator.com/item?id=27727009)
     - [Text Synth](https://bellard.org/textsynth/) demo
     - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/) demo

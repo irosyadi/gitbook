@@ -11,14 +11,14 @@ draft: false
 
 ## SVG Generator
 
-- [Vector Pattern Generator | VISIWIG](https://www.visiwig.com/patterns/)
+- [Vector Pattern Generator - VISIWIG](https://www.visiwig.com/patterns/)
 - [SvgPathEditor](https://yqnn.github.io/svg-path-editor/)
-- [SVG Pattern Generator | Create Seamless, Royalty-Free Patterns.](https://doodad.dev/pattern-generator/)
+- [SVG Pattern Generator - Create Seamless, Royalty-Free Patterns.](https://doodad.dev/pattern-generator/)
 
 ## SVG Images
 
 - [Free to use Illustrations by ManyPixels](https://www.manypixels.co/gallery)
-- [Illustrations | unDraw](https://undraw.co/illustrations)
+- [Illustrations - unDraw](https://undraw.co/illustrations)
 - [LogoSear.ch: Instant logo search for SVG logos](https://logosear.ch/search.html?q=indonesia&max=48)
 - [SVG Repo - Free SVG Vectors and Icons](https://www.svgrepo.com/)
 - [SVG Can Do That?](http://slides.com/sdrasner/svg-can-do-that)

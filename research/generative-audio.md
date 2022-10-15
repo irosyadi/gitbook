@@ -30,4 +30,4 @@ draft: false
 - [Generative.fm - Play](https://play.generative.fm/browse)
 - [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)
 - [Tero Parviainen](https://teropa.info/)
-- [Streams | Musico](https://www.musi-co.com/listen/streams)
+- [Streams - Musico](https://www.musi-co.com/listen/streams)

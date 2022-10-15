@@ -22,7 +22,7 @@ draft: false
 - [Publii](https://github.com/GetPublii/Publii) (GPL 3.0) : Publii is a desktop-based CMS for Windows, Mac and Linux that makes creating static websites fast and hassle-free, even for beginners.
 - [Susty](https://github.com/jacklenox/susty) (GPL 2.0) : A tiny WordPress theme focused on being as sustainable as possible. Just 6 KB of data transfer.
 - [Docsy](https://www.docsy.dev/) Hugo
-    - [Examples | Docsy](https://www.docsy.dev/docs/examples/)
+    - [Examples - Docsy](https://www.docsy.dev/docs/examples/)
 - [Cloudflare Pages](https://developers.cloudflare.com/pages/)
 - [Static Generator Comparison](https://css-tricks.com/comparing-static-site-generator-build-times/)
 - [SSG Comparison](https://www.ionos.com/digitalguide/websites/website-creation/the-best-static-site-generators/)
@@ -41,7 +41,7 @@ draft: false
 
 ## Jekyll Theme
 
-- [Home | Just the Docs](https://just-the-docs.github.io/just-the-docs/)
+- [Home - Just the Docs](https://just-the-docs.github.io/just-the-docs/)
 - [Docsy Jekyll Theme](https://vsoch.github.io/docsy-jekyll/)
 
 ## Static

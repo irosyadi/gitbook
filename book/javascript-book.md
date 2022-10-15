@@ -14,7 +14,7 @@ draft: false
 * [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/?ref=java5cript.com) License: CC-BY-NC-ND
 * [JavaScript for impatient programmers (ES2020 edition)](https://exploringjs.com/impatient-js/toc.html)
 * [Eloquent JavaScript](https://eloquentjavascript.net/?ref=java5cript.com) License: CC-BY-NC
-* [Introduction | Human JavaScript](https://read.humanjavascript.com/?ref=java5cript.com)
+* [Introduction - Human JavaScript](https://read.humanjavascript.com/?ref=java5cript.com)
 
 ## Javascript Course
 
@@ -22,4 +22,4 @@ draft: false
 
 ## Javascript Learning Resources
 
-* [Free JavaScript Websites | Java5cript.com - Learn JavaScript for free](https://www.java5cript.com/websites)
+* [Free JavaScript Websites - Java5cript.com - Learn JavaScript for free](https://www.java5cript.com/websites)

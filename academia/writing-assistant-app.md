@@ -163,7 +163,7 @@ Related links:
 - [Writer - Content Editor](https://app.writer.com/organization/263466/team/269958/document/3709137?hideTrialBanner=true)
 - [Sapling](https://sapling.ai/user_setup)
 - [Compose AI: Automate Your Writing](https://www.compose.ai/)
-- [how to write well - You.com | The search engine you control.](https://you.com/search?q=how%20to%20write%20well)
+- [how to write well - You.com - The search engine you control.](https://you.com/search?q=how%20to%20write%20well)
 
 ## Writing Tips
 
@@ -187,14 +187,14 @@ Related links:
 - [OZDIC.COM - English collocation dictionary](https://ozdic.com/). online English collocations dictionary which helps you to find words that often appear together and gives you an idea of how the words are used. free
 - [Academic Phrasebank for Academic Writers, Students and Researchers](https://www.trinka.ai/academic-phrasebank) Freemium
 - [WriteBetter–A linguistic search engine](https://writebetter.io/) Free
-- [Academic Phrasebank | The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
+- [Academic Phrasebank - The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
 ## Self-publishing Book
 
-- [So you want to self-publish books and courses on programming | CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
+- [So you want to self-publish books and courses on programming - CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
 - [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/)
-- [Why books donʼt work | Andy Matuschak](https://andymatuschak.org/books/)
+- [Why books donʼt work - Andy Matuschak](https://andymatuschak.org/books/)
 - [Writing a Technical Book • AndreGarzia.com](https://andregarzia.com/2021/04/writing-a-technical-book.html)
 - [Little Webby Press](https://little.webby.press/) Web Platform for Writing Publishing Book
 - [Writing a Programming Book in 2021–JM Tirado](https://jmtirado.net/writing-a-programming-book-in-2021/)
@@ -215,7 +215,7 @@ Related links:
 - [NLP Cloud Playground](https://nlpcloud.com/home/playground/language-detection)
 - [Playground](https://textsynth.com/playground.html)
 - [EleutherAI - text generation testing UI](https://6b.eleuther.ai/)
-- [GPT-J | Playgrounds | Play with AI, completely free](https://playgrounds.ai/models/gpt-j)
-- [Free GPT-J Playground | Forefront](https://playground.helloforefront.com/models/free-gpt-j-playground)
+- [GPT-J - Playgrounds - Play with AI, completely free](https://playgrounds.ai/models/gpt-j)
+- [Free GPT-J Playground - Forefront](https://playground.helloforefront.com/models/free-gpt-j-playground)
 - [Write With Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
 - [Write With Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)

@@ -17,7 +17,7 @@ draft: false
 * [Welcome to Spinning Up in Deep RL!—Spinning Up documentation](https://spinningup.openai.com/en/latest/)
 * [seungeunrho/minimalRL: Implementations of basic RL algorithms with minimal lines of codes! (pytorch based)](https://github.com/seungeunrho/minimalRL)
 * [Introduction to Reinforcement Learning with David Silver](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
-* [The Fast Deep RL Course | Dibya's School](https://courses.dibya.online/p/fastdeeprl)
+* [The Fast Deep RL Course - Dibya's School](https://courses.dibya.online/p/fastdeeprl)
 
 # Algorithm
 

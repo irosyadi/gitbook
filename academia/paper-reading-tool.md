@@ -22,5 +22,5 @@ draft: false
 
 ## PDF-related Paper/Article Tools
 
-- [Paper to HTML | Allen Institute for AI](https://papertohtml.org/) pdf to html
+- [Paper to HTML - Allen Institute for AI](https://papertohtml.org/) pdf to html
 - [belinghy/PDFRefPreview: Preview citations and other internal links in PDFs on mouse hover in the browser.](https://github.com/belinghy/PDFRefPreview)

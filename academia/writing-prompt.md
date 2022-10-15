@@ -13,7 +13,7 @@ tags: ["writing"]
 * [Creative Writing Exercises](http://www.languageisavirus.com/creative-writing-exercises/index.php#.WGVcc_krLcs)
 * [Post on Language is a Virus](http://www.languageisavirus.com/post.php#.WGVcf_krLcs)
 * [Cure writer's block with writing prompts, exercises, generators & gizmos](http://www.languageisavirus.com/index.php)
-* [Quill.org | Interactive Writing and Grammar](https://www.quill.org/)
+* [Quill.org - Interactive Writing and Grammar](https://www.quill.org/)
 * [Brevity 500](https://brevity500.com/)
 * [Storium](https://storium.com/)
 

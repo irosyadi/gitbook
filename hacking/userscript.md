@@ -9,7 +9,7 @@ draft: false
 
 # Userscript
 
-- [Home | Userscript.Zone](https://www.userscript.zone/)
+- [Home - Userscript.Zone](https://www.userscript.zone/)
 
 ## Userscripts
 

@@ -13,15 +13,15 @@ draft: false
 
 - [ImprovMX—Free email forwarding. Email aliases for your domain name.](https://improvmx.com/)
 - [https://m8l.me](https://m8l.me/)
-- [The Best Free Email Forwarding Service for Custom Domains | Forward Email](https://forwardemail.net/en)
-- [Cheap email for everyone | Purelymail](https://purelymail.com/)
+- [The Best Free Email Forwarding Service for Custom Domains - Forward Email](https://forwardemail.net/en)
+- [Cheap email for everyone - Purelymail](https://purelymail.com/)
 
 But be careful with spam management.
 
 ## Email Alias
 
 - [Free, Open-source Anonymous Email Forwarding - AnonAddy](https://anonaddy.com/)
-- [SimpleLogin | Open-source email alias solution](https://simplelogin.io/)
+- [SimpleLogin - Open-source email alias solution](https://simplelogin.io/)
 
 ## eMail Masking
 
@@ -32,8 +32,8 @@ But be careful with spam management.
 
 ## Temporary Mail
 
-- [DuckDuckGo Email | Frequently asked questions](https://duckduckgo.com/email/faq)
-- [(5) hello@minimail.eu.org | MiniMail - Free Disposable Email Address](https://minimail.eu.org/hello@minimail.eu.org)
+- [DuckDuckGo Email - Frequently asked questions](https://duckduckgo.com/email/faq)
+- [(5) hello@minimail.eu.org - MiniMail - Free Disposable Email Address](https://minimail.eu.org/hello@minimail.eu.org)
 
 ## Mail Forwarding
 

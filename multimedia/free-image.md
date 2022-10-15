@@ -21,7 +21,7 @@ draft: false
 - [Webpixels](https://webpixels.io/illustrations)
 - [Pixeltrue](https://www.pixeltrue.com/frontliner-heroes)
 - [Artify](https://www.artify.co/illustrations/)
-- [Free SVG Image & Icon. | SVG Silh](https://svgsilh.com/)
+- [Free SVG Image & Icon. - SVG Silh](https://svgsilh.com/)
 
 ## Free Image
 
@@ -37,7 +37,7 @@ draft: false
 - [Alamy–Stock Photos, Stock Images & Vectors](https://www.alamy.com/)
 - [Artvee](https://artvee.com/)
 - [illlustrations - open source illustrations kit](https://illlustrations.co/)
-- [Free to Use Clip Art Images & Vector Illustrations | ManyPixels](https://www.manypixels.co/gallery)
+- [Free to Use Clip Art Images & Vector Illustrations - ManyPixels](https://www.manypixels.co/gallery)
 - [Free Illustrations Vector Commercial Use - SVG Illustrations](https://lukaszadam.com/illustrations)
 
 ## Free Random Image
@@ -64,7 +64,7 @@ draft: false
 
 ## Free Image Search
 
-- [Openly Licensed Images, Audio and More | Openverse](https://wordpress.org/openverse/)
+- [Openly Licensed Images, Audio and More - Openverse](https://wordpress.org/openverse/)
 - [Search Can We Image](https://canweimage.com/)
 
 ## Free Images

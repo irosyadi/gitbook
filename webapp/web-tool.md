@@ -48,7 +48,7 @@ draft: false
 ## Web Tools
 
 - [Core Web Tools](https://www.corewebtools.com/)
-- [All Online Tools in One Box | 10015 Tools](https://10015.io/)
+- [All Online Tools in One Box - 10015 Tools](https://10015.io/)
 
 ## WebTools
 
@@ -62,7 +62,7 @@ draft: false
 ## Useful Web
 
 - [Excel AI Formula Generator - Excelformulabot.com](https://excelformulabot.com/) Excel formula generator
-- [Scribe | Visual step-by-step guides](https://scribehow.com/) Web automation
+- [Scribe - Visual step-by-step guides](https://scribehow.com/) Web automation
 - [Mixkit - Awesome free assets for your next video project](https://mixkit.co/) Video editor free assets
 - [Gamma](https://gamma.app/) alternative to powerpoint
 - [WeTransfer - Send Large Files & Share Photos Online - Up to 2GB Free](https://wetransfer.com/) transfer large files

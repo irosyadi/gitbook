@@ -11,9 +11,9 @@ draft: false
 
 ## Fault Detection in Motor Dataset
 
-- [The motor fault daignosis experiment dataset | Zenodo](https://zenodo.org/record/3553755)
-- [Machinery Fault Dataset | Kaggle](https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset)
-- [Experimental database for detecting and diagnosing rotor broken bar in a three-phase induction motor. | IEEE DataPort](https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction)
+- [The motor fault daignosis experiment dataset - Zenodo](https://zenodo.org/record/3553755)
+- [Machinery Fault Dataset - Kaggle](https://www.kaggle.com/datasets/uysalserkan/fault-induction-motor-dataset)
+- [Experimental database for detecting and diagnosing rotor broken bar in a three-phase induction motor. - IEEE DataPort](https://ieee-dataport.org/open-access/experimental-database-detecting-and-diagnosing-rotor-broken-bar-three-phase-induction)
 - [milank94/motor-fault-classification: The following is a machine learning project to classify induction motor fault modes.](https://github.com/milank94/motor-fault-classification)
 - [mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning: This is a induction motor faults detection project implemented with Tensorflow. We use Stacking Ensembles method (with Random Forest, Support Vector Machine, Deep Neural Network and Logistic Regression) and Machinery Fault Dataset dataset available on kaggle.](https://github.com/mo26-web/Induction-Motor-Faults-Detection-with-Stacking-Ensemble-Method-and-Deep-Learning)
 

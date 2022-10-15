@@ -10,7 +10,7 @@ draft: false
 # VPN and Wireguard
 
 - [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
-- [Netmaker | Modern Virtual Networking](https://www.netmaker.org/)
+- [Netmaker - Modern Virtual Networking](https://www.netmaker.org/)
 - [ZeroTier–Global Area Networking](https://www.zerotier.com/)
 - [NetBird - Zero configuration VPN for fast-moving teams](https://netbird.io/)
 - [Defined Networking](https://www.defined.net/)

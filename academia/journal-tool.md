@@ -60,7 +60,7 @@ Related links:
 - [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) OpenDOAR is the quality-assured, global Directory of Open Access Repositories.
 - [Journal Finder](https://thejournalfinder.com/): Journal, Publisher, Index, SJR Rank, Q, Country, Acceptance Rate, Time To Decicion, APC.
 - [Scimago Journal & Country Rank](https://www.scimagojr.com/)
-- [Find journals | Elsevier® JournalFinder](https://journalfinder.elsevier.com/)
+- [Find journals - Elsevier® JournalFinder](https://journalfinder.elsevier.com/)
 - [Internet Archive Scholar](https://scholar.archive.org/) Scholar Archive
 
 ## Journal Keyword Alert and RSS
@@ -81,7 +81,7 @@ Related links:
 - [SAGE Journals: Your gateway to world-class research journals](https://journals.sagepub.com/)
 - [PLOS ONE: accelerating the publication of peer-reviewed science](https://journals.plos.org/plosone/)
 - [Data in Brief - Journal - Elsevier](https://www.journals.elsevier.com/data-in-brief)
-- [Heliyon | Journal | ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/heliyon)
+- [Heliyon - Journal - ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/heliyon)
 
 ## Journal Notes
 

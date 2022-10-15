@@ -16,7 +16,7 @@ draft: false
 ## Object Detection and Segmentation
 
 - [facebookresearch/detectron2: Detectron2 is FAIR's next-generation platform for object detection and segmentation.](https://github.com/facebookresearch/detectron2)
-- [Speed up your image segmentation workflow with model-assisted labeling | Segments](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling)
+- [Speed up your image segmentation workflow with model-assisted labeling - Segments](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling)
 - [Image segmentation with a U-Net-like architecture](https://keras.io/examples/vision/oxford_pets_image_segmentation/)
 
 ## In-Browser Pose Identification
@@ -27,10 +27,10 @@ draft: false
 
 ## Rooftop Detection Machine Learning
 
-- [Improved Rooftop Detection in Aerial Images with Machine Learning | SpringerLink](https://link.springer.com/article/10.1023/A:1025623527461)
+- [Improved Rooftop Detection in Aerial Images with Machine Learning - SpringerLink](https://link.springer.com/article/10.1023/A:1025623527461)
 - [Novel Approach for Rooftop Detection Using Support Vector Machine](https://www.hindawi.com/journals/isrn/2013/819768/)
 - [Deep-learning: Rooftop type detection with Keras and TensorFlow–fractalytics](https://fractalytics.io/rooftop-detection-with-keras-tensorflow)
-- [Increasing Solar adoption in the developing world through Machine Learning image segmentation | by Rudradeb Mitra | Towards Data Science](https://towardsdatascience.com/using-image-segmentation-to-identify-rooftops-in-low-resolution-satellite-images-c791975d91cc)
+- [Increasing Solar adoption in the developing world through Machine Learning image segmentation - by Rudradeb Mitra - Towards Data Science](https://towardsdatascience.com/using-image-segmentation-to-identify-rooftops-in-low-resolution-satellite-images-c791975d91cc)
 
 ## Hand Detection and Hand Tracking
 
@@ -55,10 +55,10 @@ draft: false
 - [TensorFlow.js: Make a smart webcam in JavaScript with a pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0)
 - [ModelDepot/tfjs-yolo-tiny: In-Browser Object Detection using Tiny YOLO on Tensorflow.js](https://github.com/ModelDepot/tfjs-yolo-tiny)
 - [In-Browser object detection using YOLO and TensorFlow.js - Questions - Community - Synthiam](https://synthiam.com/Community/Questions/In-Browser-object-detection-using-YOLO-and-TensorFlow-js-19178)
-- [Build a Realtime Object Detection Web App in 30 Minutes | by Erdem Isbilen | Towards Data Science](https://towardsdatascience.com/build-a-realtime-object-detection-web-app-in-30-minutes-7ad0cb2231fb)
+- [Build a Realtime Object Detection Web App in 30 Minutes - by Erdem Isbilen - Towards Data Science](https://towardsdatascience.com/build-a-realtime-object-detection-web-app-in-30-minutes-7ad0cb2231fb)
     - [Demos](https://tfjs-objectdetection.firebaseapp.com/)
     - [Github](https://github.com/eisbilen/TFJS-ObjectDetection)
-- [Build Custom Object Detection Web Application Using TensorFlow.js | by Kosta Malsev | The Startup | Jan, 2021 | Medium](https://medium.com/swlh/build-custom-object-detection-web-application-using-tensorflow-js-d1664f96a18b)
+- [Build Custom Object Detection Web Application Using TensorFlow.js - by Kosta Malsev - The Startup - Jan, 2021 - Medium](https://medium.com/swlh/build-custom-object-detection-web-application-using-tensorflow-js-d1664f96a18b)
 - [🤖 Object Detection using Tensorflow.js - Tutorial](https://nanonets.com/blog/object-detection-tensorflow-js/)
     - [Demos](https://nanonets.com/object-detection-with-tensorflowjs-demo/)
 - [Custom object detection in the browser using TensorFlow.js—The TensorFlow Blog](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
@@ -66,7 +66,7 @@ draft: false
 ## YOLO
 
 - [Object Detection and Image Classification with YOLO - KDnuggets](https://www.kdnuggets.com/2018/09/object-detection-image-classification-yolo.html) : YOLO is based on regression not classification
-- [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3 | by Jonathan Hui | Medium](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
+- [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3 - by Jonathan Hui - Medium](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)
 - [WangMian-Maker/Flask](https://github.com/WangMian-Maker/Flask)
 - [LeonLok/Multi-Camera-Live-Object-Tracking: Multi-camera live traffic and object counting with YOLO v4, Deep SORT, and Flask.](https://github.com/LeonLok/Multi-Camera-Live-Object-Tracking)
 - [burningion/poor-mans-deep-learning-camera: Build a thin client deep learning camera with the Raspberry Pi, Flask, and YOLO](https://github.com/burningion/poor-mans-deep-learning-camera)
@@ -78,8 +78,8 @@ draft: false
 - [Turning Machine Learning Models into APIs - DataCamp](https://www.datacamp.com/community/tutorials/machine-learning-models-api-python)
 - [Deploy Machine Learning Model using Flask - GeeksforGeeks](https://www.geeksforgeeks.org/deploy-machine-learning-model-using-flask/)
 - [Deployment of Machine learning models using Flask - KDnuggets](https://www.kdnuggets.com/2019/12/excelr-deployment-machine-learning-flask.html)
-- [Tutorial: Deploying a machine learning model to the web | by Cambridge Spark | Cambridge Spark](https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7)
-- [Python Machine Learning and Predicting With Flask | Toptal](https://www.toptal.com/python/python-machine-learning-flask-example)
+- [Tutorial: Deploying a machine learning model to the web - by Cambridge Spark - Cambridge Spark](https://blog.cambridgespark.com/deploying-a-machine-learning-model-to-the-web-725688b851c7)
+- [Python Machine Learning and Predicting With Flask - Toptal](https://www.toptal.com/python/python-machine-learning-flask-example)
 
 There are a few different algorithms for object detection and they can be split into two groups:  
 
@@ -90,4 +90,4 @@ YOLO metrics:
 
 - [whynotw/YOLO_metric: Calculate mean Average Precision (mAP) and confusion matrix for object detection models. Bounding box information for groundtruth and prediction is YOLO training dataset format.](https://github.com/whynotw/YOLO_metric)
 - [rafaelpadilla/review_object_detection_metrics: Review on Object Detection Metrics: 14 object detection metrics including COCO's and PASCAL's metrics. Supporting different bounding box formats.](https://github.com/rafaelpadilla/review_object_detection_metrics)
-- [Evaluating Object Detection Models: Guide to Performance Metrics | Manal El Aidouni](https://manalelaidouni.github.io/Evaluating-Object-Detection-Models-Guide-to-Performance-Metrics.html)
+- [Evaluating Object Detection Models: Guide to Performance Metrics - Manal El Aidouni](https://manalelaidouni.github.io/Evaluating-Object-Detection-Models-Guide-to-Performance-Metrics.html)

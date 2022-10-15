@@ -73,7 +73,7 @@ draft: false
 - `taskkill`
 - `getmac`
 - `systeminfo`
-- `FOR /L %i IN (1,1,254) DO ping -n 1 192.168.10.%i | FIND /i "Reply">>c:\ipaddresses.txt`
+- `FOR /L %i IN (1,1,254) DO ping -n 1 192.168.10.%i - FIND /i "Reply">>c:\ipaddresses.txt`
 
 ## Windows Hotkey
 
@@ -81,8 +81,9 @@ draft: false
 
 ## Windows Automation
 
-- [Power Automate Desktop | Microsoft Power Automate](https://flow.microsoft.com/en-us/desktop/)
+- [Power Automate Desktop - Microsoft Power Automate](https://flow.microsoft.com/en-us/desktop/)
 
 ## Windows App
 
 - [jordansissel/keynav: retire your mouse.](https://github.com/jordansissel/keynav)
+-

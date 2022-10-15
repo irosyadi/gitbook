@@ -18,18 +18,18 @@ draft: false
 * [DomainsBot - Tools, Data and Insights for your domain business](https://domainsbot.com/)
 * [Domainling](https://domainling.com/)
 * [Domain Name Generator (Instant Ideas, no Ads) - DomainWheel](https://domainwheel.com/)
-* [Fast Domain Name Search | namegrep](https://namegrep.com/)
+* [Fast Domain Name Search - namegrep](https://namegrep.com/)
 * [Wordoid: Get a Short and Catchy Name for Your Business](https://wordoid.com/)
-* [Compare Prices of All Top-Level Domains | TLD List](https://tld-list.com/)
+* [Compare Prices of All Top-Level Domains - TLD List](https://tld-list.com/)
 
 # Domain Name Search
 
-* [Domain Name Search | Instant Availability Check | TLD List | Price Comparison](https://domain.garden/)
+* [Domain Name Search - Instant Availability Check - TLD List - Price Comparison](https://domain.garden/)
 
 # Domain Name Generator
 
 * [Domain Name Generator](https://instantdomainsearch.com/domain/generator?q=book)
-* [Domain Name Search | Instant Availability Check | TLD List | Price Comparison](https://domain.garden/)
+* [Domain Name Search - Instant Availability Check - TLD List - Price Comparison](https://domain.garden/)
 * [Mashword - Name Generator](https://mashword.com/search?words=digital%20twin&tld=com)
 * [Wuzmo - Creative Names For New Projects](https://wuzmo.com/)
 
@@ -47,7 +47,7 @@ draft: false
 # Domain Check Tools
 
 * [Domfetch](https://domfetch.com/)
-* [Expired Domains | Daily Updated Domain Lists for 493 TLDs](https://www.expireddomains.net/)
+* [Expired Domains - Daily Updated Domain Lists for 493 TLDs](https://www.expireddomains.net/)
 
 # TLD
 

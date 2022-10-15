@@ -19,9 +19,9 @@ draft: false
 - [NCOV China](http://ncov-ai.big.ac.cn/download)
 - [haydengunraj/COVIDNet-CT: COVID-Net Open Source Initiative - Models and Data for COVID-19 Detection in Chest CT](https://github.com/haydengunraj/COVIDNet-CT)
     - [DAtaset](https://www.kaggle.com/hgunraj/covidxct) : three categories (Covid, Control, Pneunomia)
-- [COVID-19 CT Lung and Infection Segmentation Dataset | Zenodo](https://zenodo.org/record/3757476#.X62Iw2hKiUk)
-- [Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets | Nature Communications](https://www.nature.com/articles/s41467-020-17971-2)
-    - [Clara Deploy AI COVID-19 Classification | NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:clara:ai-covid-19): two categories (Covid, Normal)
+- [COVID-19 CT Lung and Infection Segmentation Dataset - Zenodo](https://zenodo.org/record/3757476#.X62Iw2hKiUk)
+- [Artificial intelligence for the detection of COVID-19 pneumonia on chest CT using multinational datasets - Nature Communications](https://www.nature.com/articles/s41467-020-17971-2)
+    - [Clara Deploy AI COVID-19 Classification - NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:clara:ai-covid-19): two categories (Covid, Normal)
 - [LIDC-IDRI - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
 
 ## Notes

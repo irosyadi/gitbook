@@ -33,7 +33,7 @@ draft: false
 * [My Creations - NightCafe Creator](https://creator.nightcafe.studio/my-creations)
 * [DALL·E](https://labs.openai.com/)
 * [Astraea - Tailor-made AI image generation](https://www.strmr.com/tunes)
-* [Art AI Generator | ImageAI App](https://imageai.app/art-ai-generator/)
+* [Art AI Generator - ImageAI App](https://imageai.app/art-ai-generator/)
 
 ## Text to Image
 

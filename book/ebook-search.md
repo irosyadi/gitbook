@@ -24,7 +24,7 @@ draft: false
 ## Alternative
 
 - [Write A Book And Publish - PDF Free Download - EPDF.TIPS](https://epdf.tips/en/)
-- [FreeBookSpot | Download e-books for free](http://www.freebookspot.club/default.aspx)
+- [FreeBookSpot - Download e-books for free](http://www.freebookspot.club/default.aspx)
 - [Ebooks Searcher, a meta-search engine for ebooks !](https://recherche-ebook.fr/en/)
 - [Free eBooks Download - ebook3000.com](http://ebook3000.com/)
 - [Imperial Library of Trantor](https://trantor.is/)

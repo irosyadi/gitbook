@@ -46,4 +46,4 @@ draft: false
 
 ## Machine Learning Review
 
-- [Best deep CNN architectures and their principles: from AlexNet to EfficientNet | AI Summer](https://theaisummer.com/cnn-architectures/)
+- [Best deep CNN architectures and their principles: from AlexNet to EfficientNet - AI Summer](https://theaisummer.com/cnn-architectures/)

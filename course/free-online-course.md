@@ -43,13 +43,13 @@ draft: false
 ## Deep Learning Course
 
 - [DeepCourse](https://arthurdouillard.com/deepcourse/)
-- [Deep Learning by deeplearning.ai | Coursera](https://www.coursera.org/specializations/deep-learning)
+- [Deep Learning by deeplearning.ai - Coursera](https://www.coursera.org/specializations/deep-learning)
 - [Yann LeCun’s Deep Learning Course at CDS–NYU Center for Data Science](https://cds.nyu.edu/deep-learning/)
 - [briandalessandro/DataScienceCourse: This holds iPython notebooks and lecture slides for the Intro to Data Science Master's course I teach at NYU.](https://github.com/briandalessandro/DataScienceCourse)
 
 ## Time Series Course
 
-- [Welcome to STAT 510! | STAT 510](https://online.stat.psu.edu/stat510/)
+- [Welcome to STAT 510! - STAT 510](https://online.stat.psu.edu/stat510/)
 
 ## Machine Learning Course
 
@@ -68,7 +68,7 @@ draft: false
 
 - [ML 2021 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2021-spring.html) [ML 2020 Spring](https://speech.ee.ntu.edu.tw/~hylee/ml/2020-spring.html) [Introduction—Learning Machine](https://rentruewang.github.io/learning-machine/intro.html) [rentruewang/learning-machine: A handbook for machine learning](https://github.com/rentruewang/learning-machine) License: GPL
 - [Best tutorials, courses, and blog posts](https://tutobase.com/)
-- [Learn | AI Campus](https://ki-campus.org/overview)  
+- [Learn - AI Campus](https://ki-campus.org/overview)  
 ![](https://teddit.net/pics/w:null_iB9q4pekrmxkPbOn_I_ImNveW0FWcWu9_lZYR0miQ1M.jpg)
 
 ## Course
@@ -81,7 +81,7 @@ draft: false
 
 ## Machine Learning
 
-- [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course/)
+- [Machine Learning Crash Course  -  Google Developers](https://developers.google.com/machine-learning/crash-course/)
 - [MLOps Course - Made With ML](https://madewithml.com/) License MIT
 
 ## Course
@@ -96,11 +96,11 @@ draft: false
 
 ## Course
 
-- [MIT Open Learning Library | Open Learning](https://openlearning.mit.edu/courses-programs/open-learning-library) License: CC-BY-NC-SA
+- [MIT Open Learning Library - Open Learning](https://openlearning.mit.edu/courses-programs/open-learning-library) License: CC-BY-NC-SA
 
 ## Course
 
-- [MIT 6.874/6.802/20.390/20.490/HST.506: Computational Systems Biology: Deep Learning in the Life Sciences | Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLUgbVHjDhargXdgtc1ZcJb2lz20msuBfS)
+- [MIT 6.874/6.802/20.390/20.490/HST.506: Computational Systems Biology: Deep Learning in the Life Sciences - Spring 2021 - YouTube](https://www.youtube.com/playlist?list=PLUgbVHjDhargXdgtc1ZcJb2lz20msuBfS)
 
 ## Programming Course
 
@@ -112,7 +112,7 @@ draft: false
 - [SEE Standford CS 229](https://see.stanford.edu/Course/CS229) CC-BY-NC
 - [aidysft](https://sites.google.com/site/aidysft/)
 - [Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/) : Public Domain
-- [Deep learning courses at UC Berkeley | berkeley-deep-learning.github.io](https://berkeley-deep-learning.github.io/)
+- [Deep learning courses at UC Berkeley - berkeley-deep-learning.github.io](https://berkeley-deep-learning.github.io/)
 - [CS 189/289A: Introduction to Machine Learning](https://people.eecs.berkeley.edu/~jrs/189/)
     - [Canvas LMS](https://bcourses.berkeley.edu/courses/1503419)
     - [Vojta Molda / berkeley-cs189-introduction-to-ml · GitLab](https://gitlab.com/vojtamolda/berkeley-cs189-introduction-to-ml)
@@ -134,7 +134,7 @@ draft: false
 ## Machine Learning Course
 
 - [microsoft/ML-For-Beginners: 12 weeks, 24 lessons, classic Machine Learning for all](https://github.com/microsoft/ML-For-Beginners) License: MIT
-- [Machine Learning Crash Course  |  Google Developers](https://developers.google.com/machine-learning/crash-course)
+- [Machine Learning Crash Course  -  Google Developers](https://developers.google.com/machine-learning/crash-course)
 - [Machine Learning University](https://aws.amazon.com/machine-learning/mlu/)
 
 ## Open Course
@@ -147,12 +147,12 @@ draft: false
 
 ## Course
 
-- [CS 329S | Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
+- [CS 329S - Machine Learning Systems Design](https://stanford-cs329s.github.io/index.html)
 - [CS230 Deep Learning](https://cs230.stanford.edu/)
 
 ## Course
 
-- [Lesson Directory | Programming Historian](https://programminghistorian.org/en/lessons/) Digital Tools for Humanity, License: CC-BY
+- [Lesson Directory - Programming Historian](https://programminghistorian.org/en/lessons/) Digital Tools for Humanity, License: CC-BY
 
 ## Course
 
@@ -203,4 +203,4 @@ draft: false
 
 [Introduction to Reinforcement Learning with David Silver](https://deepmind.com/learning-resources/-introduction-reinforcement-learning-david-silver) ([deepmind.com](https://news.ycombinator.com/from?site=deepmind.com))
 
-- [Natural Language Processing (NLP) for Semantic Search | Pinecone](https://www.pinecone.io/learn/nlp/)
+- [Natural Language Processing (NLP) for Semantic Search - Pinecone](https://www.pinecone.io/learn/nlp/)

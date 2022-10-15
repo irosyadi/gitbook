@@ -50,7 +50,7 @@ category: book
 
 ## eBook
 
-- [Introduction | The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
+- [Introduction - The Mathematical Engineering of Deep Learning](https://deeplearningmath.org/)
 - [Full Stack Deep Learning - Full Stack Deep Learning](https://fall2019.fullstackdeeplearning.com/)
 - [Dive into Deep Learning—Dive into Deep Learning 0.16.1 documentation](http://d2l.ai/index.html)
 
@@ -131,4 +131,4 @@ category: book
 
 ## Machine Learning: Blog
 
-- [Rahmadya Trias Handayanto | "Just for a little kindness"](https://rahmadya.com/)
+- [Rahmadya Trias Handayanto - "Just for a little kindness"](https://rahmadya.com/)

@@ -36,7 +36,7 @@ Related links:
 - [Mathpix Snip](https://mathpix.com/) : free for 50 snip/month
 - [Scribble My Science : We generate LaTeX from your images](https://scribblemyscience.com/index) : free
 - [i2OCR - Free Online Math Equation OCR](https://www.i2ocr.com/free-online-math-equation-ocr)
-- [Online JPG to TEX Converter | Free GroupDocs Apps](https://products.groupdocs.app/conversion/jpg-to-tex)
+- [Online JPG to TEX Converter - Free GroupDocs Apps](https://products.groupdocs.app/conversion/jpg-to-tex)
 - [lukas-blecher/LaTeX-OCR: pix2tex: Using a ViT to convert images of equations into LaTeX code.](https://github.com/lukas-blecher/LaTeX-OCR)
 - [yixuanzhou/image2latex: A tool to convert math equation images to LaTeX markup](https://github.com/yixuanzhou/image2latex)
 

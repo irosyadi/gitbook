@@ -84,15 +84,15 @@ draft: false
 
 ## Open Course
 
-- [Open Course from Lumen | Lumen Learning](https://lumenlearning.com/courses/), example:
-    - [College Success | Simple Book Production](https://courses.lumenlearning.com/lumencollegesuccessxtraining3/)
-    - [Mathematics for the Liberal Arts | Simple Book Production](https://courses.lumenlearning.com/waymakermath4libarts/)
-    - [Concepts in Statistics | Simple Book Publishing](https://courses.lumenlearning.com/wm-concepts-statistics/?utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
+- [Open Course from Lumen - Lumen Learning](https://lumenlearning.com/courses/), example:
+    - [College Success - Simple Book Production](https://courses.lumenlearning.com/lumencollegesuccessxtraining3/)
+    - [Mathematics for the Liberal Arts - Simple Book Production](https://courses.lumenlearning.com/waymakermath4libarts/)
+    - [Concepts in Statistics - Simple Book Publishing](https://courses.lumenlearning.com/wm-concepts-statistics/?utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
     - [Lumen OHM - Introduction to Statistics - Lumen Learning](https://ohm.lumenlearning.com/course/course.php?cid=6504&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
     - [Lumen OHM - Statistics Using Technology - Kozak](https://ohm.lumenlearning.com/course/course.php?cid=5783&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
     - [Lumen OHM - Beginning Algebra - Lumen Learning](https://ohm.lumenlearning.com/course/course.php?cid=12328&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
     - [Lumen OHM - Beginning and Intermediate Algebra (Sections) - Wallace](https://ohm.lumenlearning.com/course/course.php?cid=558&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
-    - [Boundless Physics | Simple Book Publishing](https://courses.lumenlearning.com/boundless-physics/)
+    - [Boundless Physics - Simple Book Publishing](https://courses.lumenlearning.com/boundless-physics/)
 
 ## Free eBook 2020
 
@@ -118,7 +118,7 @@ draft: false
 - [Introduction to Tensor Calculus](https://grinfeld.org/books/An-Introduction-To-Tensor-Calculus/)
 - [2012 Book Archive](https://2012books.lardbucket.org/) License: CC-BY-NC
 - [Open Textbook Library](https://open.umn.edu/opentextbooks/)
-- [Machine Learning - A First Course for Engineers and Scientists | sml-book-page](http://smlbook.org/)
+- [Machine Learning - A First Course for Engineers and Scientists - sml-book-page](http://smlbook.org/)
 - [Machine Vision Study Guide—Machine Vision Study Guide](http://faculty.salina.k-state.edu/tim/mVision/) License: CC-BY
 - [Robotics Programming Study Guide—Robotics Programming Study Guide](http://faculty.salina.k-state.edu/tim/robot_prog/) License: CC-BY
 - [Operating Systems Study Guide—Operating Systems Study Guide](http://faculty.salina.k-state.edu/tim/ossg/) License: CC-BY
@@ -129,7 +129,7 @@ draft: false
 - [Elementary Calculus](https://people.math.wisc.edu/~keisler/calc.html) License: CC-BY-NC
 - [Underactuated Robotics](http://underactuated.mit.edu/) Control for Robotics
 - [Reinforcement Learning: Theory and Algorithms](https://rltheorybook.github.io/)
-- [Free Educational eBook—Learn How To Program in Python 3 | DigitalOcean](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python)
+- [Free Educational eBook—Learn How To Program in Python 3 - DigitalOcean](https://www.digitalocean.com/community/books/digitalocean-ebook-how-to-code-in-python)
 - [Introduction to Machine Learning Interviews Book · MLIB](https://huyenchip.com/ml-interviews-book/)
 - [Tools and Jewels Computer Security and Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
 
@@ -141,7 +141,7 @@ draft: false
 - [Convex Optimization–Boyd and Vandenberghe](https://web.stanford.edu/~boyd/cvxbook/)
 - [Bayesian Methods for Hackers](http://camdavidsonpilon.github.io/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/)
     - [CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers: aka "Bayesian Methods for Hackers": An introduction to Bayesian methods + probabilistic programming with a computation/understanding-first, mathematics-second point of view. All in pure Python ;)](https://github.com/CamDavidsonPilon/Probabilistic-Programming-and-Bayesian-Methods-for-Hackers)
-- [Introduction to Nonlinear Optimization | Society for Industrial and Applied Mathematics](https://epubs.siam.org/doi/book/10.1137/1.9781611973655?mobileUi=0&)
+- [Introduction to Nonlinear Optimization - Society for Industrial and Applied Mathematics](https://epubs.siam.org/doi/book/10.1137/1.9781611973655?mobileUi=0&)
 - [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/)
 
 ## Networking eBook
@@ -165,11 +165,11 @@ draft: false
 - [Why's (Poignant) Guide to Ruby](http://poignant.guide/)
 - [Google Chrome](https://www.google.com/googlebooks/chrome/)
 - [Federated Learning](https://federated.withgoogle.com/)
-- [The Illustrated Children’s Guide to Kubernetes | Cloud Native Computing Foundation](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
+- [The Illustrated Children’s Guide to Kubernetes - Cloud Native Computing Foundation](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 
 ## 2021 eBook
 
-- [R for applied epidemiology and public health | The Epidemiologist R Handbook](https://epirhandbook.com/) License: CC-BY-NC
+- [R for applied epidemiology and public health - The Epidemiologist R Handbook](https://epirhandbook.com/) License: CC-BY-NC
 - [Learn Python the Right way](https://learnpythontherightway.com/) License: GPL
     - [How to Think Like a Computer Scientist—How to Think Like a Computer Scientist: Learning with Python 3](http://www.openbookproject.net/thinkcs/python/english3e/)
 - [Introduction · HonKit](https://python.swaroopch.com/)
@@ -199,7 +199,7 @@ draft: false
 
 ## 2022 eBook
 
-- [Approved Textbooks | American Inst. of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
+- [Approved Textbooks - American Inst. of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
 - [DeZero Book](https://koki0702.github.io/dezero-book/en/index.html)
 - [OpenIntro: developer and promoter of educational products that are free, transparent, and lower barriers to education.](https://www.openintro.org/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -214,7 +214,7 @@ draft: false
 - ["Current" NEETS Modules (USN) in PDF format -Training:COMPATT](http://www.compatt.com/Tutorials/NEETS/NEETS.html)
 - [Aho/Ullman Foundations of Computer Science](http://infolab.stanford.edu/~ullman/focs.html)
 - [Thomas Wong Textbook: Introduction to Classical and Quantum Computing](http://www.thomaswong.net/#publications)
-- [Statistical Rethinking | Richard McElreath](https://xcelab.net/rm/statistical-rethinking/) [rmcelreath/stat_rethinking_2022: Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022) [resources/Rethinking_2 at master · pymc-devs/resources](https://github.com/pymc-devs/resources/tree/master/Rethinking_2) [Statistical Rethinking 2022 - YouTube](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)
+- [Statistical Rethinking - Richard McElreath](https://xcelab.net/rm/statistical-rethinking/) [rmcelreath/stat_rethinking_2022: Statistical Rethinking course winter 2022](https://github.com/rmcelreath/stat_rethinking_2022) [resources/Rethinking_2 at master · pymc-devs/resources](https://github.com/pymc-devs/resources/tree/master/Rethinking_2) [Statistical Rethinking 2022 - YouTube](https://www.youtube.com/playlist?list=PLDcUM9US4XdMROZ57-OIRtIK0aOynbgZN)
 - [Welcome—Bayesian Modeling and Computation in Python](https://bayesiancomputationbook.com/welcome.html)
 - [LibreTexts - Free The Textbook](https://libretexts.org/)
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)

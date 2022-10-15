@@ -25,13 +25,13 @@ List of Diagram Apps
 - [asciiflow.com](https://asciiflow.com/#/)
 - [Excalidraw](https://excalidraw.com/)
 - [jncraton/box-line-text: Simple virtual whiteboarding](https://github.com/jncraton/box-line-text)
-- [Online text to diagram tools | XOSH.ORG](https://xosh.org/text-to-diagram/)
+- [Online text to diagram tools - XOSH.ORG](https://xosh.org/text-to-diagram/)
 - [Plant UML](https://plantuml.com/)
 - [Web Graphviz](https://www.webgraphviz.com/) : Web based graphviz
 - [Edotor](https://edotor.net/)
 - [Gravizo](https://www.gravizo.com/) for show in web
 - [Python Implementation](https://github.com/mingrammer/diagrams)
-- [Terrastruct | Terrastruct is a diagram maker uniquely crafted for software engineers to visualize their designs and architectures.](https://terrastruct.com/)
+- [Terrastruct - Terrastruct is a diagram maker uniquely crafted for software engineers to visualize their designs and architectures.](https://terrastruct.com/)
 - [Flowchart Maker & Online Diagram Software](https://app.diagrams.net/)
     - [jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
 - [GoJS Diagram and Graph Library for JavaScript and TypeScript](https://gojs.net/latest/index.html)

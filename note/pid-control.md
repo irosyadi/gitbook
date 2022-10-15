@@ -5,16 +5,16 @@ tags:
 
 # Control
 
-- [PID Tuner Controller | FREE Software](https://pidtuner.com/#/)
+- [PID Tuner Controller - FREE Software](https://pidtuner.com/#/)
 - [How To Build a Thrust Vectored Model Rocket - National Rocketry Conference 2020 - YouTube](https://www.youtube.com/watch?v=4cw9K9yuIyU)
 - [GitHub - RicardoMonteiroSimoes/ClosedLoopControlBlocks](https://github.com/RicardoMonteiroSimoes/ClosedLoopControlBlocks)
 - [tuning pid](https://folk.ntnu.no/skoge/publications/2001/tuningpaper_reno/tuningpaper_06nov01.pdf)
 - [Improving the Beginner’s PID–Introduction « Project Blog](http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/)
-- [PID Controller: A Simple Control Loop Mechanism | Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism)
+- [PID Controller: A Simple Control Loop Mechanism - Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/PID-controller-control-loop-mechanism)
 
 # Control
 
-- [SpaceX Dragon ISS Docking Autopilot PID Controller in JavaScript | Hacker News](https://news.ycombinator.com/item?id=27384419)
+- [SpaceX Dragon ISS Docking Autopilot PID Controller in JavaScript - Hacker News](https://news.ycombinator.com/item?id=27384419)
 
 # PID Control
 

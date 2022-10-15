@@ -15,7 +15,7 @@ draft: false
 
 ## Machine Learning : Visual Coding
 
-- [Kobra | A visual programming language for machine learning (in beta)](https://kobra.dev/)
+- [Kobra - A visual programming language for machine learning (in beta)](https://kobra.dev/)
 - [PerceptiLabs](https://www.perceptilabs.com/)
 
 💡 : Kid's machine learning tutorial
@@ -39,7 +39,7 @@ So little of success in ML comes from the sexy algorithms and so much just comes
 After months learning about machine learning for time series forecasting, several chapters in a book on deep learning techniques for time series analysis and forecasting, the author kindly pointed out that there are no papers published up to that point that prove deep learning (neural networks) can perform better than classical statistics.  
 Career lesson: Ask a lot of questions early in a project's life. If you're working on something that uses machine learning, ask what system it's replacing, and make sure that someone (or you) runs it manually before spending the time to automate.
 
-[Rules of Machine Learning:  |  ML Universal Guides  |  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
+[Rules of Machine Learning:  -  ML Universal Guides  -  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
 ## Machine Learning
 

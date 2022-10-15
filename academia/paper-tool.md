@@ -42,14 +42,14 @@ Related links:
 ## List of Researcher and Academia Tools
 
 - [Scolary](https://scolary.com/)
-- [Tools for Academic Research | Tools for Academic Research | KausalFlow](https://tools.kausalflow.com/)
+- [Tools for Academic Research - Tools for Academic Research - KausalFlow](https://tools.kausalflow.com/)
 - [emptymalei/awesome-research: a curated list of tools to help you with your research/life](https://github.com/emptymalei/awesome-research)
 
 ## Research/Academia Forums
 
 - [Research Code](https://researchcode.com/)
-- [DeepAI: The front page of A.I. | DeepAI](https://deepai.org/) AI Forum
+- [DeepAI: The front page of A.I. - DeepAI](https://deepai.org/) AI Forum
 
 ## Paper
 
-- [Fermat's Library | Home](https://fermatslibrary.com/) software to help illuminate academic papers
+- [Fermat's Library - Home](https://fermatslibrary.com/) software to help illuminate academic papers

@@ -15,5 +15,5 @@ draft: false
 - `tracert`
 - `pathping`
 - `mtr`
-    - [What is My Traceroute (MTR)? | Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-mtr/)
+    - [What is My Traceroute (MTR)? - Cloudflare](https://www.cloudflare.com/learning/network-layer/what-is-mtr/)
     - [traceroute ping mtr pathping](https://www.clouddirect.net/knowledge-base/KB0011455/using-traceroute-ping-mtr-and-pathping)

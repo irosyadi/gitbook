@@ -18,7 +18,7 @@ Related links:
 
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
-- [Open Maps for Europe | Eurogeographics](https://www.mapsforeurope.org/)
+- [Open Maps for Europe - Eurogeographics](https://www.mapsforeurope.org/)
 
 ## Public Transport
 
@@ -130,7 +130,7 @@ Related links:
 
 ## Satellite
 
-- [Low Earth Orbit Visualization | LeoLabs](https://platform.leolabs.space/visualization)
+- [Low Earth Orbit Visualization - LeoLabs](https://platform.leolabs.space/visualization)
 
 ## Solar Map
 
@@ -140,7 +140,7 @@ Related links:
 ## Hydrological Map
 
 - [River Runner Global](https://river-runner-global.samlearner.com/)
-- [Global River Runner | global-river-runner](https://ksonda.github.io/global-river-runner/)
+- [Global River Runner - global-river-runner](https://ksonda.github.io/global-river-runner/)
 
 ## Geological Map
 

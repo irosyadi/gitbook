@@ -25,4 +25,4 @@ draft: false
 - [SwiftLatex](https://www.swiftlatex.com/) : WASM Latex processing
 - [MonsterWriter - A Pleasant Way to Write a Thesis or Article](https://www.monsterwriter.app/)
 - [Welcome to GNU TeXmacs (FSF GNU project)](https://www.texmacs.org/tmweb/home/welcome.en.html)
-- [LyX | Screenshots](https://www.lyx.org/Screenshots)
+- [LyX - Screenshots](https://www.lyx.org/Screenshots)

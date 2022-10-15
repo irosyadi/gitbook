@@ -30,7 +30,7 @@ draft: false
 ## Filter Design Tools
 
 * [Filter Design Tool](https://webench.ti.com/filter-design-tool/filter-type) web based
-* [RF Tools | LC Filter Design Tool](https://rf-tools.com/lc-filter/) web based
+* [RF Tools - LC Filter Design Tool](https://rf-tools.com/lc-filter/) web based
 * [Filter Design and Analysis](http://sim.okawa-denshi.jp/en/Fkeisan.htm) web based
 * [TFilter - Free online FIR filter design](http://t-filter.engineerjs.com/) web based
 * [FIIIR!](https://fiiir.com/) web based
@@ -45,7 +45,7 @@ draft: false
 * [A Compact Primer on Digital Signal Processing](https://github.com/jackschaedler/circles-sines-signals) [Web](https://jackschaedler.github.io/circles-sines-signals/) License: Eclipse Public License
 * [Voice recording and processing for talks, streaming and conferencing. The Reference.](https://indiscipline.github.io/post/voice-sound-reference/)
 * [How to Record Great Sounding / High Quality Audio at Home—Nick Janetakis](https://nickjanetakis.com/blog/how-to-record-great-sounding-high-quality-audio-at-home)
-* [Filter playground | Boris Smus](https://smus.com/filter-playground/)
+* [Filter playground - Boris Smus](https://smus.com/filter-playground/)
 * [Micromodeler - Launch Applications](https://www.micromodeler.com/launch.jsp)
 * [Music Information Retrieval in Python](https://musicinformationretrieval.com/)
 * [Fundamental of Music Processing - Slides](https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP/slides)
@@ -63,7 +63,7 @@ draft: false
 * [willfehlmusic/Python_Sketchpads: Tutorial Python projects covering a number of topics. These are tutorials to make, certain concepts of interest, absolutely clear to the user.](https://github.com/willfehlmusic/Python_Sketchpads)
 * [Virtual Labs](http://vlabs.iitkgp.ernet.in/dsp/index.html)
 * [Lab 0 - Introduction to Module Set - Purdue Digital Signal Processing Labs (ECE 438) - OpenStax CNX](https://cnx.org/contents/0JSc5_LI@4.2:9mF_0fms@3/Lab-0-Introduction-to-Module-Set)
-* [Making sounds using SDL and visualizing them on a simulated oscilloscope. | NICK TASIOS](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
+* [Making sounds using SDL and visualizing them on a simulated oscilloscope. - NICK TASIOS](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
 
 ## Audio Programming
 
@@ -71,13 +71,13 @@ draft: false
 * [elk.audio](https://elk.audio/) Audio Operating Systems
 * [VCV Rack - The Eurorack Simulator for Windows/Mac/Linux](https://vcvrack.com/)
 * [Sassy by sol_hsa](https://sol-hsa.itch.io/sassy) Sassy is an audio spreadsheet. Or, as it stands, it's THE audio spreadsheet.
-* [JUCE | JUCE](https://juce.com/) The leading framework for multi-platform audio applications
+* [JUCE - JUCE](https://juce.com/) The leading framework for multi-platform audio applications
 * [Tone.js](https://tonejs.github.io/)
 
 ## DSP Notes
 
 * [Introduction to Filters: FIR versus IIR](https://community.sw.siemens.com/s/article/introduction-to-filters-fir-versus-iir)
-* [Highres spectrograms with the DFT Shift Theorem | GLSL & Sound](https://soundshader.github.io/hss/gallery/index.html)
+* [Highres spectrograms with the DFT Shift Theorem - GLSL & Sound](https://soundshader.github.io/hss/gallery/index.html)
 * [Difference between IIR and FIR filters: a practical design guide - ASN Home](https://www.advsolned.com/difference-between-iir-and-fir-filters-a-practical-design-guide/)
 * [A Narrow Bandpass Filter in Octave or Matlab - Paul Lovell](https://www.dsprelated.com/showarticle/1354.php) [An Efficient Lowpass Filter in Octave - Paul Lovell](https://www.dsprelated.com/showarticle/1304.php)
 * [Signal Analysis I: What is a Wave? An Introduction to Fouriers Theorem](https://www.linkedin.com/pulse/signal-analysis-i-what-wave-introduction-fouriers-william-fehlhaber/) [Digital Filter Design: Why is Linear Phase Important?](https://www.linkedin.com/pulse/digital-filter-design-why-linear-phase-important-william-fehlhaber)
@@ -133,7 +133,7 @@ draft: false
 
 * [Exploring Sound](https://omarshehata.me/notebook/exploring_sound) : Why does an A note on a piano sound different from an A note on a violin?
 * [Everything you need to know about surround sound in headphones - SoundGuys](https://www.soundguys.com/surround-sound-headphones-guide-49389/)
-* [HeSuVi download | SourceForge.net](https://sourceforge.net/projects/hesuvi/)
+* [HeSuVi download - SourceForge.net](https://sourceforge.net/projects/hesuvi/)
 * [Headphone 7.1 Surround Comparison (GSX vs SBX vs Atmos vs CMSS vs DH vs DTSH:X vs Sonic vs HRTF) - YouTube](https://www.youtube.com/watch?v=WlqpG2euh50)
 
 ## Signal Processing

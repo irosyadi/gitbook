@@ -27,7 +27,7 @@ Related links:
 - [tyiannak/pyAudioAnalysis: Python Audio Analysis Library: Feature Extraction, Classification, Segmentation and Applications](https://github.com/tyiannak/pyAudioAnalysis)
 - [librosa—librosa 0.8.1 documentation](https://librosa.org/doc/latest/index.html) python package for music and audio analysis
 - [Yaafe/Yaafe: Audio features extraction](https://github.com/Yaafe/Yaafe)
-- [Ask HN: AI-Generated Music? | Hacker News](https://news.ycombinator.com/item?id=31968456)
+- [Ask HN: AI-Generated Music? - Hacker News](https://news.ycombinator.com/item?id=31968456)
 
 ### AI Music Separation
 
@@ -87,8 +87,9 @@ Related links:
 
 ### Desktop Audio Editor
 
-- Audacity, #opensource
+- [Audacity](https://www.audacityteam.org/)
 - [Bespoke Synth](https://www.bespokesynth.com/)
+- [https://ardour.org](https://ardour.org/)
 
 ### Online Audio Editor
 

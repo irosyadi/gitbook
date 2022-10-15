@@ -31,7 +31,7 @@ draft: false
 
 ## Wikimedia
 
-- [Wikipedia Pageviews Analysis](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Cat|Dog)
+- [Wikipedia Pageviews Analysis](https://pageviews.toolforge.org/?project=en.wikipedia.org&platform=all-access&agent=user&redirects=0&range=latest-20&pages=Cat-Dog)
 
 ## Wikipedia Analysis
 

@@ -25,7 +25,7 @@ draft: false
 ## Open Hardware
 
 - [Ildaron/ironbci: Brain-Computer Interface, ADS1299 and STM32](https://github.com/Ildaron/ironbci) EEG
-- [OpenBCI | Home](https://openbci.com/) EEG
+- [OpenBCI - Home](https://openbci.com/) EEG
 
 ## Hardware
 
@@ -38,7 +38,7 @@ draft: false
 
 ## Open Hardware
 
-- [Watchy by SQFMI | Watchy](https://watchy.sqfmi.com/)
+- [Watchy by SQFMI - Watchy](https://watchy.sqfmi.com/)
 - [LibreCellular 21.04](https://librecellular.org/)
 - [cariboulabs/cariboulite: CaribouLite turns any 40-pin Raspberry-Pi into a Tx/Rx 6GHz SDR](https://github.com/cariboulabs/cariboulite)
 - [Internet-in-a-Box](https://internet-in-a-box.org/) 💡 Pengabdian kepada Masyarakat
@@ -47,11 +47,11 @@ draft: false
 
 ## Hardware
 
-- [Introduction | 3dasd](https://3dasd.com/) a fully open-source DIY room-scale 3D scanner
+- [Introduction - 3dasd](https://3dasd.com/) a fully open-source DIY room-scale 3D scanner
 
 ## Open Hardware
 
-- [FarmBot | Open-Source CNC Farming](https://farm.bot/)
+- [FarmBot - Open-Source CNC Farming](https://farm.bot/)
 
 ## Hardware
 
@@ -66,7 +66,7 @@ draft: false
 - [Winterbloom](https://winterbloom.com/)
     - [The tools and tech I use to run a one-woman hardware company - Stargirl (Thea) Flowers](https://blog.thea.codes/winterblooms-tech-stack/)
 - [Cardinia Mini](https://cardinia.net/mini/)
-- [Gumball | A wifi-enabled mechanical light to spark up your notifications.](https://getgumball.com/)
+- [Gumball - A wifi-enabled mechanical light to spark up your notifications.](https://getgumball.com/)
 
 ## Open Hardware
 
@@ -93,5 +93,5 @@ draft: false
 
 - [Thomas Megel's OpenScan Offers 10-Micron 3D Scanning on a Raspberry Pi and HQ Camera Module - Hackster.io](https://www.hackster.io/news/thomas-megel-s-openscan-offers-10-micron-3d-scanning-on-a-raspberry-pi-and-hq-camera-module-308a2540c5b8)
 - [IoTaWatt™ Open WiFi Electric Power Monitor](https://www.iotawatt.com/)
-- [emonPi - Guide | OpenEnergyMonitor](https://guide.openenergymonitor.org/technical/emonpi/)
-- [Plastic Scanner. | Plastic Scanner](https://plasticscanner.com/)
+- [emonPi - Guide - OpenEnergyMonitor](https://guide.openenergymonitor.org/technical/emonpi/)
+- [Plastic Scanner. - Plastic Scanner](https://plasticscanner.com/)

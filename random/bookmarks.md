@@ -90,9 +90,9 @@ draft: false
 ## Machine Learning
 
 * [Machine Learning, Data Science, Big Data, Analytics, AI](https://www.kdnuggets.com/)
-* [DataStories | DataStories](https://datastories.com/)
+* [DataStories - DataStories](https://datastories.com/)
 * [Galaxy Community Hub](https://galaxyproject.org/)
-* [Machine Learning Algorithm Cheat Sheet - designer - Azure Machine Learning | Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
+* [Machine Learning Algorithm Cheat Sheet - designer - Azure Machine Learning - Microsoft Docs](https://docs.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet)
 
 ## IoT
 
@@ -104,7 +104,7 @@ draft: false
 
 ## NLP
 
-* [Word Synonyms | Word Antonyms | Word Definition | Word Example | Word Synonyms API | Word Similarity API](https://wordsimilarity.com/)
+* [Word Synonyms - Word Antonyms - Word Definition - Word Example - Word Synonyms API - Word Similarity API](https://wordsimilarity.com/)
 
 ## Start Up
 
@@ -115,8 +115,8 @@ draft: false
 
 * [ITSF -INDONESIA TORAY SCIENCE FOUNDATION-](https://www.itsf.or.id/)
 * [Partnerships for Enhanced Engagement in Research (PEER)](https://sites.nationalacademies.org/pga/peer/index.htm)
-* [AF | Adaptation Fund](https://www.adaptation-fund.org/)
-* [Engineering For Change | By Engineers, For Everyone](https://www.engineeringforchange.org/)
+* [AF - Adaptation Fund](https://www.adaptation-fund.org/)
+* [Engineering For Change - By Engineers, For Everyone](https://www.engineeringforchange.org/)
 
 ## Depth News
 
@@ -150,7 +150,7 @@ draft: false
 ## Coding for Kids
 
 * [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
-* [Learn | Code.org](https://code.org/learn)
+* [Learn - Code.org](https://code.org/learn)
 * [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 
 ## Bahasa Indonesia
@@ -224,16 +224,16 @@ draft: false
 ## Portable Windows App
 
 * [Latest entries - The Portable Freeware Collection](https://www.portablefreeware.com/)
-* [Best Free Portable Applications | Gizmo's Freeware](https://www.techsupportalert.com/best-free-portable-programs.htm)
+* [Best Free Portable Applications - Gizmo's Freeware](https://www.techsupportalert.com/best-free-portable-programs.htm)
 * [Home of SyMenu](https://www.ugmfree.it/Default.aspx)
 
 ## Computer Books
 
-* [Free Computer & Internet eBooks Online | Gizmo's Freeware](https://www.techsupportalert.com/free-books-computer)
+* [Free Computer & Internet eBooks Online - Gizmo's Freeware](https://www.techsupportalert.com/free-books-computer)
 
 ## Online Applications
 
-* [Best Free Online Applications | Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-online-applications-and-services.htm)
+* [Best Free Online Applications - Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-online-applications-and-services.htm)
 
 ## Visualization
 
@@ -245,7 +245,7 @@ draft: false
 
 ## Map
 
-* [Maps, geocoding, and navigation APIs & SDKs | Mapbox](https://www.mapbox.com/)
+* [Maps, geocoding, and navigation APIs & SDKs - Mapbox](https://www.mapbox.com/)
 * [Natural Earth - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales](https://www.naturalearthdata.com/)
 * [OldNYC: Mapping Historical Photographs of New York City](https://www.oldnyc.org/)
 
@@ -260,9 +260,9 @@ draft: false
 
 ## Embedded
 
-* [Modern Embedded Software | Quantum Leaps–State Machines and Tools for Embedded Systems](https://www.state-machine.com/)
+* [Modern Embedded Software - Quantum Leaps–State Machines and Tools for Embedded Systems](https://www.state-machine.com/)
 * [Home :: OpenCores](https://opencores.org/)
-* [Correll Lab | Department of Computer Science, CU Boulder](http://correll.cs.colorado.edu/)
+* [Correll Lab - Department of Computer Science, CU Boulder](http://correll.cs.colorado.edu/)
 
 ## Network
 
@@ -274,13 +274,13 @@ draft: false
 
 ## Ebook
 
-* [Free Computer & Internet eBooks Online | Gizmo's Freeware](https://www.techsupportalert.com/free-books-computer)
+* [Free Computer & Internet eBooks Online - Gizmo's Freeware](https://www.techsupportalert.com/free-books-computer)
 * [Download Free Computer Books : IT, Programming and Computer Science - OnlineProgrammingBooks.com](https://www.onlineprogrammingbooks.com/)
 * [Database of Free Online Computer Science and Programming Books, Textbooks, and Lecture Notes](https://www.freetechbooks.com/)
 
 ## App
 
-* [Best Free Online Applications | Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-online-applications-and-services.htm)
+* [Best Free Online Applications - Gizmo's Freeware](https://www.techsupportalert.com/content/best-free-online-applications-and-services.htm)
 
 ## Web Similarity Search Engine
 
@@ -317,7 +317,7 @@ draft: false
 
 ## Programming
 
-* [Typing Practice for Programmers | SpeedCoder](https://www.speedcoder.net/)
+* [Typing Practice for Programmers - SpeedCoder](https://www.speedcoder.net/)
 
 ## Cheatsheet
 
@@ -334,7 +334,7 @@ draft: false
 
 ## History Map
 
-* [World History Maps & Timelines | GeaCron](http://geacron.com/home-en/?sid=GeaCron860992)
+* [World History Maps & Timelines - GeaCron](http://geacron.com/home-en/?sid=GeaCron860992)
 
 ## Hardware Hacks
 

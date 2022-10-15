@@ -19,13 +19,13 @@ draft: false
     - [The Elements of Style - Wikisource, the free online library](https://en.wikisource.org/wiki/The_Elements_of_Style)
     - [Highlights from “The Elements of Style” (William Strunk Jr.) · Jens Oliver Meiert](https://meiert.com/en/blog/the-elements-of-style-highlights/)
 - [Resources - ITS Academic Writing Center](https://www.its.ac.id/writingcenter/resources/)
-- [Writing Worksheets and Other Writing Resources | Student Learning Center](https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources)
+- [Writing Worksheets and Other Writing Resources - Student Learning Center](https://slc.berkeley.edu/writing-worksheets-and-other-writing-resources)
 - [Whitesides' Group: Writing a Paper](https://intra.ece.ucr.edu/~rlake/Whitesides_writing_res_paper.pdf)
 - [Writing Systems and Networking Articles](http://www.cs.columbia.edu/~hgs/etc/writing-style.html)
-- [Ten simple rules for structuring papers | PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
+- [Ten simple rules for structuring papers - PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005619)
 - [How to Write a Great Research Paper - Simon Peyton Jones](https://simon.peytonjones.org/great-research-paper/)
 - [Collected Advice on Research and Writing](http://www.cs.cmu.edu/~mleone/how-to.html)
-- [Writing in the Sciences | Coursera](https://www.coursera.org/learn/sciwrite)
+- [Writing in the Sciences - Coursera](https://www.coursera.org/learn/sciwrite)
 - [Notes on academic writing](http://gabbay.org.uk/blog/paper-writing.html)
 - [Tips & Tools–The Writing Center • University of North Carolina at Chapel Hill](https://writingcenter.unc.edu/tips-and-tools/)
 - [UW-Madison Writer’s Handbook–The Writing Center–UW–Madison](https://writing.wisc.edu/handbook/)
@@ -36,8 +36,8 @@ draft: false
 
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [100+ Strong Verbs That Will Make Your Research Writing Amazing - Wordvice](https://blog.wordvice.com/recommended-verbs-for-research-writing/)
-- [Academic Phrasebank | Introducing work - Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
-- [Synonyms and Antonyms of Words | Thesaurus.com](https://www.thesaurus.com/)
+- [Academic Phrasebank - Introducing work - Academic Phrasebank](https://www.phrasebank.manchester.ac.uk/introducing-work/)
+- [Synonyms and Antonyms of Words - Thesaurus.com](https://www.thesaurus.com/)
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - [Manuscripts.io: Untitled Project](https://www.manuscripts.io/projects/MPProject:89114B6E-5EA1-446A-B40C-997174FB229E/collaborators)
 - [How to Use Zotero and Scrivener for Research-Driven Writing - JSTOR Daily](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/)
@@ -53,7 +53,7 @@ draft: false
 ## Research Writing Tips
 
 - [Research Tools](https://openmetric.org/tool/#be-organized)
-- [A Research to Engineering Workflow | Dustin Tran](http://dustintran.com/blog/a-research-to-engineering-workflow)
+- [A Research to Engineering Workflow - Dustin Tran](http://dustintran.com/blog/a-research-to-engineering-workflow)
 - [Academic Writing Tools and Research Software–A Comprehensive Guide - Ref-n-Write: Scientific Research Paper Writing Software Tool - Improve Academic English Writing Skills](https://www.ref-n-write.com/blog/academic-writing-tools-and-research-software-a-comprehensive-guide/)
 - [8 Best Academic Writing Software 2022 Guide](https://windowsreport.com/software-academic-writing/)
 - [Home - Tools for Effective Writing - LibGuides at University of Saint Mary](https://stmary.libguides.com/toolsforeffectivewriting)
@@ -69,4 +69,4 @@ draft: false
     - Using precise words
     - Invoking the past
     - Getting with the beat
-- [Guardian and Observer style guide: A | About | The Guardian](https://www.theguardian.com/guardian-observer-style-guide-a)
+- [Guardian and Observer style guide: A - About - The Guardian](https://www.theguardian.com/guardian-observer-style-guide-a)

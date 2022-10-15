@@ -19,7 +19,7 @@ draft: false
 - [Neural Networks from Scratch](https://nnfs.io/)
 - [Neural Networks from Scratch - P.1 Intro and Neuron Code - YouTube](https://www.youtube.com/watch?v=Wo5dMEP_BbI)
 - [Make a Neural Network in Excel, AI for Business People](https://www.linkedin.com/pulse/make-neural-network-excel-ai-business-people-aaron-butler)
-- [Demystifying Feed-forward and Back-propagation using MS Excel | by Gaurav Gupta | Towards Data Science](https://towardsdatascience.com/demystifying-feed-forward-and-back-propagation-using-ms-excel-30f5aeefcfc7)
+- [Demystifying Feed-forward and Back-propagation using MS Excel - by Gaurav Gupta - Towards Data Science](https://towardsdatascience.com/demystifying-feed-forward-and-back-propagation-using-ms-excel-30f5aeefcfc7)
 - [AngelNikoloff/Neural-Network-in-spreadsheet: Simple Artificial Neural Network with Backpropagation in Excel spreadsheet with XOR example - for education purpose;](https://github.com/AngelNikoloff/Neural-Network-in-spreadsheet)
 - [Neural Networks Learning The Basics: Backpropagation–Samzee_Codes](https://samzee.net/2019/02/20/neural-networks-learning-the-basics-backpropagation/)
 - [Machine Learning in Excel - CodeProject](https://www.codeproject.com/Articles/1273000/Machine-Learning-in-Excel)
@@ -30,7 +30,7 @@ draft: false
 
 - [Demonstration of Decentralized, Physics-Driven Learning](https://arxiv.org/abs/2108.00275)
 - [Learning Without a Global Clock: Asynchronous Learning in a Physics-Driven Learning Network](https://arxiv.org/abs/2201.04626)
-- [Simple electrical circuit learns on its own—with no help from a computer | Science | AAAS](https://www.science.org/content/article/simple-electrical-circuit-learns-its-own-no-help-computer)
+- [Simple electrical circuit learns on its own—with no help from a computer - Science - AAAS](https://www.science.org/content/article/simple-electrical-circuit-learns-its-own-no-help-computer)
 
 ## Neural Network
 

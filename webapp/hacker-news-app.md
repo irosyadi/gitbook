@@ -32,13 +32,13 @@ draft: false
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)
 - [HckerWeb–HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format, load comments
 - [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1) : Hacker News Megazine format
-- [Hacker News Top, Best, New Stories | Sawir Studio](https://hn.sawirstudio.com/) : Top, Best and New posts of Hacker News in one page
+- [Hacker News Top, Best, New Stories - Sawir Studio](https://hn.sawirstudio.com/) : Top, Best and New posts of Hacker News in one page
 - [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past
 - [Timeless Hacker News](https://thn.rakhim.org/) : Old top story of HN, randomly
 - [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
 - [Hackr News App](https://hackr-news-dj.netlify.app/top) : Fast
 - [Haxplore](https://haxplore.pabue.co/): with key shortcut
-- [News for Hackers | Hazumi](https://www.hazumi.news/)
+- [News for Hackers - Hazumi](https://www.hazumi.news/)
 - [Ditzes - Frontpage](https://ditzes.com/frontpage)
 - [hn](https://read-hn.herokuapp.com/)
 
@@ -54,7 +54,7 @@ draft: false
 - [HNDex](https://hndex.org/) Hacker News content search
 - [HNProfile](https://hnprofile.com/) Hacker News profile and topic search
 - [Forum Search](https://forumsearch.io/) : HackerNews, Reddit*, IndieHacker, DEV.to, Lobste.rs content search
-- [DeepHN | powered by SeekStorm](https://deephn.org/) Deep search HN
+- [DeepHN - powered by SeekStorm](https://deephn.org/) Deep search HN
 - [Morning Brief](https://morningbrief.ai/setup) : HackerNews, Reddit content search
 
 ## Hacker News RSS
@@ -68,7 +68,7 @@ draft: false
 - [Show HN projects—Browse the best projects posted on Show HN](https://showhn-dashboard.netlify.app/) : Hacker News Show HN post list
 - [Hacker News Rankings](http://hnrankings.info/) : Hacker News post ranking
 - [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
-- [HN Books | The Best Books of Hacker News](https://yahnd.com/books/)
+- [HN Books - The Best Books of Hacker News](https://yahnd.com/books/)
 - [Hacker Wisdom](https://www.askhnwisdom.com/) Hacker News link collection
 
 ## Hacker News Aggregator

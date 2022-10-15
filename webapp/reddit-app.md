@@ -51,7 +51,7 @@ draft: false
 
 ## Reddit Music Frontends
 
-- [Music Player for Reddit | A Free and Open-Source Music Player](https://reddit.musicplayer.io/)
+- [Music Player for Reddit - A Free and Open-Source Music Player](https://reddit.musicplayer.io/)
 
 ## Reddit Tools
 

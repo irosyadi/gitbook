@@ -79,7 +79,7 @@ draft: false
 - CBE30338: <https://jckantor.github.io/CBE30338/>
 - Linear Physica l Systems Analysis: <https://lpsa.swarthmore.edu/>
 - Python in Education (Institute of Control Theory): <https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en>  
-[Computational Methods for Control of Infinite-dimensional Systems | Institute for Mathematics and its Applications](https://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
+[Computational Methods for Control of Infinite-dimensional Systems - Institute for Mathematics and its Applications](https://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
 
 ## Python Control
 
@@ -88,7 +88,7 @@ draft: false
 
 ## Intelligent Control
 
-- [About the Book | DATA DRIVEN SCIENCE & ENGINEERING](https://www.databookuw.com/)
+- [About the Book - DATA DRIVEN SCIENCE & ENGINEERING](https://www.databookuw.com/)
     - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton https://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
     - [dylewsky/Data_Driven_Science_Python_Demos: IPython notebooks with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton](https://github.com/dylewsky/Data_Driven_Science_Python_Demos)
 

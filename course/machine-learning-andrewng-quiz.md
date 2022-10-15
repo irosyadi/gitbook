@@ -338,6 +338,6 @@ NOTE: Since the hypothesis performs poorly on the training set, it is suffering 
 
 - [Coursera-Machine-Learning/Week1Quiz.md at master · LiMengyang990726/Coursera-Machine-Learning](https://github.com/LiMengyang990726/Coursera-Machine-Learning/blob/master/Machine-Learning/Week1Quiz.md)
 - [atinesh-s/Coursera-Machine-Learning-Stanford: Machine learning-Stanford University](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)
-- [Coursera-Machine Learning - Andrew NG - All weeks solutions of assignments and quiz - codemummy |online technical computer science platform.](https://www.codemummy.com/p/coursera-machine-learning-andrew-ng-all.html)
+- [Coursera-Machine Learning - Andrew NG - All weeks solutions of assignments and quiz - codemummy online technical computer science platform.](https://www.codemummy.com/p/coursera-machine-learning-andrew-ng-all.html)
 - [datasciencecoursera/Stanford_Machine_Learning at master · mGalarnyk/datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning)
 - [APDaga DumpBox : The Thirst for Learning...: Machine Learning](https://www.apdaga.com/search/label/Machine%20Learning?updated-max=2019-11-14T15:01:00%2B05:30&max-results=20&start=20&by-date=false)

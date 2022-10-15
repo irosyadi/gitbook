@@ -11,12 +11,12 @@ draft: false
 
 ## Zeer Evaporation Pot
 
-- [Build an evaporative refrigerator - no moving parts, no electricity | Rebuilding Civilization](http://rebuildingcivilization.com/content/build-evaporative-refrigerator-no-moving-parts-no-electricity)
-- [Busting myths about the Zeer pot | Rebuilding Civilization](http://rebuildingcivilization.com/content/busting-myths-about-zeer-pot)
+- [Build an evaporative refrigerator - no moving parts, no electricity - Rebuilding Civilization](http://rebuildingcivilization.com/content/build-evaporative-refrigerator-no-moving-parts-no-electricity)
+- [Busting myths about the Zeer pot - Rebuilding Civilization](http://rebuildingcivilization.com/content/busting-myths-about-zeer-pot)
 - [Zeer pot refrigeration (design) - Appropedia: The sustainability wiki](https://www.appropedia.org/Zeer_pot_refrigeration_(design))
 - [Evaporative Cooling (original) - Appropedia: The sustainability wiki](https://www.appropedia.org/Evaporative_Cooling_(original))
 - [How to Make Your Own Zeer Pot (Pot in Pot Refrigerator) * The Homesteading Hippy](https://thehomesteadinghippy.com/diy-zeer-pot/)
-- [Zeer Pot | Engineering For Change](https://www.engineeringforchange.org/solutions/product/zeer-pot/)
+- [Zeer Pot - Engineering For Change](https://www.engineeringforchange.org/solutions/product/zeer-pot/)
 - [Pot-in-pot refrigerator - Wikipedia](https://en.wikipedia.org/wiki/Pot-in-pot_refrigerator)
 - [The deep dive—Fenik](https://www.fenik.io/the-deep-dive)
 - [Thermal contact conductance - Wikipedia](https://en.wikipedia.org/wiki/Thermal_contact_conductance)

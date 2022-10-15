@@ -37,8 +37,8 @@ Force an exact-match search. Use this to refine results for ambiguous searches, 
 
 ### OR
 
-Search for X *or* Y. This will return results related to X or Y, or both. **Note:** The pipe (|) operator can also be used in place of “OR.”  
-**Examples:** **[jobs OR gates](https://www.google.com/search?&q=jobs+OR+gates)** / **[jobs | gates](https://www.google.com/search?&q=jobs+%7C+gates)**
+Search for X *or* Y. This will return results related to X or Y, or both. **Note:** The pipe (-) operator can also be used in place of “OR.”  
+**Examples:** **[jobs OR gates](https://www.google.com/search?&q=jobs+OR+gates)** / **[jobs - gates](https://www.google.com/search?&q=jobs+%7C+gates)**
 
 ### AND
 

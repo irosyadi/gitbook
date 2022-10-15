@@ -25,7 +25,7 @@ draft: false
 
 ## Drug Dataset
 
-- [DrugBank Online | Database for Drug and Drug Target Info](https://go.drugbank.com/)
+- [DrugBank Online - Database for Drug and Drug Target Info](https://go.drugbank.com/)
     - [Muler](https://muler.pythonanywhere.com/), [PizzaMyHeart/muler: A search engine for drug information built with Flask.](https://github.com/PizzaMyHeart/muler)
 
 ## Dataset Zoo
@@ -34,11 +34,11 @@ draft: false
 
 ## Dataset
 
-- [Recommended Data Repositories | Scientific Data](https://www.nature.com/sdata/policies/repositories)
+- [Recommended Data Repositories - Scientific Data](https://www.nature.com/sdata/policies/repositories)
 
 ## Dataset
 
-- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations | Zenodo](https://zenodo.org/record/4008297)
+- [CatMeows: A Publicly-Available Dataset of Cat Vocalizations - Zenodo](https://zenodo.org/record/4008297)
 - [Home - BBC Programme Index](https://genome.ch.bbc.co.uk/)
 
 ## Dataset
@@ -53,7 +53,7 @@ draft: false
 ## Dataset Tools
 
 - [Scale AI: The Data Platform for AI](https://scale.com/) : High quality training and validation data for AI applications
-- [Aquarium | Data Management For ML](https://www.aquariumlearning.com/) : ML data management platform
+- [Aquarium - Data Management For ML](https://www.aquariumlearning.com/) : ML data management platform
 - [Labelbox: The leading training data platform for data labeling](https://labelbox.com/) : Save time by creating and managing your training data, people, and processes in a single place
 
 ## Cell Tower Dataset

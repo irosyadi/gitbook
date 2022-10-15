@@ -19,7 +19,7 @@ draft: false
 - [libgen.li](http://libgen.li/)
 - [libgen.me](https://libgen.me)
 - [IPFS Free Library - freeread.org](https://freeread.org/ipfs/)
-- [IPFS Cluster - Collaborative Clusters | IPFS Cluster](https://collab.ipfscluster.io/)
+- [IPFS Cluster - Collaborative Clusters - IPFS Cluster](https://collab.ipfscluster.io/)
 - [Library Genesis](https://libgen.fun/dweb.html) Libgen on IPFS
 - [Freeread](https://freeread.org/ipfs/) : Libgen in IFPS
 - [libgen.fun](https://libgen.fun/) : Libgen in IFPS

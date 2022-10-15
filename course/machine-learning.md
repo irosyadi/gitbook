@@ -26,7 +26,7 @@ draft: false
     - [Set Up Google Cloud Platform for Machine Learning](https://github.com/cs231n/gcloud)
     - [Slides](https://cs231n.stanford.edu/slides/)
     - [Schedule](https://cs231n.stanford.edu/schedule.html)
-- [Schedule | EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
+- [Schedule - EECS 498-007 / 598-005: Deep Learning for Computer Vision](https://web.eecs.umich.edu/~justincj/teaching/eecs498/FA2020/schedule.html)
 - [AI-Sys Sp19](https://ucbrise.github.io/cs294-ai-sys-sp19/) [ucbrise/cs294-ai-sys-sp19: CS294; AI For Systems and Systems For AI](https://github.com/ucbrise/cs294-ai-sys-sp19)
 - [CS182/282A Designing, Visualizing and Understanding Deep Neural Networks Spring 2020: Designing, Visualizing and Understanding Deep Neural Networks (Spring 2020)](https://bcourses.berkeley.edu/courses/1487769/pages/cs-l-w-182-slash-282a-designing-visualizing-and-understanding-deep-neural-networks-spring-2020)
     - [mj-hwang/cs182-deep-neural-network: CV, NLP, and RL projects in CS 182: Designing, Visualizing and Understanding DNNs (spring 2020)](https://github.com/mj-hwang/cs182-deep-neural-network)

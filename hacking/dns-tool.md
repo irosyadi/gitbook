@@ -54,7 +54,7 @@ draft: false
 
 ## Pentest
 
-- [Pentest-Tools.com | Powerful Pentesting Tools, Easy to Use](https://pentest-tools.com/home)
+- [Pentest-Tools.com - Powerful Pentesting Tools, Easy to Use](https://pentest-tools.com/home)
 
 ## DNS  
 
@@ -93,8 +93,8 @@ draft: false
 
 ## Privacy and Adblock DNS
 
-- [Known DNS Providers | AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-providers/)
-- [Our 7 Best DNS Providers for Privacy (and adblocking) 2022 | avoidthehack!](https://avoidthehack.com/best-dns-privacy)
+- [Known DNS Providers - AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-providers/)
+- [Our 7 Best DNS Providers for Privacy (and adblocking) 2022 - avoidthehack!](https://avoidthehack.com/best-dns-privacy)
 
 ## Adbock DNS
 

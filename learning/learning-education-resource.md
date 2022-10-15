@@ -23,25 +23,25 @@ draft: false
 
 ## Quick Polling
 
-- [DirectPoll | Instant Polling & Real-Time Visualization](https://directpoll.com/), instant, free multiple questions
+- [DirectPoll - Instant Polling & Real-Time Visualization](https://directpoll.com/), instant, free multiple questions
 - [Fast Poll - Create instant, real-time polls for free!](https://fast-poll.com/), instant, free single question
 - [Mentimeter](https://www.mentimeter.com) free for 2 polling, 5 quizzes for unlimited audience
 - [Slido - Audience Interaction Made Easy](https://www.sli.do/), free for 3 polls, unlimited quizzes, per event up to 100 participants
-- [Kahoot! | Learning games | Make learning awesome!](https://kahoot.com/) free for quizzes for 10 participants
-- [Make a Poll in Seconds | Free & Unlimited | Poll Maker](https://www.poll-maker.com/)
+- [Kahoot! - Learning games - Make learning awesome!](https://kahoot.com/) free for quizzes for 10 participants
+- [Make a Poll in Seconds - Free & Unlimited - Poll Maker](https://www.poll-maker.com/)
 - [PINGO–Peer Instruction for very large Groups, Classroom-Response-System, Audience-Feedback](http://trypingo.com/)
 
 ## Learning Tools
 
 - [Padlet](https://padlet.com/dashboard)
-- [Free Online Learning Resources For Back to School 2021 | Tech & Learning](https://www.techlearning.com/resources/free-online-learning-resources-for-schools-affected-by-coronaviruscovid-19)
-- [Educator Level 1 | Teacher Center | Google for Education](https://edu.google.com/teacher-center/certifications/educator-level1/?modal_active=none)
+- [Free Online Learning Resources For Back to School 2021 - Tech & Learning](https://www.techlearning.com/resources/free-online-learning-resources-for-schools-affected-by-coronaviruscovid-19)
+- [Educator Level 1 - Teacher Center - Google for Education](https://edu.google.com/teacher-center/certifications/educator-level1/?modal_active=none)
 - [Fundamentals Training : Google](https://skillshop.exceedlms.com/student/path/61209-fundamentals-training)
 
 ## Education
 
 - [Flipped classroom - Wikipedia](https://en.wikipedia.org/wiki/Flipped_classroom)
-- [Konsep Dasar Metode Flipped Classroom | PPIP](https://www.usd.ac.id/pusat/ppip/2020/05/04/konsep-dasar-metode-flipped-classroom/)
+- [Konsep Dasar Metode Flipped Classroom - PPIP](https://www.usd.ac.id/pusat/ppip/2020/05/04/konsep-dasar-metode-flipped-classroom/)
 - [What, Why, and How to Implement a Flipped Classroom Model](https://omerad.msu.edu/teaching/teaching-strategies/27-teaching/162-what-why-and-how-to-implement-a-flipped-classroom-model)
 
 ## How to Learn
@@ -84,10 +84,10 @@ draft: false
 
 ## Bloom Taxonomy
 
-- [Bloom’s Taxonomy | Center for Teaching | Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) Revised Bloom
+- [Bloom’s Taxonomy - Center for Teaching - Vanderbilt University](https://cft.vanderbilt.edu/guides-sub-pages/blooms-taxonomy/) Revised Bloom
 - [Revised Bloom’s Taxonomy • Center for Excellence in Learning and Teaching • Iowa State University](https://www.celt.iastate.edu/teaching/effective-teaching-practices/revised-blooms-taxonomy/)
 - [Learning Objective Maker](https://learning-objectives.easygenerator.com/) Learning objective generator
-- [Learning Outcomes Generator | Office of Student Persistence Research | University of Nevada, Reno](https://www.unr.edu/student-persistence-research/outcomes-assessment/learning-outcomes-generator)
+- [Learning Outcomes Generator - Office of Student Persistence Research - University of Nevada, Reno](https://www.unr.edu/student-persistence-research/outcomes-assessment/learning-outcomes-generator)
 - [Bloom's taxonomy - Wikipedia](https://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 
 ## E-learning Gamification
@@ -143,7 +143,7 @@ Progress bars can help by visualizing their advancements. You can even add a bit
 ## Asesmen dan Prestasi Siswa  
 
 - [Asesmen Nasional - Tahun 2021](https://anbk.kemdikbud.go.id/)
-- [Beranda | Pusat Prestasi Nasional](https://pusatprestasinasional.kemdikbud.go.id/)
+- [Beranda - Pusat Prestasi Nasional](https://pusatprestasinasional.kemdikbud.go.id/)
 
 ## Wawancara
 

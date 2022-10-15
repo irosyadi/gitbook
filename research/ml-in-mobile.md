@@ -18,7 +18,7 @@ draft: false
 
 ## Mobile ML
 
-- [PalletML | Machine Learning on Mobile](https://palletml.com/)
+- [PalletML - Machine Learning on Mobile](https://palletml.com/)
 
 ## ML Architecture for Mobile
 

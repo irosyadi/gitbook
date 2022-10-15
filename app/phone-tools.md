@@ -11,7 +11,7 @@ draft: false
 
 ## Rekening Checking
 
-- [CekRekening.id | Laporkan Penyalahgunaan Rekening](https://cekrekening.id/)
+- [CekRekening.id - Laporkan Penyalahgunaan Rekening](https://cekrekening.id/)
 
 💡 : melaporkan rekening yang dipakai untuk penipuan
 

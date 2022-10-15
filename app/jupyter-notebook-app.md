@@ -93,7 +93,7 @@ Related links:
 
 ## Jupyter Lab
 
-- [JupyterLab Desktop App now available! | by Mehmet Bektas | Sep, 2021 | Jupyter Blog](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
+- [JupyterLab Desktop App now available! - by Mehmet Bektas - Sep, 2021 - Jupyter Blog](https://blog.jupyter.org/jupyterlab-desktop-app-now-available-b8b661b17e9a)
 
 ## Jupyter Colaboration
 
@@ -102,7 +102,7 @@ Related links:
 
 ## Jupyter
 
-- [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python | by Jeremy Tuloup | Jul, 2021 | Jupyter Blog](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
+- [JupyterLite: Jupyter ❤️ WebAssembly ❤️ Python - by Jeremy Tuloup - Jul, 2021 - Jupyter Blog](https://blog.jupyter.org/jupyterlite-jupyter-%EF%B8%8F-webassembly-%EF%B8%8F-python-f6e2e41ab3fa)
 - [deepklarity/jupyter-text2code: A proof-of-concept jupyter extension which converts english queries into relevant python code](https://github.com/deepklarity/jupyter-text2code)
 - [deepklarity/jupyter-text2code: A proof-of-concept jupyter extension which converts english queries into relevant python code](https://github.com/deepklarity/jupyter-text2code)
 
@@ -121,22 +121,22 @@ Related links:
 - [paw-lu/nbpreview: A terminal viewer for Jupyter notebooks. It's like cat for ipynb files.](https://github.com/paw-lu/nbpreview)
 - [voila-dashboards/voila: Voilà turns Jupyter notebooks into standalone web applications](https://github.com/voila-dashboards/voila)
 - [mljar/mercury: Mercury: easily convert Python notebook to web app and share with others](https://github.com/mljar/mercury)
-- [Build web app from Python Notebook | MLJAR](https://mljar.com/mercury/)
+- [Build web app from Python Notebook - MLJAR](https://mljar.com/mercury/)
 - [Notebooks](https://jupyterspot.com/) Collaborative Jupyter Whiteboards
 
 ## Blog with Jupyter
 
-- [fastpages | An easy to use blogging platform with support for Jupyter Notebooks.](https://fastpages.fast.ai/)
+- [fastpages - An easy to use blogging platform with support for Jupyter Notebooks.](https://fastpages.fast.ai/)
     - [fastai/fastpages: An easy to use blogging platform, with enhanced support for Jupyter Notebooks.](https://github.com/fastai/fastpages)
-    - Example: [My First NN Part 3. Multi-Layer Networks and Backpropagation | Scott H. Hawley](https://drscotthawley.github.io/blog/2019/02/08/My-1st-NN-Part-3-Multi-Layer-and-Backprop.html)
-- [Data science notebooks in Review 2020 | by Elizabeth Dlha | Deepnote | Deepnote](https://medium.com/deepnote/data-science-notebooks-2020-review-15a3c95cfc09)
+    - Example: [My First NN Part 3. Multi-Layer Networks and Backpropagation - Scott H. Hawley](https://drscotthawley.github.io/blog/2019/02/08/My-1st-NN-Part-3-Multi-Layer-and-Backprop.html)
+- [Data science notebooks in Review 2020 - by Elizabeth Dlha - Deepnote - Deepnote](https://medium.com/deepnote/data-science-notebooks-2020-review-15a3c95cfc09)
 
 ## Jupyter Notebook How To
 
 - [Archive](https://pabloinsente.github.io/archive) License: CC0
     - [Introduction to Jupyter Notebooks - set-up, user-guide, and best practices](https://pabloinsente.github.io/intro-jupyter-ide)
     - [How to Create a Jupyter-Book Website From Scratch](https://pabloinsente.github.io/how-to-create-a-jupyter-book-website-from-scratch)
-- [8 surprising ways how to use Jupyter Notebook | MLJAR](https://mljar.com/blog/how-to-use-jupyter-notebook/)
+- [8 surprising ways how to use Jupyter Notebook - MLJAR](https://mljar.com/blog/how-to-use-jupyter-notebook/)
 
 ## Jupyter
 

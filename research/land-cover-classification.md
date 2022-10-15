@@ -15,5 +15,5 @@ tags:
 
 * [Land cover data just got real-time](https://blog.google/products/earth/dynamic-world-land-cover-data/)
 * [New near-real-time tool reveals Earth’s land cover in more detail than ever before](https://news.mongabay.com/2022/06/new-near-real-time-tool-reveals-earths-land-cover-in-more-detail-than-ever-before/)
-* [Datasets tagged landcover in Earth Engine  |  Earth Engine Data Catalog  |  Google Developers](https://developers.google.com/earth-engine/datasets/tags/landcover)
+* [Datasets tagged landcover in Earth Engine  -  Earth Engine Data Catalog  -  Google Developers](https://developers.google.com/earth-engine/datasets/tags/landcover)
 * [Geohackweek 2019](https://geohackweek.github.io/)

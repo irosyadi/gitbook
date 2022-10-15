@@ -72,7 +72,7 @@ draft: false
 ## Code Search Engine
 
 - [Sourcegraph Code Search](https://sourcegraph.com/search)
-- [grep.app | code search](https://grep.app/)
+- [grep.app - code search](https://grep.app/)
 
 ## Specific Search Engine
 
@@ -83,7 +83,7 @@ draft: false
 
 - [Marginalia Search](https://search.marginalia.nu/) Blog search
 - [Heline - Code search for modern developer 🚀.](https://heline.dev/)
-- [Blog Surf | Blog Search Engine](https://blogsurf.io/)
+- [Blog Surf - Blog Search Engine](https://blogsurf.io/)
 
 ## Powerpoint Search Engine
 
@@ -119,11 +119,11 @@ draft: false
 
 ## Search Engine
 
-- [TUXDEX | Anonymous Search Engine](https://www.tuxdex.com/)
+- [TUXDEX - Anonymous Search Engine](https://www.tuxdex.com/)
 
 ## Product Search
 
-[Product Reviews | Explore and compare the most popular products](https://looria.com/)
+[Product Reviews - Explore and compare the most popular products](https://looria.com/)
 
 ## Fast Specific Search Engine
 

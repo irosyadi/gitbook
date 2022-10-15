@@ -27,4 +27,4 @@ draft: false
 - [Stackby - Spreadsheets Databases and APIs in single workspace](https://stackby.com/)
 - [SeaTable.io - Online Spreadsheet](https://seatable.io/en/)
 - [Baserow: Open source online database tool](https://baserow.io/)
-- [NocoDB | Turns your SQL database into a Nocode platform. Free & Open Source.](https://nocodb.com/)
+- [NocoDB - Turns your SQL database into a Nocode platform. Free & Open Source.](https://nocodb.com/)

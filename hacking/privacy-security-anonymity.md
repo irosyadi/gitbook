@@ -53,12 +53,12 @@ draft: false
 ## Anonimity Security
 
 - [Redact - Delete Your Social Media Posts](https://redact.dev/)
-- [The Hitchhiker’s Guide to Online Anonymity | The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
+- [The Hitchhiker’s Guide to Online Anonymity - The Hitchhiker’s Guide to Online Anonymity](https://anonymousplanet.org/)
 - [Kash](https://kg.dev/thoughts/be-anonymous)
 
 ## Privacy
 
-- [degoogle | A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://degoogle.jmoore.dev/)
+- [degoogle - A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://degoogle.jmoore.dev/)
 
 ## Windows Privacy
 
@@ -73,7 +73,7 @@ draft: false
 
 ## Privacy
 
-- [Opinion | They Stormed the Capitol. Their Apps Tracked Them. - The New York Times](https://www.nytimes.com/2021/02/05/opinion/capitol-attack-cellphone-data.html)
+- [Opinion - They Stormed the Capitol. Their Apps Tracked Them. - The New York Times](https://www.nytimes.com/2021/02/05/opinion/capitol-attack-cellphone-data.html)
 - [Your Fingerprint Can Be Hacked For $5. Here’s How. - Kraken Blog](https://blog.kraken.com/post/11905/your-fingerprint-can-be-hacked-for-5-heres-how/)
 
 ## Browser Privacy
@@ -102,7 +102,7 @@ draft: false
 
 ## Security
 
-- [Share a secret | 🤫 scrt.link](https://scrt.link/)
+- [Share a secret - 🤫 scrt.link](https://scrt.link/)
 
 ## Security
 
@@ -126,7 +126,7 @@ draft: false
 
 ## Security
 
-- [Known DNS Providers | AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-providers#adguard-dns)
+- [Known DNS Providers - AdGuard Knowledgebase](https://kb.adguard.com/en/general/dns-providers#adguard-dns)
 - [DNSCrypt Public Server](https://dnscrypt.info/public-servers/)
 - [DNSCrypt Client](https://dnscrypt.info/implementations)
 - [Creating your own VPN with PiHole & UnBound on AWS](https://skerritt.blog/pihole-vpn/)

@@ -109,12 +109,12 @@ draft: false
 - [Numerical Linear Algebra: Lloyd N. Trefethen, David Bau III: 8581000033141: Books: Amazon.com](https://www.amazon.com/Numerical-Linear-Algebra-Lloyd-Trefethen/dp/0898713617)
 - [Linear Algebra: Step by Step: Singh, Kuldeep: 8601300149776: Books: Amazon.com](https://www.amazon.com/Linear-Algebra-Step-Kuldeep-Singh/dp/0199654441)
 - [No Bullshit Guide to Linear Algebra](https://minireference.gumroad.com/l/noBSLA)
-- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Linear Algebra - Mathematics - MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Free Linear Algebra textbook, from Jim Hefferon](https://hefferon.net/linearalgebra/index.html) CC-BY
 - [Linear Algebra Done Wrong](https://www.math.brown.edu/streil/papers/LADW/) CC-BY
 - [Introduction to Applied Linear Algebra–Vectors, Matrices, and Least Squares](https://web.stanford.edu/~boyd/vmls/)
 - [Practical Linear Algebra: A Geometry Toolbox , Fourth Edition](http://www.farinhansford.com/books/pla/)
-- [Linear Algebra | Mathematics | MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
+- [Linear Algebra - Mathematics - MIT OpenCourseWare](https://ocw.mit.edu/courses/18-06-linear-algebra-spring-2010/)
 - [Linear and Geometric Algebra](http://www.faculty.luther.edu/~macdonal/laga/)
 - [Contents - 3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
 

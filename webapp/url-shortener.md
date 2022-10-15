@@ -8,7 +8,7 @@ tags:
 - [ShadyURL - Don't just shorten your URL, make it suspicious and frightening.](http://shadyurl.com/)
 - [A(x56) - URL Lengthener](https://aaa.aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
 - [AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA](http://aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa.com/)
-- [T.LY | URL Shortener, Custom Domain & Link Management](https://t.ly/home)
+- [T.LY - URL Shortener, Custom Domain & Link Management](https://t.ly/home)
 
 # URL Shortener
 

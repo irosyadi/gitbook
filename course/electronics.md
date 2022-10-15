@@ -11,7 +11,7 @@ draft: false
 
 ## Electronic Blog
 
-* [Evil Mad Scientist Laboratories | Making the world a better place, one Evil Mad Scientist at a time.](https://www.evilmadscientist.com/)
+* [Evil Mad Scientist Laboratories - Making the world a better place, one Evil Mad Scientist at a time.](https://www.evilmadscientist.com/)
 
 ## Electronic Simulator
 
@@ -52,8 +52,8 @@ draft: false
 * [Learn Sparkfun](https://learn.sparkfun.com/)
 * [All About Circuits](https://www.allaboutcircuits.com)
 * [Talking Electronics](https://www.talkingelectronics.com/)
-* [Learning the Art of Electronics: A Hands-on Approach | by Thomas C. Hayes](https://learningtheartofelectronics.com/)
+* [Learning the Art of Electronics: A Hands-on Approach - by Thomas C. Hayes](https://learningtheartofelectronics.com/)
 * [Electronics with Jim Fiore at MVCC](https://www2.mvcc.edu//users/faculty/jfiore/index.cfm)
 * [Electromagnetics, Volume 1](https://vtechworks.lib.vt.edu/handle/10919/84164)
 * [Electronics I and II: Analog Devices Wiki](https://wiki.analog.com/university/courses/electronics/text/electronics-toc)
-* [Software-Defined Radio for Engineers, 2018 | Education | Analog Devices](https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html#)
+* [Software-Defined Radio for Engineers, 2018 - Education - Analog Devices](https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html#)

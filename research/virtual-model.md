@@ -18,7 +18,7 @@ draft: false
 ### List
 
 - [Top Open-Source Tools, Frameworks for Metaverse Development](https://www.itprotoday.com/software-development/top-7-open-source-tools-and-frameworks-metaverse-development)
-- [Metaverse design toolkit. The concept of a metaverse that became…| by Nick Babich | UX Planet](https://uxplanet.org/metaverse-design-toolkit-a3c6f4b049f0)
+- [Metaverse design toolkit. The concept of a metaverse that became…- by Nick Babich - UX Planet](https://uxplanet.org/metaverse-design-toolkit-a3c6f4b049f0)
 - [Top Open-Source Tools And Frameworks For Metaverse](https://www.hyperlinkinfosystem.com/blog/top-open-source-tools-and-frameworks-for-metaverse)
 - [Top 12 Metaverse Workplace Tools - Startup Stash](https://startupstash.com/metaverse-workplace-tools/)
 - [20 Best FREE 3D Animation Software (2022 Update)](https://www.guru99.com/best-3d-animation-software.html)
@@ -38,7 +38,7 @@ draft: false
 - [Cryengine](https://www.cryengine.com/)
 - [Visual Components - 3D manufacturing simulation software](https://www.visualcomponents.com/)
 - [Maplesoft - Software for Mathematics, Online Learning, Engineering](https://www.maplesoft.com/)
-- [Simulation, Production Planning and Scheduling Software | Simio](https://www.simio.com/index.php)
+- [Simulation, Production Planning and Scheduling Software - Simio](https://www.simio.com/index.php)
 
 ### 3D Modeling Tools
 
@@ -49,14 +49,14 @@ draft: false
 - [3DS and Maya](https://www.autodesk.com/products/maya/overview)
     - [Autodesk Forge](https://forge.autodesk.com/) The Forge Platform offers APIs and services that help you access and use your design and engineering data via the cloud.
     - [Autodesk Viewer](https://developer.autodesk.com/en/docs/viewer/v2)
-- [Tech Soft 3D | 3D Development Tools for Engineering Applications](https://www.techsoft3d.com/)
+- [Tech Soft 3D - 3D Development Tools for Engineering Applications](https://www.techsoft3d.com/)
 - [CADmeister 3D CAD/CAM System](https://www.biprogy-uel.co.jp/cadmeister/e/index.shtml)
 - [NVIDIA Omniverse](https://www.nvidia.com/en-us/omniverse/creators/) Free
 - Autodesk Fusion 360, Free
 - [LibreCAD - Free Open Source 2D CAD](https://librecad.org/) Free
 - [SolveSpace - parametric 3d CAD](https://solvespace.com/index.pl) Free
-- [Education Plan | Onshape Product Development Platform](https://www.onshape.com/en/education/) Free
-- [Fusion 360 | Fusion 360 | Autodesk Knowledge Network](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html)
+- [Education Plan - Onshape Product Development Platform](https://www.onshape.com/en/education/) Free
+- [Fusion 360 - Fusion 360 - Autodesk Knowledge Network](https://knowledge.autodesk.com/support/fusion-360/troubleshooting/caas/sfdcarticles/sfdcarticles/How-to-activate-start-up-or-educational-licensing-for-Fusion-360.html)
 
 ### Avatar creation
 
@@ -66,7 +66,7 @@ draft: false
 ### Augmented Reality
 
 - [Augmented Reality App and Studio for your company - 3DQR](https://3dqr.de/en/)
-- [DottyAR | InstantAR - First Instant Augmented Reality viewer from your website.](https://dottyar.com/)
+- [DottyAR - InstantAR - First Instant Augmented Reality viewer from your website.](https://dottyar.com/)
 
 ### Metaverse Environment
 
@@ -88,14 +88,14 @@ draft: false
 - [Open3D: A Modern Library for 3D Data Processing—Open3D 0.15.1 documentation](http://www.open3d.org/docs/release/index.html#) 3D Free
 - [HARFANG® 3D - Real Time Visualization Tools](https://www.harfang3d.com/en_US/) 3D Free [harfang3d/harfang3d: HARFANG 3D source code public repository](https://github.com/harfang3d/harfang3d)
     - [harfang3d/python-digital-twin: 3D Digital Twin of a Poppy Ergo Junior robot, in Python](https://github.com/harfang3d/python-digital-twin)
-- [3D Animation Software for Character Animator | iClone](https://www.reallusion.com/iclone/default.html) Paid
-- [Mari | High Resolution 3D Painting Software](https://www.foundry.com/products/mari) Paid
+- [3D Animation Software for Character Animator - iClone](https://www.reallusion.com/iclone/default.html) Paid
+- [Mari - High Resolution 3D Painting Software](https://www.foundry.com/products/mari) Paid
 - [Vismach](https://linuxcnc.org/docs/2.8/html/gui/vismach.html)
 - [DART: Dynamic Animation and Robotics Toolkit](https://dartsim.github.io/index.html)
 - [STEP Tools, Inc. - Digital Thread, STEP and IFC Solutions](https://www.steptools.com/) Paid
 - [Visual Components - 3D manufacturing simulation software](https://www.visualcomponents.com/) Paid
 - [UPBGE](https://upbge.org/#/) Free Game Engine
-- [Panda3D | Open Source Framework for 3D Rendering & Games](https://www.panda3d.org/) 3D Free
+- [Panda3D - Open Source Framework for 3D Rendering & Games](https://www.panda3d.org/) 3D Free
 - [Gazebo](https://classic.gazebosim.org/) 3D Robotic Free
 - [OpenSCAD - The Programmers Solid 3D CAD Modeller](https://openscad.org/) 3D Free [SolidCode/SolidPython: A python frontend for solid modelling that compiles to OpenSCAD](https://github.com/SolidCode/SolidPython)
 - [dbrgn/tangible: Tangible is a Python library to convert data into tangible 3D models.](https://github.com/dbrgn/tangible)
@@ -107,7 +107,7 @@ draft: false
 - [ZenCad](https://mirmik.github.io/zencad/en/) 3D CAD Free
 - [libfive::Home](https://libfive.com/) 3D CAD Free
 - [SolveSpace - parametric 3d CAD](https://solvespace.com/index.pl) CAD Free
-- [Open Cascade CAD software for engineering | 3D CAD software](https://www.opencascade.com/products/)
+- [Open Cascade CAD software for engineering - 3D CAD software](https://www.opencascade.com/products/)
 
 ## CFD
 
@@ -125,7 +125,7 @@ draft: false
 
 ## Tutorial
 
-- [Integrating LoRaWAN sensors in your Digital Twins environment | End-to-end tutorial on how to create digital twins of your LoRaWAN sensors and visualize them in a 3D environment.](https://kartben.github.io/lorawan-adt-demo/) Blender, Azure, Arduino
+- [Integrating LoRaWAN sensors in your Digital Twins environment - End-to-end tutorial on how to create digital twins of your LoRaWAN sensors and visualize them in a 3D environment.](https://kartben.github.io/lorawan-adt-demo/) Blender, Azure, Arduino
 - [Extending the AZ-220 Digital Twins hands-on lab with 3D visualization–Sander van de Velde](https://sandervandevelde.wordpress.com/2022/08/04/extending-the-az-220-digital-twins-hands-on-lab-with-3d-visualization/)
 
 ## Motor Simulator
@@ -138,13 +138,13 @@ simulation, to be used later in a C reimplementation directly in Open-BLDC runni
 - [gtoonstra/bldc-sim: A simulator written in python with some basic diagramming functions for BLDC motor control analysis](https://github.com/gtoonstra/bldc-sim)
 - [upb-lea/gym-electric-motor: Gym Electric Motor (GEM): An OpenAI Gym Environment for Electric Motors](https://github.com/upb-lea/gym-electric-motor)
 - [Opal RLT - EV simulator │ Electric motor simulation software │ HEV](https://www.opal-rt.com/hybrid-and-electrical-transportation/)
-- [Comsol - Analyzing Electric Motor and Generator Designs with COMSOL® | COMSOL Blog](https://www.comsol.com/blogs/analyzing-electric-motor-and-generator-designs-with-comsol/)
+- [Comsol - Analyzing Electric Motor and Generator Designs with COMSOL® - COMSOL Blog](https://www.comsol.com/blogs/analyzing-electric-motor-and-generator-designs-with-comsol/)
 - [Ansys - Electric Motor Design, Analysis & Verification - Wilde Analysis Ltd](https://wildeanalysis.co.uk/software/design-simulation/ansys/electromagnetics/electric-motors/)
 
 ## Physics Simulation
 
 - [Lesics - YouTube](https://www.youtube.com/c/Lesics/videos)
-- [Brushless DC Motor Animation | TI.com Video](https://training.ti.com/brushless-dc-motor-animation)
+- [Brushless DC Motor Animation - TI.com Video](https://training.ti.com/brushless-dc-motor-animation)
 - [Symphy](https://simphy.com/)
 - [Simpy](https://simpy.readthedocs.io/en/latest/)
 - [VPython](http://www.visualrelativity.com/vpython/)
@@ -160,7 +160,7 @@ simulation, to be used later in a C reimplementation directly in Open-BLDC runni
 - [hoffstadt/DearPyGui: Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies](https://github.com/hoffstadt/DearPyGui/)
 - [The Animation Framework - Qt for Python](https://doc.qt.io/qtforpython/overviews/animation-overview.html)
 - [Plotly Python Graphing Library](https://plotly.com/python/)
-- [How to Build a Real-time SCADA System Using Python and Arduino | by M Khorasani | Towards Data Science](https://towardsdatascience.com/how-to-build-a-real-time-scada-system-using-python-and-arduino-7b3acaf86d39)
+- [How to Build a Real-time SCADA System Using Python and Arduino - by M Khorasani - Towards Data Science](https://towardsdatascience.com/how-to-build-a-real-time-scada-system-using-python-and-arduino-7b3acaf86d39)
 - [tkinter—Python interface to Tcl/Tk—Python 3.10.5 documentation](https://docs.python.org/3/library/tkinter.html)
 - [samirak93/Game-Animation: A python tool to visualise game animations](https://github.com/samirak93/Game-Animation)
 - [JacquesLucke/animation_nodes: Node based visual scripting system designed for motion graphics in Blender.](https://github.com/JacquesLucke/animation_nodes)
@@ -264,7 +264,7 @@ The term regularly crops up in manufacturing, maintenance, smart cities, IoT and
 
 As pointed out by many over the years - the concepts are also described by Prof.David Gelernter in his book 'MIrror Worlds: Or the Day Software Puts the Universe in a Shoebox...How It Will Happen and What It Will Mean' first ipublished in 1991.
 
-[Digital Twin Software | GE Digital](https://www.ge.com/digital/applications/digital-twin)  
+[Digital Twin Software - GE Digital](https://www.ge.com/digital/applications/digital-twin)  
 [How Digital Twins Can Transform Track Maintenance - Railway Age](https://www.railwayage.com/news/how-digital-twins-support-big-data-driven-decisions-to-transform-track-maintenance/)  
 [Realizing the Potential for Digital Twins in Rail - Railway Age](https://www.railwayage.com/news/realizing-the-potential-for-digital-twins-in-rail/)
 
@@ -329,23 +329,23 @@ Candidate list
 
 - [Awesome gauges for Node-Red - YouTube](https://www.youtube.com/watch?v=qr1BzXzLWe4)
 - [Animated Node-Red Graphics with MQTT and SVG–Fun Tech Projects](https://funprojects.blog/2020/04/15/animated-node-red-graphics-with-mqtt-and-svg/)
-- [Animation | Inkscape](https://inkscape.org/learn/animation/)
+- [Animation - Inkscape](https://inkscape.org/learn/animation/)
 - [Synfig–Free and open-source animation software](https://www.synfig.org/)
 
 ## 3D BLDC Motor
 
 - [▷ brushless dc motor design 3d models【STLFinder】](https://www.stlfinder.com/3dmodels/brushless-dc-motor-design/)
-- [Brushless DC Electric Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-electric-motor-2) Blender
-- [Brushless DC Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-motor-10) Freecad
-- [3 phase BLDC motor 2204 | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/3-phase-bldc-motor-2204-1) Freecad
-- [Brushless Motor ((6374) eq. Flipsky | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-motor-6374-eq-flipsky-1) Freecad
-- [hexTronik 24g Brushless Outrunner Motor 1300KV/ Turnigy 2730 1300 kV/ Blue Wonder Motor 1300KV/ Racerstar RC BR2211 1300KV | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/hextronik-24g-brushless-outrunner-motor-1300kv-turnigy-2730-1300-kv-blue-wonder-motor-1300kv-racerstar-rc-br2211-1300kv-1) Freecad
-- [Brushless Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-motor-6) Freecad
-- [DC Brushless Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/dc-brushless-motor-1) Solidwrks
-- [Brushless DC Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-motor-14) Solidworks
-- [Brushless-DC-Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-motor-7) Solidworks
-- [Brushless DC Motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-motor-15) Solidworks
-- [Brushless DC motor | 3D CAD Model Library | GrabCAD](https://grabcad.com/library/brushless-dc-motor-4) Solidworks [YT Tutorial](https://www.youtube.com/watch?v=9c5F1E9n0vk&t=22s)  
+- [Brushless DC Electric Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-electric-motor-2) Blender
+- [Brushless DC Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-motor-10) Freecad
+- [3 phase BLDC motor 2204 - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/3-phase-bldc-motor-2204-1) Freecad
+- [Brushless Motor ((6374) eq. Flipsky - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-motor-6374-eq-flipsky-1) Freecad
+- [hexTronik 24g Brushless Outrunner Motor 1300KV/ Turnigy 2730 1300 kV/ Blue Wonder Motor 1300KV/ Racerstar RC BR2211 1300KV - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/hextronik-24g-brushless-outrunner-motor-1300kv-turnigy-2730-1300-kv-blue-wonder-motor-1300kv-racerstar-rc-br2211-1300kv-1) Freecad
+- [Brushless Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-motor-6) Freecad
+- [DC Brushless Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/dc-brushless-motor-1) Solidwrks
+- [Brushless DC Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-motor-14) Solidworks
+- [Brushless-DC-Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-motor-7) Solidworks
+- [Brushless DC Motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-motor-15) Solidworks
+- [Brushless DC motor - 3D CAD Model Library - GrabCAD](https://grabcad.com/library/brushless-dc-motor-4) Solidworks [YT Tutorial](https://www.youtube.com/watch?v=9c5F1E9n0vk&t=22s)  
 Important
 - [Assembly 4 Workbench - YouTube](https://www.youtube.com/watch?v=U5Ra_L7QhlA) Freecad
 - [RobotComponents/Printed-BLDC-motor at main · RepRapLtd/RobotComponents](https://github.com/RepRapLtd/RobotComponents/tree/main/Printed-BLDC-motor) [Blog - RepRap Ltd](https://reprapltd.com/blog/)
@@ -371,7 +371,7 @@ PYthon GUI
 - [pygui](http://pygui)
 - Tkinter (see [002-Python reading Arduino - STM32 Serial data using Graphic User Interface GUI Tkinter & threading - YouTube](https://www.youtube.com/watch?v=x_5VbOOskw0&t=4747s)) [Tkinter](https://wiki.python.org/moin/TkInter)
 - [pysimplegui](http://pysimplegui) [Pysimplegui](https://pysimplegui.readthedocs.io/en/latest/)
-- [Welcome to wxPython! | wxPython](https://www.wxpython.org/)
+- [Welcome to wxPython! - wxPython](https://www.wxpython.org/)
 
 Python Graph
 
@@ -416,8 +416,8 @@ Pygame, PyopenGL, Pyglet, and Panda3D
 
 ## IoT Platform
 
-- [IoT platform | Internet of Things | Ubidots](https://ubidots.com/)
-- [Datacake | Low Code IoT Platform | White Label | LoRaWAN](https://datacake.co/)
+- [IoT platform - Internet of Things - Ubidots](https://ubidots.com/)
+- [Datacake - Low Code IoT Platform - White Label - LoRaWAN](https://datacake.co/)
 
 The Route:  
 Use Python. build model upon Headless Freecad. With PyQT GUI.

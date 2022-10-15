@@ -33,7 +33,7 @@ draft: false
 
 ## Automation
 
-- [Hello from SikuliX | SikuliX](https://sikulix.github.io/) [RaiMan's SikuliX](http://sikulix.com/) [RaiMan/SikuliX1: SikuliX version 2.0.0+ (2019+)](https://github.com/RaiMan/SikuliX1)
+- [Hello from SikuliX - SikuliX](https://sikulix.github.io/) [RaiMan's SikuliX](http://sikulix.com/) [RaiMan/SikuliX1: SikuliX version 2.0.0+ (2019+)](https://github.com/RaiMan/SikuliX1)
 
 ## Automation
 
@@ -41,7 +41,7 @@ draft: false
 
 ## Web Automation
 
--[Helena | Web Automation for End Users](https://helena-lang.org/)
+-[Helena - Web Automation for End Users](https://helena-lang.org/)
 
 ## Automation
 

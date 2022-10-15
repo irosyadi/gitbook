@@ -25,4 +25,4 @@ draft: false
 - [fivefilters/block-ads: Web page to test ad blocking and encourage use of blockers.](https://github.com/fivefilters/block-ads)
 - [Blokada - the best ad blocker for Android and iOS, free and open source](https://blokada.org/#download)
 - [AdAway/AdAway: AdAway is a free and open source ad blocker for Android.](https://github.com/AdAway/AdAway)
-- [oisd | downloads](https://oisd.nl/downloads)
+- [oisd - downloads](https://oisd.nl/downloads)

@@ -89,8 +89,8 @@ draft: false
 - **mean Average Precision** (mAP) score is calculated by taking the mean AP over all classes and/or over all IoU thresholds. Mean average precision (mAP) is used to determine the accuracy of a set of object detections from a model when compared to ground-truth object annotations of a dataset.  
 Note:
 - [What is Mean Average Precision (mAP) in Object Detection?](https://blog.roboflow.com/mean-average-precision/)
-- [Mean Average Precision (mAP) Explained | Paperspace Blog](https://blog.paperspace.com/mean-average-precision/)
-- [mAP (mean Average Precision) might confuse you! | by Shivy Yohanandan | Towards Data Science](https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2)
+- [Mean Average Precision (mAP) Explained - Paperspace Blog](https://blog.paperspace.com/mean-average-precision/)
+- [mAP (mean Average Precision) might confuse you! - by Shivy Yohanandan - Towards Data Science](https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2)
 
 ## Reference
 
@@ -104,15 +104,15 @@ Note:
 - [MaP for Object Detection](https://jonathan-hui.medium.com/map-mean-average-precision-for-object-detection-45c121a31173)
 - [Mathews Correlation COefficent](https://towardsdatascience.com/the-best-classification-metric-youve-never-heard-of-the-matthews-correlation-coefficient-3bf50a2f3e9a)
 - [IoU better detection](https://towardsdatascience.com/iou-a-better-detection-evaluation-metric-45a511185be1)
-- [Data Science in Medicine—Precision & Recall or Specificity & Sensitivity? | by Alon Lekhtman | Towards Data Science](https://towardsdatascience.com/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1)
-- [When Accuracy Isn’t Enough, Use Precision and Recall to Evaluate Classification Models | Built In](https://builtin.com/data-science/precision-and-recall)
+- [Data Science in Medicine—Precision & Recall or Specificity & Sensitivity? - by Alon Lekhtman - Towards Data Science](https://towardsdatascience.com/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1)
+- [When Accuracy Isn’t Enough, Use Precision and Recall to Evaluate Classification Models - Built In](https://builtin.com/data-science/precision-and-recall)
 
 ## Multiclass Metrics
 
-- [Multi-Class Metrics Made Simple, Part I: Precision and Recall | by Boaz Shmueli | Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
-- [Beyond Accuracy: Precision and Recall | by Will Koehrsen | Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
+- [Multi-Class Metrics Made Simple, Part I: Precision and Recall - by Boaz Shmueli - Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
+- [Beyond Accuracy: Precision and Recall - by Will Koehrsen - Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 - [How to Calculate Precision, Recall, and F-Measure for Imbalanced Classification](https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
-- [Metrics to Evaluate your Machine Learning Algorithm | by Aditya Mishra | Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
+- [Metrics to Evaluate your Machine Learning Algorithm - by Aditya Mishra - Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
 ## Accuracy, Precision, Error
 
@@ -138,7 +138,7 @@ Learn more:
 
 ## Machine Learning Overfitting Handling
 
-- [Handling overfitting in deep learning models | by Bert Carremans | Towards Data Science](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
+- [Handling overfitting in deep learning models - by Bert Carremans - Towards Data Science](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
 - [Overfitting in Machine Learning: What It Is and How to Prevent It](https://elitedatascience.com/overfitting-in-machine-learning)
-- [8 Simple Techniques to Prevent Overfitting | by David Chuan-En Lin | Towards Data Science](https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d)
+- [8 Simple Techniques to Prevent Overfitting - by David Chuan-En Lin - Towards Data Science](https://towardsdatascience.com/8-simple-techniques-to-prevent-overfitting-4d443da2ef7d)
 - [Bias Variance Tradeoff](https://elitedatascience.com/bias-variance-tradeoff)

@@ -55,4 +55,4 @@ draft: false
 
 ## Math Equation
 
-- [MathEquationAPI | Free API to Generate Math Equations On The Fly](https://mathequationapi.com/)
+- [MathEquationAPI - Free API to Generate Math Equations On The Fly](https://mathequationapi.com/)

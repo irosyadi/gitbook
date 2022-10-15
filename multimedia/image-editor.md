@@ -37,14 +37,14 @@ draft: false
 - [Remove BG](https://www.remove.bg/) : remove background with AI
 - [Erase BG](https://erase.bg/) : remove background with AI
 - [RemoveBackground.app](https://removebackground.app/)
-- [Online Background Remover 100% Free | PicWish](https://picwish.com/)
+- [Online Background Remover 100% Free - PicWish](https://picwish.com/)
 
 ## Dithering
 
 - [Dithering Image](https://ditherit.com/)
 - [Dithermark](https://app.dithermark.com/)
 - [Dither Me](https://doodad.dev/dither-me-this/)
-- [Dither Me This | Image Dithering Tool](https://doodad.dev/dither-me-this/)
+- [Dither Me This - Image Dithering Tool](https://doodad.dev/dither-me-this/)
 
 ## Image Forensic
 
@@ -59,7 +59,7 @@ draft: false
 - [TinyPNG](https://tinypng.com/) compress PNG to APNG
 - [Squoosh](https://squoosh.app/)
 - [GIF Compressor–Compress GIF Animations Online](https://gifcompressor.com/)
-- [JPG/JPEG/PNG/GIF/WebP compression to the smallest file size possible | Compress-Or-Die](https://compress-or-die.com/)
+- [JPG/JPEG/PNG/GIF/WebP compression to the smallest file size possible - Compress-Or-Die](https://compress-or-die.com/)
 
 ## Background Removal
 
@@ -82,7 +82,7 @@ draft: false
 
 ## Image Processing: Contect Aware Resizing
 
-- [Content-aware image resizing in JavaScript | Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
+- [Content-aware image resizing in JavaScript - Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 - [esimov/caire: Content aware image resize library](https://github.com/esimov/caire)
 - [jftuga/photo_id_resizer: Resize photo ID images using face recognition technology](https://github.com/jftuga/photo_id_resizer)
 - [Improved seam carving with forward energy](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
@@ -91,7 +91,7 @@ draft: false
 ## Image Cloaking
 
 - [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) : prevent photo identification by AI
-- [Betaface API | Open API for face recognition](https://www.betafaceapi.com/wpa/) : free face identification
+- [Betaface API - Open API for face recognition](https://www.betafaceapi.com/wpa/) : free face identification
 
 ## Image Search
 

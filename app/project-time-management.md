@@ -24,7 +24,7 @@ draft: false
 - [Kanban Project Management Software - Kanboard](https://kanboard.org/) self hosted in PHP
     - [Kanboard—Kanboard documentation](https://docs.kanboard.org/en/latest/index.html)
 - [Focalboard: Open source alternative to Trello, Asana, and Notion](https://www.focalboard.com/)
-- [Restyaboard - Open source Trello alternative, kanban board for task management | Restya](https://restya.com/board)
+- [Restyaboard - Open source Trello alternative, kanban board for task management - Restya](https://restya.com/board)
 - [Tekan—Kanban that stays with you](https://ibnishak.github.io/Tesseract/projects/tekan/Tekan.html)
 
 ## Pomodoro Apps
@@ -32,7 +32,7 @@ draft: false
 - [Foca: Pomodoro Focus Timer](https://play.google.com/store/apps/details?id=com.pomodoro.foca)
 - [Focus To-Do: Pomodoro & Tasks](https://play.google.com/store/apps/details?id=com.superelement.pomodoro)
 - [Pomodoro : + White noise](https://play.google.com/store/apps/details?id=com.kinp.pomodoro)
-- [Neu Pomodoro | Focus Timer](https://play.google.com/store/apps/details?id=com.develhoping.pomodoro)
+- [Neu Pomodoro - Focus Timer](https://play.google.com/store/apps/details?id=com.develhoping.pomodoro)
 
 ## GTD Time Management
 

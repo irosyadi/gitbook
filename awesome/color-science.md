@@ -161,17 +161,17 @@ draft: false
 ## Color
 
 - [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker/)
-- [An interactive review of Oklab | Raph Levien’s blog](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
+- [An interactive review of Oklab - Raph Levien’s blog](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
 - [Interactive color picker comparison](https://bottosson.github.io/misc/colorpicker/)
 - [SKEEM - 3D colorscheme generator](https://wolframhempel.github.io/skeeem/#62CC12,#060000,#F7E80B,#251DA7,#EF06B8)
 - [Color space conversions](http://colorjs.github.io/color-space/#112832)
 - [Visual representation of color names in different color models](https://codepen.io/meodai/full/zdgXJj)
 - [FarbVélo——Random Color Cycler](https://farbvelo.elastiq.ch/)
-- [Towards richer colors on the Web | Darker Ink](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
+- [Towards richer colors on the Web - Darker Ink](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
 
 ## Colormap
 
-- [How Bad Is Your Colormap? | Pythonic Perambulations](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
+- [How Bad Is Your Colormap? - Pythonic Perambulations](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
 - [Google AI Blog: Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 
 ## Color Palette
@@ -181,13 +181,13 @@ draft: false
 - [Color Palette Generator](https://www.degraeve.com/color-palette/)
 - [ColorSpace - Color Palettes Generator and Color Gradient Tool](https://mycolor.space/?hex=%23845EC2&sub=1)
 - [Coolors - The super fast color schemes generator!](https://coolors.co/)
-- [Color palette generator | Canva Colors](https://www.canva.com/colors/color-palette-generator/)
+- [Color palette generator - Canva Colors](https://www.canva.com/colors/color-palette-generator/)
 - [Color Palette Generator - Create Beautiful Color Schemes](https://colors.muz.li/)
-- [Color palette, the color scheme for artists | Adobe Color](https://color.adobe.com/explore)
-- [Color wheel, a color palette generator | Adobe Color](https://color.adobe.com/create/color-wheel/)
+- [Color palette, the color scheme for artists - Adobe Color](https://color.adobe.com/explore)
+- [Color wheel, a color palette generator - Adobe Color](https://color.adobe.com/create/color-wheel/)
 - [joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)
 
 ## Color
 
-- [Which color scale to use when visualizing data | Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
+- [Which color scale to use when visualizing data - Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 - [Sorted CSS Colors](https://enes.in/sorted-colors/)
