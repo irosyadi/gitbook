@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  Machine Learning Andrew Ng Quizes
+aliases: [Machine Learning Andrew Ng Quizzes]
+title: Machine Learning Andrew Ng Quizzes
+tags: ["machine learning"]
 date: 2021-01-06 03:57:09
 category: course
-tags: ["machine learning"]
 draft: false
 ---
 
@@ -14,7 +13,7 @@ draft: false
 
 ### Introduction
 
-1. A computer program is said to learn from experience E with respect to some task T and some performance measure P if its performance on T, as measured by P, improves with experience E. Suppose we feed a learning algorithm a lot of historical weather data, and have it learn to predict weather. **What would be a reasonable choice for P?** 
+1. A computer program is said to learn from experience E with respect to some task T and some performance measure P if its performance on T, as measured by P, improves with experience E. Suppose we feed a learning algorithm a lot of historical weather data, and have it learn to predict weather. **What would be a reasonable choice for P?**
     - 🗹 The probability of it correctly predicting a future date’s weather.
     - ☐ The weather prediction task.
     - ☐ The process of the algorithm examining a large amount of historical weather data.
@@ -38,17 +37,17 @@ draft: false
     - ☐ Classification
 6. Suppose you are working on stock market prediction. You would like to predict **whether or not a certain company will declare bankruptcy within the next 7 days** (by training on data of similar companies that had previously been at risk of bankruptcy).  
     Would you treat this as a classification or a regression problem?
-    -  Regression
+    - Regression
     - 🗹 Classification
 7. Suppose you are working on stock market prediction, Typically tens of millions of shares of Microsoft stock are traded (i.e., bought/sold) each day. You would like to predict the number of Microsoft shares that will be traded tomorrow.  
     Would you treat this as a classification or a regression problem?
     - 🗹 Regression
-    -  Classification
+    - Classification
 8. Some of the problems below are best addressed using a supervised learning algorithm, and the others with an unsupervised learning algorithm. Which of the following would you apply supervised learning to? (Select all that apply.) In each case, assume some appropriate dataset is available for your algorithm to learn from.  
     - 🗹 Given historical data of children’s ages and heights, predict children’s height as a function of their age.
     - 🗹 Given 50 articles written by male authors, and 50 articles written by female authors, learn to predict the gender of a new manuscript’s author (when the identity of this author is unknown).
-    -  Take a collection of 1000 essays written on the US Economy, and find a way to automatically group these essays into a small number of groups of essays that are somehow “similar” or “related”.
-    -  Examine a large collection of emails that are known to be spam email, to discover if there are sub-types of spam mail.
+    - Take a collection of 1000 essays written on the US Economy, and find a way to automatically group these essays into a small number of groups of essays that are somehow “similar” or “related”.
+    - Examine a large collection of emails that are known to be spam email, to discover if there are sub-types of spam mail.
 9. Some of the problems below are best addressed using a supervised learning algorithm, and the others with an unsupervised learning algorithm. Which of the following would you apply supervised learning to? (Select all that apply.) In each case, assume some appropriate dataset is available for your algorithm to learn from.  
     - ☐ Given data on how 1000 medical patients respond to an experimental drug (such as effectiveness of the treatment, side effects, etc.), discover whether there are different categories or “types” of patients in terms of how they respond to the drug, and if so what these categories are.
     - ☐ Given a large dataset of medical records from patients suffering from heart disease, try to learn whether there might be different clusters of such patients for which we might tailor separate treatments.
@@ -58,7 +57,7 @@ draft: false
     - ☐ Take a collection of 1000 essays written on the US Economy, and find a way to automatically group these essays into a small number of groups of essays that are somehow “similar” or “related”.
     - 🗹 Given genetic (DNA) data from a person, predict the odds of him/her developing diabetes over the next 10 years.
     - ☐ Examine a large collection of emails that are known to be spam email, to discover if there are sub-types of spam mail.
-    - 🗹  Examine the statistics of two football teams, and predict which team will win tomorrow’s match (given historical data of teams’ wins/losses to learn from).
+    - 🗹 Examine the statistics of two football teams, and predict which team will win tomorrow’s match (given historical data of teams’ wins/losses to learn from).
 11. Which of these is a reasonable definition of machine learning?  
     - ☐ Machine learning is the science of programming computers.
     - ☐ Machine learning learns from labeled data.
@@ -75,10 +74,14 @@ draft: false
     ```
     4 
     ```
+    
 2. Many substances that can burn (such as gasoline and alcohol) have a chemical structure based on carbon atoms; for this reason they are called hydrocarbons. A chemist wants to understand how the number of carbon atoms in a molecule affects how much energy is released when that molecule combusts (meaning that it is burned). The chemist obtains the dataset below. In the column on the right, “kJ/mol” is the unit measuring the amount of energy released.  
       
+
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253268_20210106042807663_5970.png)  
+
       
+
      You would like to use linear regression $h_\theta(x) = \theta_0 + \theta_1x$ to estimate the amount of energy released (y) as a function of the number of carbon atoms (x). Which of the following do you think will be the values you obtain for $\theta_0$ and $\theta_1$ ? You should be able to select the right answer without actually implementing linear regression.  
 
     - ☐ $\theta_0$ = −569.6, $\theta_1$ = 530.9
@@ -86,53 +89,61 @@ draft: false
     - 🗹 $\theta_0$ = −569.6, $\theta_1$ = −530.9
     - ☐ $\theta_0$ = −1780.0, $\theta_1$ = 530.9
 
-2. For this question, assume that we are using the training set from Q1.  
+3. For this question, assume that we are using the training set from Q1.  
     Recall our definition of the cost function was $J(\theta_0, \theta_1 ) = \frac{1}{2m} \sum_{i=1}^{m} (h (x^{(i)} ) - y^{(i)})^2$  
     What is $J(0,1)$? In the box below,  
     please enter your answer (Simplify fractions to decimals when entering answer, and ‘.’ as the decimal delimiter e.g., 1.5).  
+    
     ```
     0.5
     ```
-3. Suppose we set $\theta_0 = 0, \theta_1 = 1.5$ in the linear regression hypothesis from Q1. What is $h_\theta(2)$ ?  
+    
+4. Suppose we set $\theta_0 = 0, \theta_1 = 1.5$ in the linear regression hypothesis from Q1. What is $h_\theta(2)$ ?  
+    
     ```
     3
     ```
-3. Suppose we set $\theta_0 = -2, \theta_1 = 0.5$ in the linear regression hypothesis from Q1. What is $h_\theta(6)$?  
+    
+5. Suppose we set $\theta_0 = -2, \theta_1 = 0.5$ in the linear regression hypothesis from Q1. What is $h_\theta(6)$?  
+    
     ```
     1
     ```
-5. Let $f$ be some function so that $f(\theta_0 , \theta_1 )$ outputs a number. For this problem, f is some arbitrary/unknown smooth function (not necessarily the cost function of linear regression, so f may have local optima).
-Suppose we use gradient descent to try to minimize $f(\theta_0 , \theta_1 )$ as a function of $\theta_0$ and $\theta_1$.
+    
+6. Let $f$ be some function so that $f(\theta_0 , \theta_1 )$ outputs a number. For this problem, f is some arbitrary/unknown smooth function (not necessarily the cost function of linear regression, so f may have local optima).  
+Suppose we use gradient descent to try to minimize $f(\theta_0 , \theta_1 )$ as a function of $\theta_0$ and $\theta_1$.  
 Which of the following statements are true? (Check all that apply.)
     - 🗹 If $\theta_0$ and $\theta_1$ are initialized at the global minimum, then one iteration will not change their values.
     - ☐ Setting the learning rate $\alpha$ to be very small is not harmful, and can only speed up the convergence of gradient descent.
     - ☐ No matter how $\theta_0$ and $\theta_1$ are initialized, so long as $\alpha$ is sufficiently small, we can safely expect gradient descent to converge to the same solution.
-    - 🗹  If the first few iterations of gradient descent cause $f(\theta_0 , \theta_1)$ to increase rather than decrease, then the most likely cause is that we have set the learning rate $\alpha$ to too large a value.
-5. In the given figure, the cost function $J(\theta_0, \theta_1)$ has been plotted against $\theta_0$ and $\theta_1$, as shown in ‘Plot 2’. The contour plot for the same cost function is given in ‘Plot 1’. Based on the figure, choose the correct options (check all that apply).
+    - 🗹 If the first few iterations of gradient descent cause $f(\theta_0 , \theta_1)$ to increase rather than decrease, then the most likely cause is that we have set the learning rate $\alpha$ to too large a value.
+7. In the given figure, the cost function $J(\theta_0, \theta_1)$ has been plotted against $\theta_0$ and $\theta_1$, as shown in ‘Plot 2’. The contour plot for the same cost function is given in ‘Plot 1’. Based on the figure, choose the correct options (check all that apply).  
 ![Plots for Cost Function](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253271_20210106045949479_13558.png)
     - ☐ If we start from point B, gradient descent with a well-chosen learning rate will eventually help us reach at or near point A, as the value of cost function $J(\theta_0, \theta_1)$ is maximum at point A.
     - ☐ If we start from point B, gradient descent with a well-chosen learning rate will eventually help us reach at or near point C, as the value of cost function $J(\theta_0, \theta_1)$ is minimum at point C.
     - 🗹 Point P (the global minimum of plot 2) corresponds to point A of Plot 1.
     - 🗹 If we start from point B, gradient descent with a well-chosen learning rate will eventually help us reach at or near point A, as the value of cost function $J(\theta_0, \theta_1)$ is minimum at A.
     - ☐ Point P (The global minimum of plot 2) corresponds to point C of Plot 1.
-6. Suppose that for some linear regression problem (say, predicting housing prices as in the lecture), we have some training set, and for our training set we managed to find some $\theta_0, \theta_1$, such that $J(\theta_0 , \theta_1) = 0$.
+8. Suppose that for some linear regression problem (say, predicting housing prices as in the lecture), we have some training set, and for our training set we managed to find some $\theta_0, \theta_1$, such that $J(\theta_0 , \theta_1) = 0$.  
 Which of the statements below must then be true? (Check all that apply.)
     - ☐ Gradient descent is likely to get stuck at a local minimum and fail to find the global minimum.
-    - ☐ For this to be true, we must have $\theta_0 = 0$ and $\theta_1 = 0$
+    - ☐ For this to be true, we must have $\theta_0 = 0$ and $\theta_1 = 0$  
 so that $h_{\theta}(x) = 0$
     - ☐ For this to be true, we must have $y^{(i)} = 0$ for every value of $i = 1, 2,…,m$.
     - 🗹 Our training set can be fit perfectly by a straight line, i.e., all of our training examples lie perfectly on some straight line.
 
 ## Week 4
+
 ### Logistic Regression :
+
 1. Suppose that you have trained a logistic regression classifier, and it outputs on a new example a prediction $h_\theta(x) = 0.2$. This means (check all that apply):
     - ☐ Our estimate for P(y = 1|x; θ) is 0.8.
     - 🗹 Our estimate for P(y = 0|x; θ) is 0.8.
     - 🗹 Our estimate for P(y = 1|x; θ) is 0.2.
     - ☐ Our estimate for P(y = 0|x; θ) is 0.2.
-2. Suppose you have the following training set, and fit a logistic regression classifier $h_\theta(x) = g(\theta_0 + \theta_1x_1 + \theta_2x_2)$.
-Which of the following are true? Check all that apply.
-![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253274_20210106083228677_5192.png)
+2. Suppose you have the following training set, and fit a logistic regression classifier $h_\theta(x) = g(\theta_0 + \theta_1x_1 + \theta_2x_2)$.  
+Which of the following are true? Check all that apply.  
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253274_20210106083228677_5192.png)  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253275_20210106083244202_2232.png)
     - 🗹 Adding polynomial features (e.g., instead using $h_\theta(x) = g(\theta_0 + \theta_1 x_1 + \theta_2 x_2 + \theta_3 x_1^2 + \theta_4 x_1 x_2 + \theta_5 x_2^2 ))$ could increase how well we can fit the training data.
     - 🗹 At the optimal value of θ (e.g., found by fminunc), we will have $J(θ) ≥ 0$.
@@ -149,16 +160,17 @@ Which of the following are true? Check all that apply.
     - 🗹 The cost function $J(\theta)$ for logistic regression trained with $m \geq 1$ examples is always greater than or equal to zero.
     - ☐ Since we train one classifier when there are two classes, we train two classifiers when there are three classes (and we do one-vs-all classification).
 5. Suppose you train a logistic classifier $h_\theta(x) = g(\theta_0 + \theta_1x_1 + \theta_2x_2)$. Suppose $\theta_0 = 6$, $\theta_1 = -1$, $\theta_2 = 0$. Which of the following figures represents the decision boundary found by your classifier?
-    - 🗹  Figure:
+    - 🗹 Figure:  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253276_20210106084140048_15600.png)
-    - ☐  Figure:
+    - ☐ Figure:  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253277_20210106084157413_13022.png)
-    - ☐  Figure:
+    - ☐ Figure:  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253279_20210106084209408_957.png)
-    - ☐  Figure:
+    - ☐ Figure:  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253280_20210106084222258_31191.png)
 
 ### Regularization
+
 1. You are training a classification model with logistic regression. Which of the following statements are true? Check all that apply.
     - ☐ Introducing regularization to the model always results in equal or better performance on the training set.
     - ☐ Introducing regularization to the model always results in equal or better performance on examples not in the training set.
@@ -177,7 +189,7 @@ Which of the following are true? Check all that apply.
     - ☐ Because logistic regression outputs values $0 \leq h_\theta(x) \leq 1$, its range of output values can only be “shrunk” slightly by regularization anyway, so regularization is generally not helpful for it.
     - ☐ Because regularization causes $J(\theta)$ to no longer be convex, gradient descent may not always converge to the global minimum (when $\lambda > 0$, and when using an appropriate learning rate $\alpha$).
     - 🗹 Using too large a value of $\lambda$ can cause your hypothesis to underfit the data; this can be avoided by reducing $\lambda$.
-4. In which one of the following figures do you think the hypothesis has **overfit** the training set?
+5. In which one of the following figures do you think the hypothesis has **overfit** the training set?
     - 🗹 Figure:  
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253285_20210106085327397_3544.png)
     - ☐ Figure:  
@@ -186,7 +198,7 @@ Which of the following are true? Check all that apply.
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253283_20210106085326168_15899.png)
     - ☐ Figure:  
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253281_20210106085325553_12712.png)
-5. In which one of the following figures do you think the hypothesis has **underfit** the training set?
+6. In which one of the following figures do you think the hypothesis has **underfit** the training set?
     - 🗹 Figure:  
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253290_20210106085459252_8922.png)
     - ☐ Figure:  
@@ -197,44 +209,46 @@ Which of the following are true? Check all that apply.
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253286_20210106085457521_31575.png)
 
 ## Week 5
+
 ### Neural Networks - Representation :
+
 1. Which of the following statements are true? Check all that apply.
     - 🗹 Any logical function over binary-valued (0 or 1) inputs $x_1$ and $x_2$ can be (approximately) represented using some neural network.
     - ☐ Suppose you have a multi-class classification problem with three classes, trained with a 3 layer network. Let $a^{(3)}_1 = (h_\theta(x))_1$ be the activation of the first output unit, and similarly $a^{(3)}_2 = (h_\theta(x))_2$ and $a^{(3)}_3 = (h_\theta(x))_3$. Then for any input x, it must be the case that $a^{(3)}_1 + a^{(3)}_2 + a^{(3)}_3 = 1$.
     - ☐ A two layer (one input layer, one output layer; no hidden layer) neural network can represent the XOR function.
    - 🗹 The activation values of the hidden units in a neural network, with the sigmoid activation function applied at every layer, are always in the range (0, 1).
-2. Consider the following neural network which takes two binary-valued inputs 
-$x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?
+2. Consider the following neural network which takes two binary-valued inputs  
+$x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253291_20210106090915082_15939.png)
     - 🗹 AND
     - ☐ NAND (meaning “NOT AND”)
     - ☐ OR
     - ☐ XOR (exclusive OR)
-3. Consider the following neural network which takes two binary-valued inputs
-$x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?
+3. Consider the following neural network which takes two binary-valued inputs  
+$x_1,x_2 \ \epsilon \ \{0,1\}$ and outputs $h_\theta(x)$. Which of the following logical functions does it (approximately) compute?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253292_20210106091216256_21503.png)
     - ☐ AND
     - ☐ NAND (meaning “NOT AND”)
     - 🗹 OR
     - ☐ XOR (exclusive OR)
-4. Consider the neural network given below. Which of the following equations correctly computes the activation $a_1^{(3)}$? Note: $g(z)$ is the sigmoid activation function.
+4. Consider the neural network given below. Which of the following equations correctly computes the activation $a_1^{(3)}$? Note: $g(z)$ is the sigmoid activation function.  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253294_20210106091606930_29779.png)
     - 🗹 $a_1^{(3)} = g(\theta_{1,0}^{(2)}a_0^{(2)}+\theta_{1,1}^{(2)}a_1^{(2)}+\theta_{1,2}^{(2)}a_2^{(2)})$
     - ☐ $a_1^{(3)} = g(\theta_{1,0}^{(2)}a_0^{(1)}+\theta_{1,1}^{(2)}a_1^{(1)}+\theta_{1,2}^{(2)}a_2^{(1)})$
     - ☐ $a_1^{(3)} = g(\theta_{1,0}^{(1)}a_0^{(2)}+\theta_{1,1}^{(1)}a_1^{(2)}+\theta_{1,2}^{(1)}a_2^{(2)})$
     - ☐ $a_1^{(3)} = g(\theta_{2,0}^{(2)}a_0^{(2)}+\theta_{2,1}^{(2)}a_1^{(2)}+\theta_{2,2}^{(2)}a_2^{(2)})$
-5. You have the following neural network:
-![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253296_20210106092659353_25197.png)
-You’d like to compute the activations of the hidden layer $a^{(2)} \ \epsilon \ R^3$. One way to do
-so is the following Octave code:
-![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253297_20210106092714486_4049.png)
-You want to have a vectorized implementation of this (i.e., one that does not use for loops). Which of the following implementations correctly compute ? Check all
+5. You have the following neural network:  
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253296_20210106092659353_25197.png)  
+You’d like to compute the activations of the hidden layer $a^{(2)} \ \epsilon \ R^3$. One way to do  
+so is the following Octave code:  
+![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253297_20210106092714486_4049.png)  
+You want to have a vectorized implementation of this (i.e., one that does not use for loops). Which of the following implementations correctly compute ? Check all  
 that apply.
     - 🗹 `z = Theta1 * x; a2 = sigmoid (z);`
     - ☐ `a2 = sigmoid (x * Theta1);`
     - ☐ `a2 = sigmoid (Theta2 * x);`
     - ☐ `z = sigmoid(x); a2 = sigmoid (Theta1 * z);`
-6. You are using the neural network pictured below and have learned the parameters $\theta^{(1)} = \begin{bmatrix} 1 & 1 & 2.4\\ 1 & 1.7 & 3.2 \end{bmatrix}$ (used to compute $a^{(2)}$) and $\theta^{(2)} = \begin{bmatrix} 1 & 0.3 & -1.2 \end{bmatrix}$ (used to compute $a^{(3)}$ as a function of $a^{(2)}$). Suppose you swap the parameters for the first hidden layer between its two units so $\theta^{(1)} = \begin{bmatrix} 1 & 1.7 & 3.2 \\ 1 & 1 & 2.4 \end{bmatrix}$ and also swap the output layer so $\theta^{(2)} = \begin{bmatrix} 1 & -1.2 & 0.3 \end{bmatrix}$. How will this change the value of the output $h_\theta(x)$?
+6. You are using the neural network pictured below and have learned the parameters $\theta^{(1)} = \begin{bmatrix} 1 & 1 & 2.4\\ 1 & 1.7 & 3.2 \end{bmatrix}$ (used to compute $a^{(2)}$) and $\theta^{(2)} = \begin{bmatrix} 1 & 0.3 & -1.2 \end{bmatrix}$ (used to compute $a^{(3)}$ as a function of $a^{(2)}$). Suppose you swap the parameters for the first hidden layer between its two units so $\theta^{(1)} = \begin{bmatrix} 1 & 1.7 & 3.2 \\ 1 & 1 & 2.4 \end{bmatrix}$ and also swap the output layer so $\theta^{(2)} = \begin{bmatrix} 1 & -1.2 & 0.3 \end{bmatrix}$. How will this change the value of the output $h_\theta(x)$?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253299_20210106100117145_12734.png)
     - 🗹 It will stay the same.
     - ☐ It will increase.
@@ -243,14 +257,11 @@ that apply.
 
 ### Neural Networks: Learning :
 
-1. You are training a three layer neural network and would like to use backpropagation to compute the gradient of the cost function. In the backpropagation algorithm, one of the steps is to update $\Delta_{ij}^{(2)} := \Delta_{ij}^{(2)} + \delta_i^{(3)} * (a^{(2)})_j$
+1. You are training a three layer neural network and would like to use backpropagation to compute the gradient of the cost function. In the backpropagation algorithm, one of the steps is to update $\Delta_{ij}^{(2)} := \Delta_{ij}^{(2)} + \delta_i^{(3)} * (a^{(2)})_j$  
 for every i,j. Which of the following is a correct vectorization of this step?
      - ☐ $\Delta^{(2)} := \Delta^{(2)} + \delta^{(2)} * (a^{(3)})^T$
-
     - ☐ $\Delta^{(2)} := \Delta^{(2)} + (a^{(2)})^T * \delta^{(3)}$
-
    - ☐ $\Delta^{(2)} := \Delta^{(2)} + (a^{(2)})^T * \delta^{(2)}$
-
    - 🗹 $\Delta^{(2)} := \Delta^{(2)} + \delta^{(3)} * (a^{(2)})^T$
 2. Suppose Theta1 is a 5x3 matrix, and Theta2 is a 4x6 matrix. You set thetaVec = [Theta1( : ), Theta2( : )]. Which of the following correctly recovers ?
     - 🗹 reshape(thetaVec(16 : 39), 4, 6)
@@ -275,27 +286,29 @@ for every i,j. Which of the following is a correct vectorization of this step?
     - ☐ If we initialize all the parameters of a neural network to ones instead of zeros, this will suffice for the purpose of “symmetry breaking” because the parameters are no longer symmetrically equal to zero.
 
 ## Week 6
+
 ### Advice for Applying Machine Learning :
-1. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?
+
+1. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253301_20210106114811822_23068.png)
     - ☐ High variance
     - ☐ Neither
     - 🗹 High bias
-2. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?
+2. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253302_20210106115114688_20798.png)
     - 🗹 High variance
     - ☐ Neither
     - ☐ High bias
-3. Suppose you have implemented regularized logistic regression to classify what object is in an image (i.e., to do object recognition). However, when you test your hypothesis on a new set of images, you find that it makes unacceptably large errors with its predictions on the new images. However, your hypothesis performs well (has low error) on the training set. Which of the following are promising steps to take? Check all that apply.
+3. Suppose you have implemented regularized logistic regression to classify what object is in an image (i.e., to do object recognition). However, when you test your hypothesis on a new set of images, you find that it makes unacceptably large errors with its predictions on the new images. However, your hypothesis performs well (has low error) on the training set. Which of the following are promising steps to take? Check all that apply.  
 NOTE: Since the hypothesis performs well (has low error) on the training set, it is suffering from high variance (overfitting)
     - ☐ Try adding polynomial features.
     - ☐ Use fewer training examples.
-    - 🗹  Try using a smaller set of features.
+    - 🗹 Try using a smaller set of features.
     - 🗹 Get more training examples.
     - ☐ Try evaluating the hypothesis on a cross validation set rather than the test set.
     - ☐ Try decreasing the regularization parameter λ.
     - 🗹 Try increasing the regularization parameter λ.
-4. Suppose you have implemented regularized logistic regression to predict what items customers will purchase on a web shopping site. However, when you test your hypothesis on a new set of customers, you find that it makes unacceptably large errors in its predictions. Furthermore, the hypothesis performs poorly on the training set. Which of the following might be promising steps to take? Check all that apply.
+4. Suppose you have implemented regularized logistic regression to predict what items customers will purchase on a web shopping site. However, when you test your hypothesis on a new set of customers, you find that it makes unacceptably large errors in its predictions. Furthermore, the hypothesis performs poorly on the training set. Which of the following might be promising steps to take? Check all that apply.  
 NOTE: Since the hypothesis performs poorly on the training set, it is suffering from high bias (underfitting)
     - ☐ Try increasing the regularization parameter λ.
     - 🗹 Try decreasing the regularization parameter λ.
@@ -321,17 +334,10 @@ NOTE: Since the hypothesis performs poorly on the training set, it is suffering 
     - 🗹 When debugging learning algorithms, it is useful to plot a learning curve to understand if there is a high bias or high variance problem.
     - ☐ If a neural network has much lower training error than test error, then adding more layers will help bring the test error down because we can fit the test set better.
 
-
-
-
-
-
-
-
-
 ## Links
-* [Coursera-Machine-Learning/Week1Quiz.md at master · LiMengyang990726/Coursera-Machine-Learning](https://github.com/LiMengyang990726/Coursera-Machine-Learning/blob/master/Machine-Learning/Week1Quiz.md)
-* [atinesh-s/Coursera-Machine-Learning-Stanford: Machine learning-Stanford University](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)
-* [Coursera-Machine Learning - Andrew NG - All weeks solutions of assignments and quiz - codemummy |online technical computer science platform.](https://www.codemummy.com/p/coursera-machine-learning-andrew-ng-all.html)
-* [datasciencecoursera/Stanford_Machine_Learning at master · mGalarnyk/datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning)
-* [APDaga DumpBox : The Thirst for Learning...: Machine Learning](https://www.apdaga.com/search/label/Machine%20Learning?updated-max=2019-11-14T15:01:00%2B05:30&max-results=20&start=20&by-date=false)
+
+- [Coursera-Machine-Learning/Week1Quiz.md at master · LiMengyang990726/Coursera-Machine-Learning](https://github.com/LiMengyang990726/Coursera-Machine-Learning/blob/master/Machine-Learning/Week1Quiz.md)
+- [atinesh-s/Coursera-Machine-Learning-Stanford: Machine learning-Stanford University](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)
+- [Coursera-Machine Learning - Andrew NG - All weeks solutions of assignments and quiz - codemummy |online technical computer science platform.](https://www.codemummy.com/p/coursera-machine-learning-andrew-ng-all.html)
+- [datasciencecoursera/Stanford_Machine_Learning at master · mGalarnyk/datasciencecoursera](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning)
+- [APDaga DumpBox : The Thirst for Learning...: Machine Learning](https://www.apdaga.com/search/label/Machine%20Learning?updated-max=2019-11-14T15:01:00%2B05:30&max-results=20&start=20&by-date=false)

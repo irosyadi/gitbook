@@ -1,14 +1,16 @@
 ---
+aliases: [Course]
 title: Course
+tags: ["course"]
 date: 2020-06-01 20:09:34
 category: course
-tags: ["course"]
 draft: false
 ---
 
 # Course
 
 ## Kuliah Teknik Elektro Unsoed
+
 - [kuliah](kuliah.md)
 - [mk-dasar-teknik-elektro](mk-dasar-teknik-elektro.md)
 - [mk-internet-of-things](mk-internet-of-things.md)
@@ -20,6 +22,7 @@ draft: false
 - [mk-sistem-kendali-lanjut](mk-sistem-kendali-lanjut.md)
 
 ## Online Courses
+
 - [cs231n](cs231n.md)
 - [cs231n-summary](cs231n-summary.md)
 - [free-online-course](free-online-course.md)
@@ -27,6 +30,7 @@ draft: false
 - [machine-learning-andrewng-quiz](machine-learning-andrewng-quiz.md)
 
 ## Course Resources
+
 - [computer-science](computer-science.md)
 - Control System
 	- [control-design-frequency](control-design-frequency.md)
@@ -39,4 +43,3 @@ draft: false
 - [linear-algebra](linear-algebra.md)
 - [machine-learning](machine-learning.md)
 - [statistic-probability](statistic-probability.md)
-

@@ -1,16 +1,9 @@
 ---
-aliases: [Deep Learning Books, Tutorials, and Courses]
+aliases: [Deep Learning Books, Tutorials, and Courses, Deep Learning Books, Tutorials, and Courses]
 title: Deep Learning Books, Tutorials, and Courses
-tags: [1:]
----
- ---
-layout: default
-author: irosyadi
-title: Deep Learning Books, Tutorials, and Courses
+tags: ["machine learning", "book", "tutorial", "course"]
 date: 2020-08-17 17:08:47
 category: book
-tags: ["machine learning", "book", "tutorial", "course"]
-draft: false
 ---
 
 # Deep Learning Books, Tutorials, and Courses
@@ -87,7 +80,7 @@ draft: false
 - [Δ ℚuantitative √ourney - Gradient Descent with Backpropagation](http://outlace.com/Gradient-Descent.html)
 - [Neural Networks: Feedforward and Backpropagation Explained](https://mlfromscratch.com/neural-networks-explained/#/)
 - [How to Train Neural Networks With Backpropagation « The blog at the bottom of the sea](https://blog.demofox.org/2017/03/09/how-to-train-neural-networks-with-backpropagation/)
-- [Rohan & Lenny #1: Neural Networks & The Backpropagation Algorithm, Explained - by Rohan Kapur - A Year of Artificial Intelligence](https://ayearofai.com/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.7mwcjuftn)
+- [Rohan & Lenny Neural Networks & The Backpropagation Algorithm, Explained - by Rohan Kapur - A Year of Artificial Intelligence](https://ayearofai.com/rohan-lenny-1-neural-networks-the-backpropagation-algorithm-explained-abf4609d4f9d#.7mwcjuftn)
 - [Backpropagation Tutorial - Manfred Zabarauskas' Blog](http://blog.zabarauskas.com/backpropagation-tutorial/)
 - [A Visual Tour of Backpropagation](https://blog.jinay.dev/posts/backprop/)
 

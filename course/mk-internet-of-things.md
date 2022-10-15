@@ -1,10 +1,9 @@
 ---
-layout: default
-author: irosyadi
-title:  MK Internet of Things
+aliases: [MK Internet of Things]
+title: MK Internet of Things
+tags: ["internet of things", "kuliah"]
 date: 2021-02-21 19:09:05
 category: course
-tags: ["internet of things", "kuliah"]
 draft: false
 ---
 

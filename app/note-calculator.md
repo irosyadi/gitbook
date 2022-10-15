@@ -1,6 +1,10 @@
 ---
-title: note-calculator
-tags: 
+aliases: [Note Calculator]
+title: Note Calculator
+tags: ["calculator"]
+date: 2022-10-15 20:16
+category: category
+draft: false
 ---
 
 # Note Calculator

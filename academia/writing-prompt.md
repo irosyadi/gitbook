@@ -1,7 +1,7 @@
 ---
 aliases: [Writing Prompt]
 title: Writing Prompt
-tags: []
+tags: ["writing"]
 ---
 
 # Writing Prompt

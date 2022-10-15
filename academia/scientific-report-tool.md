@@ -1,7 +1,7 @@
 ---
 aliases: [Scientific Report Tools]
 title: Scientific Report Tools
-tags: []
+tags: ["scientific"]
 ---
 
 # Scientific Report Tools

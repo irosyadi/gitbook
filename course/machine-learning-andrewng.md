@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Machine Learning by Andrew Ng Resources
+aliases: [Machine Learning by Andrew Ng Resources]
+title: Machine Learning by Andrew Ng Resources
+tags: ["machine learning"]
 date: 2020-11-11 13:58:59
 category: course
-tags: ["machine learning"]
 draft: false
 ---
 
 # Machine Learning by Andrew Ng Resources
 
 ## Main Course
+
 - [Coursera : Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Youtube Playlists](https://www.youtube.com/watch?v=PPLop4L2eGk&list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 - Video lectures Index [https://class.coursera.org/ml/lecture/preview](https://class.coursera.org/ml/lecture/preview)
@@ -19,10 +19,11 @@ draft: false
 - Useful Resources [https://www.coursera.org/learn/machine-learning/resources/NrY2G](https://www.coursera.org/learn/machine-learning/resources/NrY2G)
 
 ## More Machine Learning Courses
+
 - [Udemy Top Machine Learning Courses Online - Updated April 2021](https://www.udemy.com/topic/machine-learning/)
 
-
 ## Suplementary Notes
+
 - [Holehouse Notes](https://www.holehouse.org/mlclass/) : review by holehouse
 - [Kaggle Notes](https://www.kaggle.com/getting-started/102365)
 - [Vkosuri Notes](https://vkosuri.github.io/CourseraMachineLearning/#programming-exercise-tutorials) : ppt, pdf, course, errata notes, [Github Repo](https://github.com/vkosuri/CourseraMachineLearning/tree/master/home)
@@ -31,6 +32,7 @@ draft: false
 - [Stanford](https://github.com/mGalarnyk/datasciencecoursera/tree/master/Stanford_Machine_Learning) : quiz discussion
 
 ## Suplementary Codes
+
 - [Fengdu78](https://github.com/fengdu78/Coursera-ML-AndrewNg-Notes) : ppt, code in python (ipynb)
 - [dibgerge](https://github.com/dibgerge/ml-coursera-python-assignments) : assignment code in python (ipynb)
 - [Kaleko](https://github.com/kaleko/CourseraML) : assignment code in python (ipynb)
@@ -42,6 +44,7 @@ draft: false
 - [dibgerge/ml-coursera-python-assignments: Python assignments for the machine learning class by andrew ng on coursera with complete submission for grading capability and re-written instructions.](https://github.com/dibgerge/ml-coursera-python-assignments)
 
 ### Week 1:
+
 - Welcome - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/pdf/Lecture1.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/ppt/Lecture1.pptx)
 - Linear regression with one variable - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/pdf/Lecture2.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/ppt/Lecture2.pptx)
 - Linear Algebra review (Optional) - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/pdf/Lecture3.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-1/lectures/ppt/Lecture3.pptx)
@@ -53,6 +56,7 @@ draft: false
 - [adit.io: Linear Regression](https://adit.io/posts/2016-02-20-Linear-Regression-in-Pictures.html)
 
 ### Week 2:
+
 - Linear regression with multiple variables - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/lectures/pdf/Lecture4.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/lectures/ppt/Lecture4.pptx)
 - Octave tutorial [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/lectures/pdf/Lecture5.pdf)
 - Programming Exercise 1: Linear Regression - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/exercises/machine-learning-ex1/ex1.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-2/exercises/machine-learning-ex1.zip) \- [Solution](https://vkosuri.github.io/home/week-2/exercises/machine-learning-ex1/ex1/)
@@ -64,6 +68,7 @@ draft: false
 - [05: Octave by Holehouse](https://www.holehouse.org/mlclass/05_Octave.html)
 
 ### Week 3:
+
 - Logistic regression - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/lectures/pdf/Lecture6.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/lectures/ppt/Lecture6.pptx)
 - Regularization - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/lectures/pdf/Lecture7.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/lectures/ppt/Lecture7.pptx)
 - Programming Exercise 2: Logistic Regression - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/exercises/machine-learning-ex2/ex2.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-3/exercises/machine-learning-ex2.zip) \- [Solution](https://vkosuri.github.io/home/week-3/exercises/machine-learning-ex2/ex2)
@@ -76,6 +81,7 @@ draft: false
 - [07: Regularization by Holehouse](https://www.holehouse.org/mlclass/07_Regularization.html)
 
 ### Week 4:
+
 - Neural Networks: Representation - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-4/lectures/pdf/Lecture8.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-4/lectures/ppt/Lecture8.pptx)
 - Programming Exercise 3: Multi-class Classification and Neural Networks - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-4/exercises/machine-learning-ex3/ex3.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-4/exercises/machine-learning-ex3.zip) \- [Solution](https://vkosuri.github.io/home/week-4/exercises/machine-learning-ex3/ex3)
 - [Lecture Notes](https://vkosuri.github.io/CourseraMachineLearning/home/week-4/lectures/notes.pdf)
@@ -85,6 +91,7 @@ draft: false
 - [08: Neural Networks - Representation by Holehouse](https://www.holehouse.org/mlclass/08_Neural_Networks_Representation.html)
 
 ### Week 5:
+
 - Neural Networks: Learning - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-5/lectures/pdf/Lecture9.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-5/lectures/ppt/Lecture9.pptx)
 - Programming Exercise 4: Neural Networks Learning - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-5/exercises/machine-learning-ex4/ex4.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-5/exercises/machine-learning-ex4.zip) \- [Solution](https://vkosuri.github.io/home/week-5/exercises/machine-learning-ex4/ex4)
 - [Lecture Notes](https://vkosuri.github.io/CourseraMachineLearning/home/week-5/lectures/notes.pdf)
@@ -94,6 +101,7 @@ draft: false
 - [09: Neural Networks - Learning by Holehouse](https://www.holehouse.org/mlclass/09_Neural_Networks_Learning.html)
 
 ### Week 6:
+
 - Advice for applying machine learning - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/lectures/pdf/Lecture10.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/lectures/ppt/Lecture10.pptx)
 - Machine learning system design - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/lectures/pdf/Lecture11.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/lectures/ppt/Lecture11.pptx)
 - Programming Exercise 5: Regularized Linear Regression and Bias v.s. Variance - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/exercises/machine-learning-ex5/ex5.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-6/exercises/machine-learning-ex5.zip) \- [Solution](https://vkosuri.github.io/home/week-6/exercises/machine-learning-ex5/ex5)
@@ -105,6 +113,7 @@ draft: false
 - [11: Machine Learning System Design by Holehouse](https://www.holehouse.org/mlclass/11_Machine_Learning_System_Design.html)
 
 ### Week 7:
+
 - Support vector machines - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-7/lectures/pdf/Lecture12.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-7/lectures/ppt/Lecture12.pptx)
 - Programming Exercise 6: Support Vector Machines - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-7/exercises/machine-learning-ex6/ex6.pdf) \- [Problem](https://vkosuri.github.io/CourseraMachineLearning/home/week-7/exercises/machine-learning-ex6.zip) \- [Solution](https://vkosuri.github.io/home/week-7/exercises/machine-learning-ex6/ex6)
 - [Lecture Notes](https://vkosuri.github.io/CourseraMachineLearning/home/week-7/lectures/notes.pdf)
@@ -114,6 +123,7 @@ draft: false
 - [12: Support Vector Machines by Holehouse](https://www.holehouse.org/mlclass/12_Support_Vector_Machines.html)
 
 ### Week 8:
+
 - Clustering - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/lectures/pdf/Lecture13.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/lectures/ppt/Lecture13.ppt)
 - Dimensionality reduction - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/lectures/pdf/Lecture14.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/lectures/ppt/Lecture14.ppt)
 - Programming Exercise 7: K-means Clustering and Principal Component Analysis - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/exercises/machine-learning-ex7/ex7.pdf) \- [Problems](https://vkosuri.github.io/CourseraMachineLearning/home/week-8/exercises/machine-learning-ex7.zip) \- [Solution](https://vkosuri.github.io/home/week-8/exercises/machine-learning-ex7/ex7)
@@ -125,6 +135,7 @@ draft: false
 - [14: Dimensionality Reduction by Holehouse](https://www.holehouse.org/mlclass/14_Dimensionality_Reduction.html)
 
 ### Week 9:
+
 - Anomaly Detection - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/lectures/pdf/Lecture15.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/lectures/ppt/Lecture15.ppt)
 - Recommender Systems - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/lectures/pdf/Lecture16.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/lectures/ppt/Lecture16.ppt)
 - Programming Exercise 8: Anomaly Detection and Recommender Systems - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/exercises/machine-learning-ex8/ex8.pdf) \- [Problems](https://vkosuri.github.io/CourseraMachineLearning/home/week-9/exercises/machine-learning-ex8.zip) \- [Solution](https://vkosuri.github.io/home/week-9/exercises/machine-learning-ex8/ex8)
@@ -136,18 +147,21 @@ draft: false
 - [16: Recommender Systems by Holehouse](https://www.holehouse.org/mlclass/16_Recommender_Systems.html)
 
 ### Week 10:
+
 - Large scale machine learning - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-10/lectures/pdf/Lecture17.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-10/lectures/ppt/Lecture17.ppt)
 - [Lecture Notes](https://vkosuri.github.io/CourseraMachineLearning/home/week-10/lectures/notes.pdf)
 - [Week 10 by danluzhang](https://danluzhang.com/wp-content/uploads/2020/05/Notes-on-Machine-Learning_Andrew-Ng_Week-10-5-9-2020.pdf)
 - [17: Large Scale Machine Learning by Holehouse](https://www.holehouse.org/mlclass/17_Large_Scale_Machine_Learning.html)
 
 ### Week 11:
+
 - Application example: Photo OCR - [pdf](https://vkosuri.github.io/CourseraMachineLearning/home/week-11/lectures/pdf/Lecture18.pdf) \- [ppt](https://vkosuri.github.io/CourseraMachineLearning/home/week-11/lectures/ppt/Lecture18.ppt)
 - [Week 11 by danluzhang](https://danluzhang.com/wp-content/uploads/2020/05/Notes-on-Machine-Learning_Andrew-Ng_Week-11-5-9-2020.pdf)
 - [18: Application Example - Photo OCR by Holehouse](https://www.holehouse.org/mlclass/18_Application_Example_OCR.html)
 - [19: Course Summary by Holehouse](https://www.holehouse.org/mlclass/19_Course_Summary.html)
 
 ## Extra Information
+
 - [Linear Algebra Review and Reference Zico Kolter](https://vkosuri.github.io/CourseraMachineLearning/extra/cs229-linalg.pdf)
 - [CS229 Lecture notes](https://vkosuri.github.io/CourseraMachineLearning/extra/cs229-notes1.pdf)
 - [CS229 Problems](https://vkosuri.github.io/CourseraMachineLearning/extra/cs229-prob.pdf)
@@ -155,6 +169,7 @@ draft: false
 - [Octave Examples](https://vkosuri.github.io/CourseraMachineLearning/extra/octave_session.m)
 
 ## Machine Learning Online E Books
+
 - [Introduction to Machine Learning by Nils J. Nilsson](https://ai.stanford.edu/~nilsson/mlbook.html) free
 - [Introduction to Machine Learning by Alex Smola and S.V.N. Vishwanathan](https://alex.smola.org/drafts/thebook.pdf) free
 - [Introduction to Data Science by Jeffrey Stanton](https://surface.syr.edu/cgi/viewcontent.cgi?article=1165&context=istpub) free
@@ -162,11 +177,12 @@ draft: false
 - [Understanding Machine Learning, © 2014 by Shai Shalev-Shwartz and Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) free
 - [Elements of Statistical Learning, by Hastie, Tibshirani, and Friedman](https://statweb.stanford.edu/~tibs/ElemStatLearn/) free
 - [Pattern Recognition and Machine Learning, by Christopher M. Bishop](https://users.isr.ist.utl.pt/~wurmd/Livros/school/Bishop%20-%20Pattern%20Recognition%20And%20Machine%20Learning%20-%20Springer%20%202006.pdf) free, used
-- Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch
+- Master Machine Learning Algorithms: Discover How They Work and Implement Them From Scratch  
 Jason Brownlee, proprietary, used
 - [Course in Machine Learning](https://ciml.info/) free, used
 
 ## Machine Learning Tutorial
+
 - [Trekhleb](https://github.com/trekhleb/machine-learning-octave) Machine Learning with Octave, free, used
 - [Trekhleb](https://github.com/trekhleb/homemade-machine-learning) Machine Learning with Python, free, used
 - [Trekhleb](https://github.com/trekhleb/machine-learning-experiments) Deep Learning with Python, free, used
@@ -174,23 +190,5 @@ Jason Brownlee, proprietary, used
 - [ML Cheatsheet](https://ml-cheatsheet.readthedocs.io/en/latest/index.html) free, used
 
 ## Machine Learning Youtube
+
 - [StatQuest with Josh Stamer](https://www.youtube.com/c/joshstarmer/playlists)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

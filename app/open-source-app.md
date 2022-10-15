@@ -1,7 +1,7 @@
 ---
 aliases: [Open Source Apps]
 title: Open Source Apps
-tags: ["open source", 1]
+tags: ["open source"]
 date: 2021-01-13 14:47:30
 category: app
 draft: false
@@ -167,7 +167,7 @@ draft: false
        - [react-rails](https://github.com/reactjs/react-rails) - Integrate React.js with Rails views and controllers, the asset pipeline, or webpacker.
        - [paper_trail](https://github.com/paper-trail-gem/paper_trail) - Track changes to your rails models
    - cms
-       - [Ghost](https://github.com/TryGhost/Ghost) - The #1 headless Node.js CMS for professional publishing
+       - [Ghost](https://github.com/TryGhost/Ghost) - The no 1 headless Node.js CMS for professional publishing
        - [keystone-classic](https://github.com/keystonejs/keystone-classic) - Node.js CMS and web app framework
        - [strapi](https://github.com/strapi/strapi) - Open source Node.js Headless CMS to easily build customisable APIs
        - [netlify-cms](https://github.com/netlify/netlify-cms) - A Git-based CMS for Static Site Generators

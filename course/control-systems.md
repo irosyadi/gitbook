@@ -1,16 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  Control Systems
+aliases: [Control Systems]
+title: Control Systems
+tags: ["control system"]
 date: 2020-08-31 13:57:57
 category: course
-tags: ["control system"]
 draft: false
 ---
 
 # Control Systems
 
 ## Reference
+
 - Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
 - Richard C. Dorf and Robert H. Bishop, Modern Control Systems \[[website](https://www.pearson.com/us/higher-education/program/Dorf-Modern-Control-Systems-13th-Edition/PGM328731.html?tab=resources)\]
@@ -21,30 +21,37 @@ draft: false
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 
 ## Online Book
+
 - [CSA - Your Controls Resource](https://www.controlsystemsacademy.com/)
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
 - [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
 - [Linear Physical Systems Analysis](https://lpsa.swarthmore.edu/)
 
 ## Interactive Learning
+
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Specific Topics
+
 - [Linear Physical Systems - Erik Cheever](https://lpsa.swarthmore.edu/)
 - [Root Locus Overview - Erik Cheever](https://lpsa.swarthmore.edu/Root_Locus/RootLocus.html)
 
 ## Control Theory Map
+
 ![Control Theory Map](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5f3845ab3384b2337c3214b9/1597523382325/Control_Map_ver4.png)
 
 ## Software
+
 - [Octave Online](https://octave-online.net/)
 
 ## Interactive Control Systems Learning
+
 - [ICCT: Interactive course for control theory](https://icct.cafre.unipi.it/home), [ICCT Interactive Course in Jupyter](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Online Video Course
+
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
     - [Routh Horwitz Criterion](https://www.youtube.com/watch?v=WBCZBOB3LCA&list=PLUMWjy5jgHK0zTjna57eZX4RoZlJtG3L4)
     - [Root Locus](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f)
@@ -59,27 +66,31 @@ draft: false
 - [MATLAB Channel: Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
 ## Control Learning Videos
+
 - [Christopher Lum - YouTube](https://www.youtube.com/c/ChristopherLum/videos)
 - [katkimshow - YouTube](https://www.youtube.com/c/katkimshow/featured)
 - [Control Theory in Practice - YouTube](https://www.youtube.com/channel/UCV3CS_ygnzwGzjBXKjVdQIQ)
 
 ## Control Theory Interactive
+
 [ICCT](https://icct.cafre.unipi.it/)
-- Control Systems Academy - https://www.controlsystemsacademy.com/
-- CBE30338: https://jckantor.github.io/CBE30338/
-- Linear Physica l Systems Analysis: https://lpsa.swarthmore.edu/
-- Python in Education (Institute of Control Theory): https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en
+
+- Control Systems Academy - <https://www.controlsystemsacademy.com/>
+- CBE30338: <https://jckantor.github.io/CBE30338/>
+- Linear Physica l Systems Analysis: <https://lpsa.swarthmore.edu/>
+- Python in Education (Institute of Control Theory): <https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en>  
 [Computational Methods for Control of Infinite-dimensional Systems | Institute for Mathematics and its Applications](https://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
 
 ## Python Control
-- [Python Control Systems Library — Python Control Systems Library dev documentation](https://python-control.readthedocs.io/en/latest/)
+
+- [Python Control Systems Library—Python Control Systems Library dev documentation](https://python-control.readthedocs.io/en/latest/)
 - [mpc.pytorch: A fast and differentiable MPC solver for PyTorch](https://locuslab.github.io/mpc.pytorch/)
 
 ## Intelligent Control
+
 - [About the Book | DATA DRIVEN SCIENCE & ENGINEERING](https://www.databookuw.com/)
     - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton https://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
     - [dylewsky/Data_Driven_Science_Python_Demos: IPython notebooks with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton](https://github.com/dylewsky/Data_Driven_Science_Python_Demos)
-
 
 ## Control Systems Online Curriculum
 

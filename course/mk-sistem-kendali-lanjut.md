@@ -1,20 +1,21 @@
 ---
-layout: default
-author: irosyadi
-title:  Sistem Kendali Lanjut
+aliases: [MK Sistem Kendali Lanjut]
+title: MK Sistem Kendali Lanjut
+tags: ["control system", "kuliah"]
 date: 2020-08-31 14:57:57
 category: course
-tags: ["control system", "kuliah"]
 draft: false
 ---
 
 # MK Sistem Kendali Lanjut
+
 - Kode: TKE193154
 - SKS: 3
 - Jadwal 2020
     - TKE193154 Sistem Kendali Lanjut A JUMAT 13:20 - 15:50 GEDUNG TEKNIK E 204 - 15 mhs
 
 ## Referensi
+
 - Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
 - Richard C. Dorf and Robert H. Bishop, Modern Control Systems \[[website](https://www.pearson.com/us/higher-education/program/Dorf-Modern-Control-Systems-13th-Edition/PGM328731.html?tab=resources)\]
@@ -26,19 +27,24 @@ draft: false
 - [Ricone Website](https://ricopic.one/control/)
 
 ## Software
+
 - [GNU Octave](https://www.gnu.org/software/octave/index)
 - [Online Octave](https://octave-online.net/)
 - [Matlab](https://www.mathworks.com/products/matlab.html)
 
 ## Online Course
+
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
 ## Online Video Course
+
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
 - [The Ryder Project Control Lectures](https://www.youtube.com/playlist?list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-)
 
 ## Kuliah
+
 ### Pekan-1
+
 - Pendahuluan
 - Steady State Error
 - Video Pendukung
@@ -50,6 +56,7 @@ draft: false
     - [Finding Requirements for SSE The Ryder Project](https://www.youtube.com/watch?v=dJcooAEmOds&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=37)
 
 ### Pekan-2
+
 - Analisis Kestabilan Routh Hurwitz
 - Video Pendukung
     - [Introduction to System Stability and Control Brian Douglas](https://www.youtube.com/watch?v=uqjKG32AkC4&list=PLUMWjy5jgHK1NC52DXXrriwihVrYZKqjk&index=16)
@@ -62,12 +69,14 @@ draft: false
     - [Stability Example #2 The Ryder Project](https://www.youtube.com/watch?v=wUhMBZSLwTI&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=31)
     - [Stability Example #3 The Ryder Project](https://www.youtube.com/watch?v=Q0ANlwI87NA&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=32)
 - Octave
+
 ```octave
 equ=[1 2 3] %characteristic equation polynomial
 roots(equ)
 ```
 
 ### Pekan-3
+
 - Root Locus (Tempat Kedudukan Akar)
 - Video Pendukung:
     - [Brian Douglas - The Root Locus Method - Introduction](https://www.youtube.com/watch?v=CRvVDoQJjYI&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=1)
@@ -77,6 +86,7 @@ roots(equ)
     - [The Ryder Project - Drawing Root Locus #1](https://www.youtube.com/watch?v=uSyzGsnMK28&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=39)
     - [The Ryder Project - Drawing Root Locus #2](https://www.youtube.com/watch?v=K19YgVJVP54&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=40)
 - Plot root locus di Octave atau Matlab
+
 ```octave
 pkg load control
 num=[1] %numerator
@@ -86,6 +96,7 @@ rlocus(sys)
 ```
 
 ### Pekan-4
+
 - Desain Sistem Kendali dengan Root Locus
 - Video Pendukung:
     - [Designing a Lead Compensator with Root Locus Brian Douglas](https://www.youtube.com/watch?v=NMpmb0ihoFo&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=4)
@@ -93,8 +104,8 @@ rlocus(sys)
     - [Root Locus Plot: Common Questions and Answers Brian Douglas](https://www.youtube.com/watch?v=WLBszzT0jp4&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=6)
     - [Gain a better understanding of Root Locus Plots using Matlab Brian Douglas](https://www.youtube.com/watch?v=pG3_b7wuweQ&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=7)
 
-
 ### Tugas
+
 - Persiapan  
     - Silakan presensi dulu di Eldiru pada tanggal 26 Desember
     - Akses situs [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
@@ -104,7 +115,7 @@ rlocus(sys)
 - Latihan Jupyter Notebook di ICCT  
     - Anda akan berinteraksi dengan Jupyter Notebook di ICCT
     - Klik folder ICCT pada Jupyter Notebook, lalu klik `Table-of-Contents-ICCT.ipynb`
-    - Klik kanan, open di new tab file Link `1.1.1 Complex Numbers in Cartesian Form` di  folder `1.1 Complex Numbers`
+    - Klik kanan, open di new tab file Link `1.1.1 Complex Numbers in Cartesian Form` di folder `1.1 Complex Numbers`
     - Anda berada di Jupyter Notebook `M-01_Complex_numbers_Cartesian_form.ipynb`
     - Pilih menu <button>Kernel</button> lalu <button>Restart and Run All</button>
     - Silakan baca Notebook-nya, baca penjelasan atau penugasaannya.
@@ -120,8 +131,7 @@ rlocus(sys)
         - Pembahasan. Pembahasan ringkas dari aktivitas yang anda lakukan, jika perlu lengkapi unduhan gambar (screenshot).
     - Simpan setiap berkas dalam nama `NIM-TugasXXX.docx` misalnya `H1A018091-Tugas385.odt`. Gabungkan ketiga berkas penugasan dalam file `.zip` lalu unggah ke laman *Assignment* di Eldiru.
 
-
 ## Istilah Sistem Kendali
-- Bandwidth and 3dB. The bandwidth of a band pass filter is the frequency range that is allowed to pass through with minimal attenuation. The frequency at which the power level of the signal decreases by 3 dB from its maximum value is called the 3 dB bandwidth. A 3 dB decrease in power means the signal power becomes half of its maximum value.  This occurs when the output voltage has dropped to $1/{\sqrt{2}}$ (~0.707) of the maximum output voltage and the power has dropped by half (since $P=V^2/R$. Exact: $20\\log _{10}\left({\tfrac {1}{\sqrt {2}}}\right)\approx -3.0103\\ \mathrm {dB}$
-- [Half-power point - Wikipedia](https://en.wikipedia.org/wiki/Half-power_point)
 
+- Bandwidth and 3dB. The bandwidth of a band pass filter is the frequency range that is allowed to pass through with minimal attenuation. The frequency at which the power level of the signal decreases by 3 dB from its maximum value is called the 3 dB bandwidth. A 3 dB decrease in power means the signal power becomes half of its maximum value. This occurs when the output voltage has dropped to $1/{\sqrt{2}}$ (~0.707) of the maximum output voltage and the power has dropped by half (since $P=V^2/R$. Exact: $20\\log _{10}\left({\tfrac {1}{\sqrt {2}}}\right)\approx -3.0103\\ \mathrm {dB}$
+- [Half-power point - Wikipedia](https://en.wikipedia.org/wiki/Half-power_point)
