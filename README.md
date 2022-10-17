@@ -1,13 +1,13 @@
-# Welcome
-
 <p align="center">
-  <img src="https://source.unsplash.com/125x125/?cat" />
+  <img src="https://source.unsplash.com/100x100/?cat" />
 </p>
 
-## Imron Rosyadi
+# Imron Rosyadi
+
+## About
 
 - 🔭 I’m currently working on [Universitas Jenderal Soedirman - Unsoed](http://elektro.ft.unsoed.ac.id/imron-rosyadi/)
-- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Control System, PV System
+- 🌱 I’m currently learning Artificial Intelligence, Machine Learning, Internet of Things, and Digital Twin
 
 ### Contact me:
 

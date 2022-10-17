@@ -38,6 +38,6 @@ Knowledge Bases
 | irosyadi.gitbook  | C     | 70          | 96        | 3000ms | 266ms | 0.05 | [GTmetrix](https://gtmetrix.com/reports/irosyadi.gitbook.io/axCSBndq/)         |
 | irosyadi.github   | A     | 98          | 99        | 1100ms | 0ms   | 0.07 | [GTmetrix](https://gtmetrix.com/reports/irosyadi.github.io/Zd1Ro6zS/)          |
 | irosyadi.mataroa  | A     | 100         | 100       | 596ms  | 0ms   | 0    | [GTmetrix](https://gtmetrix.com/reports/irosyadi.mataroa.blog/fZ9KPqhb/)       |
-| irosyadi.bearblog | A     | 97          | 100       | 1200   | 0ms   | 0.05 | [GTmetrix](https://gtmetrix.com/reports/irosyadi.bearblog.dev/EOwC7FSt/)       |
+| irosyadi.bearblog | A     | 100          | 100       | 338ms   | 0ms   | 0.02 | [GTmetrix](https://gtmetrix.com/reports/irosyadi.bearblog.dev/tckIOmkX/)       |
 
 

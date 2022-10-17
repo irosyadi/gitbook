@@ -121,16 +121,3 @@ github.io and gitbook.io cannot render svg
 
 ![crocodile](https://snapsvg.io/assets/images/crocodile.svg)
 
-## Iframe
-
-```
-<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-```
-
-<div>
-<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
-</div>
-
-<div>
-<iframe src="https://eth0.me/" frameborder="0" width="100" height="50"</iframe>
-</div>
