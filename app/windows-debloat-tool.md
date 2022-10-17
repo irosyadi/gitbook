@@ -1,7 +1,7 @@
 ---
 aliases: [Windows Debloat Tools]
 title: Windows Debloat Tools
-tags: ["tag"]
+tags: ["windows"]
 date: 2022-10-11 08:37
 draft: false
 ---

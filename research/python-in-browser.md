@@ -1,7 +1,7 @@
 ---
 aliases: [Python in Browser]
 title: Python in Browser
-tags: ["tag"]
+tags: ["python"]
 date: 2022-10-11 08:34
 draft: false
 ---

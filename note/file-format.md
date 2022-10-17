@@ -1,7 +1,7 @@
 ---
 aliases: [File Format]
 title: File Format
-tags: ["tag"]
+tags: ["file"]
 date: 2022-10-11 08:29
 draft: false
 ---

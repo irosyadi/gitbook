@@ -1,12 +1,12 @@
 ---
-aliases: [Title, Zeer Evaporation Pot]
-title: Title
-tags: ["tag"]
+aliases: [Zeer Evaporation Pot]
+title: Zeer Evaporation Pot
+tags: ["social"]
 date: 2022-10-11 08:38
 draft: false
 ---
 
-# Title
+# Zeer Evaporation Pot
 
 ## Zeer Evaporation Pot
 

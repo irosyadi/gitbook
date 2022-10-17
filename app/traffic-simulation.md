@@ -1,7 +1,7 @@
 ---
 aliases: [Traffic Simulation]
 title: Traffic Simulation
-tags: ["tag"]
+tags: ["simulation"]
 date: 2022-10-11 08:35
 draft: false
 ---

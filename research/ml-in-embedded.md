@@ -1,12 +1,12 @@
 ---
-aliases: ['## Machine Learning Embedded Devices', Machine Learning Embedded Devices]
-title: '## Machine Learning Embedded Devices'
-tags: ["tag"]
+aliases: [Machine Learning Embedded Devices]
+title: Machine Learning Embedded Devices
+tags: ["machine-Learning"]
 date: 2022-10-11 08:32
 draft: false
 ---
 
-# ## Machine Learning Embedded Devices
+# Machine Learning Embedded Devices
 
 ## Machine Learning Embedded Devices
 

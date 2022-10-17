@@ -1,7 +1,7 @@
 ---
 aliases: [Weather]
 title: Weather
-tags: ["tag"]
+tags: ["weather"]
 date: 2022-10-11 08:36
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 aliases: [Plant Identification]
 title: Plant Identification
-tags: ["tag"]
+tags: ["machine-learning"]
 date: 2022-10-11 08:33
 draft: false
 ---

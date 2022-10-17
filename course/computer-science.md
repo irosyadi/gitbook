@@ -1,7 +1,7 @@
 ---
 aliases: [Computer Science]
 title: Computer Science
-tags: ["tag"]
+tags: ["computer"]
 date: 2022-10-11 08:23
 draft: false
 ---

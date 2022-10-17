@@ -1,7 +1,7 @@
 ---
 aliases: [Link Tracker]
 title: Link Tracker
-tags: ["tag"]
+tags: ["tracker"]
 date: 2022-10-11 08:31
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 aliases: [Web Tools]
 title: Web Tools
-tags: ["tag"]
+tags: ["web"]
 date: 2022-10-11 08:37
 draft: false
 ---

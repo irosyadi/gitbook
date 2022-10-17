@@ -1,7 +1,7 @@
 ---
 aliases: 
 title: IPTV
-tags: ["tag"]
+tags: ["iptv"]
 date: 2022-10-11 08:30
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 aliases: [Website Monitoring]
 title: Website Monitoring
-tags: ["tag"]
+tags: ["web"]
 date: 2022-10-11 08:37
 draft: false
 ---

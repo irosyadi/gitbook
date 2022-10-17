@@ -1,7 +1,7 @@
 ---
 aliases: [Research]
 title: Research
-tags: ["category", "research"]
+tags: ["research"]
 date: 2020-06-01 20:09:34
 draft: false
 ---

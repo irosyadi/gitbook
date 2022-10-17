@@ -1,7 +1,7 @@
 ---
 aliases: [Paywall Bypass]
 title: Paywall Bypass
-tags: ["tag"]
+tags: ["paywall"]
 date: 2022-10-11 08:21
 draft: false
 ---

@@ -1,7 +1,7 @@
 ---
 aliases: [Wordpress Howto]
 title: Wordpress Howto
-tags: ["tag"]
+tags: ["wordpress", "howto"]
 date: 2022-10-11 08:38
 draft: false
 ---

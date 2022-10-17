@@ -1,7 +1,7 @@
 ---
 aliases: [Game]
 title: Game
-tags: ["tag"]
+tags: ["game"]
 date: 2022-10-11 08:36
 draft: false
 ---

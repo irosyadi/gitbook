@@ -1,7 +1,7 @@
 ---
 aliases: [Userscript]
 title: Userscript
-tags: ["tag"]
+tags: ["hacking"]
 date: 2022-10-11 08:35
 draft: false
 ---

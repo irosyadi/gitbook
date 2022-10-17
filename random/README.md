@@ -1,7 +1,7 @@
 ---
 aliases: [Random Notes]
 title: Random Notes
-tags: ["category", "random"]
+tags: ["random"]
 date: 2020-06-01 20:09:34
 draft: false
 ---

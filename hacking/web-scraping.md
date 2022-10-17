@@ -1,7 +1,7 @@
 ---
 aliases: [Web Scraping]
 title: Web Scraping
-tags: ["tag"]
+tags: ["scraping"]
 date: 2022-10-11 08:36
 draft: false
 ---

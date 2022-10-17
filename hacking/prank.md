@@ -1,7 +1,7 @@
 ---
 aliases: [Prank]
 title: Prank
-tags: ["tag"]
+tags: ["prank"]
 date: 2022-10-11 08:34
 draft: false
 ---

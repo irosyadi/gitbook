@@ -1,7 +1,7 @@
 ---
 aliases: [Website Cloning]
 title: Website Cloning
-tags: ["tag"]
+tags: ["web"]
 date: 2022-10-11 08:42
 draft: false
 ---

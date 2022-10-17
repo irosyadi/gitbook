@@ -1,7 +1,7 @@
 ---
 aliases: [Torrent]
 title: Torrent
-tags: ["tag"]
+tags: ["torrent"]
 date: 2022-10-11 08:34
 draft: false
 ---

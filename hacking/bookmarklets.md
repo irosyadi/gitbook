@@ -1,7 +1,7 @@
 ---
 aliases: [Bookmarklets]
 title: Bookmarklets
-tags: ["tag"]
+tags: ["bookmarklet"]
 date: 2022-10-11 08:22
 draft: false
 ---

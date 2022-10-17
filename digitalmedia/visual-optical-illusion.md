@@ -1,7 +1,7 @@
 ---
 aliases: [Visual and Optical Illusion]
 title: Visual and Optical Illusion
-tags: ["tag"]
+tags: ["illusion"]
 date: 2022-10-11 08:35
 draft: false
 ---
