@@ -3,7 +3,6 @@ aliases: [Awesome Research and Academic Writing Assistant Tools]
 title: Awesome Research and Academic Writing Assistant Tools
 tags: ["article", "paper", "writing", "assistant", "research", "academia"]
 date: 2022-06-03 21:05:13
-category: research
 draft: false
 ---
 
@@ -15,7 +14,7 @@ Related links:
 🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
 🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
 🔗 [Awesome Scientific Journal Tools](../academia/journal-tool.md)  
-🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
 ## Reference Tools

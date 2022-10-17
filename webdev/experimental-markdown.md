@@ -3,7 +3,6 @@ aliases: [Experimental Markdown]
 title: Experimental Markdown
 tags: ["markdown"]
 date: 2020-11-26 21:10:40
-category: development
 draft: false
 ---
 

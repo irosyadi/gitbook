@@ -3,7 +3,6 @@ aliases: [Spartan and Text Only Websites]
 title: Spartan and Text Only Websites
 tags: ["text only"]
 date: 2020-11-14 08:36:37
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Data Tools]
 title: Data Tools
 tags: ["data"]
 date: 2022-10-06 10:00
-category: category
 draft: false
 ---
 

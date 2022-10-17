@@ -3,7 +3,6 @@ aliases: [My Awesome List of Windows Apps]
 title: My Awesome List of Windows Apps
 tags: ["imron", "app"]
 date: 2020-08-05 20:34:24
-category: me
 draft: false
 ---
 

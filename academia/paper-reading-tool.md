@@ -3,7 +3,6 @@ aliases: [Awesome Paper Reading Tools]
 title: Awesome Paper Reading Tools
 tags: ["paper", "reading"]
 date: 2022-06-03 21:05:13
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Open Healthcare Library]
 title: Open Healthcare Library
 tags: ["open", "healthcare", "library"]
 date: 2020-07-20 20:31:10
-category: note
 draft: false
 ---
 

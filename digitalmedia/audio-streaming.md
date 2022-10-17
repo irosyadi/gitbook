@@ -3,7 +3,6 @@ aliases: [Audio, Music, Radio, and Podcast Streaming Apps]
 title: Audio, Music, Radio, and Podcast Streaming Apps
 tags: ["radio", "audio", "music", "podcast"]
 date: 2020-12-21 17:08:25
-category: app
 draft: false
 ---
 
@@ -13,8 +12,8 @@ Audio, Music, Radio, and Podcast Streaming Apps.
 
 Related links:  
 🔗 [Audio, Music, Radio, and Podcast Streaming Apps](audio-streaming.md)  
-🔗 [Audio and Music Tools](../multimedia/audio-tool.md)  
-🔗 [Free Audio and Music](../multimedia/free-audio.md)  
+🔗 [Audio and Music Tools](audio-tool.md)  
+🔗 [Free Audio and Music](free-audio.md)  
 
 ## Web-based Noise Generator
 

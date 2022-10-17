@@ -3,7 +3,6 @@ aliases: [Machine Learning SOTA and Model Zoo]
 title: Machine Learning SOTA and Model Zoo
 tags: ["machine learning", "sota"]
 date: 2020-12-20 21:55:23
-category: research
 draft: false
 ---
 

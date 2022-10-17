@@ -3,7 +3,6 @@ aliases: [Network How To]
 title: Network How To
 tags: ["network"]
 date: 2021-04-05 07:11:29
-category: howto
 draft: false
 ---
 

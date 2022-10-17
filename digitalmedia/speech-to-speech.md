@@ -3,7 +3,6 @@ aliases: [Speech to Speech (Fake Voice Generator)]
 title: Speech to Speech (Fake Voice Generator)
 tags: ["conversion", "generator"]
 date: 2022-05-05 06:14:38
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Kuliah]
 title: Kuliah
 tags: ["kuliah"]
 date: 2020-08-31 13:58:33
-category: course
 draft: false
 ---
 

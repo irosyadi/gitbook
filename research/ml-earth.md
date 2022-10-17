@@ -3,7 +3,6 @@ aliases: [Machine Learning for Earth Science]
 title: Machine Learning for Earth Science
 tags: ["machine learning", "earth"]
 date: 2020-12-20 22:06:57
-category: research
 draft: false
 ---
 

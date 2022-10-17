@@ -3,7 +3,6 @@ aliases: [PC to Android Connection]
 title: PC to Android Connection
 tags: ["android"]
 date: 2022-07-01 12:50:53
-category: app
 draft: false
 ---
 

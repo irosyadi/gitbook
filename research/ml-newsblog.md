@@ -3,7 +3,6 @@ aliases: [Machine Learning News and Blog]
 title: Machine Learning News and Blog
 tags: ["machine learning", "hardware"]
 date: 2021-12-22 11:30:28
-category: research
 draft: false
 ---
 

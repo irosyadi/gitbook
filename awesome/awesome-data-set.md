@@ -3,7 +3,6 @@ aliases: [Awesome Data Set]
 title: Awesome Data Set
 tags: ["data"]
 date: 2020-11-14 05:55:08
-category: awesome
 draft: false
 ---
 

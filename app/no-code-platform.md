@@ -3,7 +3,6 @@ aliases: [No Code Platforms]
 title: No Code Platforms
 tags: ["no code"]
 date: 2021-11-03 03:45:20
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Graph Tools and Apps]
 title: Graph Tools and Apps
 tags: ["graph"]
 date: 2020-10-11 20:55:28
-category: app
 draft: false
 ---
 

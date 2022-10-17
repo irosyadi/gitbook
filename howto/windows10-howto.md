@@ -3,7 +3,6 @@ aliases: [Windows 10 How To]
 title: Windows 10 How To
 tags: ["windows"]
 date: 2020-12-20 21:26:54
-category: howto
 draft: false
 ---
 

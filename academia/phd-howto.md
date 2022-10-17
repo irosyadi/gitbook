@@ -3,7 +3,6 @@ aliases: [PhD How To]
 title: PhD How To
 tags: ["research", "academia"]
 date: 2022-06-20 08:24:13
-category: research
 draft: false
 ---
 

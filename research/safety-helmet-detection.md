@@ -3,7 +3,6 @@ aliases: [Safety Helmet and Plate Detection]
 title: Safety Helmet and Plate Detection
 tags: ["object detection", "machine learning"]
 date: 2020-11-29 19:37:58
-category: research
 draft: false
 ---
 

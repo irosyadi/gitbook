@@ -3,7 +3,6 @@ aliases: [Interesting Machine Learning Papers]
 title: Interesting Machine Learning Papers
 tags: ["machine learning", "paper"]
 date: 2021-01-14 16:27:12
-category: research
 draft: false
 ---
 

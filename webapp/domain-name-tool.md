@@ -1,8 +1,8 @@
 ---
+aliases: 
 title: domain-name-tool
 tags: ["domain", "DNS"]
 date: 2020-06-16 19:52:40
-category: app
 draft: false
 ---
 

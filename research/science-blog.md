@@ -3,7 +3,6 @@ aliases: [Awesome Science Blogs and Forums]
 title: Awesome Science Blogs and Forums
 tags: ["science", "blog" , "research", "academia"]
 date: 2022-06-02 22:49:42
-category: research
 draft: false
 ---
 
@@ -15,7 +14,7 @@ Related links:
 🔗 [Awesome Research and Academic Writing Assistant Tools](../academia/paper-tool.md)  
 🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
 🔗 [Awesome Scientific Journal Tools](../academia/journal-tool.md)  
-🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
 ## AI-related Blogs

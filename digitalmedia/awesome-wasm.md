@@ -3,14 +3,13 @@ aliases: [Awesome WASM Apps]
 title: Awesome WASM Apps
 tags: ["wasm"]
 date: 2020-12-14 15:09:46
-category: app
 draft: false
 ---
 
 # Awesome WASM Apps
 
 Related links:  
-🔗 [Audio and Music Tools - WASM](../multimedia/audio-tool.md)  
+🔗 [Audio and Music Tools - WASM](audio-tool.md)  
 🔗 [PDF Tools - WASM](/app/pdf-tool)  
 
 ## List of WASM Apps

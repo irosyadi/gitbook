@@ -3,7 +3,6 @@ aliases: [Free Apps for Developers]
 title: Free Apps for Developers
 tags: ["free", "developer"]
 date: 2020-09-14 10:44:06
-category: app
 draft: false
 ---
 

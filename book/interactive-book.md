@@ -3,7 +3,6 @@ aliases: [Interactive Books]
 title: Interactive Books
 tags: ["visualization", "interactive", "book"]
 date: 2020-08-10 19:36:40
-category: book
 draft: false
 ---
 

@@ -1,13 +1,12 @@
 ---
-aliases: [Awesome Latex Apps]
-title: Awesome Latex Apps
+aliases: [Awesome Latex Tools]
+title: Awesome Latex Tools
 tags: ["writing", "research", "academia"]
 date: 2020-12-14 15:19:51
-category: research
 draft: false
 ---
 
-# Awesome Latex Apps
+# Awesome Latex Tools
 
 Related links:  
 🔗 [Paper and Article Search Tools](paper-search.md)  
@@ -15,7 +14,7 @@ Related links:
 🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
 🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
 🔗 [Awesome Scientific Journal Tools](journal-tool.md)  
-🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
 ## Online Math (Latex) Editor

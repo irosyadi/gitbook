@@ -3,7 +3,6 @@ aliases: [My Workflow]
 title: My Workflow
 tags: ["writing"]
 date: 2020-11-22 16:49:22
-category: me
 draft: false
 ---
 

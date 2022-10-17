@@ -3,7 +3,6 @@ aliases: [MK Sistem Kendali]
 title: MK Sistem Kendali
 tags: ["control system", "kuliah"]
 date: 2021-02-21 19:08:54
-category: course
 draft: false
 ---
 

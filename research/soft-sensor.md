@@ -3,7 +3,6 @@ aliases: [Soft Sensor]
 title: Soft Sensor
 tags: ["soft sensor"]
 date: 2021-02-26 13:01:49
-category: research
 draft: false
 ---
 

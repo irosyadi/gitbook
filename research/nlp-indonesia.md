@@ -3,7 +3,6 @@ aliases: [NLP for Bahasa Indonesia]
 title: NLP for Bahasa Indonesia
 tags: ["nlp", "indonesia"]
 date: 2020-10-11 21:14:37
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Paper and Article Search Tools]
 title: Paper and Article Search Tools
 tags: ["paper", "article", "search", "research", "academia"]
 date: 2022-06-02 17:15:49
-category: research
 draft: false
 ---
 
@@ -15,7 +14,7 @@ Related link:
 🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
 🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
 🔗 [Awesome Scientific Journal Tools](../academia/journal-tool.md)  
-🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
 ## Article Search Flowchart

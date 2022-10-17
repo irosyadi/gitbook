@@ -3,7 +3,6 @@ aliases: [My Awesome Android Apps]
 title: My Awesome Android Apps
 tags: ["app", "imron"]
 date: 2021-02-10 11:31:04
-category: me
 draft: false
 ---
 

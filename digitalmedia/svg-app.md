@@ -3,7 +3,6 @@ aliases: [Awesome List of SVG Applications]
 title: Awesome List of SVG Applications
 tags: ["SVG"]
 date: 2021-11-17 07:59:08
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Object Detection]
 title: Object Detection
 tags: ["object detection", "machine learning"]
 date: 2020-11-21 09:00:27
-category: research
 draft: false
 ---
 

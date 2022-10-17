@@ -3,7 +3,6 @@ aliases: [Control Systems]
 title: Control Systems
 tags: ["control system"]
 date: 2020-08-31 13:57:57
-category: course
 draft: false
 ---
 

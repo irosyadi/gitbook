@@ -1,9 +1,8 @@
 ---
 aliases: [Awesome Browser Research Tools]
 title: Awesome Browser Research Tools
-tags: ["browser", "research", "writing"]
+tags: ["research", "paper"]
 date: 2022-06-03 21:05:13
-category: academia
 draft: false
 ---
 

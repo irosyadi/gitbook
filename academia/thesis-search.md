@@ -3,7 +3,6 @@ aliases: [Thesis Search]
 title: Thesis Search
 tags: ["thesis", "search"]
 date: 2022-06-02 17:15:49
-category: academia
 draft: false
 ---
 

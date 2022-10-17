@@ -3,7 +3,6 @@ aliases: [How to Write Research Paper]
 title: How to Write Research Paper
 tags: ["paper"]
 date: 2022-05-11 19:35:33
-category: howto
 draft: false
 ---
 

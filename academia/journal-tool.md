@@ -3,7 +3,6 @@ aliases: [Awesome Scientific Journal Tools]
 title: Awesome Scientific Journal Tools
 tags: ["journal", "research", "academia"]
 date: 2020-12-04 21:54:47
-category: research
 draft: false
 ---
 
@@ -15,7 +14,7 @@ Related links:
 🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
 🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
 🔗 [Awesome Scientific Journal Tools](journal-tool.md)  
-🔗 [Awesome Conferences Tools](/research/conference-tool)  
+🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
 ## Impact Factor

@@ -3,7 +3,6 @@ aliases: [PDF Tools]
 title: PDF Tools
 tags: ["pdf", "editor"]
 date: 2020-06-16 16:11:58
-category: app
 draft: false
 ---
 

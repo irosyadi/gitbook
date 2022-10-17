@@ -3,7 +3,6 @@ aliases: [Title, Zeer Evaporation Pot]
 title: Title
 tags: ["tag"]
 date: 2022-10-11 08:38
-category: category
 draft: false
 ---
 

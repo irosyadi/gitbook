@@ -3,7 +3,6 @@ aliases: [MK Matematika Teknik]
 title: MK Matematika Teknik
 tags: ["linear algebra", "kuliah"]
 date: 2020-08-31 13:58:32
-category: course
 draft: false
 ---
 

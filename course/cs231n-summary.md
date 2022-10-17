@@ -3,7 +3,6 @@ aliases: [Standford CS231n 2017 Summary, template, templates]
 title: Standford CS231n 2017 Summary
 tags: ["machine learning"]
 date: 2021-06-11 01:34:34
-category: course
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Free and Open Books]
 title: Free and Open Books
 tags: ["free", "open", "book"]
 date: 2020-08-10 19:35:41
-category: book
 draft: false
 ---
 

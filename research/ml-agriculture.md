@@ -3,7 +3,6 @@ aliases: [Machine Learning in Agriculture]
 title: Machine Learning in Agriculture
 tags: ["machine learning", "agriculture"]
 date: 2020-12-20 22:08:48
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [PHM in Motor]
 title: PHM in Motor
 tags: ["PHM", "motor"]
 date: 2022-06-20 12:50:53
-category: research
 draft: false
 ---
 

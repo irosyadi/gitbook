@@ -3,7 +3,6 @@ aliases: [Awesome List of Interactive and Explorable Webs]
 title: Awesome List of Interactive and Explorable Webs
 tags: ["visualization", "interactive"]
 date: 2020-06-29 19:58:21
-category: app
 draft: false
 ---
 

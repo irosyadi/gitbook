@@ -1,9 +1,8 @@
 ---
 aliases: [Certification]
 title: Certification
-tags: ["tag"]
+tags: ["learning"]
 date: 2022-10-11 08:23
-category: category
 draft: false
 ---
 

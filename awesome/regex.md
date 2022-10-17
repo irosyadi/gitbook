@@ -3,7 +3,6 @@ aliases: [Regex]
 title: Regex
 tags: ["regex"]
 date: 2020-11-14 20:12:07
-category: awesome
 draft: false
 ---
 

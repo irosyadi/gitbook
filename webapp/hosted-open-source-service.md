@@ -3,7 +3,6 @@ aliases: [Hosted Open Source Services]
 title: Hosted Open Source Services
 tags: ["self-hosted", "open source"]
 date: 2020-10-11 21:39:17
-category: app
 draft: false
 ---
 

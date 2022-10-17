@@ -3,7 +3,6 @@ aliases: [Convolution]
 title: Convolution
 tags: ["convolution", "cross-corelation"]
 date: 2021-03-02 06:10:34
-category: note
 draft: false
 ---
 

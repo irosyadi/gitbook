@@ -3,7 +3,6 @@ aliases: [Free and Open Books Repository and Provider]
 title: Free and Open Books Repository and Provider
 tags: ["free", "open", "book"]
 date: 2020-06-28 19:20:37
-category: book
 draft: false
 ---
 

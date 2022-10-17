@@ -3,7 +3,6 @@ aliases: [Two Factor Authentication]
 title: Two Factor Authentication
 tags: ["security"]
 date: 2022-10-08 20:47
-category: category
 draft: false
 ---
 

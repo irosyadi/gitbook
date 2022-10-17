@@ -3,7 +3,6 @@ aliases: [Tracking Apps]
 title: Tracking Apps
 tags: ["tracking", "ship", "flight"]
 date: 2021-04-04 19:08:46
-category: app
 draft: false
 ---
 

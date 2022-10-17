@@ -3,7 +3,6 @@ aliases: [My Awesome Gadget]
 title: My Awesome Gadget
 tags: ["imron", "gadget"]
 date: 2020-12-11 19:31:06
-category: me
 draft: false
 ---
 

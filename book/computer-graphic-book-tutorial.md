@@ -3,7 +3,6 @@ aliases: [Computer Graphics Books, Tutorials, and Courses]
 title: Computer Graphics Books, Tutorials, and Courses
 tags: ["graphic", "book"]
 date: 2021-04-04 19:26:27
-category: book
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [MK Sistem Kendali Lanjut]
 title: MK Sistem Kendali Lanjut
 tags: ["control system", "kuliah"]
 date: 2020-08-31 14:57:57
-category: course
 draft: false
 ---
 

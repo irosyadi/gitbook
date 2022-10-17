@@ -3,7 +3,6 @@ aliases: [Linear Algebra]
 title: Linear Algebra
 tags: ["linear algebra"]
 date: 2020-08-31 13:58:32
-category: course
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Course]
 title: Course
 tags: ["course"]
 date: 2020-06-01 20:09:34
-category: course
 draft: false
 ---
 
@@ -11,15 +10,15 @@ draft: false
 
 ## Kuliah Teknik Elektro Unsoed
 
-- [kuliah](kuliah.md)
-- [mk-dasar-teknik-elektro](mk-dasar-teknik-elektro.md)
-- [mk-internet-of-things](mk-internet-of-things.md)
-- [mk-machine-learning](mk-machine-learning.md)
-- [mk-matematika-teknik](mk-matematika-teknik.md)
-- [mk-pengolahan-sinyal-digital](mk-pengolahan-sinyal-digital.md)
-- [mk-sistem-kendali](mk-sistem-kendali.md)
-- [mk-sistem-kendali-cerdas](mk-sistem-kendali-cerdas.md)
-- [mk-sistem-kendali-lanjut](mk-sistem-kendali-lanjut.md)
+- [[kuliah|Kuliah]]
+- [[mk-dasar-teknik-elektro|MK Dasar Teknik Elektro]]
+- [[mk-internet-of-things|MK Internet of Things]]
+- [[mk-machine-learning|MK Machine Learning]]
+- [[mk-matematika-teknik|MK Matematika Teknik]]
+- [[mk-pengolahan-sinyal-digital|MK Pengolahan Sinyal Digital]]
+- [[mk-sistem-kendali|MK Sistem Kendali]]
+- [[mk-sistem-kendali-cerdas|MK Sistem Kendali Cerdas]]
+- [[mk-sistem-kendali-lanjut|MK Sistem Kendali Lanjut]]
 
 ## Online Courses
 

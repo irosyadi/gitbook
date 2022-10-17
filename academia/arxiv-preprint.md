@@ -3,7 +3,6 @@ aliases: [Arxiv and Paper Preprint]
 title: Arxiv and Paper Preprint
 tags: ["paper"]
 date: 2020-10-11 22:31:46
-category: research
 draft: false
 ---
 

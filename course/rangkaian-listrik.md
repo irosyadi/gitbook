@@ -3,7 +3,6 @@ aliases: [Rangkaian Listrik]
 title: Rangkaian Listrik
 tags: ["rangkaian", "listrik"]
 date: 2021-02-09 10:52:01
-category: note
 draft: false
 ---
 

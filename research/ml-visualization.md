@@ -3,17 +3,16 @@ aliases: [Awesome List of Machine Learning Visualization]
 title: Awesome List of Machine Learning Visualization
 tags: ["machine learning", "visualization", "interactive"]
 date: 2020-12-21 09:20:46
-category: research
 draft: false
 ---
 
 # Awesome List of Machine Learning Visualization
 
 Related links:  
-🔗 [Awesome List of Data Visualization](/note/data-visualization)  
+🔗 [[data-visualization|Awesome List of Data Visualization]]  
 🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
-🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
-🔗 [Interactive Books](/book/interactive-book)  
+🔗 [[interactive-explorable-web|Awesome List of Interactive and Explorable Webs]]  
+🔗 [[interactive-book|Interactive Books]]  
 
 ## Machine Learning Visualization
 

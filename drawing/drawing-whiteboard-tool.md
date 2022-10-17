@@ -3,7 +3,6 @@ aliases: [Drawing Tools]
 title: Drawing Tools
 tags: ["drawing", "whiteboard"]
 date: 2020-09-14 11:04:15
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Exobrain Blogs and Digital Gardens]
 title: Exobrain Blogs and Digital Gardens
 tags: ["exobrain", "digital garden"]
 date: 2020-06-29 19:59:38
-category: app
 draft: false
 ---
 
@@ -35,7 +34,7 @@ draft: false
 - [Jethro Kuan](https://braindump.jethro.dev/) Stacks: org-roam
 - [Srid CA](https://www.srid.ca/356bec10.html)
 
-## List of Blog
+## List of Digital Gardens
 
 1. [Paul Copplestone](https://paul.copplest.one/) Platform: Vuepress
 2. [The Blue Book](https://lyz-code.github.io/blue-book/) Platform: MkDocs
@@ -81,7 +80,7 @@ draft: false
     - [Punto de entrada - crisrojas](https://www.crisrojas.com/notes/)
     
 
-## Digital Garden Notetaking
+## Digital Garden Concepts
 
 - [A Meta-Tour of This Site](https://maggieappleton.com/metatour)
 - [MaggieAppleton/maggieappleton.com-V2: A digital garden built with Next.js, React, and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.](https://github.com/MaggieAppleton/maggieappleton.com-V2)

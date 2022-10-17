@@ -3,7 +3,6 @@ aliases: [Pretext Book]
 title: Pretext Book
 tags: ["free", "open", "book"]
 date: 2020-07-12 19:46:07
-category: book
 draft: false
 ---
 

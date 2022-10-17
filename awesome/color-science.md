@@ -3,7 +3,6 @@ aliases: [Color Science and Tools]
 title: Color Science and Tools
 tags: ["color"]
 date: 2020-10-11 21:00:05
-category: awesome
 draft: false
 ---
 

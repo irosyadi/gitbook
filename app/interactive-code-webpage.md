@@ -3,7 +3,6 @@ aliases: [Interactive Code in Webpage]
 title: Interactive Code in Webpage
 tags: ["interactive", "code"]
 date: 2021-01-20 06:24:36
-category: app
 draft: false
 ---
 

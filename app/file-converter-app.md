@@ -3,7 +3,6 @@ aliases: [Awesome List of File Converter Apps]
 title: Awesome List of File Converter Apps
 tags: ["file", "converter"]
 date: 2020-10-11 21:48:47
-category: app
 draft: false
 ---
 

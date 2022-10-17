@@ -3,7 +3,6 @@ aliases: [Free Cloud Compute Infrastructure]
 title: Free Cloud Compute Infrastructure
 tags: ["free", "cloud", "compute"]
 date: 2020-11-14 08:32:12
-category: app
 draft: false
 ---
 

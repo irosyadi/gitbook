@@ -3,7 +3,6 @@ aliases: [Chrome How To]
 title: Chrome How To
 tags: ["browser"]
 date: 2021-01-13 06:11:10
-category: howto
 draft: false
 ---
 

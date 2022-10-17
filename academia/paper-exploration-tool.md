@@ -3,7 +3,6 @@ aliases: [Awesome Paper Exploration Tools]
 title: Awesome Paper Exploration Tools
 tags: ["paper", "graph"]
 date: 2022-06-03 21:05:13
-category: research
 draft: false
 ---
 

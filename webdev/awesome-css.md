@@ -3,7 +3,6 @@ aliases: [Awesome CSS]
 title: Awesome CSS
 tags: ["css"]
 date: 2022-07-08 12:55:46
-category: app
 draft: false
 ---
 

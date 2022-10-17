@@ -3,14 +3,13 @@ aliases: [Face and Pose Animation]
 title: Face and Pose Animation
 tags: ["animation", "generative"]
 date: 2020-11-20 08:57:13
-category: app
 draft: false
 ---
 
 # Face and Pose Animation
 
 Related links:  
-🔗 [App/Awesome List of Animation Apps](../multimedia/animation-app.md)  
+🔗 [App/Awesome List of Animation Apps](animation-app.md)  
 🔗 [App/Face and Pose Animation](face-pose-animation.md)
 
 ## Face and Pose Animator

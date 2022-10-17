@@ -3,7 +3,6 @@ aliases: [Numerical Computing Resources]
 title: Numerical Computing Resources
 tags: ["numerical"]
 date: 2021-01-14 19:20:02
-category: book
 draft: false
 ---
 

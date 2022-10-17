@@ -3,7 +3,6 @@ aliases: [Hardware for Machine Learning]
 title: Hardware for Machine Learning
 tags: ["machine learning", "hardware"]
 date: 2021-12-21 11:30:28
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Awesome Open Source Documents]
 title: Awesome Open Source Documents
 tags: ["open", "book"]
 date: 2020-07-28 19:47:45
-category: book
 draft: false
 ---
 

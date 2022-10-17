@@ -3,7 +3,6 @@ aliases: [Python Books, Tutorials, and Courses]
 title: Python Books, Tutorials, and Courses
 tags: ["python", "book", "tutorial"]
 date: 2020-06-19 19:37:43
-category: book
 draft: false
 ---
 

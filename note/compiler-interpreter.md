@@ -3,7 +3,6 @@ aliases: [About Compiler and Interpreter]
 title: About Compiler and Interpreter
 tags: ["compiler", "interpreter"]
 date: 2020-07-03 20:26:29
-category: note
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Presentation Apps]
 title: Presentation Apps
 tags: ["presentation"]
 date: 2021-04-04 16:54:52
-category: app
 draft: false
 ---
 

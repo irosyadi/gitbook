@@ -1,9 +1,8 @@
 ---
 aliases: [Machine Learning in Mobile Devices]
 title: Machine Learning in Mobile Devices
-tags: ["tag"]
+tags: ["machine-learning"]
 date: 2022-10-11 08:31
-category: category
 draft: false
 ---
 

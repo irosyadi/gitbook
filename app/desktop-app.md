@@ -3,7 +3,6 @@ aliases: [Awesome Desktop Apps]
 title: Awesome Desktop Apps
 tags: ["app"]
 date: 2021-11-05 20:34:24
-category: app
 draft: false
 ---
 

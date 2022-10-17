@@ -3,7 +3,6 @@ aliases: [Notetaking Tools]
 title: Notetaking Tools
 tags: ["notetaking"]
 date: 2020-06-29 20:00:31
-category: app
 draft: false
 ---
 

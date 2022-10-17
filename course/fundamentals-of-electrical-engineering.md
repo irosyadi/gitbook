@@ -3,7 +3,6 @@ aliases: [Fundamentals of Electrical Engineering]
 title: Fundamentals of Electrical Engineering
 tags: ["electrical engineering"]
 date: 2020-08-31 13:57:15
-category: course
 draft: false
 ---
 

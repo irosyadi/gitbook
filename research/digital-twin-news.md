@@ -3,7 +3,6 @@ aliases: [Digital Twin News]
 title: Digital Twin News
 tags: ["digital twin"]
 date: 2022-06-11 22:31:46
-category: research
 draft: false
 ---
 

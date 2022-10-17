@@ -1,4 +1,5 @@
 ---
+aliases: 
 title: pid-control
 tags: 
 ---

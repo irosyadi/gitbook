@@ -3,7 +3,6 @@ aliases: [Anaconda How To]
 title: Anaconda How To
 tags: ["python"]
 date: 2021-01-07 04:57:02
-category: howto
 draft: false
 ---
 

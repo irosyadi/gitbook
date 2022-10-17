@@ -3,7 +3,6 @@ aliases: [Blog Resources]
 title: Blog Resources
 tags: ["web"]
 date: 2020-12-21 11:44:46
-category: development
 draft: false
 ---
 

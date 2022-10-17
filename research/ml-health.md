@@ -3,7 +3,6 @@ aliases: [Machine Learning for Health]
 title: Machine Learning for Health
 tags: ["machine learning", "health"]
 date: 2020-12-20 22:10:14
-category: research
 draft: false
 ---
 

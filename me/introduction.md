@@ -3,7 +3,6 @@ aliases: [Imron Rosyadi]
 title: Imron Rosyadi
 tags: ["imron"]
 date: 2025-01-01 00:00:01
-category: me
 draft: false
 ---
 

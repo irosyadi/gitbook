@@ -3,7 +3,6 @@ aliases: [Face Mask Detection with Machine Learning]
 title: Face Mask Detection with Machine Learning
 tags: ["face detection", "machine learning"]
 date: 2020-11-29 17:33:08
-category: research
 draft: false
 ---
 

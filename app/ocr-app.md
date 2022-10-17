@@ -3,7 +3,6 @@ aliases: [Awesome List of OCR Apps]
 title: Awesome List of OCR Apps
 tags: ["OCR"]
 date: 2021-11-15 04:10:11
-category: app
 draft: false
 ---
 

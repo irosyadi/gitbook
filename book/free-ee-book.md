@@ -3,7 +3,6 @@ aliases: [Free and Open Electrical Engineering Books]
 title: Free and Open Electrical Engineering Books
 tags: ["free", "open", "electrical engineering", "book"]
 date: 2020-07-26 19:46:47
-category: book
 draft: false
 ---
 

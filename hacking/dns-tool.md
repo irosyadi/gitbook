@@ -3,7 +3,6 @@ aliases: [DNS Tools]
 title: DNS Tools
 tags: ["DNS"]
 date: 2020-06-16 19:52:40
-category: app
 draft: false
 ---
 

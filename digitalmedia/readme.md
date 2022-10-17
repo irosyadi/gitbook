@@ -3,7 +3,6 @@ aliases: [Multimedia]
 title: Multimedia
 tags: ["audio", "video", "image"]
 date: 2020-06-01 20:09:34
-category: multimedia
 draft: false
 ---
 

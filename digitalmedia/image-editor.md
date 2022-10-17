@@ -3,7 +3,6 @@ aliases: [Awesome List of Image Editors, Converters, and Processors]
 title: Awesome List of Image Editors, Converters, and Processors
 tags: ["image", "editor", "converter"]
 date: 2020-06-16 16:12:32
-category: app
 draft: false
 ---
 
@@ -38,6 +37,7 @@ draft: false
 - [Erase BG](https://erase.bg/) : remove background with AI
 - [RemoveBackground.app](https://removebackground.app/)
 - [Online Background Remover 100% Free - PicWish](https://picwish.com/)
+- [Background remover: Remove your image background for free](https://www.photoroom.com/background-remover/)
 
 ## Dithering
 

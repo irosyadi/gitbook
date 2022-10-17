@@ -3,7 +3,6 @@ aliases: [Text and Markdown Editor]
 title: Text and Markdown Editor
 tags: ["text", "markdown", "editor"]
 date: 2020-12-20 21:43:32
-category: app
 draft: false
 ---
 

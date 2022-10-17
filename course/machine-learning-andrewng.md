@@ -3,7 +3,6 @@ aliases: [Machine Learning by Andrew Ng Resources]
 title: Machine Learning by Andrew Ng Resources
 tags: ["machine learning"]
 date: 2020-11-11 13:58:59
-category: course
 draft: false
 ---
 

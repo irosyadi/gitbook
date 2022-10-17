@@ -3,7 +3,6 @@ aliases: [CT-Scan for Covid-19 Classification using Machine Learning]
 title: CT-Scan for Covid-19 Classification using Machine Learning
 tags: ["covid", "machine learning"]
 date: 2020-11-29 14:44:52
-category: research
 draft: false
 ---
 

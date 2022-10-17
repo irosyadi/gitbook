@@ -3,7 +3,6 @@ aliases: [Awesome Microcontroller and Microcomputer]
 title: Awesome Microcontroller and Microcomputer
 tags: ["microcontroller"]
 date: 2021-11-21 08:14:50
-category: awesome
 draft: false
 ---
 

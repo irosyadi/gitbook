@@ -3,7 +3,6 @@ aliases: [List of Static Web Generator]
 title: List of Static Web Generator
 tags: ["static web"]
 date: 2020-07-06 20:01:55
-category: app
 draft: false
 ---
 

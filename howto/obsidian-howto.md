@@ -3,7 +3,6 @@ aliases: [Obsidian How To]
 title: Obsidian How To
 tags: ["obsidian"]
 date: 2022-09-13 15:35:09
-category: howto
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Digital Twin in Vehicles]
 title: Digital Twin in Vehicles
 tags: ["digital twin"]
 date: 2020-07-18 09:10:27
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Open Source Hardware]
 title: Open Source Hardware
 tags: ["open source", "hardware"]
 date: 2020-12-21 09:17:00
-category: note
 draft: false
 ---
 

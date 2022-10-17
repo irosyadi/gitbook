@@ -3,7 +3,6 @@ aliases: [Time Series Forecasting]
 title: Time Series Forecasting
 tags: ["time series", "forecasting"]
 date: 2021-02-26 13:10:49
-category: research
 draft: false
 ---
 

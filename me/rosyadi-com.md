@@ -3,7 +3,6 @@ aliases: [Services on rosyadi.com and irosyadi Blog Networks]
 title: Services on rosyadi.com and irosyadi Blog Networks
 tags: ["app", "self-hosted", "imron"]
 date: 2020-12-13 04:17:16
-category: me
 draft: false
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases: [Free Cloud Storage]
 title: Free Cloud Storage
-tags: ["tag"]
+tags: ["cloud"]
 date: 2022-10-11 08:29
-category: category
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Free Apps for Students]
 title: Free Apps for Students
 tags: ["free", "student"]
 date: 2020-09-14 10:41:48
-category: app
 draft: false
 ---
 

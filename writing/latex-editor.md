@@ -3,7 +3,6 @@ aliases: [Awesome Latex Editors]
 title: Awesome Latex Editors
 tags: ["writing", "research", "academia"]
 date: 2020-12-14 15:19:51
-category: research
 draft: false
 ---
 

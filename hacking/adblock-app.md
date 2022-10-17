@@ -3,7 +3,6 @@ aliases: [Awesome List of Adblock Apps]
 title: Awesome List of Adblock Apps
 tags: ["adblock"]
 date: 2021-11-10 11:31:04
-category: note
 draft: false
 ---
 

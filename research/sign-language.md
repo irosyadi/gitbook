@@ -3,7 +3,6 @@ aliases: [Sign Language Recognition]
 title: Sign Language Recognition
 tags: ["sign", "language"]
 date: 2021-03-24 16:02:06
-category: research
 draft: false
 ---
 

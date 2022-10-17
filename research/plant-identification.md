@@ -3,7 +3,6 @@ aliases: [Plant Identification]
 title: Plant Identification
 tags: ["tag"]
 date: 2022-10-11 08:33
-category: category
 draft: false
 ---
 

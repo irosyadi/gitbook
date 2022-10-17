@@ -3,7 +3,6 @@ aliases: [Awesome List of Video Editors]
 title: Awesome List of Video Editors
 tags: ["instagram"]
 date: 2021-11-15 20:50:36
-category: app
 draft: false
 ---
 
@@ -113,3 +112,10 @@ draft: false
 ## Video Editor
 
 - [VidMix.app](https://vidmix.app/)
+- [Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/) Video Editing using word
+
+
+## Video Tutorial Anotator
+- [Scribe | Visual step-by-step guides](https://scribehow.com/)
+
+

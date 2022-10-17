@@ -3,7 +3,6 @@ aliases: [MK Machine Learning]
 title: MK Machine Learning
 tags: ["machine learning", "kuliah"]
 date: 2020-12-30 13:58:59
-category: course
 draft: false
 ---
 

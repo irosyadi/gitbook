@@ -3,7 +3,6 @@ aliases: [Machine Learning CS299]
 title: Machine Learning CS299
 tags: ["machine learning"]
 date: 2020-08-31 13:58:59
-category: course
 draft: false
 ---
 

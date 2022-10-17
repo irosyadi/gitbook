@@ -3,7 +3,6 @@ aliases: [MK Dasar Teknik Elektro]
 title: MK Dasar Teknik Elektro
 tags: ["teknik elektro", "electrical engineering", "kuliah"]
 date: 2020-08-31 13:58:37
-category: course
 draft: false
 ---
 

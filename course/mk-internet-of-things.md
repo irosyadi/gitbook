@@ -3,7 +3,6 @@ aliases: [MK Internet of Things]
 title: MK Internet of Things
 tags: ["internet of things", "kuliah"]
 date: 2021-02-21 19:09:05
-category: course
 draft: false
 ---
 

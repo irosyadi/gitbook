@@ -3,7 +3,6 @@ aliases: [Image Processing Book and Tutorial]
 title: Image Processing Book and Tutorial
 tags: ["image processing", "book", "tutorial"]
 date: 2020-07-11 19:45:18
-category: book
 draft: false
 ---
 

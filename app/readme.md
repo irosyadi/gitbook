@@ -3,7 +3,6 @@ aliases: [App]
 title: App
 tags: ["app"]
 date: 2020-06-01 20:09:34
-category: app
 draft: false
 ---
 

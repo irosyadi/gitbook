@@ -3,7 +3,6 @@ aliases: [Machine Learning for Image Processing]
 title: Machine Learning for Image Processing
 tags: ["machine learning", "image processing"]
 date: 2020-12-20 22:25:13
-category: research
 draft: false
 ---
 

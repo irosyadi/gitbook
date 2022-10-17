@@ -3,7 +3,6 @@ aliases: [Machine Learning for Satellite Images]
 title: Machine Learning for Satellite Images
 tags: ["machine learning", "satellite"]
 date: 2020-10-11 21:18:50
-category: research
 draft: false
 ---
 

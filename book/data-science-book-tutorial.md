@@ -3,7 +3,6 @@ aliases: [Data Science Books, Tutorials, and Courses]
 title: Data Science Books, Tutorials, and Courses
 tags: ["data science", "book", "tutorial"]
 date: 2020-07-11 19:44:34
-category: book
 draft: false
 ---
 

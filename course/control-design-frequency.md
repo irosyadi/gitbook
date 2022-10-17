@@ -3,7 +3,6 @@ aliases: [Control Design with Frequency Method]
 title: Control Design with Frequency Method
 tags: ["control system"]
 date: 2020-08-31 13:57:57
-category: course
 draft: false
 ---
 

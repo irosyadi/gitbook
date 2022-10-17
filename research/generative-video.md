@@ -3,7 +3,6 @@ aliases: [Generative Video]
 title: Generative Video
 tags: ["generative", "video"]
 date: 2022-09-30 11:12:41
-category: research
 draft: false
 ---
 

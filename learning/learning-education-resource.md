@@ -3,7 +3,6 @@ aliases: [Learning and Education Resources]
 title: Learning and Education Resources
 tags: ["learning", "education"]
 date: 2021-11-23 04:55:09
-category: note
 draft: false
 ---
 

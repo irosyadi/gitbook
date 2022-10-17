@@ -3,7 +3,6 @@ aliases: [Speech to Text Apps]
 title: Speech to Text Apps
 tags: ["conversion", "generator"]
 date: 2022-05-05 19:41:00
-category: app
 draft: false
 ---
 
@@ -11,8 +10,8 @@ draft: false
 
 Related links:  
 🔗 [Speech to Text Apps](speech-to-text.md)  
-🔗 [Text to Speech Apps](../multimedia/text-to-speech.md)  
-🔗 [Speech to Speech (Fake Voice Generator)](../multimedia/speech-to-speech.md)  
+🔗 [Text to Speech Apps](text-to-speech.md)  
+🔗 [Speech to Speech (Fake Voice Generator)](speech-to-speech.md)  
 
 ## Speech to Text
 

@@ -3,7 +3,6 @@ aliases: [Free Online Course]
 title: Free Online Course
 tags: ["free", "course"]
 date: 2020-11-30 05:49:43
-category: course
 draft: false
 ---
 

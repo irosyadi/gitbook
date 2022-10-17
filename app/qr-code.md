@@ -3,7 +3,6 @@ aliases: [QR Code App]
 title: QR Code App
 tags: ["QR Code"]
 date: 2020-08-15 04:10:11
-category: app
 draft: false
 ---
 
@@ -19,6 +18,7 @@ draft: false
 - [QR Code Generator](https://www.the-qrcode-generator.com/)
 - [Unitag](https://www.unitag.io/qrcode)
 - [My-Qr.art - Create custom QR codes for free!](https://my-qr.art/)
+- [QROSSCODES](https://qrosscodes.com/)
 
 ## QR Code Decoder
 

@@ -3,7 +3,6 @@ aliases: [Machine Learning Metrics]
 title: Machine Learning Metrics
 tags: ["machine learning"]
 date: 2020-12-15 14:08:52
-category: research
 draft: false
 ---
 

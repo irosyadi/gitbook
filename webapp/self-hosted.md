@@ -3,7 +3,6 @@ aliases: [Self-hosted Applications]
 title: Self-hosted Applications
 tags: ["self-hosted"]
 date: 2021-11-04 03:45:20
-category: app
 draft: false
 ---
 

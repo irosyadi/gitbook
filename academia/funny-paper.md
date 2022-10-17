@@ -1,13 +1,12 @@
 ---
-aliases: [Funny Research Paper]
-title: Funny Research Paper
+aliases: [Funny Research Papers]
+title: Funny Research Papers
 tags: ["paper"]
 date: 2022-10-08 20:32
-category: academia
 draft: false
 ---
 
-# Funny Research Paper
+# Funny Research Papers
 
 ## Funny Paper
 

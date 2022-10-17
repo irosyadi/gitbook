@@ -3,7 +3,6 @@ aliases: [Lightboard]
 title: Lightboard
 tags: ["writing"]
 date: 2022-10-08 20:45
-category: category
 draft: false
 ---
 

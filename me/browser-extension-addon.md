@@ -3,7 +3,6 @@ aliases: [Browser Extension and Add-On]
 title: Browser Extension and Add-On
 tags: ["browser", "extension", "add-on"]
 date: 2020-08-16 19:57:52
-category: app
 draft: false
 ---
 

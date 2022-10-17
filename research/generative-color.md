@@ -3,7 +3,6 @@ aliases: [Generative Color Colorization]
 title: Generative Color Colorization
 tags: ["generative", "color"]
 date: 2022-09-30 13:12:41
-category: research
 draft: false
 ---
 

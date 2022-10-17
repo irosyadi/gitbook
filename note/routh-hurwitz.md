@@ -1,4 +1,5 @@
 ---
+aliases: 
 title: routh-hurwitz
 tags: 
 ---

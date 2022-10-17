@@ -3,7 +3,6 @@ aliases: [Mathematics Editor and Calculator]
 title: Mathematics Editor and Calculator
 tags: ["math", "editor", "symbol"]
 date: 2020-07-06 20:02:42
-category: app
 draft: false
 ---
 

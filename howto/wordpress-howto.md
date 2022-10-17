@@ -3,7 +3,6 @@ aliases: [Wordpress Howto]
 title: Wordpress Howto
 tags: ["tag"]
 date: 2022-10-11 08:38
-category: category
 draft: false
 ---
 

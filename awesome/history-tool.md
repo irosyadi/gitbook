@@ -3,7 +3,6 @@ aliases: [History Tools and Apps]
 title: History Tools and Apps
 tags: ["history"]
 date: 2021-11-13 08:14:50
-category: awesome
 draft: false
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases: [Patent and Intellectual Property]
 title: Patent and Intellectual Property
-tags: ["tag"]
+tags: ["patent"]
 date: 2022-10-11 08:32
-category: category
 draft: false
 ---
 

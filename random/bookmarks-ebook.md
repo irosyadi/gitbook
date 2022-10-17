@@ -3,7 +3,6 @@ aliases: [Bookmarks on Ebooks]
 title: Bookmarks on Ebooks
 tags: ["book"]
 date: 2020-12-28 06:31:39
-category: random
 draft: false
 ---
 

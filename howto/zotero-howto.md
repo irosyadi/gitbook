@@ -3,7 +3,6 @@ aliases: [Zotero How To]
 title: Zotero How To
 tags: ["zotero"]
 date: 2022-09-14 15:35:09
-category: howto
 draft: false
 ---
 

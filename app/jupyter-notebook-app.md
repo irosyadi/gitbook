@@ -3,7 +3,6 @@ aliases: [Jupyter Notebook Apps]
 title: Jupyter Notebook Apps
 tags: ["jupyter"]
 date: 2020-11-14 05:43:50
-category: app
 draft: false
 ---
 

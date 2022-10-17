@@ -3,7 +3,6 @@ aliases: [Academia]
 title: Academia
 tags: ["academia"]
 date: 2020-06-01 20:09:34
-category: academia
 draft: false
 ---
 
@@ -11,7 +10,7 @@ draft: false
 
 ## Academia Generic Tools
 
-- [paper-tool](paper-tool.md)
+- [[paper-tool]]
 
 ## Academia Search Tools
 

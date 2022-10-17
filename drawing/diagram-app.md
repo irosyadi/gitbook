@@ -3,7 +3,6 @@ aliases: [Awesome List of Diagram Apps]
 title: Awesome List of Diagram Apps
 tags: ["diagram"]
 date: 2020-12-21 09:52:27
-category: app
 draft: false
 ---
 
@@ -57,6 +56,8 @@ List of Diagram Apps
 - [SequenceDiagram.org - UML Sequence Diagram Online Tool](https://sequencediagram.org/)
 - [Playground • Diagwiz](https://diagwiz.io/playground/)
 - [js-sequence-diagrams by bramp](https://bramp.github.io/js-sequence-diagrams/)
+- [tldraw](https://www.tldraw.com/)
+- [minimator](https://minimator.app/)
 
 ## Neural Network Diagram
 

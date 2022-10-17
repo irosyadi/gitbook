@@ -3,7 +3,6 @@ aliases: [Financial Tools]
 title: Financial Tools
 tags: ["financial"]
 date: 2021-11-18 12:50:53
-category: awesome
 draft: false
 ---
 

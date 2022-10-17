@@ -3,7 +3,6 @@ aliases: [Electronics]
 title: Electronics
 tags: ["electronic"]
 date: 2020-12-28 04:06:07
-category: course
 draft: false
 ---
 

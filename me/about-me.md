@@ -3,7 +3,6 @@ aliases: [Imron Rosyadi]
 title: Imron Rosyadi
 tags: ["imron"]
 date: 2020-05-01 13:49:51
-category: me
 draft: false
 ---
 

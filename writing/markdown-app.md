@@ -3,7 +3,6 @@ aliases: [Awesome Markdown Apps]
 title: Awesome Markdown Apps
 tags: ["markdown"]
 date: 2022-07-15 20:50:36
-category: app
 draft: false
 ---
 

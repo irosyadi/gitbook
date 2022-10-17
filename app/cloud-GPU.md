@@ -1,9 +1,8 @@
 ---
 aliases: [Cloud GPU]
 title: Cloud GPU
-tags: ["tag"]
+tags: ["cloud"]
 date: 2022-10-11 08:30
-category: category
 draft: false
 ---
 

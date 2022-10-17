@@ -3,7 +3,6 @@ aliases: [100 Days Challenge]
 title: 100 Days Challenge
 tags: ["challenge", "programming"]
 date: 2020-06-28 20:08:44
-category: note
 draft: false
 ---
 

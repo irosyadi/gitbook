@@ -3,7 +3,6 @@ aliases: [Sketching, Hand Drawing, and Hand Writing Web App]
 title: Sketching, Hand Drawing, and Hand Writing Web App
 tags: ["sketch", "hand draw"]
 date: 2020-08-12 22:00:34
-category: app
 draft: false
 ---
 

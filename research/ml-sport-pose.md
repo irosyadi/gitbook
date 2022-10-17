@@ -3,7 +3,6 @@ aliases: [Machine Learning for Sport Pose Analysis]
 title: Machine Learning for Sport Pose Analysis
 tags: ["machine learning", "sport", "pose estimation"]
 date: 2020-10-11 21:21:34
-category: research
 draft: false
 ---
 

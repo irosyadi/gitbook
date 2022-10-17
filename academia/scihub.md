@@ -3,7 +3,6 @@ aliases: [Scihub]
 title: Scihub
 tags: ["paper", "search"]
 date: 2022-06-02 17:15:49
-category: research
 draft: false
 ---
 

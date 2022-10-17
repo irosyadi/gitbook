@@ -1,9 +1,8 @@
 ---
 aliases: [VPN and Wireguard]
 title: VPN and Wireguard
-tags: ["tag"]
+tags: ["security"]
 date: 2022-10-11 08:35
-category: category
 draft: false
 ---
 

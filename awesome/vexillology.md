@@ -3,7 +3,6 @@ aliases: [Vexillology]
 title: Vexillology
 tags: ["flag"]
 date: 2020-07-29 20:33:36
-category: awesome
 draft: false
 ---
 

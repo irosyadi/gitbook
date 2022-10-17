@@ -3,7 +3,6 @@ aliases: [Network Speed Test Apps]
 title: Network Speed Test Apps
 tags: ["network", "speed", "test"]
 date: 2020-10-11 21:50:29
-category: app
 draft: false
 ---
 

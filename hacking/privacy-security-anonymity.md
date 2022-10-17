@@ -3,7 +3,6 @@ aliases: [Privacy, Security and Anonymity Apps]
 title: Privacy, Security and Anonymity Apps
 tags: ["privacy", "security", "anonymity"]
 date: 2020-12-14 15:33:53
-category: app
 draft: false
 ---
 
@@ -59,6 +58,7 @@ draft: false
 ## Privacy
 
 - [degoogle - A huge list of alternatives to Google products. Privacy tips, tricks, and links.](https://degoogle.jmoore.dev/)
+- [Just Delete Me | A directory of direct links to delete your account from web services.](https://backgroundchecks.org/justdeleteme/)
 
 ## Windows Privacy
 

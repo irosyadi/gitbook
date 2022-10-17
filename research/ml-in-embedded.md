@@ -3,7 +3,6 @@ aliases: ['## Machine Learning Embedded Devices', Machine Learning Embedded Devi
 title: '## Machine Learning Embedded Devices'
 tags: ["tag"]
 date: 2022-10-11 08:32
-category: category
 draft: false
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases: [Hosts File Management]
 title: Hosts File Management
-tags: ["tag"]
+tags: ["adblock"]
 date: 2022-10-11 08:26
-category: category
 draft: false
 ---
 

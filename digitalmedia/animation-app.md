@@ -3,7 +3,6 @@ aliases: [Awesome List of Animation Apps]
 title: Awesome List of Animation Apps
 tags: ["animation"]
 date: 2020-09-12 21:08:05
-category: app
 draft: false
 ---
 

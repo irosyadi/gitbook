@@ -3,7 +3,6 @@ aliases: [Statistic and Probability]
 title: Statistic and Probability
 tags: ["statistics", "probability"]
 date: 2021-01-01 08:00:30
-category: course
 draft: false
 ---
 

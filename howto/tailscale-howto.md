@@ -3,7 +3,6 @@ aliases: [Tailscale How To]
 title: Tailscale How To
 tags: ["vpn"]
 date: 2022-09-12 15:35:09
-category: howto
 draft: false
 ---
 

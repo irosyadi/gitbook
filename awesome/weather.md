@@ -3,7 +3,6 @@ aliases: [Weather]
 title: Weather
 tags: ["tag"]
 date: 2022-10-11 08:36
-category: category
 draft: false
 ---
 

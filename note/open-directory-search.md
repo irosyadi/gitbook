@@ -3,7 +3,6 @@ aliases: [Open Directory Search]
 title: Open Directory Search
 tags: ["open directory", "search"]
 date: 2020-08-12 08:18:07
-category: note
 draft: false
 ---
 

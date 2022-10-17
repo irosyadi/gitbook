@@ -3,7 +3,6 @@ aliases: [Awesome Jupyter Notebooks]
 title: Awesome Jupyter Notebooks
 tags: ["jupyter"]
 date: 2020-07-10 20:28:02
-category: research
 draft: false
 ---
 

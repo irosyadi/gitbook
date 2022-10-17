@@ -3,7 +3,6 @@ aliases: [Open Glossary]
 title: Open Glossary
 tags: ["open", "glossary"]
 date: 2020-11-28 03:42:30
-category: book
 draft: false
 ---
 

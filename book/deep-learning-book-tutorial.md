@@ -3,7 +3,6 @@ aliases: [Deep Learning Books, Tutorials, and Courses, Deep Learning Books, Tuto
 title: Deep Learning Books, Tutorials, and Courses
 tags: ["machine learning", "book", "tutorial", "course"]
 date: 2020-08-17 17:08:47
-category: book
 ---
 
 # Deep Learning Books, Tutorials, and Courses

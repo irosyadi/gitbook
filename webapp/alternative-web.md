@@ -3,7 +3,6 @@ aliases: [Alternative to Popular Websites]
 title: Alternative to Popular Websites
 tags: ["alternative", "website"]
 date: 2020-06-28 19:57:18
-category: app
 draft: false
 ---
 

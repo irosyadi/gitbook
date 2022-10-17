@@ -3,7 +3,6 @@ aliases: [Awesome List of Maps]
 title: Awesome List of Maps
 tags: ["map"]
 date: 2020-06-16 19:51:58
-category: app
 draft: false
 ---
 

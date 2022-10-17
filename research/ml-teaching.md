@@ -3,7 +3,6 @@ aliases: [Machine Learning Teaching]
 title: Machine Learning Teaching
 tags: ["machine learning", "teaching"]
 date: 2021-12-23 11:30:28
-category: research
 draft: false
 ---
 

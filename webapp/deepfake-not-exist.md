@@ -3,7 +3,6 @@ aliases: [Deepfake - This Thing Does Not Exist]
 title: Deepfake - This Thing Does Not Exist
 tags: ["generative", "deepfake"]
 date: 2022-06-11 10:12:41
-category: research
 draft: false
 ---
 

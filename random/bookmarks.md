@@ -3,7 +3,6 @@ aliases: [Bookmarks]
 title: Bookmarks
 tags: ["bookmark"]
 date: 2020-12-25 10:38:33
-category: random
 draft: false
 ---
 

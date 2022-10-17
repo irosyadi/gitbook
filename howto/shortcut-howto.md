@@ -3,7 +3,6 @@ aliases: [Shortcut How To]
 title: Shortcut How To
 tags: ["windows"]
 date: 2021-04-10 17:53:41
-category: howto
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Map Tools]
 title: Map Tools
 tags: ["map", "tool", "app"]
 date: 2021-11-16 09:02:50
-category: app
 draft: false
 ---
 

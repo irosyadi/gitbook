@@ -3,7 +3,6 @@ aliases: [Google Docs How To]
 title: Google Docs How To
 tags: ["document"]
 date: 2021-01-11 19:35:33
-category: howto
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [List of Uninstalled Windows Apps]
 title: List of Uninstalled Windows Apps
 tags: ["imron", "app"]
 date: 2020-08-05 20:34:24
-category: me
 draft: false
 ---
 

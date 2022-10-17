@@ -3,7 +3,6 @@ aliases: [File Sharing and File Transfer]
 title: File Sharing and File Transfer
 tags: ["file transfer", "file sharing"]
 date: 2020-11-20 08:52:22
-category: app
 draft: false
 ---
 

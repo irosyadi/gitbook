@@ -3,7 +3,6 @@ aliases: [LanguageTool Word How To]
 title: LanguageTool Word How To
 tags: ["languagetool"]
 date: 2022-09-12 15:35:09
-category: howto
 draft: false
 ---
 

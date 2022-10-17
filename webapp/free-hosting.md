@@ -3,7 +3,6 @@ aliases: [Free Hosting]
 title: Free Hosting
 tags: ["hosting"]
 date: 2022-10-06 09:55
-category: category
 draft: false
 ---
 

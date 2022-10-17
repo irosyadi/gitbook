@@ -3,7 +3,6 @@ aliases: [Reddit Apps]
 title: Reddit Apps
 tags: ["reddit"]
 date: 2020-11-13 06:26:27
-category: app
 draft: false
 ---
 
@@ -25,6 +24,7 @@ draft: false
 - [Libreddit](https://libredd.it/) : private front end
 - [Simpleddit](http://www.simpleddit.com/)
 - [Reddium](https://reddium.vercel.app/) : reddium in medium like interface
+- [unim.press](https://unim.press/)
 
 ## Reddit Images Frontends
 

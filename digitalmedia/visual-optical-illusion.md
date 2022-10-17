@@ -3,7 +3,6 @@ aliases: [Visual and Optical Illusion]
 title: Visual and Optical Illusion
 tags: ["tag"]
 date: 2022-10-11 08:35
-category: category
 draft: false
 ---
 

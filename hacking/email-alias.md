@@ -1,9 +1,8 @@
 ---
 aliases: [Email Alias and Forwarding]
 title: Email Alias and Forwarding
-tags: ["tag"]
+tags: ["email"]
 date: 2022-10-11 08:25
-category: category
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [File Format]
 title: File Format
 tags: ["tag"]
 date: 2022-10-11 08:29
-category: category
 draft: false
 ---
 

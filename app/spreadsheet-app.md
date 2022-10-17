@@ -3,7 +3,6 @@ aliases: [Spreadshseet (Sheet) Apps]
 title: Spreadshseet (Sheet) Apps
 tags: ["spreadsheet", "sheet"]
 date: 2021-04-04 17:43:36
-category: app
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Awesome Latex Learning]
 title: Awesome Latex Learning
 tags: ["writing", "research", "academia"]
 date: 2020-12-14 15:19:51
-category: research
 draft: false
 ---
 

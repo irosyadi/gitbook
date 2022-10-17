@@ -3,7 +3,6 @@ aliases: [News Agregator]
 title: News Agregator
 tags: ["news", "agregator"]
 date: 2020-12-28 19:55:02
-category: app
 draft: false
 ---
 

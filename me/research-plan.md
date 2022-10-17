@@ -3,7 +3,6 @@ aliases: [Research Plan]
 title: Research Plan
 tags: ["research", "plan", "imron"]
 date: 2021-08-16 21:55:51
-category: me
 draft: false
 ---
 

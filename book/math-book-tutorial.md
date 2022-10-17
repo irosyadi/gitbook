@@ -3,7 +3,6 @@ aliases: [Math Books, Tutorials, and Courses]
 title: Math Books, Tutorials, and Courses
 tags: ["math", "book", "tutorial", "course"]
 date: 2020-08-09 19:48:29
-category: book
 draft: false
 ---
 

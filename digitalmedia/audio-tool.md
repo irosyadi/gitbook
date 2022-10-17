@@ -3,7 +3,6 @@ aliases: [Audio and Music Tools]
 title: Audio and Music Tools
 tags: ["audio", "music"]
 date: 2020-11-20 08:55:01
-category: app
 draft: false
 ---
 
@@ -13,7 +12,7 @@ Audio and music processing tools.
 
 Related links:  
 🔗 [Audio, Music, Radio, and Podcast Streaming Apps](audio-streaming.md)  
-🔗 [Free Audio and Music](../multimedia/free-audio.md)
+🔗 [Free Audio and Music](free-audio.md)
 
 ## AI Apps for Audio
 

@@ -3,7 +3,6 @@ aliases: [Emotion Detection with Machine Learning]
 title: Emotion Detection with Machine Learning
 tags: ["emotion detection", "machine learning"]
 date: 2020-11-29 18:28:53
-category: research
 draft: false
 ---
 

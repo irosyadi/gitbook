@@ -3,7 +3,6 @@ aliases: [Machine Learning in Sports]
 title: Machine Learning in Sports
 tags: ["machine learning", "sport"]
 date: 2020-12-21 09:10:27
-category: research
 draft: false
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases: [Powerpoint Howto]
 title: Powerpoint Howto
-tags: ["tag"]
+tags: ["powerpoint", "howto"]
 date: 2022-10-11 08:33
-category: category
 draft: false
 ---
 

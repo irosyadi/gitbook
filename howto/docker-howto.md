@@ -1,9 +1,8 @@
 ---
 aliases: [Docker Howto]
 title: Docker Howto
-tags: ["tag"]
+tags: ["docker"]
 date: 2022-10-11 08:24
-category: category
 draft: false
 ---
 

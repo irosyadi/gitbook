@@ -3,7 +3,6 @@ aliases: [Generative Machine Learning GAN]
 title: Generative Machine Learning GAN
 tags: ["generative", "machine", "learning", "GAN"]
 date: 2022-06-11 09:12:41
-category: research
 draft: false
 ---
 

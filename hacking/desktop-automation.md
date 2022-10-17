@@ -3,7 +3,6 @@ aliases: [Awesome Desktop and Browser Automation]
 title: Awesome Desktop and Browser Automation
 tags: ["dekstop", "browser", "automation"]
 date: 2021-11-06 03:45:20
-category: app
 draft: false
 ---
 

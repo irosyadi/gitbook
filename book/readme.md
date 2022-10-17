@@ -3,7 +3,6 @@ aliases: [Book]
 title: Book
 tags: ["book"]
 date: 2020-06-01 20:09:34
-category: book
 draft: false
 ---
 

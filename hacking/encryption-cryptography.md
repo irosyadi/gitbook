@@ -1,9 +1,8 @@
 ---
 aliases: [Encryption and Cryptography]
 title: Encryption and Cryptography
-tags: ["tag"]
+tags: ["encryption", "security"]
 date: 2022-10-11 08:23
-category: category
 draft: false
 ---
 

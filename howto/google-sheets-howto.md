@@ -3,7 +3,6 @@ aliases: [Google Sheet How To]
 title: Google Sheet How To
 tags: ["spreadsheet"]
 date: 2021-04-29 15:35:09
-category: howto
 draft: false
 ---
 

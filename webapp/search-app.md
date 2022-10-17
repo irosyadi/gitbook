@@ -3,7 +3,6 @@ aliases: [Search Engine App]
 title: Search Engine App
 tags: ["search"]
 date: 2020-08-08 11:55:46
-category: app
 draft: false
 ---
 

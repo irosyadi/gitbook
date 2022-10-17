@@ -3,7 +3,6 @@ aliases: [Python Resources]
 title: Python Resources
 tags: ["python"]
 date: 2020-06-28 19:43:34
-category: book
 draft: false
 ---
 

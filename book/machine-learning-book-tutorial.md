@@ -3,7 +3,6 @@ aliases: [Machine Learning Books and Tutorials]
 title: Machine Learning Books and Tutorials
 tags: ["machine learning", "book", "tutorial"]
 date: 2020-06-19 19:38:14
-category: book
 draft: false
 ---
 

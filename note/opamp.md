@@ -3,7 +3,6 @@ aliases: [Op-Amp]
 title: Op-Amp
 tags: ["opamp"]
 date: 2021-03-23 06:08:47
-category: note
 draft: false
 ---
 

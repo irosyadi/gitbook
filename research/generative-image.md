@@ -3,7 +3,6 @@ aliases: [Generative Image]
 title: Generative Image
 tags: ["generative", "image"]
 date: 2022-09-30 09:12:41
-category: research
 draft: false
 ---
 

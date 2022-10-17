@@ -3,7 +3,6 @@ aliases: [NLP with GPT]
 title: NLP with GPT
 tags: ["nlp", "gpt"]
 date: 2020-10-11 21:12:55
-category: research
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Hacker News Apps]
 title: Hacker News Apps
 tags: ["hacker news"]
 date: 2020-11-13 06:26:27
-category: app
 draft: false
 ---
 
@@ -41,6 +40,9 @@ draft: false
 - [News for Hackers - Hazumi](https://www.hazumi.news/)
 - [Ditzes - Frontpage](https://ditzes.com/frontpage)
 - [hn](https://read-hn.herokuapp.com/)
+- [Hacker News Top Charts - 2022-07-23 to 2022-07-30](https://hn-summary.github.io/)
+- [Hacker News Daily](http://www.daemonology.net/hn-daily/)
+- [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/)
 
 ## List of Hacker News Reader
 
@@ -56,6 +58,7 @@ draft: false
 - [Forum Search](https://forumsearch.io/) : HackerNews, Reddit*, IndieHacker, DEV.to, Lobste.rs content search
 - [DeepHN - powered by SeekStorm](https://deephn.org/) Deep search HN
 - [Morning Brief](https://morningbrief.ai/setup) : HackerNews, Reddit content search
+- [DeepHN | powered by SeekStorm](https://deephn.org/)
 
 ## Hacker News RSS
 

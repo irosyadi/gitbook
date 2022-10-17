@@ -3,7 +3,6 @@ aliases: [Programming for Kids Books, Tutorials, and Courses]
 title: Programming for Kids Books, Tutorials, and Courses
 tags: ["programming"]
 date: 2021-04-04 19:35:46
-category: book
 draft: false
 ---
 

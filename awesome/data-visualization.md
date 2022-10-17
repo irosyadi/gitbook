@@ -3,7 +3,6 @@ aliases: [Awesome List of Data Visualization]
 title: Awesome List of Data Visualization
 tags: ["data", "visualization"]
 date: 2020-12-21 09:29:32
-category: awesome
 draft: false
 ---
 
@@ -62,6 +61,7 @@ Related links:
 ## Visualization Examples
 
 - [Visualization Periodic Table](https://letsandeepio.github.io/viz-method-table/) or [Visual Literacy](https://www.visual-literacy.org/periodic_table/periodic_table.html#)
+- [Beautiful Data Science and Visualisation | Data Crayon](https://datacrayon.com/)
 
 ## Interactive Visualization
 

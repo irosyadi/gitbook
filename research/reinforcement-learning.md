@@ -1,8 +1,8 @@
 ---
+aliases: 
 title: reinforcement-learning
 tags: ["reinforcement", "learning"]
 date: 2022-07-03 12:50:53
-category: research
 draft: false
 ---
 

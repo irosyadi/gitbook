@@ -3,7 +3,6 @@ aliases: [Machine Learning Andrew Ng Quizzes]
 title: Machine Learning Andrew Ng Quizzes
 tags: ["machine learning"]
 date: 2021-01-06 03:57:09
-category: course
 draft: false
 ---
 

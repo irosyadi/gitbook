@@ -3,7 +3,6 @@ aliases: [Desktop Search App]
 title: Desktop Search App
 tags: ["search"]
 date: 2022-07-08 11:55:46
-category: app
 draft: false
 ---
 

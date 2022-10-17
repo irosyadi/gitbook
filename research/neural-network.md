@@ -1,9 +1,8 @@
 ---
 aliases: [Neural Network]
 title: Neural Network
-tags: ["tag"]
+tags: ["neural-network"]
 date: 2022-10-11 08:32
-category: category
 draft: false
 ---
 

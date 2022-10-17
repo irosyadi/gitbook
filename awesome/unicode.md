@@ -3,7 +3,6 @@ aliases: [Unicode and Emoji]
 title: Unicode and Emoji
 tags: ["unicode", "emoji"]
 date: 2020-08-17 20:33:28
-category: awesome
 draft: false
 ---
 

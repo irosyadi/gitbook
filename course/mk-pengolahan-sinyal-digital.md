@@ -3,7 +3,6 @@ aliases: [MK Pengolahan Sinyal Digital]
 title: MK Pengolahan Sinyal Digital
 tags: ["signal processing", "kuliah"]
 date: 2021-02-21 19:09:01
-category: course
 draft: false
 ---
 

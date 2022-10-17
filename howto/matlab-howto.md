@@ -3,7 +3,6 @@ aliases: [MATLAB How To]
 title: MATLAB How To
 tags: ["numerical"]
 date: 2020-12-20 21:28:08
-category: howto
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Wikipedia Apps]
 title: Wikipedia Apps
 tags: ["wikipedia"]
 date: 2021-05-25 04:25:31
-category: app
 draft: false
 ---
 

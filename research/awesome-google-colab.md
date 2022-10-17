@@ -3,7 +3,6 @@ aliases: [Awesome Google Colab Notebooks]
 title: Awesome Google Colab Notebooks
 tags: ["machine learning", "jupyter"]
 date: 2020-11-14 05:31:42
-category: research
 draft: false
 ---
 

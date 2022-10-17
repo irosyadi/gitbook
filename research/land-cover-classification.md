@@ -1,4 +1,5 @@
 ---
+aliases: 
 title: land-cover-classification
 tags: 
 ---

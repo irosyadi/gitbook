@@ -3,7 +3,6 @@ aliases: [Generative Audio Music]
 title: Generative Audio Music
 tags: ["generative", "audio", "music"]
 date: 2022-09-30 12:12:41
-category: research
 draft: false
 ---
 

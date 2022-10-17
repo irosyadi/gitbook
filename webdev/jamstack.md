@@ -3,7 +3,6 @@ aliases: [Jamstack and WebApps]
 title: Jamstack and WebApps
 tags: ["jamstack"]
 date: 2020-08-12 22:13:16
-category: app
 draft: false
 ---
 

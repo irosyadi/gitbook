@@ -3,7 +3,6 @@ aliases: [Open Source Apps]
 title: Open Source Apps
 tags: ["open source"]
 date: 2021-01-13 14:47:30
-category: app
 draft: false
 ---
 

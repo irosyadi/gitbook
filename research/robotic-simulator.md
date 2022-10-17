@@ -1,8 +1,8 @@
 ---
+aliases: 
 title: robotic-simulator
 tags: ["robotic", "simulator"]
 date: 2020-10-11 22:09:56
-category: research
 draft: false
 ---
 

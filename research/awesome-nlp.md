@@ -3,7 +3,6 @@ aliases: [Awesome NLP Projects]
 title: Awesome NLP Projects
 tags: ["NLP"]
 date: 2020-12-14 15:30:14
-category: research
 draft: false
 ---
 

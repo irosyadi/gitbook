@@ -3,7 +3,6 @@ aliases: [Machine Learning Glossary]
 title: Machine Learning Glossary
 tags: ["machine learning"]
 date: 2020-07-11 20:29:35
-category: awesome
 draft: false
 ---
 

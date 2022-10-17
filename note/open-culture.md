@@ -3,7 +3,6 @@ aliases: [Open Culture]
 title: Open Culture
 tags: ["open", "culture"]
 date: 2020-12-21 09:39:55
-category: note
 draft: false
 ---
 

@@ -1,9 +1,8 @@
 ---
 aliases: [Language Learning]
 title: Language Learning
-tags: ["tag"]
+tags: ["language"]
 date: 2022-10-11 08:30
-category: category
 draft: false
 ---
 

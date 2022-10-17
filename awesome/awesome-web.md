@@ -3,7 +3,6 @@ aliases: [Awesome Free Stuffs from Internet]
 title: Awesome Free Stuffs from Internet
 tags: ["free"]
 date: 2020-07-17 20:30:25
-category: awesome
 draft: false
 ---
 

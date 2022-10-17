@@ -3,7 +3,6 @@ aliases: [Google Sheet Tools]
 title: Google Sheet Tools
 tags: ["google sheet"]
 date: 2020-07-08 20:03:26
-category: app
 draft: false
 ---
 

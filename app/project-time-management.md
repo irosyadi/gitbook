@@ -3,7 +3,6 @@ aliases: [Project and Time Management]
 title: Project and Time Management
 tags: ["time", "project"]
 date: 2020-12-21 09:56:19
-category: app
 draft: false
 ---
 

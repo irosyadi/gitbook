@@ -3,7 +3,6 @@ aliases: [Instagram Apps]
 title: Instagram Apps
 tags: ["instagram"]
 date: 2021-08-15 20:50:36
-category: app
 draft: false
 ---
 

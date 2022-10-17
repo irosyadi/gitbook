@@ -3,7 +3,6 @@ aliases: [Book and Tutorial Plan]
 title: Book and Tutorial Plan
 tags: ["book", "plan", "imron"]
 date: 2020-07-25 20:32:39
-category: me
 draft: false
 ---
 

@@ -3,7 +3,6 @@ aliases: [Notepad++ How To]
 title: Notepad++ How To
 tags: ["document", "code"]
 date: 2020-12-20 21:29:43
-category: howto
 draft: false
 ---
 

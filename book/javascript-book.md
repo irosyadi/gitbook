@@ -3,7 +3,6 @@ aliases: [Javascripts Books, Tutorials, and Courses]
 title: Javascripts Books, Tutorials, and Courses
 tags: ["javascript", "book", "tutorial", "course"]
 date: 2021-04-04 19:28:10
-category: book
 draft: false
 ---
 

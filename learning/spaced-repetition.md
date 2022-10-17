@@ -1,9 +1,8 @@
 ---
 aliases: [Spaced Repetition]
 title: Spaced Repetition
-tags: ["tag"]
+tags: ["learning"]
 date: 2022-10-11 08:34
-category: category
 draft: false
 ---
 
