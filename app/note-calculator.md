@@ -30,3 +30,9 @@ draft: false
 # Calculator
 
 - [Notepad Calculator](http://notepadcalculator.com/)
+
+
+## Engineering Notes
+
+- [Blockpad](https://blockpad.net/) : Word processor with calculation field
+- [Atlas](http://atlasengineering.io/)

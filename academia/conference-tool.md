@@ -33,3 +33,8 @@ Related links:
 - [JMLR](https://www.jmlr.org/)
 - [Springer AI Review](https://www.springer.com/journal/10462)
 - [Nature Machine Intelligence](https://www.nature.com/natmachintell/)
+
+
+## Conference Tools
+
+- [Slide Slive](https://library.slideslive.com/) : Library of Conference Recordings

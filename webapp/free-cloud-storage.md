@@ -8,6 +8,9 @@ draft: false
 
 # Free Cloud Storage
 
+## List
+- [Free clouds | Paul's page](https://paul.totterman.name/posts/free-clouds/)
+
 ## Storage
 
 - [4shared.com - free file sharing and storage](https://www.4shared.com/) Free: 15GB, Features: Webdav

@@ -66,3 +66,8 @@ draft: false
 - [Saylor Academy - Saylor Academy](https://learn.saylor.org/)
 - [The Feynman Lectures on Physics Website](https://www.feynmanlectures.caltech.edu/info/)
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html)
+
+
+## Online HTML Book
+
+- [Flyb](https://flylib.com/) Online HTML CHM Books

@@ -17,3 +17,4 @@ draft: false
 - [Free GPT-J Playground - Forefront](https://playground.helloforefront.com/models/free-gpt-j-playground)
 - [Write With Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
 - [Write With Transformer](https://transformer.huggingface.co/doc/arxiv-nlp)
+- [Hellisotherpeople/Constrained-Text-Generation-Studio: "Like Photoshop but for Text"- Corresponding code repo for "Most Language Models can be Poets too: An AI Writing Assistant and Constrained Text Generation Studio" at the (CAI2) workshop, jointly held at (COLING 2022)](https://github.com/Hellisotherpeople/Constrained-Text-Generation-Studio#install-instructions)

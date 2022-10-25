@@ -21,12 +21,7 @@ draft: false
 </div>
 ```
 
-## Iframe Test
-
-<div style="border: 1px solid rgb(255, 255, 255); overflow: hidden; margin: 15px auto; max-width: 350px; max-height:350px;">
-<iframe scrolling="no" src="https://cloudflare.com/cdn-cgi/trace" style="border: 0px none; width: 360px; margin-left: 0px; margin-right: 0px; height: 360px; margin-top: 0px; margin-bottom: 0px">
-</iframe>
-</div>
+## Iframe Test with Div
 
 <div style="border: 1px solid rgb(255, 255, 255); overflow: hidden; margin: 15px auto; max-width: 350px; max-height:125px;">
 <iframe scrolling="no" src="https://wttr.in/" style="border: 0px none; margin-left: 0px; height: 135px; margin-top: 0px; width: 360px;">
@@ -47,3 +42,16 @@ draft: false
 <iframe scrolling="no" src="https://thishousedoesnotexist.org" style="border: 0px none; margin-left: 0px; height: 390px; margin-top: -120px; width: 410px;">
 </iframe>
 </div>
+
+<div style="border: 1px solid rgb(255, 255, 255); overflow: hidden; margin: 15px auto; max-width: 400px; max-height:470px;">
+<iframe scrolling="no" src="https://wtfismyip.com/" style="border: 0px none; width: 410px; margin-left: 0px; margin-right: 0px; height: 480px; margin-top: -100px; margin-bottom: 0px;">
+</iframe>
+</div>
+
+## Iframe Test
+
+<iframe scrolling="no" src="https://cloudflare.com/cdn-cgi/trace" style="border: 0px none; width: 360px; margin-left: 0px; margin-right: 0px; height: 340px; margin-top: 0px; margin-bottom: 0px">
+</iframe>
+
+<iframe scrolling="no" src="https://icanhazip.com/" style="border: 0px none; width: 360px; margin-left: 0px; margin-right: 0px; height: 100px; margin-top: 0px; margin-bottom: 0px">
+</iframe>

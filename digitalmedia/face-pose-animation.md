@@ -34,3 +34,8 @@ Related links:
 ## Avatar Generation
 
 - [Avatar SDK](https://avatarsdk.com/)
+
+
+## Colab
+
+- [Avatarify](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb) Photorealistic avatars for video-conferencing apps. [Github](https://github.com/alievk/avatarify)

@@ -8,11 +8,6 @@ draft: false
 
 # Bookmarks
 
-## TV Online
-
-* [wwiTV - Watch live TV channels broadcasting on the Internet for free](https://wwitv.com/portal.htm)
-* [Watch Free Live TV online](https://www.stream2watch.is/streaming-television/)
-* [Free Online TV Stations - Watch Live Internet TV Stations](https://streema.com/tv/)
 
 ## Sport
 
@@ -65,21 +60,11 @@ draft: false
 * [Islamway](https://en.islamway.net/)
 * [.:. shirathal-mustaqim.org .:.](http://shirathal-mustaqim.org/) : Qur'an Hadits
 
-## VHDL
-
-* [VHDL CLASS](https://web.cecs.pdx.edu/~mperkows/CLASS_VHDL/)
-* [VHDL Online - A Collection of VHDL Related Internet Resources](http://esd.cs.ucr.edu/labs/tutorial/VHDL_Page.html)
 
 ## Competition
 
 * [imaginecup.microsoft.com/en-us/Events?id=0](https://imaginecup.microsoft.com/en-us/Events?id=0)
 
-## Data Science Course Notes
-
-* **[MIT Deep Learning](https://deeplearning.mit.edu/)**–Lecture notes, slides and guest talks about deep learning and self driving cars
-* **[Introduction to Artificial Intelligence from UC Berkeley](https://inst.eecs.berkeley.edu/~cs188/fa18/)**–lecture notes, slides, homework from the Fall 2018 course
-* **[Deep Learning Course from University of Paris-Saclay](https://m2dsupsdlclass.github.io/lectures-labs/)**–lecture notes and Python code
-* **[Stanford Machine Learning](https://github.com/afshinea/stanford-cs-229-machine-learning)** [](https://github.com/afshinea/stanford-cs-229-machine-learning)–cheatsheets from Stanford’s CS 229 machine learning course, translated in multiple languages
 
 ## Course
 
@@ -145,12 +130,6 @@ draft: false
 ## Innovation
 
 * [Springwise](https://www.springwise.com/) Innovation idea
-
-## Coding for Kids
-
-* [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
-* [Learn - Code.org](https://code.org/learn)
-* [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
 
 ## Bahasa Indonesia
 

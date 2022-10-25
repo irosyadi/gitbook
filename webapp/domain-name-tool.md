@@ -1,12 +1,14 @@
 ---
-aliases: 
-title: domain-name-tool
+aliases: [Domain Name Tools]
+title: Domain Name Tools
 tags: ["domain", "DNS"]
 date: 2020-06-16 19:52:40
 draft: false
 ---
 
-# Domain Name Search
+# Domain Name Tools
+
+## Domain Name Search
 
 * [NameStat - gTLD Stats, Metrics and Analysis](https://namestat.org/)
 * [Domain Name Generator For Perfectionists](https://www.namemesh.com/)
@@ -22,34 +24,34 @@ draft: false
 * [Wordoid: Get a Short and Catchy Name for Your Business](https://wordoid.com/)
 * [Compare Prices of All Top-Level Domains - TLD List](https://tld-list.com/)
 
-# Domain Name Search
+## Domain Name Search
 
 * [Domain Name Search - Instant Availability Check - TLD List - Price Comparison](https://domain.garden/)
 
-# Domain Name Generator
+## Domain Name Generator
 
 * [Domain Name Generator](https://instantdomainsearch.com/domain/generator?q=book)
 * [Domain Name Search - Instant Availability Check - TLD List - Price Comparison](https://domain.garden/)
 * [Mashword - Name Generator](https://mashword.com/search?words=digital%20twin&tld=com)
 * [Wuzmo - Creative Names For New Projects](https://wuzmo.com/)
 
-# Domain Name History
+## Domain Name History
 
 * [Who is request](https://whoisrequest.com/history/)
 * [Whois History](https://whois-history.whoisxmlapi.com/api)
 * [DNS Trails](https://securitytrails.com/dns-trails#/)
 
-# Whois
+## Whois
 
 * [IP-Address](https://www.ip-address.org/tracer/ip-whois.php)
 * [DNSQuery](https://dnsquery.org/whois/)
 
-# Domain Check Tools
+## Domain Check Tools
 
 * [Domfetch](https://domfetch.com/)
 * [Expired Domains - Daily Updated Domain Lists for 493 TLDs](https://www.expireddomains.net/)
 
-# TLD
+## TLD
 
 * [Opennic](https://www.opennic.org/) alternative to ICANN
 * [List TLD](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)

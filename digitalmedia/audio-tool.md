@@ -155,3 +155,8 @@ We can do both Zoom and Speechtexter/VoiceNote/Dictanote
 ## Audio Editor
 
 - [Teapodo: A Lightweight Audio Editor](https://teapodo.com/)
+
+
+## Music Processing
+
+- [Music-and-Culture-Technology-Lab/omnizart: Omniscient Mozart, being able to transcribe everything in the music, including vocal, drum, chord, beat, instruments, and more.](https://github.com/Music-and-Culture-Technology-Lab/omnizart)

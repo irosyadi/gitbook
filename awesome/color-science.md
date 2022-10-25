@@ -190,3 +190,8 @@ draft: false
 
 - [Which color scale to use when visualizing data - Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 - [Sorted CSS Colors](https://enes.in/sorted-colors/)
+
+
+## Color
+
+- [Huemint - Generate 7 shades and colors for a web illustration](https://huemint.com/)

@@ -215,3 +215,25 @@ top open source deep learning for time series forecasting frameworks.
 
 - [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)
 - [statsforecast - Statistical ⚡️ Forecast](https://nixtla.github.io/statsforecast/)
+
+
+## VAR
+
+- [Vector Autoregression (VAR) - Comprehensive Guide with Examples in Python - Machine Learning Plus](https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/)
+- [Time-series Analysis with VAR & VECM: Statistical approach - by Sarit Maitra - Towards Data Science](https://towardsdatascience.com/vector-autoregressions-vector-error-correction-multivariate-model-a69daf6ab618)
+- [Vector Auto-regression Time series Model - by seemakurthi teja - Medium](https://medium.com/@seemakurthi.teja.1999/vector-auto-regression-time-series-model-d7ed5cb943f2)
+- [Vector autoregression models](https://kevinkotze.github.io/ts-7-var/)
+- [A vector autoregression weather model for electricity supply and demand modeling - SpringerLink](https://link.springer.com/article/10.1007/s40565-017-0365-1#Tab5)
+
+## time Series
+
+- [Time-Series Analysis Course](https://www.intel.com/content/www/us/en/developer/learn/course-time-series-analysis.html)
+- [Online DSS: Time Series Analysis for Business Forecasting with Python - Algoritma](https://algorit.ma/ds-course/forecasting-python/#toggle-id-5-closed)
+- [Time Series Analysis (and Forecasting) - Free Statistics and Forecasting Software (Calculators) v.1.2.1](http://www.wessa.net/tsa.wasp)
+- [Time Series - solver](https://www.solver.com/time-series)
+- [Time Series Lab - Advanced Time Series Forecasting Software](https://timeserieslab.com/)
+- [NCAR Command Language (NCL)](https://www.ncl.ucar.edu/index.shtml)
+
+## LSTM
+
+- [LSTM on Pytorch](https://cnvrg.io/pytorch-lstm/)

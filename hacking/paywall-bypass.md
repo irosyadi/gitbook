@@ -21,3 +21,14 @@ draft: false
 ## Archive Paywalled Web
 
 - [Webpage archive](https://archive.vn/)
+
+
+
+## Paywall Bypass
+
+- [Bypass Paywalls](https://github.com/iamadamdev/bypass-paywalls-chrome)
+
+
+## Tricks
+
+- [Linktricks](http://www.linkstricks.co/) : bypass premium web services (Grammarly, Scribd, Canva etc.)

@@ -1,7 +1,9 @@
 ---
-aliases: 
-title: land-cover-classification
-tags: 
+aliases: [Land Cover Classification]
+title: Land Cover Classification
+tags: ["tag1", "tag2"]
+date: 2022-10-23 21:58
+draft: false
 ---
 
 # Land Cover Classification

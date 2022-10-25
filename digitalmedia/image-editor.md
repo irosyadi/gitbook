@@ -60,6 +60,7 @@ draft: false
 - [Squoosh](https://squoosh.app/)
 - [GIF Compressor–Compress GIF Animations Online](https://gifcompressor.com/)
 - [JPG/JPEG/PNG/GIF/WebP compression to the smallest file size possible - Compress-Or-Die](https://compress-or-die.com/)
+- [Online Image Сompressor](https://imagecompressor.com/)
 
 ## Background Removal
 

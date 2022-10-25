@@ -49,3 +49,8 @@ draft: false
 - [Elicit - The AI Research Assistant](https://elicit.org/search?q=digital+twin) ⭐⭐ (features: writing assistant with language models)
 - [Search - ORKG](https://www.orkg.org/orkg/search/digital%20twin?types=&createdBy=) ⭐⭐⭐ (features: comparison paper, paper search, )
 - [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/index)
+
+
+## Paper
+
+- [Computer Vision Explorer - Home](https://vision-explorer.allenai.org/)

@@ -8,6 +8,9 @@ draft: false
 
 # File Sharing and File Transfer
 
+## List
+- [Zack's Notablog - Send a File](https://schollz.github.io/send-a-file/)
+
 ## Local Peer to Peer File Sharing - Transfer
 
 - [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
@@ -24,6 +27,7 @@ draft: false
 - [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/)
 - [Vegh - Fast P2P File Transfer](https://vegh.openode.io/)
 - [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
+- [Share - Zack Scholl](https://schollz.com/blog/share/)
 
 ## Cloud based Peer to Peer File Sharing - Transfer
 

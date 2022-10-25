@@ -20,3 +20,6 @@ draft: false
 - `conda search mypackage`: search a `package`in conda directory
 - `conda install mypackage` : install `mypackage`
 - `conda update --all`
+
+## Python
+- `where python`

@@ -1,6 +1,6 @@
 ---
-aliases: 
-title: robotic-simulator
+aliases: [Open Source Robotic Simulator]
+title: Open Source Robotic Simulator
 tags: ["robotic", "simulator"]
 date: 2020-10-11 22:09:56
 draft: false

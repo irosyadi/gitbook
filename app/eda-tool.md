@@ -17,3 +17,8 @@ draft: false
 * [Flux](https://www.flux.ai/p)
 * [LibrePCB](https://librepcb.org/)
 
+
+
+## Circuit Simulator
+
+- [https://www.falstad.com/circuit/circuitjs.html](https://www.falstad.com/circuit/circuitjs.html)

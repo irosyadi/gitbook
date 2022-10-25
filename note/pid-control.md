@@ -1,10 +1,12 @@
 ---
-aliases: 
-title: pid-control
-tags: 
+aliases: [PID Control]
+title: PID Control
+tags: ["control"]
+date: 2022-10-18 05:33
+draft: false
 ---
 
-# Control
+# PID Control
 
 - [PID Tuner Controller - FREE Software](https://pidtuner.com/#/)
 - [How To Build a Thrust Vectored Model Rocket - National Rocketry Conference 2020 - YouTube](https://www.youtube.com/watch?v=4cw9K9yuIyU)

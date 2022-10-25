@@ -17,3 +17,9 @@ draft: false
 ## Web scraping
 
 - [Web scraping 2021](https://mihaisplace.blog/2021/10/03/the-state-of-web-scraping-in-2021/)
+
+
+## Web Scraping dan Data Mining
+
+- [Automatio - No-code Web Automation Tool](https://automatio.co/)
+- [Orange Data Mining - Data Mining](https://orangedatamining.com/)

@@ -230,3 +230,8 @@ draft: false
 3. [Discrete-Time Signal Processing](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-341-discrete-time-signal-processing-fall-2005/lecture-notes/) \- MIT
 4. [Modern Signal Processing](http://www.msri.org/communications/books/Book46/index.html)\- Edited by Daniel N. Rockmore and Dennis M. Healy, Jr.
 5. [Signals and Systems](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-003Fall-2003/LectureNotes/index.htm) \- MIT
+
+
+## Signal Processing
+
+- [Self-Paced Online Courses Signal Processing with Matlab](https://matlabacademy.mathworks.com/details/signal-processing-with-matlab/mlsg?s_eid=PSM_15028)

@@ -1,7 +1,9 @@
 ---
-aliases: 
-title: captive-portal
-tags: 
+aliases: [Captive Portal Access]
+title: Captive Portal Access
+tags: ["captive"]
+date: 2022-10-18 05:37
+draft: false
 ---
 
 # Captive Portal Access

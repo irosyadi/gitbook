@@ -43,3 +43,19 @@ draft: false
 - [web-scraping](web-scraping.md)
 - [web-testing](web-testing.md)
 - [website-monitoring](website-monitoring.md)
+
+## Network Tools
+- Password Generator
+- Data Breach Check
+- Screen Resolution Check
+- Password Strength Check
+- Port Scanner
+- Proxy Check
+- Reverse DNS Lookup
+- DNS Lookup
+- Email Analyzer
+- Internet Speed Test
+- User Agent Check
+- IP Address Hostname Lookup
+- IP Whois Lookup
+- Any IP Address Lookup

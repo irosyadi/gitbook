@@ -79,3 +79,8 @@ draft: false
 ## WebTools
 
 - [Compress images, compare text, utilities for web - WebUtils](https://www.webutils.app/)
+
+
+## Webtools
+
+- [Sciweavers](http://www.sciweavers.org/)

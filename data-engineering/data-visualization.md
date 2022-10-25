@@ -10,7 +10,7 @@ draft: false
 
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
-🔗 [Awesome List of Machine Learning Visualization](/research/ml-visualization)  
+🔗 [Awesome List of Machine Learning Visualization](ml-visualization.md)  
 🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 

@@ -15,3 +15,8 @@ draft: false
 - WriteBetter
 - Power Thesaurus
 - Paperpal
+
+
+## MS Word Tools
+
+- [Convert Office Images](https://convert-office.pics/) Reduce Office Images

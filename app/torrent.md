@@ -12,3 +12,9 @@ draft: false
 
 - [Instant.io - Streaming file transfer over WebTorrent](https://instant.io/)
 - [WebTorrent - Streaming browser torrent client](https://webtorrent.io/)
+
+
+## Torrent
+
+- [Download And Play Torrents  Webtor.io](https://webtor.io/) : Play torrent in web browser (server side), but why
+- [Instant.io - Streaming file transfer over WebTorrent](https://instant.io/)

@@ -8,6 +8,10 @@ draft: false
 
 # Self-hosted Applications
 
+## Guide
+
+- [mikeroyal/Self-Hosting-Guide: Self-Hosting Guide. Learn all about locally hosting(on premises & private web servers) and managing software applications by yourself or your organization.](https://github.com/mikeroyal/Self-Hosting-Guide)
+
 ## Full Browsing History
 
 - [i5ik/22120: 22120 - NodeJS product to self-host the Internet with an Offline Archive. Like binaries? https://github.com/dosyago/22120/releases Similar to ArchiveBox, SingleFile and WebMemex, but gooderer.](https://github.com/i5ik/22120)
@@ -70,10 +74,7 @@ draft: false
 - [Archivy](https://archivy.github.io/) Selfhosted web history
     - [Archivy Addon for HN](https://github.com/archivy/archivy-hn)
 
-## Bookmarks Tool
+## Self-hosted Blog
+- [hostyoself.com - Zack Scholl](https://schollz.com/blog/hostyoself/)
 
-- [LinkAce - Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
-- [Archivy](https://archivy.github.io/)
-- [wallabag](https://github.com/wallabag)
-- [cdevroe/unmark: An open source to do app for bookmarks.](https://github.com/cdevroe/unmark)
-- [jarun/buku: Browser-independent bookmark manager](https://github.com/jarun/buku)
+

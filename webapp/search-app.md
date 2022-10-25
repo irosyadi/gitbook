@@ -58,6 +58,7 @@ draft: false
 - [hnhx/librex: A privacy respecting free as in freedom meta search engine for Google and popular torrent sites](https://github.com/hnhx/librex)
     - [LibreX](https://librex.beparanoid.de/)
 - [Teclis - Non-commercial Web Search](http://teclis.com/)
+- [Swurl](https://swurl.com/)
 
 ## Archive.org Search Engine
 
@@ -130,3 +131,8 @@ draft: false
     - [Songs Search](https://songs-search.typesense.org/) [Github](https://github.com/typesense/showcase-songs-search)
     - [Books Search](https://books-search.typesense.org/) [Github](https://github.com/typesense/showcase-books-search)
     - [Recipe Search](https://recipe-search.typesense.org/) [Github](https://github.com/typesense/showcase-recipe-search)
+
+
+## Search Engine
+
+- [Marginalia Search](https://search.marginalia.nu/)

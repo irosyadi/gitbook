@@ -149,3 +149,14 @@ Progress bars can help by visualizing their advancements. You can even add a bit
 - [11 Pertanyaan untuk Mengidentifikasi Kandidat Unggulan - Blog](https://www.linovhr.com/11-pertanyaan-untuk-mengidentifikasi-kandidat-unggulan-a-players/)
 - [9 Pertanyaan Beasiswa Dalam Negeri dan Jawabannya - Glints Blog](https://glints.com/id/lowongan/pertanyaan-wawancara-beasiswa-dan-jawabannya/)
 - [Cara Menjawab Pertanyaan Ceritakan Tentang Diri Anda - Tambah Pinter](https://tambahpinter.com/menjawab-pertanyaan-ceritakan-tentang-diri-anda/)
+
+
+## Learning Tools
+
+- [A Learning Tool](https://www.lurnby.com/)
+- [ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
+- [LearnAwesome.org](https://learnawesome.org/)
+- [Home : Hypothesis](https://web.hypothes.is/)
+- [Index - Archivy](https://archivy.github.io/)
+- [POLAR - Read. Learn. Never Forget. - POLAR - Read. Learn. Never Forget.](https://getpolarized.io/)
+- [SuperMemo: Incremental reading](http://super-memory.com/help/read.htm)

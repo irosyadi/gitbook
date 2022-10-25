@@ -25,3 +25,20 @@ draft: false
 
 Cloud  
  Paperspace (mentioned above), Coreweave, and Crusoe Cloud (crusoecloud.com).
+
+
+## Machine Learning Deployment
+
+- [DataCrunch - A100 80GB GPU Servers](https://datacrunch.io/)
+- [Towhee - Out-of-box Pipelines - Towhee](https://towhee.io/pipelines?limit=30&page=1)
+- [Rent GPU Servers for Deep Learning and AI - Vast.ai](https://vast.ai/)
+- [Replicate–Reproducible machine learning](https://replicate.com/)
+- [Gradient - Use machine learning to make anything.](https://gradient.run/)
+- [AutoGluon: AutoML for Text, Image, and Tabular Data—AutoGluon Documentation 0.4.0 documentation](https://auto.gluon.ai/stable/index.html)
+- [Parsec–Help Center Home](https://support.paperspace.com/hc/en-us/articles/115002289833-Parsec)
+- [codeplea/genann: simple neural network library in ANSI C](https://github.com/codeplea/genann)
+- [DerekChia/colab-vscode: ✨ 1-Click Free GPU on VS Code with Google Colab](https://github.com/DerekChia/colab-vscode)
+- [Code examples](https://keras.io/examples/)
+- [Theory of Machine Learning](https://www.tml.cs.uni-tuebingen.de/teaching/2020_maths_for_ml/)
+- [Home - Deploifai](https://deploif.ai/)
+- [ELBO AI - ML training made easy and cost effective](https://www.elbo.ai/)

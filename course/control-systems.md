@@ -248,3 +248,9 @@ draft: false
     1. Sliding mode: [https://www.youtube.com/watch?v=x9WxwM6Ebvo](https://www.youtube.com/watch?v=x9WxwM6Ebvo) (Note, this is the only videos or online materials I can find in a course-manner on sliding mode, please suggest more if you find them)
         
     2. Optimal and Robust control: [https://www.youtube.com/watch?v=z64cXTZKw4I&list=PLMLojHoA\_QPmRiPotD\_TnfdUkglTexuqm](https://www.youtube.com/watch?v=z64cXTZKw4I&list=PLMLojHoA_QPmRiPotD_TnfdUkglTexuqm)\
+
+
+## Control eBook
+
+- [calcmogul/controls-engineering-in-frc: Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers.](https://github.com/calcmogul/controls-engineering-in-frc) License: CC-BY
+- [https://github.com/calcmogul/control-theory-poster](https://github.com/calcmogul/control-theory-poster)

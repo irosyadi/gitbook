@@ -15,3 +15,7 @@ draft: false
 - [Power Thesaurus](https://www.powerthesaurus.org/) Free
 - [Thesaurus by Merriam-Webster: More Than Synonyms and Antonyms](https://www.merriam-webster.com/thesaurus) Free
 - [Careful Words](https://carefulwords.com/)
+
+## thesaurus
+
+- [Power Thesaurus](https://www.powerthesaurus.org/)

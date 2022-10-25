@@ -1,14 +1,12 @@
 ---
-aliases: []
-title: "Title"
-date: 2022-10-17 09:45
+aliases: [Ebook Reader]
+title: Ebook Reader
 tags: ["ebook", "reader"]
+date: 2022-10-17 09:45
 draft: false
 ---
 
 # Ebook Reader
-
-
 
 ## Web-based Ebook Reader
 

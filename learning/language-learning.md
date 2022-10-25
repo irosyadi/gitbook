@@ -31,3 +31,17 @@ draft: false
 ## Language Learn
 
 - [Felingua · Language Practice Made Easy](https://felingua.com/)
+
+
+## Language
+
+- [Word Tips](https://word.tips/)
+- [Language Code](http://www.lingoes.net/en/translator/langcode.htm)
+
+## Linguistics
+
+- [Google Book NGram Word Search](https://books.google.com/ngrams)
+
+## Etymology
+
+- [Etymological Wordnet](http://etym.org/)

@@ -1,8 +1,12 @@
 ---
-aliases: 
-title: online-IDE
-tags: 
+aliases: [Online IDE]
+title: Online IDE
+tags: ["IDE"]
+date: 2022-10-18 05:39
+draft: false
 ---
+
+# Online IDE
 
 # Online IDE
 
@@ -20,3 +24,8 @@ tags:
 
 - [Riju](https://riju.codes/)
 - [Codeamigo](https://codeamigo.dev/)
+
+
+## On Browser Coding
+
+- [Get Started - default (Workspace) - Visual Studio Code](https://vscode.dev/)

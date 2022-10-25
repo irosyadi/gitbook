@@ -20,3 +20,8 @@ draft: false
 ## Sertifikasi
 
 - [ACLC-KPK](https://elearning.kpk.go.id/moodle/)
+
+
+## Machine Learning Certification
+
+- [I'm now Stanford-Certified with a Non-Degree Certificate - A Foo walks into a Bar... - blog by Paul Shved - coldattic.info](http://coldattic.info/post/122/)

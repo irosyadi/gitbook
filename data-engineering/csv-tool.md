@@ -18,3 +18,7 @@ draft: false
 
 - [Table Convert Online - Make it easier to work with tables](https://tableconvert.com/) Table converter (CSV, Markdown)
 - [editCSVonline - Edit CSV files online - by DataGridXL](https://www.editcsvonline.com/)
+
+## Convert Excel to CSV Delimiter
+[ConvertCSV.com - Convert CSV To JSON, XML, SQL, ...](https://www.convertcsv.com/)
+[NimbleText](https://nimbletext.com/Live/)

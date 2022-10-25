@@ -1,7 +1,9 @@
 ---
-aliases: 
-title: routh-hurwitz
-tags: 
+aliases: [Routh-Hurwitz]
+title: Routh-Hurwitz
+tags: ["control"]
+date: 2022-10-18 05:34
+draft: false
 ---
 
 # Routh-Hurwitz

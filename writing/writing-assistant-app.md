@@ -18,31 +18,40 @@ Related links:
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
 ## Word-level
-[[grammar-checker|Grammar Checkers]]
-[[dictionary|Online Dictionaries]]
-[[thesaurus|Thesaurus]]
+
+[[grammar-checker|Grammar Checkers]]  
+[[dictionary|Online Dictionaries]]  
+[[thesaurus|Thesaurus]]  
 [[phrase-bank|Word Phrase Banks]]
 
 ## Sentence-level
+
 [[paraphraser|Sentence Paraphraser]]
 
 ## Content-level
+
 [[plagiarism-checker|Plagiarism Checkers]]
 
 ## Generator
+
 ### Text Generator
+
 - [[GPT-playground|Free GPT Playground]]
 - [CoAuthor–Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/)
 - [Browse CoAuthor–CoAuthor–Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/browse/)
 
 ### Title Generator
+
 - [Writefull - Title Generator](https://x.writefull.com/title-generator/index.html)
+
 ### Text Summarizer
+
 - [Text Summarizer - QuillBot AI](https://quillbot.com/summarize), Free
 
 ## Assistants
 
 ### Book Publication Assistant
+
 [[book-publication]]
 
 ### Publication Assistant
@@ -88,8 +97,6 @@ Related links:
 - [Academic Phrasebank - The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
-
-
 ## Comparison of Free Writing Assistants
 
 - Compose.ai (extension: Chrome, features: autocomplete)
@@ -98,4 +105,3 @@ Related links:
 - Quilbot (features: paraphrase)
 - hyperwriteai.com (extension: Chrome, features: text generation)
 - longshot.ai (extension: chrome, features: paraphrase)
-

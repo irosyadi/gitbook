@@ -34,3 +34,14 @@ draft: false
 ## Neural Network
 
 - [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.94939&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
+
+## Neural Network
+
+- [Neural Networks from Scratch](https://aegeorge42.github.io/)
+- [Neural Networks from Scratch](https://nnfs.io/)
+- [Neural Networks, Manifolds, and Topology -- colah's blog](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
+
+
+## Physical Neural Network
+
+- [Deep physical neural networks trained with backpropagation - Nature](https://www.nature.com/articles/s41586-021-04223-6)

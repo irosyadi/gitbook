@@ -25,3 +25,13 @@ draft: false
 - [Blokada - the best ad blocker for Android and iOS, free and open source](https://blokada.org/#download)
 - [AdAway/AdAway: AdAway is a free and open source ad blocker for Android.](https://github.com/AdAway/AdAway)
 - [oisd - downloads](https://oisd.nl/downloads)
+
+
+
+## Host HTML file
+
+- [Tiiny Host](https://tiiny.host/)
+
+## Host Markdown file
+
+- [dochost](https://dochost.me/)

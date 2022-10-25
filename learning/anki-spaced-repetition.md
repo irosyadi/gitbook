@@ -1,12 +1,12 @@
 ---
-aliases: [Spaced Repetition]
-title: Spaced Repetition
+aliases: [Anki and Spaced Repetition]
+title: Anki and Spaced Repetition
 tags: ["learning"]
 date: 2022-10-11 08:34
 draft: false
 ---
 
-# Spaced Repetition
+# Anki and Spaced Repetition
 
 ## Spaced Repetition
 
@@ -17,3 +17,11 @@ draft: false
 - [SuperMemo® - learn languages effectively - SuperMemo.com](https://www.supermemo.com/en)
 - Logseq, Obsidian and Roam with community plugins
 - [RemNote - The Best Way to Remember and Organize What You Learn](https://www.remnote.io/)
+
+## Spaced repetition systems
+
+- [andymatuschak/orbit](https://github.com/andymatuschak/orbit)
+
+## Anki
+
+- [Save All](https://saveall.ai/landing)

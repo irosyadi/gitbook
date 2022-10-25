@@ -33,6 +33,8 @@ draft: false
 * [DALL·E](https://labs.openai.com/)
 * [Astraea - Tailor-made AI image generation](https://www.strmr.com/tunes)
 * [Art AI Generator - ImageAI App](https://imageai.app/art-ai-generator/)
+* [HealthyDiffusion](https://healthydiffusion.com/)
+* [VectorArt.ai](https://vectorart.ai/)
 
 ## Text to Image
 
@@ -45,3 +47,8 @@ draft: false
 * [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion)
 * [GuyTevet/motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model"](https://github.com/GuyTevet/motion-diffusion-model)
 * [invoke-ai/InvokeAI: This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.](https://github.com/invoke-ai/InvokeAI)
+
+
+## AI Art
+
+- [Unique AI Art](https://uniqueaiart.com/)

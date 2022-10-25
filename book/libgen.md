@@ -1,6 +1,6 @@
 ---
-aliases: 
-title: libgen
+aliases: [Libgen - Book Search Engine]
+title: Libgen - Book Search Engine
 tags: ["book", "search"]
 date: 2020-11-28 08:37:00
 draft: false

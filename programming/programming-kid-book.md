@@ -24,3 +24,27 @@ draft: false
     - [Manning - Hello World!](https://www.manning.com/books/hello-world)
         - [Hellow World 3rd](https://livebook.manning.com/book/hello-world-third-edition/about-this-book/1)
         - [Hello World 1st](https://livebook.manning.com/book/hello-world/chapter-1?origin=product-toc)
+
+
+## Programming
+
+- [Codeguppy](https://codeguppy.com/index.html) Coding playground for children
+
+## Programming Learning for Kids
+
+- [Code Shrew](https://shrew.app/)
+
+## Programming
+
+- [programming time for kids](https://punkjazz.org/programming-time/)
+- [Code with Replit - Python projects for beginners](https://www.codewithreplit.com/index.html)
+
+## Coding for Child
+
+- [Pickcode](https://www.pickcode.io/)
+
+## Coding for Kids
+
+* [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
+* [Learn - Code.org](https://code.org/learn)
+* [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)

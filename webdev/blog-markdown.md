@@ -112,8 +112,13 @@ This text is ***really important***
 
 >> ...by using additional greater-than signs right next to each other...
 
+>
+>
+> >
 > >
 > > > ...or with spaces between arrows.
+> >
+> >
 >
 > >
 >
@@ -767,9 +772,9 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
   <summary>Click this List ▶</summary>
   <p>
     <ul>
-      <li>irosyadi: <https://irosyadi.netlify.app</li>>
-      <li>irosyadi: <https://irosyadi.gitbook.io</li>>
-      <li>irosyadi: <https://irosyadi.github.io</li>>
+      <li>irosyadi: <https://irosyadi.netlify.app</li>
+      <li>irosyadi: <https://irosyadi.gitbook.io</li>
+      <li>irosyadi: <https://irosyadi.github.io</li>
     </ul>
   </p>
 </details>

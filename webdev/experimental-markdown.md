@@ -15,7 +15,7 @@ Experimental markdown to check markdown parser compatibility between Gatsby, Jek
 ### Type 1
 
 - [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](/research/ml-visualization)
+- [Machine Learning Interactive Visualization](ml-visualization.md)
 - [Interactive Books](/book/interactive-book)
 - [Data Visualization](/note/data-visualization)
 
@@ -24,7 +24,7 @@ Success in Gatsby. Success in Jekyll. Fail in Gitbook. Fail in Hugo.
 ### Type 2
 
 - [app/Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [research/Machine Learning Interactive Visualization](../research/ml-visualization.md)
+- [research/Machine Learning Interactive Visualization](ml-visualization.md)
 - [book/Interactive Books](../book/interactive-book.md)
 - [note/Data Visualization](../note/data-visualization.md)
 
@@ -33,7 +33,7 @@ Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
 ### Type 3
 
 - [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](/research/ml-visualization.md)
+- [Machine Learning Interactive Visualization](ml-visualization.md)
 - [Interactive Books](/book/interactive-book.md)
 - [Data Visualization](/note/data-visualization.md)
 
@@ -42,7 +42,7 @@ Fail in Gatsby. Fail in Jekyll. Success in Gitbook. Fail in Hugo.
 ### Type 4
 
 - [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](../research/ml-visualization)
+- [Machine Learning Interactive Visualization](ml-visualization.md)
 - [Interactive Books](../book/interactive-book)
 - [Data Visualization](../note/data-visualization)
 
@@ -120,4 +120,3 @@ Here is the comment:
 github.io and gitbook.io cannot render svg
 
 ![crocodile](https://snapsvg.io/assets/images/crocodile.svg)
-

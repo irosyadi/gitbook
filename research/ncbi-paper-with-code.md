@@ -99,3 +99,9 @@ Code: <https://github.com/p2irc/deepplantphenomics>
 10. DeepWeeds: A Multiclass Weed Species Image Dataset for Deep Learning  
 Paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6375952/>  
 Code: <https://github.com/AlexOlsen/DeepWeeds>
+
+
+## Papers with Code
+
+- [CVPR 2020 Papers with Code/Data](https://www.paperdigest.org/2020/06/cvpr-2020-papers-with-code-data/)
+- [ECCV 2020: Some Highlights](https://yassouali.github.io/ml-blog/eccv2020/)

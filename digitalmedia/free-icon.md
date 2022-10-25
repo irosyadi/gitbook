@@ -1,8 +1,8 @@
 ---
-aliases: [aliases]
-title: "Title"
-date: 2022-10-17 07:53
+aliases: [Free Icons, aliases]
+title: Free Icons
 tags: ["free", "icon"]
+date: 2022-10-17 07:53
 draft: false
 ---
 
@@ -20,4 +20,4 @@ draft: false
 - [Lucide](https://lucide.dev/)
 - [IconSearch: Instant icon search for SVG icons](https://iconsear.ch/search.html)
 - [Heroicons](https://heroicons.com/)
-- [Feather – Simply beautiful open source icons](https://feathericons.com/)
+- [Feather–Simply beautiful open source icons](https://feathericons.com/)

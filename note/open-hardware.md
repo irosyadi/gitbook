@@ -94,3 +94,12 @@ draft: false
 - [IoTaWatt™ Open WiFi Electric Power Monitor](https://www.iotawatt.com/)
 - [emonPi - Guide - OpenEnergyMonitor](https://guide.openenergymonitor.org/technical/emonpi/)
 - [Plastic Scanner. - Plastic Scanner](https://plasticscanner.com/)
+
+
+# Interesting Technology
+
+- [Technology  Openwater](https://www.openwater.cc/technology) : lowcost health imaging device
+
+## Hardware
+
+- [bispmri/Ultra-low-field-MRI-Scanner](https://github.com/bispmri/Ultra-low-field-MRI-Scanner)

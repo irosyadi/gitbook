@@ -1,6 +1,6 @@
 ---
-aliases: 
-title: z-lib
+aliases: [z-lib - Book Search Engine]
+title: z-lib - Book Search Engine
 tags: ["book", "search"]
 date: 2020-11-28 08:37:00
 draft: false

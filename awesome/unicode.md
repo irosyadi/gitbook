@@ -1,14 +1,16 @@
 ---
-aliases: [Unicode and Emoji]
-title: Unicode and Emoji
-tags: ["unicode", "emoji"]
+aliases: [Unicode]
+title: Unicode
+tags: ["unicode"]
 date: 2020-08-17 20:33:28
 draft: false
 ---
 
-# Unicode and Emoji
+# Unicode
 
 Unicode is an information technology (IT) standard for the consistent encoding, representation, and handling of text expressed in most of the world's writing systems. Within Unicode encoding, there are subsets called emoji to represent pictorial expression in characters. While Unicode is an important piece of work, it has some kind of messy structure. That's why we have puny code.
+
+[[emoji]]
 
 ## Unicode List
 
@@ -41,28 +43,6 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Basic Latin—✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search 😄](http://xahlee.info/comp/unicode_index.html)
 
-## Emoji
-
-- [Emojipedia](https://emojipedia.org/) : Emoji search and explanation
-- [Kaomoji Japanese Emoticons](https://japaneseemoticons.me/) : Kaomoji, the Japanese emoticons  
-(ノಠ益ಠ)ノ彡┻━┻ : angry table flip
-- [Emoji Base](https://emojibase.dev/) : emoji short code list
-- [Joypixels Emoji Convertion](https://demos.joypixels.com/latest/index.html)
-- [Github emoji](https://api.github.com/emojis) : emoji short code list
-- [Emoji Cheat Sheet](https://www.webfx.com/tools/emoji-cheat-sheet/) : emoji almost universal shortcode list
-- [Emoji shortcode](https://gist.github.com/rxaviers/7360908)
-- [Facebook Symbols (cool text signs, emoticons, text pictures tool & Smiley)](http://www.megaemoji.com/)
-- [Symbols ☯ Emoji](https://fsymbols.com/)
-- [Emoji Homepage](http://emojihomepage.com/)
-- [Lunicode](https://lunicode.com/flip)
-- [😋 Get Emoji—All Emojis to ✂️ Copy and 📋 Paste 👌](https://getemoji.com/)
-
-## Emoji as Favicon
-
-- [SVG Emoji Favicons](https://emojifav.com/)
-- [fav.farm](https://fav.farm/)
-- `<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>EMOJI GOES HERE</text></svg>">`
-- [Emojicons](https://emojicons.netlify.app/) Emoji to SVG
 
 ## Math Unicode Symbol
 
@@ -124,9 +104,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)–Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [A Brief History of Unicode - Speaker Deck](https://speakerdeck.com/alblue/a-brief-history-of-unicode-4524a734-aac3-4ce9-8c4a-6f4ada04f464?slide=3)
 
-## Emoji
-
-- [Emoji under the hood @ tonsky.me](https://tonsky.me/blog/emoji/)
 
 ## Zalgo Text Generator
 
@@ -134,10 +111,6 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Zalgo Text Generator by Tchouky](https://eeemo.net/)
 - [Symbols ☯ Emoji](https://fsymbols.com/)
 
-## Emoji
 
-- [OpenMoji](https://openmoji.org/)
 
-## Emoji
 
-- [OpenMoji](https://openmoji.org/)

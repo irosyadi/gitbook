@@ -1,8 +1,12 @@
 ---
-aliases: 
-title: url-shortener
-tags: 
+aliases: [URL Shortener]
+title: URL Shortener
+tags: ["url"]
+date: 2022-10-18 05:41
+draft: false
 ---
+
+# URL Shortener
 
 # Fun URL Changer
 

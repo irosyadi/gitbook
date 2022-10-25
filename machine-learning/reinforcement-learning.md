@@ -1,6 +1,6 @@
 ---
-aliases: 
-title: reinforcement-learning
+aliases: [Reinforcement Learning]
+title: Reinforcement Learning
 tags: ["reinforcement", "learning"]
 date: 2022-07-03 12:50:53
 draft: false

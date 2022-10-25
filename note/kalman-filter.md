@@ -1,7 +1,9 @@
 ---
-aliases: 
-title: kalman-filter
-tags: 
+aliases: [Kalman Filters]
+title: Kalman Filters
+tags: ["kalman", "filter"]
+date: 2022-10-18 05:33
+draft: false
 ---
 
 # Kalman Filters
@@ -11,13 +13,7 @@ tags:
 - [Derive yourself a Kalman filter -- Arthur::Carcano](https://ngr.yt/blog/kalman/)
 - [simondlevy/TinyEKF: Lightweight C/C++ Extended Kalman Filter with Python for prototyping](https://github.com/simondlevy/TinyEKF)
 - [Automatic Time Series Smoothing with ASAP · Stanford DAWN](https://dawn.cs.stanford.edu/2017/08/07/asap/)
-
-# Kalman Filter
-
 - [The Kalman Filter. Helping Chickens Cross the Road.–Feature Column](https://mathvoices.ams.org/featurecolumn/2022/02/01/the-kalman-filter-helping-chickens-cross-the-road/)
-
-# Kalman Filter
-
 - [Kalman Tutorial–Simon D. Levy](https://simondlevy.academic.wlu.edu/kalman-tutorial/)
 - [Bilgin's Blog - Kalman Filter For Dummies](http://bilgin.esme.org/BitsAndBytes/KalmanFilterforDummies)
 - [How a Kalman filter works, in pictures - Bzarg](http://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
