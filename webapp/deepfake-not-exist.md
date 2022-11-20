@@ -36,6 +36,7 @@ draft: false
 - [Johan Nordberg](https://johan-nordberg.com/)
 - [https://thesecatsdonotexist.com](https://thesecatsdonotexist.com/)
 - <https://thiswallpaperdoesnotexist.org/>
+- [Text To Book Cover (Beta)](https://stockimg.ai/text-to-book-cover)
 
 ## Text to Image Generation
 

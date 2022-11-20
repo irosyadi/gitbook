@@ -22,4 +22,10 @@ draft: false
 - `conda update --all`
 
 ## Python
+
 - `where python`
+
+## pip
+
+- `pip list` installed package
+- `pip show package` location

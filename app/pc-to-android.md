@@ -62,3 +62,8 @@ draft: false
         - Read photos
     - Cons:
         - limited features
+
+## Push Notification
+
+- [ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
+- [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net/)

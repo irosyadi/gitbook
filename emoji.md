@@ -43,3 +43,18 @@ draft: false
 ## Emoji
 
 - [OpenMoji](https://openmoji.org/)
+
+## Emoji Fun Analysis
+
+- Ants: [https://news.ycombinator.com/item?id=17555842](https://news.ycombinator.com/item?id=17555842)
+- Smiling faces: [https://grouplens.org/blog/investigating-the-potential-for-m...](https://grouplens.org/blog/investigating-the-potential-for-miscommunication-using-emoji/)
+- Butterflies: [http://emilydamstra.com/news/please-enough-dead-butterflies/](http://emilydamstra.com/news/please-enough-dead-butterflies/)
+- Trains: [https://mobile.twitter.com/BisTheFairy/status/11925577307096...](https://mobile.twitter.com/BisTheFairy/status/1192557730709622790)
+- Horses: [https://twitter.com/jelenawoehr/status/1191872816372600832?l...](https://twitter.com/jelenawoehr/status/1191872816372600832?lang=en)
+- Planets: [https://mobile.twitter.com/physicsJ/status/12326622114383708...](https://mobile.twitter.com/physicsJ/status/1232662211438370817)
+- Telescopes: [https://mobile.twitter.com/BeckePhysics/status/1233414553607...](https://mobile.twitter.com/BeckePhysics/status/1233414553607819267)
+- Parachutes: [https://darekkay.com/blog/parachute-emoji/](https://darekkay.com/blog/parachute-emoji/)
+- Chickens: [https://www.tumblr.com/ub-notactive/176663342440/reviewing-a...](https://www.tumblr.com/ub-notactive/176663342440/reviewing-and-rating-the-chicken-emojis)
+- Snakes: [https://anothertiredmonster.tumblr.com/post/156610510939/sna...](https://anothertiredmonster.tumblr.com/post/156610510939/snake-emoji-review)
+- [Which emoji scissors close](https://wh0.github.io/2020/01/02/scissors.html)
+- [TRAPPED IN A PRISON OF EMOTIONS, official ranking of every turtle emoji on...](https://poison-liker.tumblr.com/post/153488305349/official-ranking-of-every-turtle-emoji-on)

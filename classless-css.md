@@ -88,3 +88,4 @@ draft: false
 - [dbohdan/classless-css: A list of classless CSS themes/frameworks with screenshots](https://github.com/dbohdan/classless-css)
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/#examples)
 - [alvaromontoro/almond.css: Collection of CSS styles to make simple websites look nicer](https://github.com/alvaromontoro/almond.css)
+- [missing.css](https://missing.style/)

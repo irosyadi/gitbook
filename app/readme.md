@@ -26,15 +26,15 @@ draft: false
 - [file-sharing-transfer](file-sharing-transfer.md)
 - [pc-to-android](pc-to-android.md)
 - [phone-tools](phone-tools.md)
-- [qr-code](qr-code.md)
+- [qr-bar-code](qr-bar-code.md)
 - [torrent](torrent.md)
 - [Windows Debloat Tools](windows-debloat-tool.md)
 
 ## Document-related Apps
 
 - [pdf-tool](pdf-tool.md)
-- [presentation-app](presentation-app.md)
-- [spreadsheet-app](spreadsheet-app.md)
+- [presentation-tool](presentation-tool.md)
+- [spreadsheet-tool](spreadsheet-tool.md)
 - [ocr-app](ocr-app.md)
 
 ## Electronics-related Apps

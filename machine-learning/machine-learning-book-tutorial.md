@@ -148,3 +148,9 @@ For someone who is weak in the math of ML, I recommend Introduction to Statistic
 - [Awesome Production of Machine Learning](https://github.com/EthicalML/awesome-production-machine-learning)
 - [Machine Learning Roadmap](https://github.com/mrdbourke/machine-learning-roadmap)
 - [Learn ML Effectively](https://www.youtube.com/watch?v=r2X9Se6ayGQ&feature=share)
+
+
+## ML Books
+
+- [Book 0: “Machine Learning: A Probabilistic Perspective” (2012) - pml-book](https://probml.github.io/pml-book/)
+- [Machine Learning with PyTorch and Scikit-Learn](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)

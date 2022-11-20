@@ -64,3 +64,7 @@ Related links:
 ## Podcast
 
 * [gPodder: Media aggregator and podcast client](https://gpodder.github.io/)
+
+## Podcast
+
+- [Listen Notes: The best podcast search engine](https://www.listennotes.com/)

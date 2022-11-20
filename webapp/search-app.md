@@ -12,6 +12,7 @@ draft: false
 
 - [Alternative search engines](https://fabform.io/a/alternative-search-engines)
 - [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
+- [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
 
 ## Map
 
@@ -78,6 +79,7 @@ draft: false
 
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
 - [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
+- [Feep! search](https://search.feep.dev/)
 
 ## Blog Search Engine
 
@@ -132,7 +134,10 @@ draft: false
     - [Books Search](https://books-search.typesense.org/) [Github](https://github.com/typesense/showcase-books-search)
     - [Recipe Search](https://recipe-search.typesense.org/) [Github](https://github.com/typesense/showcase-recipe-search)
 
-
 ## Search Engine
 
 - [Marginalia Search](https://search.marginalia.nu/)
+
+## Search Insight
+
+- [KeywordSea - A free keyword research tool using Search Suggestions and AutoComplete](https://keywordsea.com/)

@@ -78,3 +78,14 @@ draft: false
 - [hostyoself.com - Zack Scholl](https://schollz.com/blog/hostyoself/)
 
 
+
+
+## Portable Apps
+
+- [Portable Dev Apps - Portable Applications for Developers](https://www.portabledevapps.net/)
+- [WinPython](https://winpython.github.io/) Portable Python
+- [Portapps - Applications](https://portapps.io/apps/)
+
+## Selfhosting
+
+- [zserge/awfice: The world smallest office suite](https://github.com/zserge/awfice)

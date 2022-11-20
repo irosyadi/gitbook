@@ -43,6 +43,7 @@ draft: false
 - [Home - Just the Docs](https://just-the-docs.github.io/just-the-docs/)
 - [Docsy Jekyll Theme](https://vsoch.github.io/docsy-jekyll/)
 
-## Static
+## Hugo Theme
 
 - [nodejh/hugo-theme-mini: A fast, minimalist and responsive hugo theme for bloggers.](https://github.com/nodejh/hugo-theme-mini)
+- [dillonzq/LoveIt: ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题](https://github.com/dillonzq/LoveIt)

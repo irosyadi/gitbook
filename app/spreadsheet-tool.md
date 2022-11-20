@@ -1,12 +1,12 @@
 ---
-aliases: [Spreadshseet (Sheet) Apps]
-title: Spreadshseet (Sheet) Apps
+aliases: [Spreadshseet (Sheet) Apps and Tools]
+title: Spreadshseet (Sheet) Apps and Tools
 tags: ["spreadsheet", "sheet"]
 date: 2021-04-04 17:43:36
 draft: false
 ---
 
-# Spreadshseet (Sheet) Apps
+# Spreadshseet (Sheet) Apps and Tools
 
 ## Desktop Presentation Apps
 
@@ -27,3 +27,9 @@ draft: false
 - [SeaTable.io - Online Spreadsheet](https://seatable.io/en/)
 - [Baserow: Open source online database tool](https://baserow.io/)
 - [NocoDB - Turns your SQL database into a Nocode platform. Free & Open Source.](https://nocodb.com/)
+
+## Spreadsheet Tools
+
+- [Free Viewer, Conversion, Splitter Apps for SpreadSheet](https://products.fileformat.app/spreadsheet/)
+	- filetype XLS, XLSX, ODS, CSV
+	- task: conversion, merger, compress, annotation, signature, watermark, redaction, search, protect, unlock, viewer, splitter, comparison

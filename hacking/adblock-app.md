@@ -38,9 +38,6 @@ draft: false
 - [Get AdGuard VPN subscription](https://adguard-vpn.com/en/license.html)
 - [Known DNS Providers - AdGuard DNS Knowledge Base](https://adguard-dns.io/kb/general/dns-providers/)
 
-## Testing Result
-
--Browser-DNS Browser-DNS Router-Adblock-d32ward-adblocktester-tb-
------------------------------
--Slimjet Guest-DoH Adguard---No-73%-77/100-y-tp-
--Slimjet Guest-----No-12%-32/100-y-tsel-
+## Adblock DNS
+- [LibreDNS](https://libredns.gr/)
+- [AdguardTeam/AdGuardHome: Network-wide ads & trackers blocking DNS server](https://github.com/AdguardTeam/AdGuardHome)

@@ -32,6 +32,7 @@ draft: false
 - [Jekyll Garden - Jekyll Garden](https://jekyll-garden.github.io/index.html)
 - [oleeskild/obsidian-digital-garden](https://github.com/oleeskild/obsidian-digital-garden)
 - [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)
+- [Editing Content in Quartz](https://quartz.jzhao.xyz/notes/editing/)
 
 ## Obsidian Markdown
 

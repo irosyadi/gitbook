@@ -30,6 +30,7 @@ draft: false
 - [Writing Assistant](https://www.writing-assistant.com/)
 - [Scribens](https://www.scribens.com/)
 - [LanguageTool](https://languagetool.org/) : open source, self-hosted, integration with VSCode
+- [redpen-cc/redpen: RedPen is an open source proofreading tool to check if your technical documents meet the writing standard. RedPen supports various markup text formats (Markdown, Textile, AsciiDoc, Re:VIEW, reStructuredText and LaTeX).](https://github.com/redpen-cc/redpen) open source
 - [Grammar Check - Free Essay Checker - Virtual Writing Tutor](https://virtualwritingtutor.com/)
 - [Online Text Correction](https://www.onlinecorrection.com/)
 - [Online Editor–Grammar Checker](https://www.grammarcheck.net/editor/)
@@ -70,7 +71,6 @@ draft: false
 
 - [Writefull](https://writefull.com/)
 - [Grammarly](https://app.grammarly.com/)
-
 
 ## Grammar
 

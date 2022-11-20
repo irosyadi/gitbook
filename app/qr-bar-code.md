@@ -1,12 +1,12 @@
 ---
-aliases: [QR Code App]
-title: QR Code App
+aliases: [QR Code and Barcode Apps]
+title: QR Code and Barcode Apps
 tags: ["QR Code"]
 date: 2020-08-15 04:10:11
 draft: false
 ---
 
-# QR Code App
+# QR Code and Barcode Apps
 
 ## QR Code Generator
 
@@ -34,3 +34,9 @@ draft: false
 ## QR Code
 
 - [QRImage](https://hughchen.github.io/qr_image/)
+
+## Barcode Tools
+
+- [Apps for Barcode generation](https://products.fileformat.app/barcode/)
+	- format QR, UPC, EAN, ISBN, ITF, ISSN, OPC
+	- task: generate, recognize

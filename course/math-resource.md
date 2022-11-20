@@ -35,3 +35,4 @@ draft: false
 
 - [SymPy Gamma](https://gamma.sympy.org/input/?i=x%5E2%2B6*x%2B8)
 - [Wolfram-Alpha: Computational Intelligence](https://www.wolframalpha.com/)
+- [Mathics](https://mathics.org/)

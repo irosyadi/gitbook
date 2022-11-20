@@ -151,3 +151,8 @@ draft: false
 - [rwv/lookscanned.io: 📚 LookScanned.io - Make your PDFs look scanned](https://github.com/rwv/lookscanned.io)
 - [baicunko/scanyourpdf: Repository for the Scan Your Pdf community](https://github.com/baicunko/scanyourpdf)
 - [Make any PDF look like scanned!](https://www.scanyourpdf.com/)
+
+
+## PDF Tools
+
+- [Apps for PDF Document Manipulation](https://products.fileformat.app/pdf/)

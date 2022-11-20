@@ -1,14 +1,15 @@
 ---
-aliases: [File Sharing and File Transfer]
-title: File Sharing and File Transfer
+aliases: [File Sharing, File Transfer and File Sync, File Sharing, File Transfer and File Syncr]
+title: File Sharing, File Transfer and File Sync
 tags: ["file transfer", "file sharing"]
 date: 2020-11-20 08:52:22
 draft: false
 ---
 
-# File Sharing and File Transfer
+# File Sharing, File Transfer and File Sync
 
 ## List
+
 - [Zack's Notablog - Send a File](https://schollz.github.io/send-a-file/)
 
 ## Local Peer to Peer File Sharing - Transfer
@@ -63,3 +64,7 @@ draft: false
 ## File Send
 
 - [Sendfiles.online](https://sendfiles.online/?lang=en)
+
+## Sync
+
+- [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)

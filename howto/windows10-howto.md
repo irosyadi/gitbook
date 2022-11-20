@@ -22,3 +22,23 @@ draft: false
 ### Access Point Change
 
 - [How to change WiFi Roaming Aggressiveness or Sensitivity in Windows 10](https://www.thewindowsclub.com/wifi-roaming-sensitivity-aggressiveness)
+
+## Network Command Line
+
+- `netsh wlan show profiles` View various wireless network profiles saved on your PC
+- `netsh wlan connect name="nameofnetwork" interface="nameofnetworkadapter"`
+- `netsh wlan show drivers` View WiFi adapter driver information
+- `netsh wlan show wirelesscapabilities` View WiFi adapter driver information
+- `netsh wlan show interfaces` View wireless adapter settings
+	- `netsh wlan show interface name="nameofinterfaces"`
+- `netsh wlan show profile name="networkname" key=clear`
+- `netsh wlan set hostednetwork mode=allow ssid="networkname" key="password"`
+- `netsh wlan show networks`
+
+## Network Repair
+
+- `netsh winsock reset`
+- `netsh int ip reset`
+- `ipconfig /release`
+- `ipconfig /flushdns`
+- `ipconfig /renew`

@@ -52,3 +52,12 @@ Related links:
 
 - [Wav2vec: Semi and Unsupervised Speech Recognition - Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 - [The Illustrated Wav2vec - Jonathan Bgn](https://jonathanbgn.com/2021/06/29/illustrated-wav2vec.html)
+
+## Video Transcriber
+
+- [Transcribe File](https://freesubtitles.ai/)
+- [Edit Video Fast | Simon Says](https://www.simonsaysai.com/)
+- [Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround](https://scribie.com/)
+- [Transcription](https://www.read.ai/transcription)
+- [AssemblyAI | #1 API Platform for AI Models](https://www.assemblyai.com/)
+- 

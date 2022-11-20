@@ -58,3 +58,13 @@ draft: false
 - [AllTop.com - Popular News Sites for Any Topic](https://alltop.com/)
 - [Skimfeed V5.5 - Tech News](https://skimfeed.com/)
 - [sumi.news](https://sumi.news/)
+
+## List of tools
+
+- [Use RSS for privacy and efficiency :: [rsapkf/www]](https://rsapkf.org/weblog/q2z)
+
+## RSS Readers
+
+- [derek-zhou/airss: A light weight feed reader that runs in your browser, with no backend](https://github.com/derek-zhou/airss)
+- [QuiteRSS](https://quiterss.org/) Windows based
+- [Kill the Newsletter!](https://kill-the-newsletter.com/) convert email newsletter to rss

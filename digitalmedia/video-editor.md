@@ -114,13 +114,18 @@ draft: false
 - [VidMix.app](https://vidmix.app/)
 - [Descript | All-in-one audio/video editing, as easy as a doc.](https://www.descript.com/) Video Editing using word
 
-
 ## Video Tutorial Anotator
+
 - [Scribe | Visual step-by-step guides](https://scribehow.com/)
-
-
-
 
 ## Video Stabilization
 
 - [Gyroflow v1.0.0-rc1 has appeared! - Gyroflow](https://gyroflow.xyz/)
+
+## Video
+
+- [Online captions editor - create subtitles within your browser](https://subtitle-horse.com/)
+
+## FFMPEG
+
+- [FFmpeg.guide - One stop solution to all things FFmpeg](https://ffmpeg.guide/demo)

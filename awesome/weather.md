@@ -25,3 +25,8 @@ draft: false
 ## Weather Dataset
 
 * [Home - Weather Data for Analysts](https://oikolab.com/)
+
+
+## Weather API
+
+- [Docs - Open-Meteo.com](https://open-meteo.com/en/docs)

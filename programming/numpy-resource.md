@@ -21,3 +21,6 @@ draft: false
 
 - [rougier/numpy-100: 100 numpy exercises (with solutions)](https://github.com/rougier/numpy-100)
 - [matplotlib/cheatsheets: Official Matplotlib cheat sheets](https://github.com/matplotlib/cheatsheets)
+
+
+- [NumPy Illustrated: The Visual Guide to NumPy  by Lev Maximov  Better Programming  Dec, 2020  Medium](https://medium.com/better-programming/numpy-illustrated-the-visual-guide-to-numpy-3b1d4976de1d)

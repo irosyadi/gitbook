@@ -43,7 +43,6 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Basic Latin—✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search 😄](http://xahlee.info/comp/unicode_index.html)
 
-
 ## Math Unicode Symbol
 
 - [Wumbo](https://wumbo.net/)
@@ -104,13 +103,12 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)–Joel on Software](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/)
 - [A Brief History of Unicode - Speaker Deck](https://speakerdeck.com/alblue/a-brief-history-of-unicode-4524a734-aac3-4ce9-8c4a-6f4ada04f464?slide=3)
 
-
 ## Zalgo Text Generator
 
 - [Zalgo Text Generator ― LingoJam](https://lingojam.com/ZalgoText)
 - [Zalgo Text Generator by Tchouky](https://eeemo.net/)
 - [Symbols ☯ Emoji](https://fsymbols.com/)
 
+## Unicode Map
 
-
-
+- [BabelMap Online (Unicode 15.0)](https://www.babelstone.co.uk/Unicode/babelmap.html)

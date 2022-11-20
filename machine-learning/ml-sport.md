@@ -18,3 +18,12 @@ draft: false
 ## Soccer
 
 - [Soccer Data Set](https://github.com/sportdb/sport.db.sources/tree/master/footballdata-12xpert)
+
+
+## Research
+
+- [Discovering Diverse Athletic Jumping Strategies](https://arpspoof.github.io/project/jump/jump.html)
+
+## AI for Sport
+
+- [Jump](https://arpspoof.github.io/project/jump/jump.html)

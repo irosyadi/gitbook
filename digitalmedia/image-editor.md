@@ -1,5 +1,5 @@
 ---
-aliases: [Awesome List of Image Editors, Converters, and Processors]
+aliases: [Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors]
 title: Awesome List of Image Editors, Converters, and Processors
 tags: ["image", "editor", "converter"]
 date: 2020-06-16 16:12:32
@@ -69,6 +69,7 @@ draft: false
 - [Designify - Turn any photo into awesome](https://www.designify.com/) Background Remover
 - [Remove unwanted objects from photos by dragging boxes](https://cleanupphotos.com/)
 - [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
+- [Remove Image Backgrounds, Free HD, No Signup - Pixian.AI](https://pixian.ai/)
 
 ## Image Generation
 
@@ -110,3 +111,7 @@ draft: false
 ## Photo Forensic
 
 - [Forensically, free online photo forensics tools - 29a.ch](https://29a.ch/photo-forensics/#noise-analysis)
+
+## Multitools Image Editor
+
+- [aiTransformer: generate beautiful artworks directly from photos/videos](https://aitransformer.net/)

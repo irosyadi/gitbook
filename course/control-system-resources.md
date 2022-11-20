@@ -16,3 +16,8 @@ draft: false
 ## Control System
 
 - [Introduction to Model Predictive Control · Arnav's Weblog](https://arnavdhamija.com/2022/01/08/intro-to-mpc/)
+
+
+## Control
+
+- [Kevin M. Passino's Home Page](https://www2.ece.ohio-state.edu/~passino/)

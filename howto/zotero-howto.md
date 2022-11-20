@@ -35,3 +35,22 @@ draft: false
 * [Zotero Tag](https://github.com/windingwind/zotero-tag)
 * [ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme)
 * [Zotero Night](https://github.com/tefkah/zotero-night)
+
+## Zotero Howto
+
+* Get zotero local link.
+	* Install zutilo
+	* Zutilo preferences
+	* Unhide Copy select item links
+	* In Zotero windows, right click, select Zutilo, select Copy select item links
+* Get zotero web link
+	* Install Zutilo
+	* Zutilo preferences
+	* Unhide Copy Zotero URIs
+	* In Zotero windows, right click, select Zutilo, select Copy select item links
+* Insert Author (year) format in MS Word
+	* Zotero, Add/edit Citation
+	* Find and select citation
+	* Click citation name
+	* Select Omit author, enter
+	* Manually type author name

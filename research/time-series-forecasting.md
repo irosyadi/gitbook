@@ -216,7 +216,6 @@ top open source deep learning for time series forecasting frameworks.
 - [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)
 - [statsforecast - Statistical ⚡️ Forecast](https://nixtla.github.io/statsforecast/)
 
-
 ## VAR
 
 - [Vector Autoregression (VAR) - Comprehensive Guide with Examples in Python - Machine Learning Plus](https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/)
@@ -237,3 +236,34 @@ top open source deep learning for time series forecasting frameworks.
 ## LSTM
 
 - [LSTM on Pytorch](https://cnvrg.io/pytorch-lstm/)
+
+## Time Series Toolbox
+
+- Prophet [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)
+- [Forecasting Models for Tidy Time Series • fable](https://fable.tidyverts.org/) in R
+- [unit8co/darts: A python library for easy manipulation and forecasting of time series.](https://github.com/unit8co/darts) in Python
+- [CRAN - Package forecast](https://cran.r-project.org/web/packages/forecast/index.html) in R [robjhyndman/forecast: forecast package for R](https://github.com/robjhyndman/forecast)
+- XGboost, LGBM, pmdarima, stanpy (for bayesian modelling)
+- Prophet - seems to be the current 'standard' choice
+- ARIMA - Classical choice
+- Exponential Moving Average - dead simple to implement, works well for stuff that's a time series but not very seasonal
+- Kalman/Statespace model - used by Splunk's predict[1] command (pretty sure I always used LLP5)
+- Prophet, statsmodels, tf.keras for RNNs.
+- tensorflow probability's time series package.
+- PyTorch for recurrent nets
+- [tsfresh—tsfresh 0.18.1.dev39+g611e04f documentation](https://tsfresh.readthedocs.io/en/latest/)
+- [MiniRocket—sktime documentation](https://www.sktime.org/en/v0.8.2/api_reference/auto_generated/sktime.transformations.panel.rocket.MiniRocket.html)
+- State of the art is 1D convnets, bleeding edge is transformers.
+- pycaret timeseries
+- lgbm light gbm
+- cvxpy
+- TensorFlow's LSTMCell
+- LSTMs have been going the way of the dinosaurs since 2018. If you really need a complex neural network (over 1D convolution approaches), transformers are the current SOTA. [Demand forecasting with the Temporal Fusion Transformer—pytorch-forecasting documentation](https://pytorch-forecasting.readthedocs.io/en/stable/tutorials/stallion.html)
+- sktime
+- bssts
+- statsmodels
+- [https://github.com/fraunhoferportugal/tsfel](https://github.com/fraunhoferportugal/tsfel)
+
+## Books
+
+- [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)

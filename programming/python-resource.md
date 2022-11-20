@@ -135,3 +135,11 @@ draft: false
 - [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
 - [VizierDB, a Data-Centric Notebook](https://vizierdb.info/)
 - [A GUI for pandas - bamboolib](https://bamboolib.8080labs.com/)
+
+## Python ML Frameworks
+
+- [A Beginner's Guide to Python Machine Learning and Data Science Frameworks - Pathmind](https://wiki.pathmind.com/python-ai)
+- [MindSpore](https://mindspore.cn/docs/programming_guide/en/master/index.html)
+- [Comparison of AI Frameworks - Pathmind](https://wiki.pathmind.com/comparison-frameworks-dl4j-tensorflow-pytorch)
+- [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
+- [Pytorch vs. Tensorflow: Deep Learning Frameworks 2021 - Built In](https://builtin.com/data-science/pytorch-vs-tensorflow)

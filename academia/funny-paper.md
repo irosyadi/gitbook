@@ -19,9 +19,6 @@ draft: false
 - [Stork paper](https://pubmed.ncbi.nlm.nih.gov/14738551/)
 - [Salmon Paper](http://prefrontal.org/files/posters/Bennett-Salmon-2009.pdf)
     - [Bennett-Salmon-2010.pdf](https://www.dropbox.com/s/o7gb13j26v9f4dp/Bennett-Salmon-2010.pdf?dl=0)
-
-## Funny Paper
-
 - [Chalamet Coughs, Dune Wins](https://journal-doi.org/10.731/pcbi.1007742/) Chalamet Coughs, Dune Wins: Predicting Best Picture Winners Using Coughs and Sneezes
 - [Mike Lacher](https://www.mikelacher.com/)
 - [Russell Goldenberg](https://pudding.cool/author/russell-goldenberg/)

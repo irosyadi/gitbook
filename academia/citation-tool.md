@@ -11,3 +11,4 @@ draft: false
 ## Citation Manager
 
 - [Bibcitation](https://www.bibcitation.com/)
+- [scite: Smart citations for better research](https://scite.ai/)

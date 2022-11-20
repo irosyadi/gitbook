@@ -16,7 +16,4 @@ draft: false
 - [sharkdp/fd: A simple, fast and user-friendly alternative to 'find'](https://github.com/sharkdp/fd)
 - [junegunn/fzf: A command-line fuzzy finder](https://github.com/junegunn/fzf)
 - [Fast File Finder for Windows is a tool for quickly finding files by name.](https://blog.kowalczyk.info/software/fast-file-finder-for-windows/)
-
-## File Search
-
 - [Genivia/ugrep: 🔍NEW ugrep v3.7: ultra fast grep with interactive TUI, fuzzy search, boolean queries, hexdumps and more: search file systems, source code, text, binary files, archives (cpio/tar/pax/zip), compressed files (gz/Z/bz2/lzma/xz/lz4/zstd), documents etc. A faster, user-friendly and compatible grep replacement.](https://github.com/Genivia/ugrep#install=)

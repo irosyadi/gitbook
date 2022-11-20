@@ -82,3 +82,9 @@ List of Diagram Apps
 ## Diagrams
 
 - [Stately Editor public beta](https://stately.ai/blog/stately-editor-public-beta)
+
+
+## Diagram Tools
+
+- [Free Apps for Microsoft Visio Files](https://products.fileformat.app/diagram/)
+	- filetype VSD, VSDX
