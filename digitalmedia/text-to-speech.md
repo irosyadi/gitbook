@@ -15,11 +15,9 @@ Related links:
 
 ## Text to Speech Apps
 
-- [Natural Readers](https://www.naturalreaders.com/), online and offline
 - [Modern Google-level STT Models Released](https://habr.com/en/post/519562/)
 - [codeforequity-at/botium-speech-processing: Botium Speech Processing](https://github.com/codeforequity-at/botium-speech-processing) : open source
     - [demo](https://speech.botiumbox.com/api-docs/)
-- [Vocodes. Vocal playground.](https://vo.codes/)
 - [Create. Edit. Publish. - Narration Box](https://narrationbox.com/)
 - [Text-to-Speech: Lifelike Speech Synthesis  -  Google Cloud](https://cloud.google.com/text-to-speech/)
 - [Hyper-Realistic Artificial Voices](https://www.sonantic.io/)
@@ -32,10 +30,8 @@ Related links:
 - [CookiePPP/cookietts: TTS from Cookie. Messy and experimental!](https://github.com/CookiePPP/cookietts)
 - [coqui](https://github.com/coqui-ai) [Coqui](https://coqui.ai/) STT and TTS
 - [Narration Box - Everything you need to engage your audience with voice and audio.](https://narrationbox.com/)
-- [per.quest - Play Audio of an Article](https://per.quest/)
 - [Text to Speech–Realistic AI Voice Generator - Microsoft Azure](https://azure.microsoft.com/en-us/services/cognitive-services/text-to-speech/#overview=)
 - [neonbjb/tortoise-tts: A multi-voice TTS system trained with an emphasis on quality](https://github.com/neonbjb/tortoise-tts)
-- [Free Text to Speech: Online, App, Software, Commercial license with Natural Sounding Voices.](https://www.naturalreaders.com/index.html)
 - [15.ai: Natural TTS with minimal viable data](https://15.ai/)
 - [Introducing Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 - [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
@@ -55,12 +51,29 @@ Related links:
 
 ## Text to Speech
 
-- [Dimio Software](http://dimio.altervista.org/eng/)
 - [TinyGem.org - bookmarking and content recommendations for people who love to read Hacker News.](https://tinygem.org/listen/)
 - [https://www.locserendipity.com/TTS.html](https://www.locserendipity.com/TTS.html)
 - [MycroftAI/mimic3: A fast local neural text to speech engine for Mycroft](https://github.com/MycroftAI/mimic3)
-- [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis - NVIDIA ADLR](https://nv-adlr.github.io/Flowtron)
 - [Matter - Chrome Web Store](https://chrome.google.com/webstore/detail/matter/knjbgabkeojmfdhindppcmhhfiembkeb)
-- [Text To Speech](https://tts.cns.wtf/)
-- [Coqui](https://coqui.ai/)
 - [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
+
+## Rank
+
+- [Murf AI](https://murf.ai/) ⭐⭐⭐⭐⭐
+- [Coqui](https://coqui.ai/) with speed 1.2 ⭐⭐⭐
+- [Text To Speech](https://tts.cns.wtf/) with speed 1.5 ⭐⭐
+- [Natural Readers](https://www.naturalreaders.com/online/) ⭐⭐⭐⭐⭐
+- [FakeYou](https://fakeyou.com/) ⭐⭐⭐
+- [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis - NVIDIA ADLR](https://nv-adlr.github.io/Flowtron)
+
+## Rank Indonesian
+
+- [Murf AI](https://murf.ai/) ⭐⭐⭐
+- [Micmonster](https://micmonster.com/text-to-speech/indonesian-indonesia/) ⭐⭐⭐⭐⭐
+- [Play.ht](https://play.ht/text-to-speech-voices/indonesian/) ⭐⭐⭐
+- [Ondoku](https://ondoku3.com/id/) ⭐⭐⭐
+- [Narakeet](https://www.narakeet.com/)
+- [Wideo](https://wideo.co/text-to-speech/)
+- [Voicemaker](https://voicemaker.in/) ⭐⭐⭐⭐⭐
+- [Free TTS](https://freetts.com/) ⭐⭐
+- [Notevibes](https://notevibes.com/) ⭐⭐

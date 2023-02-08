@@ -12,3 +12,4 @@ draft: false
 
 - [One Thing Well](https://onethingwell.org/) Daily blog for interesting link
 - [\~/uses :: [rsapkf/www]](https://rsapkf.org/uses)
+- [Phil Sturgeon](https://phil.tech/)

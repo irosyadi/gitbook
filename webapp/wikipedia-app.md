@@ -43,6 +43,7 @@ draft: false
 ## Wikipedia
 
 - [static.wiki](http://static.wiki/)
+- [Wikijumps](https://wikijumps.netlify.app/)
 
 ## Wikipedia Alternatives
 

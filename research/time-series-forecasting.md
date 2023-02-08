@@ -267,3 +267,8 @@ top open source deep learning for time series forecasting frameworks.
 ## Books
 
 - [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)
+
+## Forecasting Comparison
+
+- [statsforecast/experiments/m3 at main · Nixtla/statsforecast](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3) # Statistical vs Deep Learning forecasting methods
+- [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)

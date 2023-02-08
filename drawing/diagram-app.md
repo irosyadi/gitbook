@@ -88,3 +88,11 @@ List of Diagram Apps
 
 - [Free Apps for Microsoft Visio Files](https://products.fileformat.app/diagram/)
 	- filetype VSD, VSDX
+
+## Text to Diagram
+- [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#code-based-graph-tools)
+- [mlajtos/moniel: Interactive Notation for Computational Graphs](https://github.com/mlajtos/moniel)
+- [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
+- [A Visualization Grammar | Vega](https://vega.github.io/vega/)
+- [Flowchart Fun — Fast, Free Online Flowchart Maker](https://flowchart.fun/)
+- 

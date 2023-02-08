@@ -1,5 +1,5 @@
 ---
-aliases: [Privacy, Security and Anonymity Apps]
+aliases: [Privacy, Security and Anonymity Apps, Privacy, Security and Anonymity Apps]
 title: Privacy, Security and Anonymity Apps
 tags: ["privacy", "security", "anonymity"]
 date: 2020-12-14 15:33:53
@@ -140,6 +140,11 @@ draft: false
 - [Warp Plus](https://github.com/ALIILAPRO/warp-plus-cloudflare)
 - [Warp Plus](https://github.com/TheCaduceus/WARP-UNLIMITED-ADVANCED)
 - [Goodbye DPI](https://github.com/ValdikSS/GoodbyeDPI)
+- [hectorm/demergi: A proxy server that helps to bypass the DPI systems implemented by various ISPs.](https://github.com/hectorm/demergi)
+- [SadeghHayeri/GreenTunnel: GreenTunnel is an anti-censorship utility designed to bypass the DPI system that is put in place by various ISPs to block access to certain websites.](https://github.com/SadeghHayeri/GreenTunnel)
+- [ValdikSS/GoodbyeDPI: GoodbyeDPI—Deep Packet Inspection circumvention utility (for Windows)](https://github.com/ValdikSS/GoodbyeDPI)
+- [Jigsaw-Code/Intra: An experimental tool that allows you to test new DNS-over-HTTPS services on Android](https://github.com/jigsaw-code/intra)
+- [celzero/rethink-app: DNS over HTTPS / DNS over Tor / DNSCrypt client, firewall, and connection tracker for Android.](https://github.com/celzero/rethink-app)
 
 solution : VPN, power tunnel (android), power tunnel pc, green tunnel, wireguard, webproxy, etc  
 advantage of power tunnel and green tunnel : you will connect through local proxy which mean your quota internet usage would not exceed  

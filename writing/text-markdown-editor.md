@@ -54,3 +54,22 @@ draft: false
 
 - [Medium to Markdown Converter](https://medium-to-markdown.com/)
 - [Online Markup Converter](https://markup.rocks/) between markdown, RST, asciidoc, html etc.
+
+## Online Text Editor
+
+- [Pastebin.com - #1 paste tool since 2002!](https://pastebin.com/)
+- [Edit Pad - Online Text Editor & Wordpad (Notepad) for Notes](https://www.editpad.org/)
+- [textarea please](https://textareaplease.com/)
+- [Typewrite Something](https://typewritesomething.com/)
+- [Ponder](https://ponder.joeldare.com/app/)
+- [Writer, the Internet Typewriter](https://writer.bighugelabs.com/welcome)
+- [Calmly Writer Online](https://www.calmlywriter.com/online/)
+- [ZenPen \~ Minimal Distraction, Maximum Zen](https://zenpen.io/)
+- [Firepad - An open source collaborative code and text editor](https://firepad.io/)
+- `data:text/html, <html contenteditable autofocus>`
+
+## Online Markdown Editor
+
+- [Markdown Live Preview](https://markdownlivepreview.com/)
+- [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)
+- [StackEdit](https://stackedit.io/app#)

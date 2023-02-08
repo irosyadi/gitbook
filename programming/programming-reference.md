@@ -11,4 +11,5 @@ draft: false
 ## Program Documentation
 
 - [Zeal - Offline Documentation Browser](https://zealdocs.org/)
-- [Devbook - Search Engine for Developers](https://usedevbook.com/)
+- [DevDocs API Documentation](https://devdocs.io/)
+- [Dash for macOS - API Documentation Browser, Snippet Manager - Kapeli](https://kapeli.com/dash)

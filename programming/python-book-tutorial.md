@@ -1,5 +1,5 @@
 ---
-aliases: [Python Books, Tutorials, and Courses]
+aliases: [Python Books, Tutorials, and Courses, Python Books, Tutorials, and Courses, Python Books, Tutorials, and Courses]
 title: Python Books, Tutorials, and Courses
 tags: ["python", "book", "tutorial"]
 date: 2020-06-19 19:37:43
@@ -99,3 +99,7 @@ draft: false
 
 - [First Python Notebook—First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
 - [Python Library Search](https://www.pythonstacks.com/python-packages/)
+
+## Python Program Learn
+
+- [futurecoder: learn python from scratch](https://futurecoder.io/)

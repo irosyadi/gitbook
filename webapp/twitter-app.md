@@ -12,3 +12,8 @@ draft: false
   - [Nitter](https://nitter.net/)
   - [Twitit](https://twitit.gq/)
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
+  - [Nitter Instances](https://xnaas.github.io/nitter-instances/)
+
+## Alternatives
+
+- [Sendie](https://sendie.com/)

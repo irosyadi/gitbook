@@ -15,3 +15,7 @@ draft: false
 ## Alternative to Reddit
 
 - [Linklonk](https://linklonk.com/)
+
+## List of Alternatives
+
+- [GorvGoyl/Clone-Wars: 100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.](https://github.com/GorvGoyl/Clone-Wars)

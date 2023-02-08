@@ -25,3 +25,8 @@ draft: false
 - [Z-Lib](https://z-lib.org/)
 
 _published in Mataroa and Bearblog_
+
+## z-lib in IPFS
+
+- [Anna’s Archive](https://annas-archive.org/)
+- [zlib searcher](https://zlib.zu1k.com/)

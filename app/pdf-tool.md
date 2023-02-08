@@ -152,7 +152,34 @@ draft: false
 - [baicunko/scanyourpdf: Repository for the Scan Your Pdf community](https://github.com/baicunko/scanyourpdf)
 - [Make any PDF look like scanned!](https://www.scanyourpdf.com/)
 
-
 ## PDF Tools
 
 - [Apps for PDF Document Manipulation](https://products.fileformat.app/pdf/)
+
+## Diff PDF compare
+
+By default, its only output is its return  
+code, which is 0 if there are no differences and 1 if the two PDFs differ. If  
+given the `--output-diff` option, it produces a PDF file with visually  
+highlighted differences:
+
+```none
+$ diff-pdf --output-diff=diff.pdf a.pdf b.pdf
+```
+
+Copy
+
+Another option is to compare the two files visually in a simple GUI, using  
+the `--view` argument:
+
+```none
+$ diff-pdf --view a.pdf b.pdf
+```
+
+Copy
+
+This opens a window that lets you view the files' pages and zoom in on details.  
+It is also possible to shift the two pages relatively to each other using  
+Ctrl-arrows (Cmd-arrows on MacOS). This is useful for identifying translation-only differences.
+
+See the output of `$ diff-pdf --help` for complete list of options.

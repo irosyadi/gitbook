@@ -30,11 +30,7 @@ draft: false
 * [What are the Benefits of Machine Learning in the Cloud? - Cloud Academy](https://cloudacademy.com/blog/what-are-the-benefits-of-machine-learning-in-the-cloud/)
 * [Cloud Platform Comparison](https://blog.paperspace.com/google-cloud-platform-notebooks/)
 
-## Machine Learning
-
-* [SpotML - Cut ML Training Costs by up to 70%](https://www.spotml.io/)
-
 ## AI Platform
 
 * [Cloud-CV/EvalAI: Evaluating state of the art in AI](https://github.com/Cloud-CV/EvalAI#platform-comparison)
-* [nidhaloff/igel at v0.4.0](https://github.com/nidhaloff/igel/tree/v0.4.0) machine learning tool that allows you to train, test, and use models without writing code
+

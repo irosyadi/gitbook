@@ -24,7 +24,7 @@ draft: false
 * [List of Electronic Simulator](https://www.electronics-lab.com/downloads/)
 * [SimulIDE](https://www.simulide.com/2020/09/simulide0413-released.html) : Real Time Electronic Circuit Simulator. With PIC, AVR and Arduino simulation.
 * [Home - QucsStudio](https://qucsstudio.de/)
-* [Digital Logic Sim by Sebastian Lague](https://sebastian.itch.io/digital-logic-sim)
+* [Digital Logic Sim by Sebastian Lague](https://sebastian.itch.io/digital-logic-sim)]
 
 ## Electronic Diagram
 

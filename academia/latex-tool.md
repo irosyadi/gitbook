@@ -80,3 +80,26 @@ Related links:
 
 - [Pseudocode](https://en.wikipedia.org/wiki/Pseudocode)
     - [Latex example](https://es.overleaf.com/latex/examples/pseudocode-example/pbssqzhvktkj)
+
+## List of Latex Commands
+
+- [These are the 100 most frequent LaTeX commands](https://blog.writefull.com/the-100-most-frequent-latex-commands/)
+- [Art of Problem Solving](https://artofproblemsolving.com/wiki/index.php/LaTeX)
+- [NASA GISS: Help On LaTeX Commands](https://www.giss.nasa.gov/tools/latex/ltx-2.html)
+- [ltxcrib.dvi](https://www.bu.edu/math/files/2013/08/LongTeX1.pdf)
+- [Commands - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Commands)
+- [Supported TeX/LaTeX commands—MathJax 3.2 documentation](https://docs.mathjax.org/en/latest/input/tex/macros/index.html#v)
+- [The Comprehensive LaTeX Symbol List](https://math.uoregon.edu/wp-content/uploads/2014/12/compsymb-1qyb3zd.pdf)
+- [LaTeX/Mathematics - Wikibooks, open books for an open world](https://en.wikibooks.org/wiki/LaTeX/Mathematics)
+- <https://mirror.unpad.ac.id/ctan/info/symbols/comprehensive/symbols-a4.pdf>
+- [Mathematical expressions - Overleaf, Online LaTeX Editor](https://www.overleaf.com/learn/latex/Mathematical_expressions)
+
+## Latex OCR
+
+- [Detexify LaTeX handwritten symbol recognition](http://detexify.kirelabs.org/classify.html)
+- [LaTeX OCR Demo - a Hugging Face Space by hasibzunair](https://huggingface.co/spaces/hasibzunair/LaTeX-OCR-demo)
+- [Latex Ocr - a Hugging Face Space by yhshin](https://huggingface.co/spaces/yhshin/latex-ocr)
+
+## Latex Tips
+
+- [The Art of LaTeX: Common Mistakes, and Advice for Typesetting Beautiful, Delightful Proofs | Fan Pu Zeng](https://fanpu.io/blog/2023/latex-tips/)

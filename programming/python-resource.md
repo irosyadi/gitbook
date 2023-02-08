@@ -128,7 +128,6 @@ draft: false
 
 - [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](https://pythontutor.com/)
 
-
 ## Python and Panda
 
 - [Mito - Home](https://www.trymito.io/)
@@ -143,3 +142,8 @@ draft: false
 - [Comparison of AI Frameworks - Pathmind](https://wiki.pathmind.com/comparison-frameworks-dl4j-tensorflow-pytorch)
 - [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - [Pytorch vs. Tensorflow: Deep Learning Frameworks 2021 - Built In](https://builtin.com/data-science/pytorch-vs-tensorflow)
+
+## Pandas
+
+- [Modern Polars](https://kevinheavey.github.io/modern-polars/)
+- Pandas

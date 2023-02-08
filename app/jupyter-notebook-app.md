@@ -144,3 +144,5 @@ Related links:
 - [nbdev–Create delightful software with Jupyter Notebooks](https://nbdev.fast.ai/)
 - [ReviewNB - Jupyter Notebook Code Reviews & Collaboration](https://www.reviewnb.com/)
 - [Jupyter Notebooks as Markdown Documents, Julia, Python or R Scripts—Jupytext documentation](https://jupytext.readthedocs.io/en/latest/index.html)
+## Jupyter Lite
+- [jupyterlite/jupyterlite: Wasm powered Jupyter running in the browser 💡](https://github.com/jupyterlite/jupyterlite)

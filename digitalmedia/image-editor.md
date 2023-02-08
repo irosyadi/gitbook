@@ -1,5 +1,5 @@
 ---
-aliases: [Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors]
+aliases: [Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors]
 title: Awesome List of Image Editors, Converters, and Processors
 tags: ["image", "editor", "converter"]
 date: 2020-06-16 16:12:32
@@ -115,3 +115,7 @@ draft: false
 ## Multitools Image Editor
 
 - [aiTransformer: generate beautiful artworks directly from photos/videos](https://aitransformer.net/)
+
+## Image Editors
+
+- [Gimel Studio–Open source, non-destructive 2D image graphics editor](https://gimelstudio.github.io/)

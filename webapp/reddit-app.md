@@ -86,3 +86,11 @@ draft: false
 - [SearchBettr - Search Better - Instant Reddit Search](https://www.searchbettr.com/)
 - [Map of Reddit](https://anvaka.github.io/map-of-reddit/?x=255000&y=381000&z=769530.5730064241)
 - [Related subreddits based on your comments](https://anvaka.github.io/sayit/?query=)
+
+## Reddit Extension
+
+- Epiverse : View Reddit and Hacker News comments on all webpages.
+- Ampie
+- Newsit
+- Thredd - Useful Advice from Reddit : Get reviews for the page you're reading or recommendations for similar content - crowdsourced from Reddit!
+- Find on Reddit

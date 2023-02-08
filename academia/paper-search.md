@@ -64,11 +64,13 @@ Related link:
 - [Whiterose](https://eprints.whiterose.ac.uk/)
 - [Semantic Scholar](https://www.semanticscholar.org/)
 - [SHARE](https://share.osf.io/)
+- [Internet Archive Scholar](https://scholar.archive.org/)
 
 ## Article
 
 - [Distill—Latest articles about machine learning](https://distill.pub/)
 - [Xirva - Browse and Upload Scientific Papers on the Decentralised Web](https://www.xirva.org/)
+- [viXra.org open e-Print archive](https://vixra.org/)
 - [CVF Open Access](https://openaccess.thecvf.com/menu)
 
 ## Testing of Generic Paper Search

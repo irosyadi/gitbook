@@ -73,6 +73,7 @@ draft: false
 - [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
 - [HN Books - The Best Books of Hacker News](https://yahnd.com/books/)
 - [Hacker Wisdom](https://www.askhnwisdom.com/) Hacker News link collection
+- [HNPDF](https://hnpdf.com/latest) Hacker News PDF
 
 ## Hacker News Aggregator
 
@@ -95,6 +96,7 @@ draft: false
 ## Hacker News Browser Extension/Add-on
 
 - [Newsit](https://newsit.benwinding.com/) : reddit and HN comment in any links
+- Ampie
 
 ## Hacker News Books
 

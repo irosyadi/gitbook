@@ -17,3 +17,4 @@ draft: false
 - [Free for Dev](https://free-for.dev/)
 - [Free Public API](https://github.com/public-apis/public-apis)
 - [Hacker Promos](https://www.hackerpromos.com/)
+- [Free Developer Stuff](https://freestuff.dev/)

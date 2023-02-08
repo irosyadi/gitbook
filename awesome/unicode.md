@@ -42,6 +42,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Unicode Lookup](https://unicode.emnudge.dev/)
 - [Basic Latin—✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search 😄](http://xahlee.info/comp/unicode_index.html)
+- [Unicode Explorer](https://unicode-explorer.com/)
 
 ## Math Unicode Symbol
 
@@ -72,6 +73,7 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 ## Unicode Hack
 
 - [Big list of naughty strings](https://github.com/minimaxir/big-list-of-naughty-strings/blob/master/blns.txt)
+- [Unicode characters you can not see](https://invisible-characters.com/)
 
 ## Punycode
 

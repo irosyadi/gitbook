@@ -100,4 +100,6 @@ draft: false
 - [Youtube Advanced Search](https://playlists.at/youtube/search/)
 - [Ask YouTube - a Hugging Face Space by jamescalam](https://huggingface.co/spaces/jamescalam/ask-youtube)
 
+## Youtube Desktop
 
+- [FreeTube - The Private YouTube Client](https://freetubeapp.io/)

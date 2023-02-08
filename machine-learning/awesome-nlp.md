@@ -41,3 +41,7 @@ draft: false
 
 - [Tensorflow Text Generation](https://www.tensorflow.org/text/tutorials/text_generation)
 - [Text Generation with LSTM](https://machinelearningmastery.com/text-generation-lstm-recurrent-neural-networks-python-keras/)
+
+## NLP eBook
+
+- [Natural Language Processing Demystified](https://www.nlpdemystified.org/)

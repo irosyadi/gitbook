@@ -60,6 +60,7 @@ draft: false
     - [LibreX](https://librex.beparanoid.de/)
 - [Teclis - Non-commercial Web Search](http://teclis.com/)
 - [Swurl](https://swurl.com/)
+- [Hello: Search engine for developers](https://beta.sayhello.so/) Search Engine with GPT4
 
 ## Archive.org Search Engine
 

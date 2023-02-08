@@ -65,3 +65,11 @@ draft: false
 * [All images - Phantasmagoria](https://www.phantasmagoria.me/)
 * [Everything you need to create images with AI | getimg.ai](https://getimg.ai/)
 * [Find All You Need For AI Art](https://www.aiartapps.com/)
+* [Stadio](https://stadio.ai/models)
+* [www.diffusion.land](https://www.diffusion.land/)
+* [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/)
+* [Stable Diffusion tutorials, prompts and resources - Stable Diffusion Art](https://stable-diffusion-art.com/)
+
+## Generative Anime
+
+* [niji・journey](https://nijijourney.com/en/)
