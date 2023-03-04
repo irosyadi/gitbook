@@ -1,5 +1,5 @@
 ---
-aliases: [Privacy, Security and Anonymity Apps, Privacy, Security and Anonymity Apps]
+aliases: [Privacy, Security and Anonymity Apps, Privacy, Security and Anonymity Apps, Privacy, Security and Anonymity Apps]
 title: Privacy, Security and Anonymity Apps
 tags: ["privacy", "security", "anonymity"]
 date: 2020-12-14 15:33:53
@@ -40,6 +40,7 @@ draft: false
 
 - Malwarebytes : anti malware
 - ShutUP10 (OOSU10): Windows permission editor
+- [TemporalAgent7/awesome-windows-privacy: A list of awesome tools, documentation and scripts for better privacy on Microsoft Windows](https://github.com/TemporalAgent7/awesome-windows-privacy)
 
 ### Browser Apps
 

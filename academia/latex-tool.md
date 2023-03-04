@@ -25,6 +25,11 @@ Related links:
 - [HostMath - Online LaTeX formula editor and browser-based math equation editor](http://www.hostmath.com/)
 - [Math Writer](https://writer.math.dev/)
 
+## Offline Latex
+
+- equalx [EqualX](https://equalx.sourceforge.io/downloads.html)
+- KLatexFormula [KLatexFormula](https://klatexformula.sourceforge.io/)
+
 ## Calculator Latex
 
 - [AlexCalc](https://alexbarry.github.io/AlexCalc/)
@@ -38,6 +43,12 @@ Related links:
 - [Online JPG to TEX Converter - Free GroupDocs Apps](https://products.groupdocs.app/conversion/jpg-to-tex)
 - [lukas-blecher/LaTeX-OCR: pix2tex: Using a ViT to convert images of equations into LaTeX code.](https://github.com/lukas-blecher/LaTeX-OCR)
 - [yixuanzhou/image2latex: A tool to convert math equation images to LaTeX markup](https://github.com/yixuanzhou/image2latex)
+
+## Image to Latex Converter
+
+- Offline working
+	- `pip install pix2tex[gui]` then `latexocr`
+
 
 ## Sketch to Latex and Diagram
 

@@ -29,6 +29,8 @@ draft: false
 - [Automa - Chrome Web Store](https://chrome.google.com/webstore/detail/automa/infppggnoaenmfagbfknfkancpbljcca)
 - [Browser Automation, Data Extraction and Web Testing - Progress iMacros](https://www.progress.com/imacros)
 - [Kholid060/automa: A chrome extension for automating your browser by connecting blocks](https://github.com/Kholid060/automa)
+- [Automate Your Business - Open Source Free Zapier Alternative - Self-hosted or Cloud - Activepieces](https://www.activepieces.com/)
+- [Automatisch - Open Source Zapier Alternative](https://automatisch.io/#plans)
 
 ## Automation
 

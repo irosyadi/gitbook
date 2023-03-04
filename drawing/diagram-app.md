@@ -35,6 +35,10 @@ List of Diagram Apps
     - [jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
 - [GoJS Diagram and Graph Library for JavaScript and TypeScript](https://gojs.net/latest/index.html)
 
+## Math based Diagram
+- [Matcha](https://www.mathcha.io/) plus desktop app
+- Geogebra
+
 ## Diagram as Code (Programmable Diagram)
 
 - [Plant UML](https://plantuml.com/)
@@ -95,4 +99,3 @@ List of Diagram Apps
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)
 - [A Visualization Grammar | Vega](https://vega.github.io/vega/)
 - [Flowchart Fun — Fast, Free Online Flowchart Maker](https://flowchart.fun/)
-- 

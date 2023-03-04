@@ -10,37 +10,52 @@ draft: false
 
 ## Article/Paper Exploration
 
-- [Elicit - The AI Research Assistant](https://elicit.org/search)
-- [Connected Papers - Find and explore academic papers](https://www.connectedpapers.com/)
+- [Elicit](https://elicit.org/search)
+- [Connected Papers](https://www.connectedpapers.com/)
 - [Litmaps](https://app.litmaps.com/)
-- [Sci-Genie: A tool for computer science research](https://sci-genie.com/)
-- [Featured Papers - Read by QxMD](https://read.qxmd.com/)
 - [Paperscape](http://paperscape.org/)
-- [Top arXiv papers](https://scirate.com/)
-- [arxiv-sanity](https://arxiv-sanity-lite.com/)
-- [Explore - Iris.ai - Your Science Assistant](https://the.iris.ai/explore/start)
-- [SciSpace by Typeset - Discover](https://typeset.io/search)
+- [Iris.ai](https://the.iris.ai/)
+- [SciSpace](https://typeset.io/search)
 - [Research Rabbit](https://researchrabbitapp.com/home)
-- [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
-- [Litmaps](https://app.litmaps.co/)
+- [Paper Digest](https://www.paperdigest.org/)
+- [wizdom.ai](https://www.wizdom.ai/)
+- [AMiner](https://www.aminer.cn/)
+- [Inciteful](https://inciteful.xyz/)
+- [Open Knowledge Maps](https://openknowledgemaps.org/index)
+- [Open Research Knowledge Graph](https://orkg.org/)
+- [Dimensions AI](https://www.dimensions.ai/)
+- [Publish or Perish](https://harzing.com/resources/publish-or-perish) Desktop App
+
+## Paper Discussion
+
+- [PubPeer](https://pubpeer.com/)
+- [ResearchHub](https://www.researchhub.com/)
+
+## Wikipedia Scholar
+
+- [Scholarpedia](http://www.scholarpedia.org/) Wikipedia edited by scholars
 
 ## Article/Paper Graph and Relationship
 
 - [Connected Papers](https://www.connectedpapers.com/) : Explore connected papers in a visual graph
 - [Inciteful](https://inciteful.xyz/) : Inciteful builds a network of academic papers based on a topic of your choice and then analyzes the network to help you find the most relevant literature.
-- [scite: Smart citations for better research](https://scite.ai/)
+- [scite: Smart citations for better research](https://scite.ai/) Paid
 - [Paperscape](https://paperscape.org/)
-- [Paperscape Graph](http://my.paperscape.org/)
-- [PubPeer - Search publications and join the conversation.](https://pubpeer.com/)
-- [ResearchHub - Open Science Community](https://www.researchhub.com/)
-- [Stateoftheart AI](https://www.stateoftheart.ai/)
 - [Open Research Knowledge Graph](https://www.orkg.org/orkg/)
-- Publish or Perish (Desktop App)
-- ### Paper Graph Writing Assistant
+
+## State of the Art
+
+- [Stateoftheart AI](https://www.stateoftheart.ai/)
+- [Computer Vision Explorer - Home](https://vision-explorer.allenai.org/)
+
+### Paper Graph Writing Assistant
+
 - [Litmaps](https://app.litmaps.com/) ⭐⭐ features: auto-generated citation graph, seed)
 - [Research Rabbit](https://researchrabbitapp.com/home) ⭐⭐⭐
 - [Paperscape](http://my.paperscape.org/) ⭐⭐
 - [Iris.ai - Your Science Assistant](https://the.iris.ai/explore/map/)
+- [Open Knowledge Maps](https://openknowledgemaps.org/index)
+- [Open Research Knowledge Graph](https://orkg.org/)
 
 ### Testing Paper Graph Search
 
@@ -49,8 +64,3 @@ draft: false
 - [Elicit - The AI Research Assistant](https://elicit.org/search?q=digital+twin) ⭐⭐ (features: writing assistant with language models)
 - [Search - ORKG](https://www.orkg.org/orkg/search/digital%20twin?types=&createdBy=) ⭐⭐⭐ (features: comparison paper, paper search, )
 - [Open Knowledge Maps - A visual interface to the world's scientific knowledge](https://openknowledgemaps.org/index)
-
-
-## Paper
-
-- [Computer Vision Explorer - Home](https://vision-explorer.allenai.org/)

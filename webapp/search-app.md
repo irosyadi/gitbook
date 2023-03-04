@@ -12,12 +12,11 @@ draft: false
 
 - [Alternative search engines](https://fabform.io/a/alternative-search-engines)
 - [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
-- [A look at search engines with their own indexes - Seirdy](https://seirdy.one/posts/2021/03/10/search-engines-with-own-indexes/)
-
-## Map
-
 - [Searchengine Map](https://www.searchenginemap.com/)
-- [Gnod Search - Compare Search Engines](https://www.gnod.com/search/)
+- [Search Engine Party](https://searchengine.party/)
+
+## Search Engines Comparison
+- [Gnod Search](https://www.gnod.com/search/)
 
 ## Main Search Engines
 
@@ -25,42 +24,78 @@ draft: false
 - [Bing](https://www.bing.com/)
 - [Yandex](https://yandex.com/)
 - [Baidu](https://www.baidu.com/)
+- [Mojeek](https://www.mojeek.com/)
+- [SearXNG instances](https://searx.space/)
+
+## Google-based Search Engines
+
+- [Startpage](https://startpage.com/) - meta search engine
+- [DSearch](https://www.dsearch.com/) - meta search engine
+
+## Bing-based Search Engines
+
+- [Duck Duck Go](https://duckduckgo.com/) - privacy oriented, Bing-powered
+- [Brave Search](https://search.brave.com/)
+- [MetaGer](https://metager.org/) - privacy oriented
+- [Ecosia](https://www.ecosia.org/?c=en) - environment oriented, Bing-powered
+- [Nona](https://www.nona.de/) - privacy oriented, Bing-powered
+- [Swisscows](https://swisscows.com/?culture=en)
+
+## Filtered and Tuned Search Engine
+
+- [Ichido](https://ichi.do/)
+- [Occamm](https://www.occamm.com/)
+
+## Paid Search Engines
+
+- [Infinity](https://infinitysearch.co/) - privacy oriented search engine
+- [You](https://you.com/)
+- [Neeva](https://neeva.com/)
+- [Kagi](https://kagi.com/)
+
+## Generic AI Search Engine
+
+- [OpenAI ChatGPT](https://chat.openai.com/chat)
+- [Perplexity AI](https://www.perplexity.ai/)
+- [Andi](https://andisearch.com/)
+- [Phind](https://phind.com/)
+- [Lexii](https://lexii.ai/)
+- [You](https://you.com/)
+
+## Research AI Search Engine
+
+- [Elicit](https://elicit.org/search)
+- [Consensus](https://consensus.app/search/)
+
+## Math AI
+
+- [Wolfram Alpha](https://www.wolframalpha.com/)
 
 ## Alternative Search Engines
 
-- [Duck Duck Go](https://duckduckgo.com/) - privacy oriented search engine, powered by Bing
-- [Ecosia](https://www.ecosia.org/?c=en) - search engine which plant trees, powered by Bing
-- [Nona ist eine private und werbefreie Suchmaschine](https://www.nona.de/) - Bing powered
-- [Occamm.com](https://www.occamm.com/) - search engine with tag tuning
-- [Fireball Suchmaschine](https://fireball.de/de)
-- [MetaGer: Privacy Protected Search & Find](https://metager.org/)
-- [Invinity Search](https://infinitysearch.co/) - privacy oriented search engine
-- [Runnaroo](https://www.runnaroo.com/) - relevant results from other targeted search engines [down]
-- [Swisscows](https://swisscows.com/?culture=en)
-- [You.com](https://you.com/)
+- [Swurl](https://swurl.com/) Multi search engine
 - [Presearch](https://presearch.org/)
-- [MetaGer: Privacy Protected Search & Find](https://metager.org/)
-- [Startpage](https://startpage.com/) - meta search engine
 - [Private](https://private.sh/) - privacy oriented search engine using proxies
+- [Breeze](https://breezethat.com/#gsc.tab=0)
+
+## Blog Search Engine
+
+- [Marginalia](https://search.marginalia.nu/) Blog search
+- [MWMBL](https://mwmbl.org/)
+- [Search My Site](https://searchmysite.net/)
+- [Rightdao](https://rightdao.com/search) - minimalist search engine
+- [Wiby](https://wiby.me/)
+
+## Open Source Search Engines
+
 - [Yacy](https://yacy.net/) - decentralized web search
 - [Searx](https://searx.space/) - free self-hosted search engine, meta search engine
 - [Qwant](https://www.qwant.com) and [Qwant Lite](https://lite.qwant.com/) - privacy oriented search engine, powered by Bing
-- [Privado](https://www.privado.com/)
-- [Rightdao](https://rightdao.com/search) - minimalist search engine
 - [typesense](https://typesense.org/) - open source
-- [Mojeek](https://www.mojeek.com/) - privacy oriented
-- [Okeano - The search engine that cleans the ocean and respects your privacy](https://okeano.com/)
 - [Million Short - What haven't you found?](https://millionshort.com/) Tuning search results
-- [You.com](https://you.com/)
-- [Breeze through your searches™](https://breezethat.com/#gsc.tab=0)
-- [Neeva - Ad-free, private search](https://neeva.com/)
-- [Kagi Search](https://kagi.com/)
-- [Andi - Radically better search](https://andisearch.com/)
 - [hnhx/librex: A privacy respecting free as in freedom meta search engine for Google and popular torrent sites](https://github.com/hnhx/librex)
     - [LibreX](https://librex.beparanoid.de/)
 - [Teclis - Non-commercial Web Search](http://teclis.com/)
-- [Swurl](https://swurl.com/)
-- [Hello: Search engine for developers](https://beta.sayhello.so/) Search Engine with GPT4
 
 ## Archive.org Search Engine
 
@@ -73,20 +108,17 @@ draft: false
 
 ## Code Search Engine
 
-- [Sourcegraph Code Search](https://sourcegraph.com/search)
-- [grep.app - code search](https://grep.app/)
+- [Sourcegraph](https://sourcegraph.com/search)
+- [grep.app](https://grep.app/)
+- [searchcode](https://searchcode.com/)
+- [PublicWWW](https://publicwww.com/)
+- [Python Code Examples](https://www.programcreek.com/python/)
+- [Feep!](https://search.feep.dev/)
 
 ## Specific Search Engine
 
 - [Recipe Search](https://recipe-search.typesense.org/) : recipe search
 - [Programmable Search Engine alias Google Custom Search Engine](https://programmablesearchengine.google.com/) Google for specific sites we defined
-- [Feep! search](https://search.feep.dev/)
-
-## Blog Search Engine
-
-- [Marginalia Search](https://search.marginalia.nu/) Blog search
-- [Heline - Code search for modern developer 🚀.](https://heline.dev/)
-- [Blog Surf - Blog Search Engine](https://blogsurf.io/)
 
 ## Powerpoint Search Engine
 
@@ -103,7 +135,6 @@ draft: false
 
 ## Web history Search Engine
 
-- [YaCyWiki](https://wiki.yacy.net/index.php/Hauptseite)
 - [Visit websites, find them again.](https://www.browserparrot.com/)
 - [ArchiveBox/ArchiveBox: 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...](https://github.com/ArchiveBox/ArchiveBox)
 - [a5huynh/spyglass: A personal search engine](https://github.com/a5huynh/spyglass#installation)
@@ -115,10 +146,6 @@ draft: false
 ## Search Engine
 
 - [Dash](https://gutensearch.com/): search engine for gutenberg files
-
-## Search Engine
-
-- [Marginalia](https://www.marginalia.nu/)
 
 ## Search Engine
 
@@ -135,10 +162,25 @@ draft: false
     - [Books Search](https://books-search.typesense.org/) [Github](https://github.com/typesense/showcase-books-search)
     - [Recipe Search](https://recipe-search.typesense.org/) [Github](https://github.com/typesense/showcase-recipe-search)
 
-## Search Engine
-
-- [Marginalia Search](https://search.marginalia.nu/)
-
 ## Search Insight
 
 - [KeywordSea - A free keyword research tool using Search Suggestions and AutoComplete](https://keywordsea.com/)
+
+## AI-based Search Engine
+
+- Phind
+- Perpexlity
+- [jokenox/Goopt: 🔍 Search Engine for a Procedural Simulation of the Web with GPT-3.](https://github.com/jokenox/Goopt)
+
+## Research-based Search Engine
+
+- [Search - Consensus - Evidence-Based Answers, Faster](https://consensus.app/search/)
+
+## Privacy Oriented Search Engine
+
+- [searxng/searxng: SearXNG is a free internet metasearch engine which aggregates results from various search services and databases. Users are neither tracked nor profiled.](https://github.com/searxng/searxng/)
+- [SearXNG and searx instances](https://searx.space/)
+
+## Image Search
+
+- [Same Energy | Visual Search Engine](https://same.energy/)

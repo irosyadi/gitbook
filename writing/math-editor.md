@@ -47,10 +47,7 @@ draft: false
 - [Insect](https://insect.sh/)
 - [Math Notepad](http://mathnotepad.com/)
 
-## Online Math Solver
-
-- [Step-by-Step Calculator - Symbolab](https://www.symbolab.com/solver/step-by-step/)
-- [Wolfram Alpha](https://www.wolframalpha.com/) : also numerical computation, search engine, visualization
+[[symbolic-math-solver]]
 
 ## Math Equation
 

@@ -15,6 +15,7 @@ draft: false
 
 * [soxoj/maigret: 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites](https://github.com/soxoj/maigret)
 * [sherlock-project/sherlock: 🔎 Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/sherlock)
+* [sherlock-project/enola: This is Sherlock's sister, Modern shiny CLI tool written with Golang to help you: 🔎 Hunt down social media accounts by username across social networks](https://github.com/sherlock-project/enola)
 
 # Username Search
 

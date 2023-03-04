@@ -21,3 +21,7 @@ draft: false
 - [IconSearch: Instant icon search for SVG icons](https://iconsear.ch/search.html)
 - [Heroicons](https://heroicons.com/)
 - [Feather–Simply beautiful open source icons](https://feathericons.com/)
+- [Iconhunt - Search for open source icons, 150.000+ icons.](https://www.iconhunt.site/)
+- [Academicons](https://jpswalsh.github.io/academicons/)
+- [PhyloPic Biology Icon](https://www.phylopic.org/)
+- [Brick Wall—Iconic](https://iconic.app/brick-wall/)

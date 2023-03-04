@@ -18,7 +18,8 @@ draft: false
 
 ## WASM PDF Tools
 
-- [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/) and [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/): Merge, Compress, Extract, Watermark PDF
+- [Easy to use free PDF tools online - pdfux](https://pdfux.com/) Feature: WASM PDF editor, file (merge, split, interweave, zip), page (extract, delete, reorder, reverse, rotate, number, add blank, resize, flip), text (comment)
+- [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/): Merge, Compress, Extract, Watermark PDF
 - [PDF Pages helper](https://shreevatsa.net/pdf-pages/) : Extract PDF
 - [Split PDF: Unspread 2-up pages](https://shreevatsa.net/pdf-unspread/) : Split PDF
 - [Möbius Printing helper](https://shreevatsa.net/mobius-print/) : Mobius Print PDF

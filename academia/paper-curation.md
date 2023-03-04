@@ -23,6 +23,11 @@ draft: false
 - [ShortScience.org - Making Science Accessible!](https://www.shortscience.org/)
 - [Venues - OpenReview](https://openreview.net/)
 
+## Paper Curation
+
+- [Featured Papers - Read by QxMD](https://read.qxmd.com/)
+- [Top arXiv papers](https://scirate.com/)
+- [arxiv-sanity](https://arxiv-sanity-lite.com/)
 
 ## Article
 

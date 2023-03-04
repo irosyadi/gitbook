@@ -29,11 +29,11 @@ draft: false
 - [Arduino Playground - Matlab](https://playground.arduino.cc/Interfacing/Matlab/)
 - [Arduino Playground - Python](https://playground.arduino.cc/Interfacing/Python/)
 - [yoelk/instrumentino: Instrumentino is an open-source modular graphical user interface framework for controlling Arduino based experimental instruments](https://github.com/yoelk/instrumentino) halted
+- [Electric UI](https://electricui.com/features)
 
 ## Discussion
 
 - [Serial data plotting programs - Arduino Stack Exchange](https://arduino.stackexchange.com/questions/1180/serial-data-plotting-programs)
 - [Arduino Playground - InterfacingWithSoftware](https://playground.arduino.cc/Main/InterfacingWithSoftware/)
-
 
 [[arduino-terminal]]

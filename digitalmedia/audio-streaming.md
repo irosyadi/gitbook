@@ -1,5 +1,5 @@
 ---
-aliases: [Audio, Music, Radio, and Podcast Streaming Apps]
+aliases: [Audio, Music, Radio, and Podcast Streaming Apps, Audio, Music, Radio, and Podcast Streaming Apps, Audio, Music, Radio, and Podcast Streaming Apps, Audio, Music, Radio, and Podcast Streaming Apps]
 title: Audio, Music, Radio, and Podcast Streaming Apps
 tags: ["radio", "audio", "music", "podcast"]
 date: 2020-12-21 17:08:25
@@ -15,17 +15,23 @@ Related links:
 🔗 [Audio and Music Tools](audio-tool.md)  
 🔗 [Free Audio and Music](free-audio.md)  
 
-## Web-based Noise Generator
+## Noise Generator
 
-- [Soft Murmur](https://asoftmurmur.com/)
-- [Shhh Sound: sounds to increase focus and relax](https://www.shhhsound.com/)
-- [My Noise](https://mynoise.net/)
+- [Pluvior](https://pluvior.com/) 6 noises
+- [Defonic](https://defonic.com/) 3 noises
+- [A Soft Murmur](https://asoftmurmur.com/) 6 noises, timer
+- [myNoise](https://mynoise.net/) 300 noises, many presets
+- [Tabletop Audio](https://tabletopaudio.com/) 40 noises, many presets
+- [Noises.online](https://noises.online/) 30 noises
+- [shhh Noise](https://www.shhhnoise.com/) 6 noises
 - [Rainy Mood](https://rainymood.com/) Rain only
-- [Noise Online](https://noises.online/)
-- [Relax to the sound of rain with Rainfor.me](http://rainfor.me/) Rain only
-- [Listen to Smooth Jazz and Rain Sounds - JazzAndRain.com](http://www.jazzandrain.com/) Rain only
+- [Rainfor.me](http://rainfor.me/) Rain only
+- [JazzAndRain](http://www.jazzandrain.com/) Rain only, 6 musics
+- [daily.place](https://www.daily.place/irosyadi) 6 noises, pomodoro, todo
+- [Coffitivity](https://coffitivity.com/) 6 noises
+- [LifeAt Spaces](https://lifeat.io/) noises, pomodoro, todo, calendar, space
 
-## Web-based Ambient Music and Audio
+## Ambient Music
 
 - [Zen Radio](https://www.zenradio.com/#popular)
 - [Soma FM](https://somafm.com/)
@@ -40,11 +46,8 @@ Related links:
 - [Zen Radio - Relaxation & Meditation Music](https://www.zenradio.com/#popular)
 - [Interstellar - drkmnd, Arbour - Deezer](https://www.deezer.com/en/playlist/9054155762?utm_content=playlist-9054155762&deferredFl=1)
 - [Now Playing on Poolsuite FM: Enjoy Your Life - Oby Onyioha by Juvenilia](https://poolsuite.net/)
-- [Coffitivity](https://coffitivity.com/)
 - [musicForProgramming();](https://musicforprogramming.net/latest/)
 - [Moss Garden](https://moss.garden/)
-- [Focus at Work • Relax at Home • Sleep at Night - myNoise ®](https://mynoise.net/)
-- [Focus at Work • Relax at Home • Sleep at Night - myNoise ®](https://mynoise.net/howToUseSoundMachines.php)
 
 ## Internet Radio
 
@@ -60,10 +63,9 @@ Related links:
 
 - [Every Noise at Once](https://everynoise.com/)
 
-
 ## Podcast
 
-* [gPodder: Media aggregator and podcast client](https://gpodder.github.io/)
+- [gPodder: Media aggregator and podcast client](https://gpodder.github.io/)
 
 ## Podcast
 

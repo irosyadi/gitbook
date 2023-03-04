@@ -1,8 +1,8 @@
 ---
-aliases: []
-title: "Title"
-date: 2022-10-26 19:39
+aliases: [Digitizer - Converting Graph into Data]
+title: Digitizer - Converting Graph into Data
 tags: ["tag1", "tag2"]
+date: 2022-10-26 19:39
 draft: false
 ---
 

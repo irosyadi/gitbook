@@ -35,6 +35,7 @@ draft: false
 - [Editing Content in Quartz](https://quartz.jzhao.xyz/notes/editing/)
 - [Obsidian Garden](https://garden.gtsb.io/) Gatsby, no graph, active
 - [Quartz 3.](https://quartz.jzhao.xyz/) Hugo
+- [hikerpig/gatsby-project-kb: Developing gatsby-theme-kb, a Gatsby theme for publishing Knowledge Base.](https://github.com/hikerpig/gatsby-project-kb) Gatsby
 
 ## Obsidian Markdown
 
@@ -66,3 +67,9 @@ draft: false
 ## Obsidian Template
 
 - [bramses/bramses-highly-opinionated-vault-2023: A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
+
+## Alternative of Obsidian Publish
+
+- [Obsidian Publishing Options | Flowershow](https://flowershow.app/notes/obsidian-publishing-options)
+- [Publish Alternatives](https://kool.casa/notes/aizdxkgbr2lmkosw/)
+- [Comparing note publishing solutions](https://fulcra.design/Notes/Comparing-note-publishing-solutions/)

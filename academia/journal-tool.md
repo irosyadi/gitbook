@@ -21,7 +21,6 @@ Related links:
 
 - [Scimago JR](https://www.scimagojr.com/journalrank.php) Journal Rank
 - [Clarivate Impact Factor](https://clarivate.com/webofsciencegroup/essays/impact-factor/), [Search](https://mjl.clarivate.com/search-results)
-- [Jifactor](http://www.jifactor.com/JournalView.asp)
 - [Guide2Research](http://www.guide2research.com/)
 
 ### Impact Factor for Specific Publishers

@@ -61,6 +61,4 @@ draft: false
 
 - [Float Toy](https://evanw.github.io/float-toy/)
 
-## Unicode
 
-- [Confusables](https://confusables.gc.codes/)

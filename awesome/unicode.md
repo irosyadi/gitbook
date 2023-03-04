@@ -43,6 +43,7 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Basic Latin—✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search 😄](http://xahlee.info/comp/unicode_index.html)
 - [Unicode Explorer](https://unicode-explorer.com/)
+- [Characters](https://adraffy.github.io/ens-normalize.js/test/chars.html)
 
 ## Math Unicode Symbol
 
@@ -111,6 +112,13 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 - [Zalgo Text Generator by Tchouky](https://eeemo.net/)
 - [Symbols ☯ Emoji](https://fsymbols.com/)
 
-## Unicode Map
+## Babelcode Unicode Map
 
 - [BabelMap Online (Unicode 15.0)](https://www.babelstone.co.uk/Unicode/babelmap.html)
+- [Unicode 15.0 Slide Show](https://www.babelstone.co.uk/Unicode/unicode.html)
+- [What Unicode character is this ?](https://www.babelstone.co.uk/Unicode/whatisit.html)
+- [Unicode Text Styler](https://www.babelstone.co.uk/Unicode/text.html)
+
+## Unicode
+
+- [Confusables](https://confusables.gc.codes/)

@@ -13,36 +13,38 @@ draft: false
 - [Hacker News](https://news.ycombinator.com/)
     - [Hacker News frontpage](https://news.ycombinator.com/front)
 
-## Hacker News Alternative Frontends
+## Hacker News Full Content
 
-- [hnews.xyz](https://hnews.xyz/top) : Hacker News with post previews
 - [Full Hacker News](https://www.fullhn.com/) : Hacker News with full post contents
+- [HN at Betacat](https://hackernews.betacat.io/) : Hacker News with content snippet
+- [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/) : content snippet
+
+## Hacker News Time Filtering
+
 - [hckr news - Hacker News sorted by time](https://hckrnews.com/) : Hacker News with time setting
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/) : Hacker News daily top stories
 - [HackerDaily](https://hackerdaily.io/) : Hacker News daily top stories, load HN comments
-- [Hacker News Premii](https://hn.premii.com/) : Two panels Hacker News, load HN comments
-- [HackerWeb](https://hackerweb.app/#/) : Hacker News mobile friendly format, load HN comments
-- [Hacker News](https://hack.ernews.info/) : Hacker News mobile friendly format, load HN comments
-- [Hacker News Top Stories](https://www.read.hn/) : Hacker News with Instapaper reader support (need Instapaper account)
-- [HN at Betacat](https://hackernews.betacat.io/) : Hacker News with post content digests
-- [Reason React Hacker News](https://hackernewsmobile.com/#/) : Hacker News mobile friendly format
-- [Angular 2 HN](https://angular2-hn.firebaseapp.com/news/1) : load HN comments
-- [Polymer Hacker News](https://hn-polymer-2.firebaseapp.com/)
-- [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1)
-- [HckerWeb–HackerWeb](https://hn.leftium.com/) : Hacker News mobile friendly format, load comments
-- [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1) : Hacker News Megazine format
-- [Hacker News Top, Best, New Stories - Sawir Studio](https://hn.sawirstudio.com/) : Top, Best and New posts of Hacker News in one page
 - [Wayback HN](http://www.waybackhn.com/) : HN on specific date in the past
 - [Timeless Hacker News](https://thn.rakhim.org/) : Old top story of HN, randomly
-- [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
-- [Hackr News App](https://hackr-news-dj.netlify.app/top) : Fast
-- [Haxplore](https://haxplore.pabue.co/): with key shortcut
-- [News for Hackers - Hazumi](https://www.hazumi.news/)
-- [Ditzes - Frontpage](https://ditzes.com/frontpage)
-- [hn](https://read-hn.herokuapp.com/)
-- [Hacker News Top Charts - 2022-07-23 to 2022-07-30](https://hn-summary.github.io/)
+- [Hacker News Top Stories](https://hn-summary.github.io/)
 - [Hacker News Daily](http://www.daemonology.net/hn-daily/)
-- [Paper HN](https://www.wolfgangfaust.com/project/paper-hn/)
+- [Ditzes - Frontpage](https://ditzes.com/frontpage)
+
+## Hacker News Two Panels
+
+- [YAHNI - Yet Another Hacker News Interface](https://yahni.news/) : Two panels Hacker News, load HN comments
+- [Hacker News Premii](https://hn.premii.com/) : Two panels Hacker News, load HN comments
+
+## Hacker News Mobile Site
+
+- [HackerWeb](https://hackerweb.app/#/) : Hacker News mobile friendly format, load HN comments 0.90s, 2.6MB A1.2s
+- [Hacker News](https://hack.ernews.info/) : Hacker News mobile friendly format, load HN comments 1.12s, 2.3 MB A2.0s
+- [Hacker News Top Stories](https://www.read.hn/) : Hacker News with Instapaper reader support (need Instapaper account)
+- [Reason React Hacker News](https://hackernewsmobile.com/#/) : Hacker News mobile friendly format, load HN comments 2.14s A0.5s
+- [Angular 2 HN](https://angular2-hn.firebaseapp.com/news/1) : Hacker News mobile friendly format, load HN comments 1.96s A1.2s
+- [Mithril HN](https://mithril-hn.firebaseapp.com/#!/top/1) : Hacker News mobile friendly format, load HN comments 1.1s A2.6s
+- [Hackr News App](https://hackr-news-dj.netlify.app/top) : Hacker News mobile friendly format, load HN comments 3.57s
+- [News for Hackers - Hazumi](https://www.hazumi.news/) : Hacker News mobile friendly format, load HN comments 3.04s
 
 ## List of Hacker News Reader
 
@@ -53,27 +55,26 @@ draft: false
 ## Hacker News Search Engine
 
 - [HN Search powered by Algolia](https://hn.algolia.com/) Hacker News comment and link search
-- [HNDex](https://hndex.org/) Hacker News content search
-- [HNProfile](https://hnprofile.com/) Hacker News profile and topic search
 - [Forum Search](https://forumsearch.io/) : HackerNews, Reddit*, IndieHacker, DEV.to, Lobste.rs content search
 - [DeepHN - powered by SeekStorm](https://deephn.org/) Deep search HN
-- [Morning Brief](https://morningbrief.ai/setup) : HackerNews, Reddit content search
-- [DeepHN | powered by SeekStorm](https://deephn.org/)
 
 ## Hacker News RSS
 
 - [Hacker News RSS](https://hnrss.github.io/) : RSS for HN
 - [hnapp–Hacker News Search With RSS & JSON Feeds](http://hnapp.com/) : HN search and query specific RSS
 
-## Hacker News Tools
+## Hacker News Mention
 
 - [F5Bot - Get an email when something mentioned online!](https://f5bot.com/) : HN, Reddit, Lobster
-- [Show HN projects—Browse the best projects posted on Show HN](https://showhn-dashboard.netlify.app/) : Hacker News Show HN post list
+
+## Hacker News Filter
+
+- [Hacker News Books](https://hackernewsbooks.com) Books
+- [HackerNews Readings](https://hacker-recommended-books.vercel.app/) Books
+- [Hacker Wisdom](https://www.askhnwisdom.com/) Links
+- [HNPDF](https://hnpdf.com/latest) PDF's
+- [Projects](https://showhn-dashboard.netlify.app/) : Hacker News Show HN post list
 - [Hacker News Rankings](http://hnrankings.info/) : Hacker News post ranking
-- [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
-- [HN Books - The Best Books of Hacker News](https://yahnd.com/books/)
-- [Hacker Wisdom](https://www.askhnwisdom.com/) Hacker News link collection
-- [HNPDF](https://hnpdf.com/latest) Hacker News PDF
 
 ## Hacker News Aggregator
 
@@ -92,20 +93,9 @@ draft: false
 - [Datatau](https://datatau.net/) for data science
 - [Free Post](https://freepo.st/) [open source](https://notabug.org/zPlus/freepost) selfhosted
 - [Barnacles](https://barnacl.es/)
+- [tilde news](https://tilde.news/)
 
 ## Hacker News Browser Extension/Add-on
 
 - [Newsit](https://newsit.benwinding.com/) : reddit and HN comment in any links
 - Ampie
-
-## Hacker News Books
-
-- [HackerNews Books Recommendation](https://hacker-recommended-books.vercel.app/category/0/past-6-months/page/0/0)
-
-## Hacker News
-
-- [HackerLoop](https://devss.io/)
-
-## Hacker News
-
-[Best of Hacker News Shown HN of All The Time: 2008 - 2022](https://bestofshowhn.com/)

@@ -80,6 +80,23 @@ Coreweave $0.04/GB
 * 24 GB RTX 3090 (two times performances of 3060) start form Rp12.000.000
 * used Tesla V100 32GB
 
+## GPU Rank
+
+RTX 3090 > Tesla V100 32GB > (RTX 3080 = RTX 6000) 
+
+
+* 1.6: RTX A100 40GB > RTX 4090 > RTX A6000
+* 1: RTX 3090 Ti 24 GB = V100 32 GB
+* 0.8: RTX 3090 24GB = RTX 3080 Ti 12GB > RTX 3080
+* 0.75-0.8: A6000 48GB = RTX 6000 24 GB = A4000
+* 0.7 A40 = RTX 2080 Ti
+* 0.6: RTX 3070 Ti
+* 0.5: GTX 1080 Ti, RTX 2070, RTX 2080
+* Tesla P100 > P6000
+* 0.45-0.48: RTX 3070, RTX 3060 Ti
+* 0.35: GTX 1080, RTX 3060, RTX 3050
+* 0.25: GTX 1070
+
 ## Machine Learning Deployment
 
 * [DataCrunch - A100 80GB GPU Servers](https://datacrunch.io/)

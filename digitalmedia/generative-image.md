@@ -69,6 +69,7 @@ draft: false
 * [www.diffusion.land](https://www.diffusion.land/)
 * [AI Art Panic | Opinionated Guides](https://opguides.info/posts/aiartpanic/)
 * [Stable Diffusion tutorials, prompts and resources - Stable Diffusion Art](https://stable-diffusion-art.com/)
+* [Clio Sketch ✍️](https://clio.so/)
 
 ## Generative Anime
 

@@ -8,6 +8,8 @@ draft: false
 
 # z-lib - Book Search Engine
 
+Z-lib portal https://singlelogin.me/
+
 - [z-lib.org](https://z-lib.org)
 - [booksc.org](https://booksc.org)
 - [booksc.eu](https://booksc.eu)
