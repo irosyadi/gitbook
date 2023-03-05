@@ -33,7 +33,6 @@ Unicode is an information technology (IT) standard for the consistent encoding, 
 - [Unicode Explorer](https://unicode-explorer.com/)
 - [Basic Latin—✔️ ❤️ ★ Unicode Character Table](https://unicode-table.com/en/)
 - [Unicode Search](https://unicodelookup.com/)
-- [Unicode Search](https://unicode-search.net/)
 - [Unicode Table](https://unicode-table.com/en/)
 - [Fileformat Unicode Search](https://www.fileformat.info/info/unicode/char/search.htm)
 - [Unicode Character Recognition](https://shapecatcher.com/)
@@ -122,3 +121,11 @@ __̴ı̴̴̡̡̡ ̡͌l̡̡̡ ̡͌l̡*̡̡ ̴̡ı̴̴̡ ̡̡͡|̲̲̲͡͡͡ ̲▫
 ## Unicode
 
 - [Confusables](https://confusables.gc.codes/)
+
+## Unicode Identify by Draw
+
+- [Font Generator](https://tell.wtf/)
+
+## Unicode Search by Name
+
+- [Unicode - Compart](https://www.compart.com/en/unicode)

@@ -24,7 +24,7 @@ Success in Gatsby. Success in Jekyll. Fail in Gitbook. Fail in Hugo.
 ### Type 2
 
 - [app/Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [research/Machine Learning Interactive Visualization](ml-visualization.md)
+- [research/Machine Learning Interactive Visualization](../research/ml-visualization.md)
 - [book/Interactive Books](../book/interactive-book.md)
 - [note/Data Visualization](../note/data-visualization.md)
 
@@ -47,6 +47,10 @@ Fail in Gatsby. Fail in Jekyll. Success in Gitbook. Fail in Hugo.
 - [Data Visualization](../note/data-visualization)
 
 Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
+
+### Obsidian Internal Link
+
+- [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)
 
 ## Number and Bullet
 
