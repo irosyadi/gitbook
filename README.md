@@ -1,10 +1,7 @@
 ---
 aliases: [Hi 👋🏼]
 title: Hi 👋🏼
-tags: 
 ---
-
-# Hi 👋🏼
 
 I'm _Imron Rosyadi_
 

@@ -1,6 +1,6 @@
 ---
-aliases: [Imron Rosyadi]
-title: Imron Rosyadi
+aliases: [Hi 👋🏼]
+title: Hi 👋🏼
 tags: ["imron"]
 date: 2025-01-01 00:00:01
 draft: false
@@ -8,8 +8,6 @@ draft: false
 <p align="center">
   <img src="https://source.unsplash.com/100x100/?cat" />
 </p>
-
-# Hi 👋🏼
 
 I'm _Imron Rosyadi_
 
