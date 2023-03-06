@@ -14,43 +14,35 @@ Experimental markdown to check markdown parser compatibility between Gatsby, Jek
 
 ### Type 1
 
-- [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](ml-visualization.md)
-- [Interactive Books](/book/interactive-book)
-- [Data Visualization](/note/data-visualization)
+- [/book/interactive-book](/book/interactive-book)
+- [/note/emoji](/note/emoji)
 
 Success in Gatsby. Success in Jekyll. Fail in Gitbook. Fail in Hugo.
 
-### Type 2
+### Type 2 (Obsidian Internal Link)
 
-- [app/Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [research/Machine Learning Interactive Visualization](../research/ml-visualization.md)
-- [book/Interactive Books](../book/interactive-book.md)
-- [note/Data Visualization](../note/data-visualization.md)
+- [../book/interactive-book.md](../book/interactive-book.md)
+- [../note/emoji.md](../note/emoji.md)
 
 Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ### Type 3
 
-- [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](ml-visualization.md)
-- [Interactive Books](/book/interactive-book.md)
-- [Data Visualization](/note/data-visualization.md)
+- [/book/interactive-book.md](/book/interactive-book.md)
+- [/note/emoji.md](/note/emoji.md)
 
 Fail in Gatsby. Fail in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ### Type 4
 
-- [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
-- [Machine Learning Interactive Visualization](ml-visualization.md)
-- [Interactive Books](../book/interactive-book)
-- [Data Visualization](../note/data-visualization)
+- [../book/interactive-book](../book/interactive-book)
+- [../note/emoji](../note/emoji)
 
 Fail in Gatsby. Success in Jekyll. Success in Gitbook. Fail in Hugo.
 
 ### Obsidian Internal Link
 
-- [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)
+- [../note/emoji.md](../note/emoji.md)
 
 ## Number and Bullet
 
