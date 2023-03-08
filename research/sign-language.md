@@ -6,14 +6,14 @@ date: 2021-03-24 16:02:06
 draft: false
 ---
 
-# Sign Language Recognition
+## Sign Language Recognition
 
-## List of Project
+### List of Project
 
 - [surdoparasurdo/awesome-sign-language: 🙌 A collection of awesome Sign Language projects and resources 🤟](https://github.com/surdoparasurdo/awesome-sign-language)
 - [bijoycp/sign-language-recognition-using-convolutional-neural-networks: sign language recognition using convolutional neural networks tensorflow opencv and python](https://github.com/bijoycp/sign-language-recognition-using-convolutional-neural-networks)
 
-## Video-based
+### Video-based
 
 - [hthuwal/sign-language-gesture-recognition: Sign Language Gesture Recognition From Video Sequences Using RNN And CNN](https://github.com/hthuwal/sign-language-gesture-recognition) : spatial and temporal, video
 - [harshbg/Sign-Language-Interpreter-using-Deep-Learning: A sign language interpreter using live video feed from the camera.](https://github.com/harshbg/Sign-Language-Interpreter-using-Deep-Learning) : video
@@ -28,36 +28,36 @@ draft: false
 - [luvk1412/Sign-Language-to-Text: A python based app which can convert the shown sign language using hand to text in real time](https://github.com/luvk1412/Sign-Language-to-Text)
 - [insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5](https://github.com/insigh1/Interactive_ABCs_with_American_Sign_Language_using_Yolov5) YOLO
 
-## with NLP
+### with NLP
 
 - [neccam/slt: Sign Language Transformers (CVPR'20)](https://github.com/neccam/slt)
 - [neccam/nslt: Neural Sign Language Translation (CVPR'18)](https://github.com/neccam/nslt)
 - [jayshah19949596/DeepSign-A-Deep-Learning-Architecture-for-Sign-Language-Recognition](https://github.com/jayshah19949596/DeepSign-A-Deep-Learning-Architecture-for-Sign-Language-Recognition)
 
-## Sign Language Web
+### Sign Language Web
 
 - [Fingerspelling with Machine Learning](https://fingerspelling.xyz/)
 
-## Sign Language Tutor
+### Sign Language Tutor
 
 - [ssaamm/sign-language-tutor: The fun way to learn sign language](https://github.com/ssaamm/sign-language-tutor)
 
-## Sign Language Vocalization
+### Sign Language Vocalization
 
 - [ardamavi/Vocalize-Sign-Language: Vocalization sign language with deep learning.](https://github.com/ardamavi/Vocalize-Sign-Language)
 
-## Inverse ( ... to Sign Language)
+### Inverse ( ... to Sign Language)
 
 - [anuragk240/Speech-to-Sign-Language-Translator: Convert English Speech into American Sign Language using Google Cloud APIs and play animations for the gesture in Blender Game Engine (Blender 2.79).](https://github.com/anuragk240/Speech-to-Sign-Language-Translator)
 - [sahilkhoslaa/AudioToSignLanguageConverter: A web based application which accepts Audio/ Voice as input and converts it to corresponding Sign Language for Deaf people.](https://github.com/sahilkhoslaa/AudioToSignLanguageConverter)
 - [ardamavi/DCGAN-Sign-Language: Generating sign language images with DCGAN using our own Sign Language Dataset](https://github.com/ardamavi/DCGAN-Sign-Language)
 
-## Image-based
+### Image-based
 
 - [Anmol-Singh-Jaggi/Sign-Language-Recognition: Sign Language Recognition using Python](https://github.com/Anmol-Singh-Jaggi/Sign-Language-Recognition) : image
 - [imRishabhGupta/Indian-Sign-Language-Recognition: This repository contains the code which can recognise the alphabets in Indian sign language for blind using opencv and tensorflow.](https://github.com/imRishabhGupta/Indian-Sign-Language-Recognition) : image
 
-## Bahasa Isyarat Indonesia
+### Bahasa Isyarat Indonesia
 
 - Bahasa Isyarat Indonesia (BISINDO)
     - dianggap sebagai bahasa yang bisa mewakili budaya tuli Indonesia

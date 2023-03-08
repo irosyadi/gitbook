@@ -6,9 +6,9 @@ date: 2022-10-17 07:59
 draft: false
 ---
 
-# Free GPT Playground
-
 ## Free GPT Playground
+
+### Free GPT Playground
 
 - [NLP Cloud Playground](https://nlpcloud.com/home/playground/language-detection)
 - [Playground](https://textsynth.com/playground.html)

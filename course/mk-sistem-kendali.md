@@ -6,9 +6,9 @@ date: 2021-02-21 19:08:54
 draft: false
 ---
 
-# MK Sistem Kendali
+## MK Sistem Kendali
 
-## Identitas MK
+### Identitas MK
 
 - Kode Mata Kuliah: TKE192221
 - SKS Mata Kuliah: 2 SKS
@@ -18,7 +18,7 @@ draft: false
     - Kelas A : Ruang C-201, Selasa 07.55, 45 mhs
     - Kelas B : Ruang C-201, Selasa 10.40, 47 mhs
 
-## Referensi
+### Referensi
 
 - Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
@@ -31,7 +31,7 @@ draft: false
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
 - [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
 
-## Software
+### Software
 
 - [GNU Octave](https://www.gnu.org/software/octave/index)
 - [Octave Online](https://octave-online.net/)
@@ -39,21 +39,21 @@ draft: false
 - Python and Jupyter Notebook in [Anaconda.org](https://anaconda.org/) or in [Google Colab](https://colab.research.google.com/)
 - [Visual Model Q](https://www.visualmodelq.com/download.html)
 
-## Interactive Learning
+### Interactive Learning
 
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-## Video
+### Video
 
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
 - [MATLAB Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 
-## Kuliah
+### Kuliah
 
-### 01-Pendahuluan Sistem Kendali
+#### 01-Pendahuluan Sistem Kendali
 
-#### Interactive Course for Control Theory
+##### Interactive Course for Control Theory
 
 - Akses situs [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - Buat akun ICCT, cek email untuk mendapatkan username dan password
@@ -69,32 +69,32 @@ draft: false
 - Anda dapat pula unduh atau screenshoot citranya.
 - Jika sudah cukup dan selesai, pilih menu <button>File</button> lalu <button>Close and Halt</button> untuk mematikan Jupyter Notebook. Biasakan untuk melakukan hal ini setiap kali selesai bekerja dengan Jupyter Notebook.
 
-### Pertemuan 2
+#### Pertemuan 2
 
-### Pertemuan 3
+#### Pertemuan 3
 
-### Pertemuan 4
+#### Pertemuan 4
 
-### Pertemuan 5
+#### Pertemuan 5
 
-### Pertemuan 6
+#### Pertemuan 6
 
-### Pertemuan 7
+#### Pertemuan 7
 
-### UTS
+#### UTS
 
-### Pertemuan 8
+#### Pertemuan 8
 
-### Pertemuan 9
+#### Pertemuan 9
 
-### Pertemuan 10
+#### Pertemuan 10
 
-### Pertemuan 11
+#### Pertemuan 11
 
-### Pertemuan 12
+#### Pertemuan 12
 
-### Pertemuan 13
+#### Pertemuan 13
 
-### Pertemuan 14
+#### Pertemuan 14
 
-### UAS
+#### UAS

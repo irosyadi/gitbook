@@ -6,7 +6,7 @@ date: 2022-10-11 08:35
 draft: false
 ---
 
-# VPN and Wireguard
+## VPN and Wireguard
 
 - [Tailscale · Best VPN Service for Secure Networks](https://tailscale.com/)
 - [Netmaker - Modern Virtual Networking](https://www.netmaker.org/)

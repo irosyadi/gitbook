@@ -6,9 +6,9 @@ date: 2020-06-16 16:11:58
 draft: false
 ---
 
-# PDF Tools
+## PDF Tools
 
-## Online
+### Online
 
 - [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
 - [Tools PDF24](https://tools.pdf24.org/en/)
@@ -16,7 +16,7 @@ draft: false
 - [Foxit PDF Tools](https://www.foxitsoftware.com/pdf-converter/)
 - [Free PDF sign, combine and merge tool, split or reorder pages of multiple documents. Sign the document](https://pdfwrench.com/)
 
-## WASM PDF Tools
+### WASM PDF Tools
 
 - [Easy to use free PDF tools online - pdfux](https://pdfux.com/) Feature: WASM PDF editor, file (merge, split, interweave, zip), page (extract, delete, reorder, reverse, rotate, number, add blank, resize, flip), text (comment)
 - [Merge PDF Files - PDF Tools, Local PDF Tools - Right in your Browser](https://localpdf.tech/): Merge, Compress, Extract, Watermark PDF
@@ -29,18 +29,18 @@ draft: false
 - [PDFTRon](https://www.pdftron.com/webviewer/demo/) : document manipulation
 - [https://kc0bfv.github.io/WASM-PDF-Combiner/](https://kc0bfv.github.io/WASM-PDF-Combiner/)
 
-## PDF Reader
+### PDF Reader
 
 - [Forest Web Based PDF Reader](https://forestreader.com/#)
 
-## Offline
+### Offline
 
 1. Inkscape
 2. Microsoft Word
 3. Libre Office
 4. Okular
 
-## PDF Table Extraction
+### PDF Table Extraction
 
 - [List and Comparison](https://github.com/camelot-dev/camelot/wiki/Comparison-with-other-PDF-Table-Extraction-libraries-and-tools#pdfplumber)
 - [Tabula: Extract Tables from PDFs](https://tabula.technology/)
@@ -57,12 +57,12 @@ draft: false
 - [Convert PDF to XLS with character recognition online & free](https://online2pdf.com/convert-pdf-to-xls-with-ocr)
 - [OCR Recognize Text in PDF Online](https://www.sejda.com/ocr-pdf)
 
-## Automatic Highlighting
+### Automatic Highlighting
 
 - [Ailight](https://anishthite.github.io/ailight/)
 - [Tuchu–Automatically highlight a document](https://tuchu.app/)
 
-## PDF Applications
+### PDF Applications
 
 - ByteScout PDF Multitool
     - Data Extraction
@@ -132,20 +132,20 @@ draft: false
 - Xournal++
 - MuPDF
 
-## PDF to Excel
+### PDF to Excel
 
 - [Excalibur: PDF Table Extraction for Humans—Excalibur 0.4.3 documentation](https://excalibur-py.readthedocs.io/en/master/)
 - [Tabula: Extract Tables from PDFs](https://tabula.technology/)
 
-## PDF Content Search
+### PDF Content Search
 
 - [rga](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/) : Rga: Ripgrep, but also search for PDFs, E-Books, Office documents, zip, tar.gz
 
-## PDF Addon
+### PDF Addon
 
 - [belinghy/PDFRefPreview: Preview citations and other internal links in PDFs on mouse hover in the browser.](https://github.com/belinghy/PDFRefPreview)
 
-## Look Scanned PDF
+### Look Scanned PDF
 
 - [Look Scanned](https://lookscanned.io/scan)
 - [Edouard Klein / falsisign · GitLab](https://gitlab.com/edouardklein/falsisign)
@@ -153,11 +153,11 @@ draft: false
 - [baicunko/scanyourpdf: Repository for the Scan Your Pdf community](https://github.com/baicunko/scanyourpdf)
 - [Make any PDF look like scanned!](https://www.scanyourpdf.com/)
 
-## PDF Tools
+### PDF Tools
 
 - [Apps for PDF Document Manipulation](https://products.fileformat.app/pdf/)
 
-## Diff PDF compare
+### Diff PDF compare
 
 By default, its only output is its return  
 code, which is 0 if there are no differences and 1 if the two PDFs differ. If  

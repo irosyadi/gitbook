@@ -6,9 +6,9 @@ date: 2022-10-17 07:53
 draft: false
 ---
 
-# Free Icons
-
 ## Free Icons
+
+### Free Icons
 
 - [Iconduck](https://iconduck.com/)
 - [sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)

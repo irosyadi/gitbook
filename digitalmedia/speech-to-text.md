@@ -6,14 +6,14 @@ date: 2022-05-05 19:41:00
 draft: false
 ---
 
-# Speech to Text Apps
+## Speech to Text Apps
 
 Related links:  
 🔗 [Speech to Text Apps](speech-to-text.md)  
 🔗 [Text to Speech Apps](text-to-speech.md)  
 🔗 [Speech to Speech (Fake Voice Generator)](speech-to-speech.md)  
 
-## Speech to Text
+### Speech to Text
 
 - [DeepSpeech](https://github.com/mozilla/DeepSpeech) : simpler although inferior
 - [Kaldi](https://kaldi-asr.org/) : STT supports hybrid NN-HMM and lattice-free MMI models. Kaldi is used by many people both in research and in production.
@@ -35,7 +35,7 @@ Related links:
     - <https://www.openslr.org/resources.php>
 - [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 
-## Speech to Text Indonesian Support
+### Speech to Text Indonesian Support
 
 - [Voice Notebook](https://voicenotebook.com/)
 - [Speech Texter](https://www.speechtexter.com/)
@@ -48,16 +48,15 @@ Related links:
 - [Google Docs Type for your Voice](https://support.google.com/docs/answer/4492226)
     - `Tools` and then `Voice typing`
 
-## Speech Recognition
+### Speech Recognition
 
 - [Wav2vec: Semi and Unsupervised Speech Recognition - Vaclav Kosar’s Blog](https://vaclavkosar.com/ml/Wav2vec2-Semi-and-Unsupervised-Speech-Recognition)
 - [The Illustrated Wav2vec - Jonathan Bgn](https://jonathanbgn.com/2021/06/29/illustrated-wav2vec.html)
 
-## Video Transcriber
+### Video Transcriber
 
 - [Transcribe File](https://freesubtitles.ai/)
 - [Edit Video Fast | Simon Says](https://www.simonsaysai.com/)
 - [Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround](https://scribie.com/)
 - [Transcription](https://www.read.ai/transcription)
 - [AssemblyAI | #1 API Platform for AI Models](https://www.assemblyai.com/)
-- 

@@ -6,9 +6,9 @@ date: 2020-12-14 15:19:51
 draft: false
 ---
 
-# Awesome Latex Learning
+## Awesome Latex Learning
 
-## Learn Latex
+### Learn Latex
 
 - [Learn Latex](https://www.overleaf.com/learn/latex/Learn_LaTeX_in_30_minutes)
 - [Latex Games](https://texnique.xyz/)

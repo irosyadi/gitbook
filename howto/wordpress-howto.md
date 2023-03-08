@@ -6,9 +6,9 @@ date: 2022-10-11 08:38
 draft: false
 ---
 
-# Wordpress Howto
+## Wordpress Howto
 
-## Wordpress
+### Wordpress
 
 - [Plugins categorized as product catalog - WordPress.org](https://wordpress.org/plugins/tags/product-catalog/)
 - [Ultimate Product Catalog–WordPress Catalog Plugin–WordPress plugin - WordPress.org](https://wordpress.org/plugins/ultimate-product-catalogue/)
@@ -20,7 +20,6 @@ draft: false
 - [How to Create a Product Catalog in WordPress (without a Shopping Cart)](https://www.wpbeginner.com/plugins/how-to-create-a-product-catalog-in-wordpress-without-a-shopping-cart/)
 - [5 Free WordPress Product Catalog Plugins (2020 Compared)](https://wpmultiverse.org/plugins/wordpress-product-catalog-plugins/)
 
-
-## Word Compressor
+### Word Compressor
 
 - [Convert Office Images](https://convert-office.pics/)

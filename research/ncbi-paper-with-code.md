@@ -6,11 +6,11 @@ date: 2020-06-17 20:07:45
 draft: false
 ---
 
-# NCBI Papers with Code
+## NCBI Papers with Code
 
 List of awesome NCBI Papers with Code Supplement.
 
-## CNN
+### CNN
 
 1. Dual CNN for Relation Extraction with Knowledge-Based Attention and Word Embeddings  
 Paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6664687/>  
@@ -58,7 +58,7 @@ Paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5655781/>
 Code: <https://github.com/robintibor/braindecode/>  
 Code: <https://github.com/TNTLFreiburg/braindecode>
 
-## Rice/Paddy Classification
+### Rice/Paddy Classification
 
 1. Classifying Oryza sativa accessions into Indica and Japonica using logistic regression model with phenotypic data  
 Paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6842562/>  
@@ -100,8 +100,7 @@ Code: <https://github.com/p2irc/deepplantphenomics>
 Paper: <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6375952/>  
 Code: <https://github.com/AlexOlsen/DeepWeeds>
 
-
-## Papers with Code
+### Papers with Code
 
 - [CVPR 2020 Papers with Code/Data](https://www.paperdigest.org/2020/06/cvpr-2020-papers-with-code-data/)
 - [ECCV 2020: Some Highlights](https://yassouali.github.io/ml-blog/eccv2020/)

@@ -6,9 +6,9 @@ date: 2020-10-11 21:15:53
 draft: false
 ---
 
-# NLP Models
+## NLP Models
 
-## List of Excellent NLP Pretrained Models
+### List of Excellent NLP Pretrained Models
 
 [List Pretrained Models NLP](https://www.analyticsvidhya.com/blog/2019/03/pretrained-models-get-started-nlp/):  
 
@@ -25,6 +25,6 @@ draft: false
     - StanfordNLP
 - [Reimplementation of NLP models in Jupyter](https://github.com/will-thompson-k/deeplearning-nlp-models)
 
-## NLP Course
+### NLP Course
 
 - [CS224n](https://web.stanford.edu/class/cs224n/index.html) : Natural Language Processing with Deep Learning

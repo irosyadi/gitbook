@@ -6,9 +6,9 @@ date: 2021-01-20 06:24:36
 draft: false
 ---
 
-# Interactive Code in Webpage
+## Interactive Code in Webpage
 
-## Iframe Approach
+### Iframe Approach
 
 - [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](https://pythontutor.com/)
 <iframe width="800" height="500" frameborder="0" src="http://pythontutor.com/iframe-embed.html#code=def%20listSum%28numbers%29%3A%0A%20%20if%20not%20numbers%3A%0A%20%20%20%20return%200%0A%20%20else%3A%0A%20%20%20%20%28f,%20rest%29%20%3D%20numbers%0A%20%20%20%20return%20f%20%2B%20listSum%28rest%29%0A%0AmyList%20%3D%20%281,%20%282,%20%283,%20None%29%29%29%0Atotal%20%3D%20listSum%28myList%29&codeDivHeight=400&codeDivWidth=350&cumulative=false&curInstr=0&heapPrimitives=nevernest&origin=opt-frontend.js&py=3&rawInputLstJSON=%5B%5D&textReferences=false"> </iframe>
@@ -18,14 +18,14 @@ draft: false
 
 - [Repl.it - The collaborative browser based IDE](https://repl.it/)
 
-## Link Approach
+### Link Approach
 
 - [codepad](http://codepad.org/)
 - [Online Compiler and IDE >> C/C++, Java, PHP, Python, Perl and 70+ other compilers and interpreters - Ideone.com](https://www.ideone.com/)
 - [CodeSkulptor3](https://py3.codeskulptor.org/)
 - [Iodide](https://alpha.iodide.io/) lets you do data science entirely in your browser, self-hosted
 
-## Script Approach
+### Script Approach
 
 - [brython-dev/brython: Brython (Browser Python) is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython)
 - [datacamp/datacamp-light: Convert any blog or website to an interactive learning platform for data science](https://github.com/datacamp/datacamp-light)

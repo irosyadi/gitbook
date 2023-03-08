@@ -6,14 +6,14 @@ date: 2021-02-26 13:01:49
 draft: false
 ---
 
-# Soft Sensor
+## Soft Sensor
 
-## What is Soft Sensors
+### What is Soft Sensors
 
 Soft-sensors: predictive models for sensor characteristic are called soft sensors  
 Soft-sensors: software+sensor
 
-## Soft-sensor Categories
+### Soft-sensor Categories
 
 - model-driven
     - First Principle Models (FPM)
@@ -24,7 +24,7 @@ Soft-sensors: software+sensor
     - Neuro-Fuzzy Systems
     - Support Vector Machines
 
-## Soft-sensor Application
+### Soft-sensor Application
 
 - on-line prediction
     - prediction of process variables which can be determined either at low sampling rates
@@ -36,7 +36,7 @@ Soft-sensors: software+sensor
 - process fault detection
     - detection of the state of the process
 
-## FPM
+### FPM
 
 - First Principle Models describe the physical and chemical background of the process.
 - These models are developed primarily for the planning and design of the processing plants, and therefore usually focus on the description of the ideal steady-states of the processes
@@ -51,13 +51,13 @@ The most commonly applied multivariate analysis tools are principal component an
 
 First-principle models may be the answer, using experimental data instead of statistical methods to estimate model parameters. They are not as quick and easy to build, but they have many advantages. In terms of simulation, first-principle models provide extrapolation in addition to the interpolation provided by data-driven models. But they also can be used for monitoring, control and optimization.
 
-## Soft-Sensor Modelling
+### Soft-Sensor Modelling
 
 - [vigorfif/Soft-Sensor-Modelling: Soft sensor modelling using multiple machine learning algorithms](https://github.com/vigorfif/Soft-Sensor-Modelling) Dataset: SRU from Fortuna, Model: NN-BP, LSTM, RNN
 - [hkaneko1985/adaptive_soft_sensors: Adaptive Soft Sensors](https://github.com/hkaneko1985/adaptive_soft_sensors) Dataset: Debutanizer from Fortuna, Model: MWPLSm MWSVR, JITPLS, JITSVR and LWPLS
     - [hkaneko1985/lwpls: Locally-Weighted Partial Least Squares (LWPLS)](https://github.com/hkaneko1985/lwpls) Dataset: Debutanizer from Fortuna, Model: LWPLS
 
-## Others
+### Others
 
 - [rogeredc/soft_sensor: soft_sensor_for_chemical_process](https://github.com/rogeredc/soft_sensor) LSTM
 - [alexalex222/Batch-Process-Soft-Sensor: Gaussian process regression algorithms for nonlinear system state prediciton](https://github.com/alexalex222/Batch-Process-Soft-Sensor) Matlab, Model: GPR, NN, SVR
@@ -65,16 +65,16 @@ First-principle models may be the answer, using experimental data instead of sta
 - [chahat99/Soft-Sensor-with-ANN: Soft sensor using Artificial Neural Networks](https://github.com/chahat99/Soft-Sensor-with-ANN) Matlab, NN
 - [aysunrhn/Adaptive-Soft-Sensor-Design at 4a1d72787e3d08ccb93af11ca24cfda76a9d0f96](https://github.com/aysunrhn/Adaptive-Soft-Sensor-Design/tree/4a1d72787e3d08ccb93af11ca24cfda76a9d0f96) Matlab
 
-## Dataset
+### Dataset
 
 - [Rui Araújo–Datasets](https://home.isr.uc.pt/~rui/publications/datasets.html)
 - [585 UCI Datasets](https://archive.ics.uci.edu/ml/datasets.php)
 
-## Reference
+### Reference
 
 - [Soft Sensor Modeling Method by Maximizing Output-Related Variable Characteristics Based on a Stacked Autoencoder and Maximal Information Coefficients - Atlantis Press](https://www.atlantis-press.com/journals/ijcis/125917186/view)
 - [Soft sensing of product quality in the debutanizer column with principal component analysis and feed-forward artificial neural network - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1110016816000697)
 
-## Ebook
+### Ebook
 
 - [curiousily/Deep-Learning-For-Hackers: Machine Learning tutorials with TensorFlow 2 and Keras in Python (Jupyter notebooks included) - (LSTMs, Hyperameter tuning, Data preprocessing, Bias-variance tradeoff, Anomaly Detection, Autoencoders, Time Series Forecasting, Object Detection, Sentiment Analysis, Intent Recognition with BERT)](https://github.com/curiousily/Deep-Learning-For-Hackers)

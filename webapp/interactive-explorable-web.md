@@ -6,7 +6,7 @@ date: 2020-06-29 19:58:21
 draft: false
 ---
 
-# Awesome List of Interactive and Explorable Webs
+## Awesome List of Interactive and Explorable Webs
 
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
@@ -14,7 +14,7 @@ Related links:
 🔗 [Awesome List of Interactive and Explorable Webs](interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
-## Interactive Website
+### Interactive Website
 
 - [NCase](https://ncase.me/)
   - [Loopy Tool](https://ncase.me/loopy/)
@@ -44,7 +44,7 @@ Related links:
 - [Hexagonal Grids](https://www.redblobgames.com/grids/hexagons/)
 - [Gnod - The Global Network Of Discovery](https://www.gnod.com/)
 
-## Interactive Web
+### Interactive Web
 
 - [LabML Neural Networks](https://nn.labml.ai/)
 - [Siliconpr0n](https://siliconpr0n.org/)
@@ -61,19 +61,19 @@ Related links:
 - [Tungsteno - Online Mathematics for Everybody](https://www.tungsteno.io/)
 - [Interactive Mathematics - Learn math while you play with it!](https://www.intmath.com/)
 
-## Interactive
+### Interactive
 
 - [Neave Interactive](https://neave.com/)
 - [Neal.fun](https://neal.fun/)
 - [NEAL.ART](https://neal.art/)
 
-## Markup
+### Markup
 
 - [Idyll - A markup language for interactive and data-driven blogging.](https://idyll-lang.org/) : Make interactive web with just markup language (combined with markdown)
     - [Idyll Documentation - An overview.](https://idyll-lang.org/docs)
     - [Announcing idyll.pub](https://idyll.pub/post/announcing-idyll-pub-0a3eff0661df3446a915700d/)
 
-## Interactive
+### Interactive
 
 - [Interactive Mathematics - Learn math while you play with it!](https://www.intmath.com/)
 - [Up and Down the Ladder of Abstraction](http://worrydream.com/LadderOfAbstraction/)
@@ -82,12 +82,12 @@ Related links:
 - [rossant/awesome-math: A curated list of awesome mathematics resources](https://github.com/rossant/awesome-math)
 - [fastai/numerical-linear-algebra: Free online textbook of Jupyter notebooks for fast.ai Computational Linear Algebra course](https://github.com/fastai/numerical-linear-algebra)
 
-## Interactive Web
+### Interactive Web
 
 - [It's Nicky Case!](https://ncase.me/) License: CC0
     - [explorableexplanations/explorableexplanations.github.io: The Explorable Explanations Website](https://github.com/explorableexplanations/explorableexplanations.github.io#explorable-explanations)
 - [Explorables](https://www.reddit.com/r/explorables/)
 
-## Interactive Tools
+### Interactive Tools
 
 - [Moos.app - Design tool for interactive content](https://moos.app/)

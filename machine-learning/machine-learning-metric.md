@@ -6,9 +6,9 @@ date: 2020-12-15 14:08:52
 draft: false
 ---
 
-# Machine Learning Metrics
+## Machine Learning Metrics
 
-## Accuracy and Loss
+### Accuracy and Loss
 
 - Loss (not in %) can be seen as a distance between the true values of the problem and the values predicted by the model. Greater the loss is, more huge is the errors you made on the data.
 - Loss is often used in the training process to find the "best" parameter values for your model (e.g. weights in neural network). It is what you try to optimize in the training by updating weights.
@@ -19,7 +19,7 @@ draft: false
     - a low accuracy but low loss means you made little errors on a lot of data
     - a great accuracy with low loss means you made low errors on a few data (best case)
 
-## Prediction
+### Prediction
 
 - Condition Positive (P) : the number of real positive cases in the data
 - Condition Negative (N) : the number of real negative cases in the data
@@ -34,13 +34,13 @@ draft: false
 
 ![TP TN FP FN](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Precisionrecall.svg/350px-Precisionrecall.svg.png)
 
-## Accuracy
+### Accuracy
 
 - Accuracy (ACC) = (Σ True positive + Σ True negative)/Σ Total population
 - Accuracy = (TP + TN)/(TP + TN + FP + FN)
 - Accuracy is sensitive to class imbalance
 
-## Precision or Positive Predictive Value (PPV)
+### Precision or Positive Predictive Value (PPV)
 
 - Precision measures how accurate is the predictions.
 - Precision is the percentage of the predictions are correct.
@@ -50,7 +50,7 @@ draft: false
 - Precision = Σ True positive/Σ Predicted condition positive  
 ![Precision](https://miro.medium.com/max/159/1*jiqAWT_Yzi_1LRD74dz-9Q.png)
 
-## Recall or Sensitivity or True Positive Rate or Probablity of Detection
+### Recall or Sensitivity or True Positive Rate or Probablity of Detection
 
 - Recall measures how good the algorithm find all the positives.
 - Recall measures the "false negative rate" or the ratio of true object detections to the total number of objects in the data set.
@@ -59,7 +59,7 @@ draft: false
 - Recall = Σ True positive/Σ Condition positive  
 ![Recall](https://miro.medium.com/max/185/1*ikwX1H72KPj1fUBppUWrpA.png)
 
-## F1 Score
+### F1 Score
 
 - Harmonic mean of Precision and Recall
 - Because it is difficult to compare two models with low precision and high recall or vice versa.
@@ -67,13 +67,13 @@ draft: false
 - F1 score = 2 · (Precision · Recall)/(Precision + Recall)  
 ![Precision-Recall-F1 Formula](https://miro.medium.com/max/534/1*EXa-_699fntpUoRjZeqAFQ.jpeg)
 
-## Matthews Correlation Coefficient (MCC) or Phi Coefficient
+### Matthews Correlation Coefficient (MCC) or Phi Coefficient
 
 - MCC is used in machine learning as a measure of the quality of binary (two-class) classifications
 - MCC takes into account all four values in the confusion matrix, and a high value (close to 1) means that both classes are predicted well, even if one class is disproportionately under- (or over-) represented.  
 ![MCC](https://miro.medium.com/max/1221/1*8E2rPn_ccOqGuPYj1gBTAg.png)
 
-## Intersection over Union (IoU)
+### Intersection over Union (IoU)
 
 - IoU is used for detection algorithm
 - The IoU is given by the ratio of the area of intersection and area of union of the predicted bounding box and ground truth bounding box.
@@ -91,7 +91,7 @@ Note:
 - [Mean Average Precision (mAP) Explained - Paperspace Blog](https://blog.paperspace.com/mean-average-precision/)
 - [mAP (mean Average Precision) might confuse you! - by Shivy Yohanandan - Towards Data Science](https://towardsdatascience.com/map-mean-average-precision-might-confuse-you-5956f1bfa9e2)
 
-## Reference
+### Reference
 
 - [Precision and Recall](https://en.wikipedia.org/wiki/Precision_and_recall)
 - [Metrics for Object Detection and Segmentation](https://kharshit.github.io/blog/2019/09/20/evaluation-metrics-for-object-detection-and-segmentation)
@@ -106,14 +106,14 @@ Note:
 - [Data Science in Medicine—Precision & Recall or Specificity & Sensitivity? - by Alon Lekhtman - Towards Data Science](https://towardsdatascience.com/should-i-look-at-precision-recall-or-specificity-sensitivity-3946158aace1)
 - [When Accuracy Isn’t Enough, Use Precision and Recall to Evaluate Classification Models - Built In](https://builtin.com/data-science/precision-and-recall)
 
-## Multiclass Metrics
+### Multiclass Metrics
 
 - [Multi-Class Metrics Made Simple, Part I: Precision and Recall - by Boaz Shmueli - Towards Data Science](https://towardsdatascience.com/multi-class-metrics-made-simple-part-i-precision-and-recall-9250280bddc2)
 - [Beyond Accuracy: Precision and Recall - by Will Koehrsen - Towards Data Science](https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c)
 - [How to Calculate Precision, Recall, and F-Measure for Imbalanced Classification](https://machinelearningmastery.com/precision-recall-and-f-measure-for-imbalanced-classification/)
 - [Metrics to Evaluate your Machine Learning Algorithm - by Aditya Mishra - Towards Data Science](https://towardsdatascience.com/metrics-to-evaluate-your-machine-learning-algorithm-f10ba6e38234)
 
-## Accuracy, Precision, Error
+### Accuracy, Precision, Error
 
 - Accuracy is closeness of the measurements to a specific value
   - More commonly, it is a description of systematic errors, a measure of statistical bias; low accuracy causes a difference between a result and a "true" value. ISO calls this trueness.
@@ -135,7 +135,7 @@ Learn more:
 
 1. [POCD](https://blog.pocd.com.au/scientific/understanding-precision-accuracy-and-basic-statistics/)
 
-## Machine Learning Overfitting Handling
+### Machine Learning Overfitting Handling
 
 - [Handling overfitting in deep learning models - by Bert Carremans - Towards Data Science](https://towardsdatascience.com/handling-overfitting-in-deep-learning-models-c760ee047c6e)
 - [Overfitting in Machine Learning: What It Is and How to Prevent It](https://elitedatascience.com/overfitting-in-machine-learning)

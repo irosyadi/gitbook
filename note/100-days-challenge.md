@@ -6,7 +6,7 @@ date: 2020-06-28 20:08:44
 draft: false
 ---
 
-# 100 Days Challenge
+## 100 Days Challenge
 
 100 days challenge is a project to enhance programming capability by set the training in 100 days timeline.
 

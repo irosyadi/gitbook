@@ -1,12 +1,12 @@
 ---
 aliases: [Arduino Graph Plotter Apps]
 title: Arduino Graph Plotter Apps
-tags: ["tag1", "tag2"]
+tags: ["arduino"]
 date: 2022-10-27 04:51
 draft: false
 ---
 
-# Arduino Graph Plotter Apps
+## Arduino Graph Plotter Apps
 
 - [MegunoLink Pro | The swiss army knife for Arduino](https://www.megunolink.com/) paid
 - [MakerPlot - Home](http://www.makerplot.com/) paid
@@ -18,7 +18,7 @@ draft: false
 - [hyOzd/serialplot: Small and simple software for plotting data from serial port in realtime.](https://github.com/hyOzd/serialplot)
 - [Tyill/SVisual: Monitoring and record(save) of data for Arduino and STM32](https://github.com/Tyill/SVisual)
 
-## Software Interfacing Arduino
+### Software Interfacing Arduino
 
 - [Azande](https://zeijlonsystems.se/products/azande/)
 - [Jubito](http://jubito.org/index.html)
@@ -31,9 +31,9 @@ draft: false
 - [yoelk/instrumentino: Instrumentino is an open-source modular graphical user interface framework for controlling Arduino based experimental instruments](https://github.com/yoelk/instrumentino) halted
 - [Electric UI](https://electricui.com/features)
 
-## Discussion
+### Discussion
 
 - [Serial data plotting programs - Arduino Stack Exchange](https://arduino.stackexchange.com/questions/1180/serial-data-plotting-programs)
 - [Arduino Playground - InterfacingWithSoftware](https://playground.arduino.cc/Main/InterfacingWithSoftware/)
 
-[[arduino-terminal]]
+[arduino-terminal](arduino-terminal.md)

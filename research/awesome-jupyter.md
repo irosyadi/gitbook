@@ -6,7 +6,7 @@ date: 2020-07-10 20:28:02
 draft: false
 ---
 
-# Awesome Jupyter Notebooks
+## Awesome Jupyter Notebooks
 
 Related links:  
 🔗 [note/Awesome Jupyter Notebooks](/note/awesome-jupyter)  
@@ -16,7 +16,7 @@ Related links:
 
 Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a set of [bookmarklets and extensions](https://github.com/jiffyclub/open-in-nbviewer) to make it a one-click affair to load a Notebook URL into your browser of choice, directly opening into nbviewer.
 
-## Table of Contents
+### Table of Contents
 
 1. [Entire books or other large collections of notebooks on a topic](#entire-books-or-other-large-collections-of-notebooks-on-a-topic)
 
@@ -64,9 +64,9 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 11. [Accessing an IBM quantum computer via notebooks](#accessing-an-ibm-quantum-computer-via-notebooks)
 12. [Software Architecture](#software-architecture)
 
-## Entire books or other large collections of notebooks on a topic
+### Entire books or other large collections of notebooks on a topic
 
-### Introductory Tutorials
+#### Introductory Tutorials
 
 * First things first, how to [run code in the notebook](https://nbviewer.jupyter.org/github/jupyter/notebook/blob/master/docs/source/examples/Notebook/Running%20Code.ipynb). There is also a general [collection of notebooks](https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Index.ipynb) from IPython. Another useful one from this collection is an explanation of our [rich display system](https://nbviewer.jupyter.org/github/ipython/ipython/blob/master/examples/IPython%20Kernel/Custom%20Display%20Logic.ipynb).
 * A [great matplotlib tutorial](https://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/blob/master/Lecture-4-Matplotlib.ipynb), part of the fantastic [Lectures on Scientific Computing with Python](https://nbviewer.ipython.org/github/jrjohansson/scientific-python-lectures/tree/master) by [J.R. Johansson](https://github.com/jrjohansson).
@@ -74,7 +74,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 * [Python Tutorial](https://github.com/rajathkmp/Python-Lectures) by [Rajath Kumar M P](https://github.com/rajathkmp/)
 * [Growing Neat Software Architecture from Jupyter Notebooks](https://www.youtube.com/watch?v=K4QN27IKr0g), a primer by [Guillaume Chevalier](https://github.com/guillaume-chevalier) on how to build clean software using notebooks.
 
-### Programming and Computer Science
+#### Programming and Computer Science
 
 * [Automata and Computability using Jupyter](https://nbviewer.jupyter.org/github/ganeshutah/Jove/blob/master/notebooks/driver/Drive_Jove_Gallery_Examples.ipynb), an entire course, based on forthcoming book published by Taylor and Francis; book title: "Automata and Computability: Programmer's Perspective", by Ganesh Gopalakrishnan, Professor, School of Computing, University of Utah, Salt Lake City. [in English, has Youtube videos]
 * [Introduction to Programming (using Python)](https://nbviewer.ipython.org/github/ehmatthes/intro_programming/blob/master/notebooks/index.ipynb), an entire introductory Python course written by [Eric Matthes](https://peak5390.wordpress.com/about). [This post](https://peak5390.wordpress.com/2013/09/22/how-ipython-notebook-and-github-have-changed-the-way-i-teach-python/) explains the educational context in an Alaskan high school where Eric is a teacher.
@@ -87,7 +87,7 @@ Note that [Matt Davis](https://github.com/jiffyclub) has conveniently written a 
 * [Jupyter notebook activities for Part IA of the computing course (Michaelmas Term) in the Engineering Tripos at University of Cambridge](https://notebooks.azure.com/library/CUED-IA-Computing-Michaelmas), by [Garth Wells](https://www3.eng.cam.ac.uk/~gnw20/).
 * [Introduction to Python for Computational Science and Engineering](https://github.com/fangohr/introduction-to-python-for-computational-science-and-engineering/blob/master/Readme.md) ([Hans Fangohr](https://fangohr.github.io)): Textbook for beginners, broken into one Jupyter Notebook per chapter. Can be [executed and interacted with online](https://mybinder.org/v2/gh/fangohr/introduction-to-python-for-computational-science-and-engineering/master?filepath=index.ipynb) using Binder.
 
-### Statistics, Machine Learning, and Data Science
+#### Statistics, Machine Learning, and Data Science
 
 * [Predicting PewDiePie's daily subscribers using Linear Regression](https://github.com/Tanu-N-Prabhu/Python/blob/master/Predicting_PewDiePie's_daily_subscribers_using_Machine_Learning_.ipynb), a notebook which explains the implementation of Linear Regression from scratch, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
 * [Top P-thon Libraries Used In Data Science](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Top_Python_Libraries_Used_In_Data%C2%A0Science.ipynb), this notebook explain the important library used in data science, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95).
@@ -141,7 +141,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 * A Coding Kata using Notebooks in Google Colab: Achieve [Clean Machine Learning From Dirty Code](https://github.com/Neuraxio/Kata-Clean-Machine-Learning-From-Dirty-Code).
 * [Interactive Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments) - collection of notebooks that use convolutional neural networks (CNNs), recurrent neural networks (RNNs) and multilayer perceptrons (MLPs) to solve basic machine learning tasks like objects detection and classification, sequence-to-sequence predictions etc.
 
-### Mathematics, Physics, Chemistry, Biology
+#### Mathematics, Physics, Chemistry, Biology
 
 * A [single-atom laser model](https://nbviewer.ipython.org/github/jrjohansson/qutip-lectures/blob/master/Lecture-2B-Single-Atom-Lasing.ipynb). This is one of a complete set of [lectures on quantum mechanics and quantum optics using QuTiP](https://nbviewer.ipython.org/github/jrjohansson/qutip-lectures) by [J.R. Johansson](https://github.com/jrjohansson).
 * [2-d rigid-body transformations](https://nbviewer.ipython.org/github/demotu/BMC/blob/master/notebooks/Transformation2D.ipynb). This is part of [Scientific Computing in Biomechanics and Motor Control](https://github.com/demotu/BMC), a complete collection of notebooks by [Marcos Duarte](https://github.com/demotu).
@@ -165,7 +165,7 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 * [Materials Science in Python using pymatgen](https://matgenb.materialsvirtuallab.org/). A series of python notebooks using the [pymatgen](https://pymatgen.org/) package and [materials project](https://materialsproject.org) API for materials science.
 * [Applied Elasticity](https://github.com/jeevanjyoti4/elasticity): A collection of notebooks used to determine solutions to some classical 2D elasticity problems. These were mostly live coded during class hours by [Jeevanjyoti Chakraborty](https://www.facweb.iitkgp.ac.in/~jeevanjyoti) as part of the course "Applied Elasticity" in the Mechanical Engineering Department of the [Indian Institute of Technology Kharagpur](https://www.iitkgp.ac.in/).
 
-### Earth Science and Geo-Spatial data
+#### Earth Science and Geo-Spatial data
 
 * [EarthPy](https://earthpy.org), a collection of IPython notebooks with a focus on Earth Sciences, from [whale tracks](https://earthpy.org/analyzing-whale-tracks.html) to the [flow of the Amazon](https://earthpy.org/earthpy-basemap-amazon.html).
 * [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences), a tutorial series aimed at the Earth Sciences community, by [Nikolay Koldunov](https://earthpy.org/author/nikolay-koldunov.html).
@@ -177,20 +177,20 @@ by [Leif Rune Hellevik](https://github.com/lrhgit), Vinzenz Eck and Jacob T. Stu
 * [seismo-live](https://seismo-live.org/) is a collection of live Jupyter notebooks for seismology. It includes a fairly large number of notebooks on how to solve the acoustic and elastic wave equation with various different numerical methods. Additionally it contains notebooks with an extensive introduction to data handling and signal processing in seismology, and notebooks tackling ambient seismic noise, rotational and glacial seismology, and more.
 * [Geo-Python](https://geo-python.github.io/) is an introduction to programming in Python for Bachelors and Masters students in geo-fields (geology, geophysics, geography) taught by members of the [Department of Geosciences and Geography at University of Helsinki, Finland](https://www.helsinki.fi/en/faculty-of-science/faculty/geosciences-and-geography). Course lessons and exercises are based on Jupyter notebooks and open for use by any interested person.
 
-### Linguistics and Text Mining
+#### Linguistics and Text Mining
 
 * [Workshop on text analysis](https://nbviewer.ipython.org/github/nealcaren/workshop_2014/tree/master/notebooks/) by [Neal Caren](https://nealcaren.web.unc.edu).
 * [Detecting Algorithmically Generated Domains](https://nbviewer.ipython.org/github/ClickSecurity/data_hacking/blob/master/dga_detection/DGA_Domain_Detection.ipynb), part of the [Data Hacking](https://clicksecurity.github.io/data_hacking) collection on security-oriented data analysis with IPython & friends.
 * [Mining the Social Web (3rd Edition)](https://github.com/mikhailklassen/Mining-the-Social-Web-3rd-Edition). A complete collection of notebooks accompanying [Matthew Russell and Mikhail Klassen's book](https://shop.oreilly.com/product/0636920056751.do) by O'Reilly.
 
-### Engineering Education
+#### Engineering Education
 
 * [Introduction to Chemical Engineering Analysis](https://jckantor.github.io/CBE20255/) by [Jeff Kantor](https://jckantor.github.io/). A collection of IPython notebooks illustrating topics in introductory chemical engineering analysis, including stoichiometry, generation-consumption analysis, mass and energy balances.
 * [Sensors and Actuators](https://github.com/agmarrugo/sensors-actuators) by [Andres Marrugo](https://andresmarrugo.net). A collection of Jupyter notebooks in the form of lecture notes and engineering calculations for the course IMTR 1713 Sensors and Actuators taught at the [Universidad Tecnológica de Bolívar](https://www.unitecnologica.edu.co/).
 
-## Scientific computing and data analysis with the SciPy Stack
+### Scientific computing and data analysis with the SciPy Stack
 
-### General topics in scientific computing
+#### General topics in scientific computing
 
 * [Algorithms in IPython notebooks](https://github.com/rasbt/algorithms_in_ipython_notebooks), by [Sebastian Raschka](https://github.com/rasbt)
 * [Comparing the performance of Python compilers - Cython vs. Numba vs. Parakeet](https://nbviewer.jupyter.org/github/rasbt/One-Python-benchmark-per-day/blob/master/ipython_nbs/day4_2_cython_numba_parakeet.ipynb), by [Sebastian Raschka](https://github.com/rasbt)
@@ -215,7 +215,7 @@ Joe McCarthy](<https://interrelativity.com/joe).>
 * [A tutorial on Map-Reduce programming with Apache Spark and Python](https://nbviewer.jupyter.org/github/phelps-sg/python-bigdata/blob/master/src/main/ipynb/spark-mapreduce.ipynb) by [Steve Phelps](https://sphelps.net).
 * [CodeCombat gridmancer solver](https://nbviewer.jupyter.org/github/Arn-O/py-gridmancer/blob/master/gridmancer.ipynb) by [Arn-O](https://github.com/Arn-O). This notebook explains how to improve a recursive tree search with an heuristic function and to find the minimum solution to the gridmancer.
 
-### Social data
+#### Social data
 
 * [Survival Analysis](https://nbviewer.ipython.org/github/CamDavidsonPilon/lifelines/blob/master/docs/Survival%20Analysis%20intro.ipynb), an illustration of the [lifelines library](https://github.com/CamDavidsonPilon/lifelines), by [Cam Davidson Pilon](https://github.com/CamDavidsonPilon).
 * A reconstruction of [Nate Silver's 538 model for the 2012 US Presidential Election](https://nbviewer.ipython.org/github/jseabold/538model/blob/master/silver_model.ipynb), by Skipper Seabold (complete [repo](https://github.com/jseabold/538model)).
@@ -241,7 +241,7 @@ Joe McCarthy](<https://interrelativity.com/joe).>
 * [Geographic Data Science](https://darribas.org/gds17/) is an entire course by [Dani Arribas-Bel](https://darribas.org) to learn to access, munge, and analyse spatial data on social phenomena.
 * [Analysis and visualization of a public OKCupid profile dataset using Python and Pandas](https://nbviewer.jupyter.org/github/lalelale/profiles_analysis/blob/master/profiles.ipynb) by [Alessandro Giusti](https://www.idsia.ch/~giusti) includes many colorful data visualizations.
 
-### Psychology and Neuroscience
+#### Psychology and Neuroscience
 
 * [Cue Combination with Neural Populations](https://nbviewer.ipython.org/github/wtadler/cue-combination-with-neurons/blob/master/neural_cue_combination.ipynb) by [Will Adler](https://www.wtadler.com). Intuition and simulation for the theory (Ma _et al._, 2006) that through probabilistic population codes, neurons can perform optimal cue combination with simple linear operations. Demonstrates that variance in cortical activity, rather than impairing sensory systems, is an adaptive mechanism to encode uncertainty in sensory measurements.
 * [Modeling psychophysical data with non-linear functions](https://nbviewer.ipython.org/github/arokem/teach_optimization/blob/master/optimization.ipynb) by Ariel Rokem.
@@ -249,7 +249,7 @@ Joe McCarthy](<https://interrelativity.com/joe).>
 * [Python for Vision Research](https://nbviewer.ipython.org/github/gestaltrevision/python_for_visres/blob/master/index.ipynb). A three-day crash course for vision researchers in programming with Python, building experiments with [PsychoPy](https://psychopy.org/) and [psychopy_ext](https://psychopy_ext.klab.lt/), learning the fMRI multi-voxel pattern analysis with [PyMVPA](https://www.pymvpa.org/), and understading image processing in Python.
 * [Loading and visualizing fMRI data](https://nbviewer.ipython.org/github/GaelVaroquaux/nilearn_course/blob/master/rendered_notebooks/1_Introduction.ipynb), part of the [Functional connectivity with NiLearn course](https://github.com/GaelVaroquaux/nilearn_course) by [Gaël Varoquaux](https://gael-varoquaux.info).
 
-### Machine Learning, Statistics and Probability
+#### Machine Learning, Statistics and Probability
 
 * [A tutorial introduction to machine learning with sklearn](https://amueller.github.com/sklearn_tutorial), an IPython-based slide deck by [Andreas Mueller](https://github.com/amueller).
 * [Introduction to Machine Learning in Python with scikit-learn](https://ipython-books.github.io/featured-04/) by [Cyrille Rossant](https://cyrille.rossant.net/), a free recipe from the [IPython Cookbook](https://ipython-books.github.io/cookbook/), a comprehensive guide to Python for Data Science.
@@ -265,7 +265,7 @@ Joe McCarthy](<https://interrelativity.com/joe).>
 * [How Likely Would You Give A Five-Star Review on Yelp? -- Getting Your Hands Dirty with scikit-learn](https://nbviewer.jupyter.org/github/xun-tang/pyladies_jupyter_demo/blob/master/Predict_Review_Five_Star_Rating.ipynb), by [Xun Tang](https://www.linkedin.com/in/xuntang). Complimentary [slides](https://docs.google.com/presentation/d/1bfrXePztSa-yTP8n_qTdd9zazNS_tyJs1mG3fYItznI/edit).  
 * [Geodemographic Segmentation Model](https://nbviewer.jupyter.org/github/filipacsr/DataScience/blob/master/GeodemographicSegmentationModel.ipynb), by [Filipa Rodrigues](https://www.linkedin.com/in/filipacrodrigues/)
 
-### Physics, Chemistry and Biology
+#### Physics, Chemistry and Biology
 
 * [Writing A Genome Assembler with blasr and (I)Python](https://nbviewer.jupyter.org/github/cschin/Write_A_Genome_Assembler_With_IPython/blob/master/Write_An_Assembler.ipynb), by [Jason Chin](Jason Chin).
 * [Multibody dynamics and control with Python](https://www.moorepants.info/blog/npendulum.html) and the [notebook file](https://nbviewer.ipython.org/github/gilbertgede/idetc-2013-paper/blob/master/n-pendulum-control.ipynb) by Jason K. Moore.
@@ -275,18 +275,18 @@ Joe McCarthy](<https://interrelativity.com/joe).>
 * [A Reaction-Diffusion Equation Solver in Python with Numpy](https://nbviewer.ipython.org/github/waltherg/notebooks/blob/master/2013-12-03-Crank_Nicolson.ipynb), a demonstration of how IPython notebooks can be used to discuss both the theory and implementation of numerical algorithms on one page, by [Georg Walther](https://github.com/waltherg).
 * [Comparing different approaches to evolutionary simulations](https://nbviewer.ipython.org/url/www.slideviper.oquanta.info/test/simulation%20frameworks.ipynb). Also available [here](https://slideviewer.herokuapp.com/urls/github.com/yoavram/ipython-notebooks/raw/master/simulation%20frameworks.ipynb) to better visualization. The notebook was converted to a HTML presentation using an old nbconvert with the first developing implementation of `reveal` converter. By Yoav Ram.
 
-### Economics and Finance
+#### Economics and Finance
 
 * [Replication of the highly-contentious analysis of economic growth by Reinhart and Rogoff](https://nbviewer.ipython.org/github/vincentarelbundock/Reinhart-Rogoff/blob/master/reinhart-rogoff.ipynb), by [Vincent Arel-Bundock](https://umich.edu/~varel), [full repo here](https://github.com/vincentarelbundock/Reinhart-Rogoff). This is based on the [widely-publicized critique of the original analysis done by Herndon, Ash, and Pollin](https://www.peri.umass.edu/236/hash/31e2ff374b6377b2ddec04deaa6388b1/publication/566).
 * [fecon235 for Financial Economics](https://github.com/rsvp/fecon235) series of notebooks which examines time-series data for economics and finance. Easy API to freely access data from the Federal Reserve, SEC, CFTC, stock and futures exchanges. Thus research from older notebooks can be replicated, and updated using the most current data. For example, this notebook forecasts likely Fed policy for setting the [Fed Funds rate](https://git.io/fedfunds), but market sentiment across major asset classes is observable from the [CFTC Commitment of Traders Report](https://git.io/cotr). Major economics indicators are renormalized: for example, various measures of [inflation](https://git.io/infl), optionally with the forward-looking break-even rates derived from U.S. Treasury bonds. Other notebooks examine international markets: especially, gold and foreign exchange.
 * [Fixed Income: A Structured Bond- Interactive scenarios](https://nbviewer.jupyter.org/github/MatsGustavsson/finance-jupyter/blob/2b5c1458b0e9b9c299fe25590566814e92287a1c/SequentialStructure.ipynb), Sequential repayment of a bond using interactive widgets and Python in Jupyter, by [Mats Gustavsson](https://github.com/MatsGustavsson).
 
-### Earth science and geo-spatial data
+#### Earth science and geo-spatial data
 
 * [Exploring seafloor habitats: geographic analysis using IPython Notebook with GRASS & R](https://nbviewer.ipython.org/gist/7598354). This embeds a slideshow and a Web Spinning Globe (Cesium) in the notebook. By Massimo Di Stefano.
 * [Geo-Spatial Data with IPython](https://nbviewer.ipython.org/github/mqlaql/geospatial-data/blob/master/Geospatial-Data-with-Python.ipynb). Tutorial by [Kelsey Jordahl](https://kjordahl.net/) from SciPy2013.
 
-### Data visualization and plotting
+#### Data visualization and plotting
 
 * [Plotting pitfalls](https://anaconda.org/jbednar/plotting_pitfalls/notebook): common problems when plotting large datasets, and how to avoid them. By James A. Bednar.
 * [US Census data](https://anaconda.org/jbednar/census/notebook) and [NYC Taxi data](https://anaconda.org/jbednar/nyc_taxi/notebook) visualized using [datashader](https://github.com/bokeh/datashader).
@@ -305,7 +305,7 @@ prettyplotlib, Stack Overflow, and seaborn](<https://nbviewer.ipython.org/gist/m
 * [Clustergrammer Interactive Heatmap and DataFrame Viewer](https://nbviewer.jupyter.org/github/MaayanLab/clustergrammer-widget/blob/master/Running_clustergrammer_widget.ipynb) This Python notebook shows a simple example of how to visualize a matrix file and Pandas DataFrame as an interactive heatmap (built using D3.js) using the Jupyter Widget [Clustergrammer](https://clustergrammer.readthedocs.io/clustergrammer_widget.html) (see [paper](https://www.nature.com/articles/sdata2017151)).
 * [The Jupyter Widget Ecosystem - SciPy 2019 Tutorial on ipywidgets](https://github.com/jupyter-widgets/tutorial) - a collection of 40 notebooks.
 
-### Mathematics
+#### Mathematics
 
 * [Linear algebra with Cython](https://nbviewer.ipython.org/github/carljv/cython_testing/blob/master/cython_linalg.ipynb). A tutorial that styles the notebook differently to show that you can produce high-quality typography online with the Notebook. By Carl Vogel.
 * [Exploring how smooth-looking functions can have very surprising derivatives even at low orders](https://nbviewer.ipython.org/url/finiterank.com/cuadernos/suavesylocas.ipynb), combining SymPy and matplotlib. By [Javier Moreno](https://finiterank.com).
@@ -318,7 +318,7 @@ prettyplotlib, Stack Overflow, and seaborn](<https://nbviewer.ipython.org/gist/m
 * [A SymPy tutorial](https://nbviewer.ipython.org/url/www.inp.nsk.su/~grozin/python/sympy.ipynb), by [Andrey Grozin](https://www.inp.nsk.su/~grozin/).
 * [Introduction to Mathematics with Python](https://github.com/drvinceknight/Python-Mathematics-Handbook), a collection of notebooks aimed at Mathematicians with no/little Python knowledge. Notebooks can be selected to serve as resources for a workshop. By [Vince Knight](https://github.com/drvinceknight).
 
-### Signal and Sound Processing
+#### Signal and Sound Processing
 
 * [Simulation of Delta Sigma modulators in Python](https://nbviewer.ipython.org/github/ggventurini/python-deltasigma/blob/master/examples/dsdemo1.ipynb) with [deltasigma](https://github.com/ggventurini/python-deltasigma), Python port of of Richard Schreier's _excellent_ [MATLAB Delta Sigma Toolbox](https://www.mathworks.com/matlabcentral/fileexchange/19-delta-sigma-toolbox), by [Giuseppe Venturini](https://github.com/ggventurini). Several demonstrative notebooks on the package [README](https://github.com/ggventurini/python-deltasigma/blob/master/README.md).
 * [PyOracle: Automatic analysis of musical structure](https://github.com/surgesg/PyOracle/blob/master/270D.ipynb), by [Greg Surges](https://www.linkedin.com/in/gregsurges).
@@ -328,9 +328,7 @@ prettyplotlib, Stack Overflow, and seaborn](<https://nbviewer.ipython.org/gist/m
 * [Poisson Image Editing - Seamless Cloning](https://nbviewer.jupyter.org/github/riddhishb/ipython-notebooks/blob/master/Poisson%20Editing/Seamless_Cloning.ipynb) by [Dhruv Ilesh Shah](https://github.com/PrieureDeSion) is a notebook that achieves Seamless Image Cloning by employing the Poisson Solver in the iterative form.
 * [Blind Source Separation - Cocktail Party Problem](https://nbviewer.jupyter.org/github/riddhishb/ipython-notebooks/blob/master/Cocktail%20Party%20Problem/PCA_ICA_FOBI.ipynb) by [Dhruv Ilesh Shah](https://github.com/PrieureDeSion) & [Shashwat Shukla](https://github.com/ShashShukla) is a notebook that achieves blind source separation, on audio signals in an attempt to approach the Cocktail Party Prblem. The problem has been tackled in two different methods - the FOBI and fastICA.
 
- 
-
-### Natural Language Processing
+#### Natural Language Processing
 
 * [Python Programming for the Humanities](https://fbkarsdorp.github.io/python-course/) by Folgert Karsdorp & Maarten van Gompel.
 * [News Categorization using Multinomial Naive Bayes](https://nbviewer.jupyter.org/github/andressotov/News-Categorization-MNB/blob/master/News_Categorization_MNB%2010-oct-2017.ipynb) by Andres Soto Villaverde.
@@ -338,7 +336,7 @@ prettyplotlib, Stack Overflow, and seaborn](<https://nbviewer.ipython.org/gist/m
 * [Named Entity Recognition in French biomedical text](https://nbviewer.jupyter.org/github/andressotov/Named-Entity-Recognition-in-French-biomedical-text/blob/master/Named%20Entity%20Recognition%20in%20French%20biomedical%20text.ipynb) by Andrés Soto Villaverde
 * [Named Entity Recognition in French biomedical text (Part 2)](https://nbviewer.jupyter.org/github/andressotov/Named-Entity-Recognition-in-French-biomedical-text/blob/master/Named%20Entity%20Recognition%20in%20French%20biomedical%20text%20Part%202.ipynb) by Andrés Soto Villaverde
 
-### Pandas for data analysis
+#### Pandas for data analysis
 
 Note that in the 'collections' section above there are also pandas-related links, such as the one for an [11-lesson tutorial](https://bitbucket.org/hrojas/learn-pandas).
 
@@ -353,7 +351,7 @@ Note that in the 'collections' section above there are also pandas-related links
 * [Advanced analysis of Apache logs](https://nbviewer.ipython.org/github/koldunovn/nk_public_notebooks/blob/master/Apache_log.ipynb), by [Nikolay Koldunov](https://github.com/koldunovn).
 * [Statistical Data Analysis in Python](https://github.com/fonnesbeck/statistical-analysis-python-tutorial), by [Christopher Fonnesbeck](https://github.com/fonnesbeck/), SciPy 2013. Companion videos [1](https://www.youtube.com/watch?v=DXPwSiRTxYY), [2](https://www.youtube.com/watch?v=TGEBpzJUxdI), [3](https://www.youtube.com/watch?v=YZDtBEEZuAk), [4](https://www.youtube.com/watch?v=5_rcdhBXD-0)
 
-## General Python Programming
+### General Python Programming
 
 * [How_to_get_started_coding_in_Python?](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/How_to_get_started_coding_in_Python%3F.ipynb), this notebook explains how to become a good python programmer, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python), author and editor at [Towards data science](https://medium.com/@tanunprabhu95)
 * [Python Strings from Scratch !!!](https://nbviewer.jupyter.org/github/Tanu-N-Prabhu/Python/blob/master/Strings/Strings.ipynb), this notebook explains Python Strings from basic to advance level, by [Tanu Nanda Prabhu](https://github.com/Tanu-N-Prabhu/Python)
@@ -370,11 +368,11 @@ Note that in the 'collections' section above there are also pandas-related links
 * Python 3 OOP series by [Leonardo Giordani](https://github.com/lgiordani): [Part 1: Objects and types](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_1__Objects_and_types.ipynb), [Part 2: Classes and members](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_2__Classes_and_members.ipynb), [Part 3: Delegation - composition and inheritance](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_3__Delegation__composition_and_inheritance.ipynb), [Part 4: Polymorphism](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_4__Polymorphism.ipynb), [Part 5: Metaclasses](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_5__Metaclasses.ipynb), [Part 6: Abstract Base Classes](https://nbviewer.ipython.org/github/lgiordani/blog_source/blob/master/pelican/content/notebooks/Python_3_OOP_Part_6__Abstract_Base_Classes.ipynb)
 * [How to Aggregate Subscriber's Interest using the 3 methods:](https://nbviewer.jupyter.org/github/abbas-taher/Montreal-Python-69/blob/master/Montreal%20Python%2069.ipynb) (1) Python Dictionary, (2) Apache PySpark - GroupBy Transformation, and (3) Apache PySpark - ReduceBy Transformation by [Abbas Taher](https://github.com/abbas-taher).
 
-## Notebooks in languages other than Python
+### Notebooks in languages other than Python
 
 These are notebooks that use [one of the IPython kernels for other languages](IPython kernels for other languages):
 
-### Julia
+#### Julia
 
 The IPython protocols to communicate between kernels and clients are language agnostic, and other programming language communities have started to build support for this protocol in their language. The Julia team has created [IJulia](https://github.com/JuliaLang/IJulia.jl), and these are some Julia notebooks:
 
@@ -394,7 +392,7 @@ The IPython protocols to communicate between kernels and clients are language ag
   * [Christoph Ortner](https://homepages.warwick.ac.uk/staff/C.Ortner/index.php?page=julia)
   * [Crossing Language Barriers with Julia, Scipy, and IPython](https://github.com/stevengj/Julia-EuroSciPy14), presented at EuroSciPy '14 by Steven G. Johnson.
 
-### Haskell
+#### Haskell
 
 There exists a Haskell kernel for IPython in the [IHaskell project](https://github.com/gibiansky/ihaskell).
 
@@ -402,14 +400,14 @@ There exists a Haskell kernel for IPython in the [IHaskell project](https://gith
 * [Homophone reduction](https://nbviewer.ipython.org/github/gibiansky/IHaskell/blob/master/notebooks/Homophones.ipynb), a solution to a cute problem involving treating English letters as generators of a large group.
 * [Gradient descent typeclass](https://nbviewer.ipython.org/github/gibiansky/IHaskell/blob/master/notebooks/Gradient-Descent.ipynb), a look at how arbitrary gradient descent algorithms can be represented with a typeclass.
 
-### OCaml
+#### OCaml
 
 [iocaml](https://github.com/andrewray/iocaml) is an OCaml kernel for IPython
 
 * [H.261 Video Decoding in OCaml](https://andrewray.github.io/iocamljs/oh261.html)
 * [OCaml implementation of the 2048 game](https://gazagnaire.org/fuconf14/)
 
-### Ruby
+#### Ruby
 
 Similar to the Julia kernel there exists also a [Ruby kernel](https://github.com/SciRuby/iruby) for IPython.
 
@@ -421,23 +419,23 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
 * [War expenditure per GDP](https://nbviewer.ipython.org/github/domitry/nyaplot/blob/master/examples/notebook/Mapnya.ipynb#Case2-:Fill-countries-in-different-colors)
 * [Finding shape consensus among multiple geometrical polygons](https://nbviewer.ipython.org/gist/mgiraldo/a68b53175ce5892531bc)
 
-### Perl
+#### Perl
 
 * An example showcasing full use of the [display protocol](https://nbviewer.ipython.org/github/zmughal/zmughal-iperl-notebooks/blob/master/IPerl-demos/20150209_IPerl_display_demo.ipynb) with the IPerl kernel.
 
-### F&#35;
+#### F&#35;
 
 * [F# for Jupyter Notebooks](https://github.com/fsprojects/IfSharp)
 
-### C&#35;
+#### C&#35;
 
 * [Xamarin Workbooks](https://github.com/xamarin/Workbooks) Create a rich C# workbook for Android, iOS, Mac, WPF, or Console, and get instant live results as you learn these APIs.
 
-### Javascript
+#### Javascript
 
 * Two IJavascript notebooks that demonstrate how to use [D3](https://d3js.org) to [do computations and send a SVG back](https://nbviewer.jupyter.org/gist/Fil/efb1c9f3f0a9092c420dfe4cef8def96) and [play with a virtual DOM](https://nbviewer.jupyter.org/gist/Fil/aec6cbf62f9b71c3407db87d5eb592e7/D3%20notebook.ipynb)
 
-## Miscellaneous topics about doing various things _with_ the Notebook itself
+### Miscellaneous topics about doing various things _with_ the Notebook itself
 
 * [Blogging With IPython in Blogger](https://nbviewer.ipython.org/github/fperez/blog/blob/master/120907-Blogging%20with%20the%20IPython%20Notebook.ipynb), also available in [blog post form](https://blog.fperez.org/2012/09/blogging-with-ipython-notebook.html), [full repo here](https://github.com/fperez/blog). By Fernando Perez.
 * [Blogging With IPython in Octopress](https://nbviewer.ipython.org/urls/github.com/jakevdp/jakevdp.github.com/raw/master/downloads/notebooks/nb_in_octopress.ipynb), by Jake van der Plas and available as a [blog post](https://jakevdp.github.com/blog/2012/10/04/blogging-with-ipython/). Other [notebooks by Jake](https://github.com/jakevdp/jakevdp.github.com/tree/master/downloads/notebooks) contain many more great examples of doing interesting work with the scientific Python stack.
@@ -450,7 +448,7 @@ The interactive plotting library [Nyaplot](https://github.com/domitry/nyaplot) h
    * [Bringing the best out of Jupyter Notebooks for Data Science](https://towardsdatascience.com/bringing-the-best-out-of-jupyter-notebooks-for-data-science-f0871519ca29)
    * [Boosting Your Jupyter Notebook Productivity](https://towardsdatascience.com/jupyter-notebook-hints-1f26b08429ad)
 
-## Reproducible academic publications
+### Reproducible academic publications
 
 This section contains academic papers that have been published in the peer-reviewed literature or pre-print sites such as the [ArXiv](https://arxiv.org) that include one or more notebooks that enable (even if only partially) readers to reproduce the results of the publication. If you include a publication here, please link to the journal article as well as providing the nbviewer notebook link (and any other relevant resources associated with the paper).
 
@@ -505,13 +503,13 @@ doi: <https://dx.doi.org/10.1101/012831.> [Notebook to generate results in the p
 43. [Cycle-by-cycle analysis of neural oscillations](https://www.biorxiv.org/content/early/2018/04/16/302000), in bioRxiv by Cole & Voytek. A [repo with companion notebooks](https://github.com/voytekresearch/Cole_2018_cyclebycycle) with all necessary data is available to reproduce all figures. This repo also links to [the related useful library, neurodsp](https://github.com/voytekresearch/neurodsp), which contains notebooks of tutorials.
 44. [pyKNEEr: An image analysis workflow for open and reproducible research on femoral knee cartilage](https://www.biorxiv.org/content/biorxiv/early/2019/05/04/556423.full.pdf), a preprint by S. Bonaretti et al. Jupyter notebooks are used as a graphical user interface for medical image processing and analysis. The paper is interactive, with links to data, software, and documentation throughout the text. Every figure caption contains links to fully reproduce graphs.
 
-## Data-driven journalism
+### Data-driven journalism
 
 * [The Need for Openness in Data Journalism](https://nbviewer.ipython.org/github/brianckeegan/Bechdel/blob/master/Bechdel_test.ipynb), by [Brian Keegan](https://www.brianckeegan.com).
 * [St. Louis County Segregation Analysis](https://github.com/BuzzFeedNews/2014-08-st-louis-county-segregation) , analysis for the article [The Ferguson Area Is Even More Segregated Than You Probably Guessed](https://www.buzzfeed.com/jsvine/the-ferguson-area-is-even-more-segregated-than-you-thought) by [Jeremy Singer-Vine](https://twitter.com/jsvine).
 * [Size of thesis and dissertations in Quebec](https://github.com/jhroy/theses/blob/master/theses.ipynb), by [Jean-Hugues Roy](https://jhroy.ca) (in French).
 
-## Whimsical notebooks
+### Whimsical notebooks
 
 * [XKCD-styled plots created with Matplotlib](https://nbviewer.ipython.org/url/jakevdp.github.com/downloads/notebooks/XKCD_plots.ipynb). Here is the [blog post version](https://jakevdp.github.com/blog/2012/10/07/xkcd-style-plots-in-matplotlib/) with discussion. By Jake van der Plas.
 * [Van Gogh's Starry Night with ipythonblocks](https://nbviewer.ipython.org/github/jiffyclub/ipythonblocks/blob/master/demos/starry_night_to_text.ipynb), part of Matt Davis' [ipythonblocks](https://github.com/jiffyclub/ipythonblocks). This is a teaching tool for use with the IPython notebook that provides visual elements to understand programming concepts.
@@ -525,7 +523,7 @@ doi: <https://dx.doi.org/10.1101/012831.> [Notebook to generate results in the p
 * [Functional Geometry: a deconstruction of the MC Escher woodcut Square Limit](https://nbviewer.ipython.org/github/shashi/ijulia-notebooks/blob/master/funcgeo/Functional%20Geometry.ipynb), an IJulia notebook by [Shashi Gowda](https://shashi.github.io/).
 * [Solving physical puzzles with a Jupyter Noteboook](https://notebooks.azure.com/library/puzzles/html/Snake%20Puzzle%20Solver.ipynb).
 
-## Videos of IPython being used in the wild
+### Videos of IPython being used in the wild
 
 Of course the first thing you might try is searching for videos about IPython (1900 or so by last count on Youtube) but there are demonstrations of other applications using the power of IPython but are not mentioned is the descriptions. Below are a few such:
 
@@ -535,10 +533,10 @@ Of course the first thing you might try is searching for videos about IPython (1
 * [Wes McKinney's speech](https://youtu.be/qbYYamU42Sw?t=5m9s) on Python and data analysis features IPython as does his book [Python for Data Analysis](https://shop.oreilly.com/product/0636920023784.do)
 * [This video](https://www.youtube.com/watch?v=zG8FYPFU9n4) shows Plotly and IPython in use at a Montreal Python meetup.
 
-## Accessing and programing a IBM quantum computer via notebooks
+### Accessing and programing a IBM quantum computer via notebooks
 
 * [Github](https://github.com/Qiskit/qiskit-tutorial/blob/master/index.ipynb) notebook example (scroll down) illustrating how to use Qiskit and access the IBMQ quantum computers.
 
-## Software Architecture
+### Software Architecture
 
 * Let’s see [How to Grow Neat Software Architecture out of Jupyter Notebooks](https://github.com/guillaume-chevalier/How-to-Grow-Neat-Software-Architecture-out-of-Jupyter-Notebooks), by [Guillaume Chevalier](https://github.com/guillaume-chevalier).

@@ -6,11 +6,11 @@ date: 2020-08-31 13:58:32
 draft: false
 ---
 
-# Linear Algebra
+## Linear Algebra
 
-## Software
+### Software
 
-### PC
+#### PC
 
 - [SpeedCrunch](https://speedcrunch.org/)–open source software, fast, simple
 - [GNU  Octave](https://www.gnu.org/software/octave/index)–open source software
@@ -18,30 +18,30 @@ draft: false
 - [Matlab](https://www.mathworks.com/products/matlab.html)–proprietary
 - [Anaconda for Python Data Science Programming](https://www.anaconda.com/products/individual)
 
-### Android
+#### Android
 
 - [Madona](https://play.google.com/store/apps/details?id=com.krazeapps.octaveprogrammingcompiler)
 - [Anoc Octave Editor](https://play.google.com/store/apps/details?id=verbosus.anoclite)
 
-## MOOC
+### MOOC
 
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers) : good interactive HW exercises, very clear instruction and time-efficient
 - [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [Youtube](https://www.youtube.com/watch?v=YrHlHbtiSM0): Gilbert Strang is good.
 - [Coursera - Mathematics for Machine Learning: Linear Algebra](https://www.coursera.org/learn/linear-algebra-machine-learning)
 - [Algebra 1 - Khan Academy](https://www.khanacademy.org/math/algebra) and [Algebra 2 - Khan Academy](https://www.khanacademy.org/math/algebra2)
 
-## Youtube
+### Youtube
 
 - [3Blue1Brown Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [MathTheBeautiful Youtube](https://www.youtube.com/c/MathTheBeautiful/playlists?view=50&sort=dd&shelf_id=2)
 - [Grant Sanderson](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## List of Books
+### List of Books
 
 - [Overview of Linear Algebra Fundamentals](https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals)
 - [Opentext Uleth](https://opentext.uleth.ca/linalg.html)
 
-## Proprietary Books
+### Proprietary Books
 
 - [Handbook of Linear Algebra by Leslie Hogben](https://www.google.com/books/edition/_/5HxcAgAAQBAJ?hl=en)
 - [Introduction to Applied Linear Algebra Vectors, Matrices, and Least Squares by Stephen Boyd](https://www.cambridge.org/core/books/introduction-to-applied-linear-algebra/4D69AF22E38303FE20FFEEFDCE0E7F96)
@@ -53,7 +53,7 @@ draft: false
 - [Linear Algebra Done Right by Sheldon Axler](https://books.google.com/books?id=ovIYVIlithQC)
 - [A Concise Text on Advanced Linear Algebra by Yisong Yang](https://books.google.com/books?id=SZJEBQAAQBAJ)
 
-## Free Books
+### Free Books
 
 - [An Intuitive Overview of Linear Algebra Fundamentals](https://github.com/photonlines/Intuitive-Overview-of-Linear-Algebra-Fundamentals)
 - [Introduction to Linear Algebra by Thomas L. Scofield  - PDF](https://sites.calvin.edu/scofield/courses/m231/S14/laNotes.pdf)
@@ -74,7 +74,7 @@ draft: false
     - [Python Companion](https://ses.library.usyd.edu.au/handle/2123/21370)
     - [Julia and Python language notebooks](https://github.com/vbartle/VMLS-Companions)
 
-## Open Books
+### Open Books
 
 - [Linear Algebra, Theory And Applications by Kenneth Kuttler](https://open.umn.edu/opentextbooks/textbooks/linear-algebra-theory-and-applications) [PDF](https://lila1.lyryx.com/textbooks/KUTTLER_1/marketing/Kuttler-LinearAlgebra-AFirstCourse-2017A.pdf) License: CC-BY
 - [Linear Algebra by Jim Hefferon](https://hefferon.net/linearalgebra/) License : GFDL and CC-SA
@@ -97,7 +97,7 @@ draft: false
 - [MATH 1220 Linear Algebra 1 by Michael Doob](https://linearalgebra.math.umanitoba.ca/math1220/) License: CC (?) Pretext Book
 - [Elements of Linear and Multilinear Algebra by John M. Erdman](https://web.pdx.edu/~erdman/ELMA/) [PDF](https://web.pdx.edu/~erdman/ELMA/multilinear_algebra_pdf.pdf) License: CC-BY
 
-## Book Recommendation
+### Book Recommendation
 
 - [Amazon - Linear Algebra with Applications: Williams, Gareth: 9781284120097: Books](https://www.amazon.com/Linear-Algebra-Applications-Gareth-Williams/dp/1284120090)
 - [Matrix Analysis & Applied Linear Algebra](http://matrixanalysis.com/)
@@ -117,15 +117,15 @@ draft: false
 - [Linear and Geometric Algebra](http://www.faculty.luther.edu/~macdonal/laga/)
 - [Contents - 3D Math Primer for Graphics and Game Development](https://gamemath.com/book/)
 
-## Video Recommendation
+### Video Recommendation
 
 - [3Blue1Brown: Linear Alg - YouTube](https://www.youtube.com/playlist?list=PL0-GT3co4r2y2YErbmuJw2L5tW4Ew2O5B)
 - [Essence of linear algebra - YouTube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [Part 1 Linear Algebra: An In-Depth Introduction with a Focus on Applications - YouTube](https://www.youtube.com/playlist?list=PLlXfTHzgMRUKXD88IdzS14F4NxAZudSmv)
 
-## Table of Contents some of the Open Books
+### Table of Contents some of the Open Books
 
-### Interactive Linear Algebras by Dan Margalit
+#### Interactive Linear Algebras by Dan Margalit
 
 1. Systems of Linear Equations: Algebra (pp 1-27)
 2. Systems of Linear Equations: Geometry (pp 29-112)
@@ -134,7 +134,7 @@ draft: false
 5. Eigenvalues and Eigenvectors (pp 237-337)
 6. Orthogonality (pp 339-407)
 
-### Discover Linear Algebra by Jeremy Sylvestre
+#### Discover Linear Algebra by Jeremy Sylvestre
 
 1. Systems of Equations and Matrices (pp 7-169)
     - Systems of linear equations
@@ -162,7 +162,7 @@ draft: false
     - Eigenvalues and eigenvectors
     - Diagonalization
 
-### Linear Algebra by Jim Hefferon
+#### Linear Algebra by Jim Hefferon
 
 1. Linear Systems
     - Solving Linear Systems
@@ -189,7 +189,7 @@ draft: false
     - Nilpotence
     - Jordan Form
 
-### A First Course in Linear Algebra by Robert A. Beezer
+#### A First Course in Linear Algebra by Robert A. Beezer
 
 1. Systems of Linear Equations
 2. Vectors
@@ -200,7 +200,7 @@ draft: false
 7. Linear Transformations
 8. Representations
 
-### Linear Algebra, Theory And Applications by Kenneth Kuttler
+#### Linear Algebra, Theory And Applications by Kenneth Kuttler
 
 1. Preliminaries
 2. Matrices and Linear Transformations
@@ -218,7 +218,7 @@ draft: false
 14. Norms for Finite Dimensional Vector Spaces
 15. Numerical Methods for Finding Eigenvalues
 
-### MATH 1220 Linear Algebra 1 by Michael Doob
+#### MATH 1220 Linear Algebra 1 by Michael Doob
 
 1. Systems of Linear Equations
 2. Matrix theory
@@ -227,7 +227,7 @@ draft: false
 5. Eigenvalues and eigenvectors
 6. Linear transformations
 
-## Markov Chains
+### Markov Chains
 
 - [Examples of Markov chains - Wikipedia](https://en.wikipedia.org/wiki/Examples_of_Markov_chains)
 - [Math 22 - Linear Algebra with Applications](https://math.dartmouth.edu/~m22f19/project.php)

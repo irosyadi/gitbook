@@ -6,7 +6,7 @@ date: 2022-10-18 05:40
 draft: false
 ---
 
-# Twitter Apps
+## Twitter Apps
 
 - [Twitter](https://twitter.com/)
   - [Nitter](https://nitter.net/)
@@ -14,6 +14,6 @@ draft: false
   - [Nitter Instances List](https://github.com/zedeus/nitter/wiki/Instances)
   - [Nitter Instances](https://xnaas.github.io/nitter-instances/)
 
-## Alternatives
+### Alternatives
 
 - [Sendie](https://sendie.com/)

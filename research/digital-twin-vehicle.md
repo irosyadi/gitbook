@@ -6,9 +6,9 @@ date: 2020-07-18 09:10:27
 draft: false
 ---
 
-# Digital Twin in Vehicles
+## Digital Twin in Vehicles
 
-## DT in Electric Vehicles
+### DT in Electric Vehicles
 
 - [Digital Twins for next generation electric vehicles - Frontiers Research Topic](https://www.frontiersin.org/research-topics/31992/digital-twins-for-next-generation-electric-vehicles)
 - [Using Digital Twin Technology in Electric Vehicles](https://www.azom.com/news.aspx?newsID=57857)
@@ -28,11 +28,11 @@ draft: false
 - [What Are the Benefits of a Digital Twin?](https://www.resonai.com/blog/benefits-of-a-digital-twin)
 - [Why Accenture lists ‘digital twins’ as top-five technology trend in 2021  - VentureBeat](https://venturebeat.com/2021/03/12/why-accenture-lists-digital-twins-as-top-five-technology-trend-in-2021/)
 
-## Digital Twin Simulation
+### Digital Twin Simulation
 
 - [HASH - Complex Systems Simulation](https://hash.ai/)
 
-## Digital Twin Video
+### Digital Twin Video
 
 - [Digital twin of vehicles: when physical and digital models come together - YouTube](https://www.youtube.com/watch?v=J-edZjYQors) Renault
 - [Continuous Engineering with Digital Twin - YouTube](https://www.youtube.com/watch?v=Ri0TD7kYsIQ) JK Automotive
@@ -40,11 +40,11 @@ draft: false
 - [The digital functional twin - driving autonomous and electric vehicle design - YouTube](https://www.youtube.com/watch?v=zm643tgRC8Q) Siemens
 - [Continuous Engineering with Digital Twin - YouTube](https://www.youtube.com/watch?v=Ri0TD7kYsIQ)
 
-## Digital Twin Project
+### Digital Twin Project
 
 - [Digital twin](https://media.porsche.com/mediakit/innovation-sustainability-performance/en/innovation-sustainability-performance/digital-twin) Porsche
 
-## Digital Twin
+### Digital Twin
 
 - [Digital Twin - Open Access Publishing Platform - Digital Twin](https://digitaltwin1.org/)
 - [IoT Digital Twin with Roblox and The Things Network](https://lupyuen.github.io/articles/roblox)
@@ -54,7 +54,7 @@ draft: false
 - [Vertex Developer Portal - 3D Visualization Engine](https://developer.vertexvis.com/)
 - [Vertex Platform Plans & Pricing - Vertex Software](https://vertexvis.com/pricing/3d-platform)
 
-## Digital Twin
+### Digital Twin
 
 - [International Society of Automation (ISA)](https://www.isa.org/)
 - [Digital Twin Patent Analysis and Major Brands Patent Deployment Strategies Market Size 2022 Explosive Factors of Revenue by Key Vendors Demand, Development Strategy, Future Trends and Industry Growth Research Report - Digital Journal](https://www.digitaljournal.com/pr/digital-twin-patent-analysis-and-major-brands-patent-deployment-strategies-market-size-2022-explosive-factors-of-revenue-by-key-vendors-demand-development-strategy-future-trends-and-industry-growth?utm_source=dlvr.it&utm_medium=twitter)
@@ -78,7 +78,7 @@ draft: false
 - [Intelligent Assets vs Digital Twins–Rob Tiffany Digital](https://robtiffanydigital.com/iot-coffee-talk-50-intelligent-assets-vs-digital-twins/)
 - [Digital Twins–Rob Tiffany Digital](https://robtiffanydigital.com/iot-coffee-talk-4-digital-twins/?utm_source=twitter&utm_medium=social&utm_campaign=social)
 
-## Digital Twin
+### Digital Twin
 
 - [The digital engineering revolution is here—could Python be the key to upskilling?](https://thenextweb.com/news/digital-engineering-could-python-key-to-upskilling)
 - [Course - Digital Twin Technology - IP500520 - NTNU](https://www.ntnu.edu/studies/courses/IP500520/2021#tab=omEmnet)
@@ -105,7 +105,7 @@ draft: false
 - [Development of a digital twin operational platform using Python Flask - Data-Centric Engineering - Cambridge Core](https://www.cambridge.org/core/journals/data-centric-engineering/article/development-of-a-digital-twin-operational-platform-using-python-flask/C138956055FE433E7EEB693777B0F339#article)
 - [Developing a Digital Twin. An intelligent system using Machine…- by Taposh Dutta-Roy - Medium](https://medium.com/@taposhdr/developing-a-digital-twin-97128e3dc9f3)
 
-## Digital Twin
+### Digital Twin
 
 - [Twin-Control -](https://twincontrol.eu/)
 - [SNU OPEN COURSEWARE - SEOUL NATIONAL UNIVERSITY](https://ocw.snu.ac.kr/department_detail?field_c_deptidx_tid=23)

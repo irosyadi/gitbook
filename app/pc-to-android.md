@@ -6,9 +6,9 @@ date: 2022-07-01 12:50:53
 draft: false
 ---
 
-# PC to Android Connection
+## PC to Android Connection
 
-## PC - Android Connection
+### PC - Android Connection
 
 - KDE Connect by KDE:
     - Android to PC:
@@ -63,7 +63,7 @@ draft: false
     - Cons:
         - limited features
 
-## Push Notification
+### Push Notification
 
 - [ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
 - [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net/)

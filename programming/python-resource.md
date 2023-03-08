@@ -6,9 +6,9 @@ date: 2020-06-28 19:43:34
 draft: false
 ---
 
-# Python Resources
+## Python Resources
 
-## Awesome Lists of Python
+### Awesome Lists of Python
 
 - [feiskyer](https://github.com/feiskyer/python-tutorials)
 - [CodementorIO](https://github.com/CodementorIO/Python-Learning-Resources)
@@ -24,20 +24,20 @@ draft: false
 - [Recommended Python Learning Resources](https://forums.fast.ai/t/recommended-python-learning-resources/26888)
 - [Wikibooks Python](https://en.wikibooks.org/wiki/Python_Programming/Links)
 
-## Python Online IDE
+### Python Online IDE
 
 - [Python Tutor](https://www.pythontutor.com/)
 - [Skulpt](https://skulpt.org/) Python run in browser
 
-## Python Interactive Learning
+### Python Interactive Learning
 
 - [Kikodo](https://www.kikodo.io/) Online python learning
 
-## Python Sympy
+### Python Sympy
 
 - [Live Sympy](https://live.sympy.org/)
 
-## Python Interactive Learning
+### Python Interactive Learning
 
 - [Thinkcspy by Runestone](https://runestone.academy/runestone/books/published/thinkcspy/index.html) is an interactive course inspired by Think Python
 - [Automate Boring Stuff](https://automatetheboringstuff.com/2e/) online for free (use [https://repl.it/languages/python3](https://repl.it/languages/python3) if you don't have local python installation)
@@ -54,52 +54,52 @@ draft: false
 - Hackerrank
 - Sololearn
 
-## Python Library
+### Python Library
 
 - [Python Stacks](https://www.pythonstacks.com/) : curated python library
 
-## Python
+### Python
 
 - [Python in 1 Minutes](https://www.youtube.com/c/PythonIn1Minute/videos)
 
-## Python
+### Python
 
 - [Streamlit—The fastest way to create data apps](https://www.streamlit.io/)
 
-## Python Tutorials
+### Python Tutorials
 
 - [Preface - 100 Page Python Intro](https://learnbyexample.github.io/100_page_python_intro/preface.html) License: CC-BY-NC
 - [Preface - Python resources for everybody](https://learnbyexample.github.io/py_resources/) License: CC
 
-## Python by Projects
+### Python by Projects
 
 - [norvig/pytudes: Python programs, usually short, of considerable difficulty, to perfect particular skills.](https://github.com/norvig/pytudes)
 - [karan/Projects-Solutions: Links to others' solutions to Projects (https://github.com/karan/Projects/)](https://github.com/karan/Projects-Solutions)
 - [tuvtran/project-based-learning: Curated list of project-based tutorials](https://github.com/tuvtran/project-based-learning#python)
 - [Code with Repl.it - Python projects for beginners](https://www.codewithrepl.it/)
 
-## Python
+### Python
 
 - [Python-I](https://primerlabs.io/books/python-i/)
 
-## Python Learning
+### Python Learning
 
 - [Python on Exercism](https://exercism.org/tracks/python)
 
-## Python Cheatsheet
+### Python Cheatsheet
 
 - [Comprehensive Python Cheatsheet](https://gto76.github.io/python-cheatsheet/)
 
-## Python
+### Python
 
 - [Preface - Python resources for everybody](https://learnbyexample.github.io/py_resources/preface.html)
 - [ROSALIND - Problems](https://rosalind.info/problems/list-view/)
 
-## Visual Python
+### Visual Python
 
 - [Ryven - Flow-based visual scripting for Python](https://ryven.org/)
 
-## Python Learning
+### Python Learning
 
 - [Getting started—pandas 1.4.1 documentation](https://pandas.pydata.org/docs/getting_started/index.html)
 - [Think DSP](https://greenteapress.com/thinkdsp/html/index.html)
@@ -124,18 +124,18 @@ draft: false
 - [Preface - Python resources for everybody](https://learnbyexample.github.io/py_resources/)
 - [Python Programming And Numerical Methods: A Guide For Engineers And Scientists—Python Numerical Methods](https://pythonnumericalmethods.berkeley.edu/notebooks/Index.html)
 
-## Python
+### Python
 
 - [Python Tutor - Visualize Python, Java, C, C++, JavaScript, TypeScript, and Ruby code execution](https://pythontutor.com/)
 
-## Python and Panda
+### Python and Panda
 
 - [Mito - Home](https://www.trymito.io/)
 - [Datasette: An open source multi-tool for exploring and publishing data](https://datasette.io/)
 - [VizierDB, a Data-Centric Notebook](https://vizierdb.info/)
 - [A GUI for pandas - bamboolib](https://bamboolib.8080labs.com/)
 
-## Python ML Frameworks
+### Python ML Frameworks
 
 - [A Beginner's Guide to Python Machine Learning and Data Science Frameworks - Pathmind](https://wiki.pathmind.com/python-ai)
 - [MindSpore](https://mindspore.cn/docs/programming_guide/en/master/index.html)
@@ -143,7 +143,7 @@ draft: false
 - [PyTorch vs TensorFlow in 2022](https://www.assemblyai.com/blog/pytorch-vs-tensorflow-in-2022/)
 - [Pytorch vs. Tensorflow: Deep Learning Frameworks 2021 - Built In](https://builtin.com/data-science/pytorch-vs-tensorflow)
 
-## Pandas
+### Pandas
 
 - [Modern Polars](https://kevinheavey.github.io/modern-polars/)
 - Pandas

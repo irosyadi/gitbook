@@ -6,7 +6,7 @@ date: 2021-01-14 16:27:12
 draft: false
 ---
 
-# Interesting Machine Learning Papers
+## Interesting Machine Learning Papers
 
 * [PipeMonitor](https://alexfcoding.github.io/PipeMonitor/)
     * [alexfcoding/NeuralLibrary: C# library with demo UI app for creating, training and validation of neural network models](https://github.com/alexfcoding/NeuralLibrary)
@@ -21,19 +21,19 @@ draft: false
 * [Analysis of skin lesion images with deep learning](https://arxiv.org/abs/2101.03814v1)
     * [j05t/lesion-analysis: Skin Lesion Analysis Towards Melanoma Detection](https://github.com/j05t/lesion-analysis)
 
-## Neural Representation
+### Neural Representation
 
 * [vsitzmann/awesome-implicit-representations: A curated list of resources on implicit neural representations.](https://github.com/vsitzmann/awesome-implicit-representations)
 * [yenchenlin/awesome-NeRF: A curated list of awesome neural radiance fields papers](https://github.com/yenchenlin/awesome-NeRF)
 * [Neural ODE](https://ayandas.me/blog-tut/2020/03/20/neural-ode.html)
 
-## MPC Deep Learning Control
+### MPC Deep Learning Control
 
 * [CMU Locus Lab](https://github.com/locuslab)
 * [mpc.pytorch: A fast and differentiable MPC solver for PyTorch](https://locuslab.github.io/mpc.pytorch/)
 * [Publications](http://zicokolter.com/publications/)
 
-## Deep Implicit Layers
+### Deep Implicit Layers
 
 * [Deep Implicit Layers - Neural ODEs, Deep Equilibirum Models, and Beyond](http://implicit-layers-tutorial.org/)
 * [massastrello/awesome-implicit-neural-models](https://github.com/massastrello/awesome-implicit-neural-models)

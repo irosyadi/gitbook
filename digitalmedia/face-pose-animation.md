@@ -6,13 +6,13 @@ date: 2020-11-20 08:57:13
 draft: false
 ---
 
-# Face and Pose Animation
+## Face and Pose Animation
 
 Related links:  
 🔗 [App/Awesome List of Animation Apps](animation-app.md)  
 🔗 [App/Face and Pose Animation](face-pose-animation.md)
 
-## Face and Pose Animator
+### Face and Pose Animator
 
 - [F-Clone](https://f-clone.com/)
 - [Pose Animator](https://blog.tensorflow.org/2020/05/pose-animator-open-source-tool-to-bring-svg-characters-to-life.html) [Github](https://github.com/yemount/pose-animator) [Demo](https://pose-animator-demo.firebaseapp.com/): open source, web app
@@ -31,11 +31,10 @@ Related links:
 - [Avatarify](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb) Photorealistic avatars for video-conferencing apps. [Github](https://github.com/alievk/avatarify)
 - [Animatron](https://editor.animatron.com/) HTML Animation Studio
 
-## Avatar Generation
+### Avatar Generation
 
 - [Avatar SDK](https://avatarsdk.com/)
 
-
-## Colab
+### Colab
 
 - [Avatarify](https://colab.research.google.com/github/alievk/avatarify/blob/master/avatarify.ipynb) Photorealistic avatars for video-conferencing apps. [Github](https://github.com/alievk/avatarify)

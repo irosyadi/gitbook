@@ -6,9 +6,9 @@ date: 2020-09-13 05:51:08
 draft: false
 ---
 
-# Digital Signal Processing
+## Digital Signal Processing
 
-## Signal Processing Jupyter Notebooks
+### Signal Processing Jupyter Notebooks
 
 * [Sound Analysis with the Fourier Transform](https://github.com/calebmadrigal/FourierTalkOSCON). A set of IPython Notebooks by [Caleb Madrigal](https://calebmadrigal.com) to explain what the Fourier Transform is and how to use it for basic audio processing applications.
 * [An introduction to Compressed Sensing](https://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing/blob/master/Compressive_Sampling.ipynb), part of [Python for Signal Processing](https://nbviewer.ipython.org/github/unpingco/Python-for-Signal-Processing): an entire book (and [blog](https://python-for-signal-processing.blogspot.com)) on the subject by Jose Unpingco.
@@ -18,7 +18,7 @@ draft: false
 * [An introduction to openCV](https://github.com/handee/opencv-gettingstarted) An introduction course into using openCV for computer vision in python
 * [Signal: Filtering, STFT, and Laplace Transform](https://github.com/guillaume-chevalier/filtering-stft-and-laplace-transform) Filtering signal with a butterworth low-pass filter and plotting the STFT of it with a Hanning window and then plotting the Laplace transform.
 
-## Tools
+### Tools
 
 * [noise.sh](https://noise.sh/) Music as Excel
 * [AudioMass - Audio Editor](https://audiomass.co/)
@@ -26,7 +26,7 @@ draft: false
 * [Audio DSP Playground](https://acarabott.github.io/audio-dsp-playground/)
 * [Harmonics](https://alexanderchen.github.io/harmonics/)
 
-## Filter Design Tools
+### Filter Design Tools
 
 * [Filter Design Tool](https://webench.ti.com/filter-design-tool/filter-type) web based
 * [RF Tools - LC Filter Design Tool](https://rf-tools.com/lc-filter/) web based
@@ -36,7 +36,7 @@ draft: false
 * [FIR Filter Designer](https://wirelesslibrary.labs.b-com.com/FIRfilterdesigner/) web based
 * [List of FIR Filter tools](https://www.minidsp.com/applications/advanced-tools/fir-filter-tools)
 
-## Tutorial
+### Tutorial
 
 * [DSPRelated.com - All About Digital Signal Processing](https://www.dsprelated.com/)
 * [Kalman and Bayesian Filter in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) License: CC-BY
@@ -64,7 +64,7 @@ draft: false
 * [Lab 0 - Introduction to Module Set - Purdue Digital Signal Processing Labs (ECE 438) - OpenStax CNX](https://cnx.org/contents/0JSc5_LI@4.2:9mF_0fms@3/Lab-0-Introduction-to-Module-Set)
 * [Making sounds using SDL and visualizing them on a simulated oscilloscope. - NICK TASIOS](http://nicktasios.nl/posts/making-sounds-using-sdl-and-visualizing-them-on-a-simulated-oscilloscope.html)
 
-## Audio Programming
+### Audio Programming
 
 * [Pure Data—Pd Community Site](https://puredata.info/) Pure Data (or just Pd) is an open source visual programming language for multimedia.
 * [elk.audio](https://elk.audio/) Audio Operating Systems
@@ -73,7 +73,7 @@ draft: false
 * [JUCE - JUCE](https://juce.com/) The leading framework for multi-platform audio applications
 * [Tone.js](https://tonejs.github.io/)
 
-## DSP Notes
+### DSP Notes
 
 * [Introduction to Filters: FIR versus IIR](https://community.sw.siemens.com/s/article/introduction-to-filters-fir-versus-iir)
 * [Highres spectrograms with the DFT Shift Theorem - GLSL & Sound](https://soundshader.github.io/hss/gallery/index.html)
@@ -84,13 +84,13 @@ draft: false
 * [Digital Audio Basics: Audio Sample Rate and Bit Depth](https://www.izotope.com/en/learn/digital-audio-basics-sample-rate-and-bit-depth.html)
 * [WASM SYNTH, or, how music taught me the beauty of math](https://timdaub.github.io/2020/02/19/wasm-synth/#f1)
 
-## DSP Tools
+### DSP Tools
 
 * [olilarkin/awesome-musicdsp: A curated list of my favourite music DSP and audio programming resources](https://github.com/olilarkin/awesome-musicdsp)
 * [Fragment - Real-time audiovisual live coding environment](https://www.fsynth.com/#try)
 * [CCWT](https://lichtso.github.io/WebSpectrogram/main.html)
 
-## DSP Books
+### DSP Books
 
 * [DSP Illustration](https://dspillustrations.com/pages/index.html)
 * [The Scientist and Engineer's Guide to Digital Signal Processing by Steven W. Smith, Ph.D.](https://www.dspguide.com/)
@@ -106,42 +106,42 @@ draft: false
 * [Digital Filter Design](https://www.mikroe.com/ebooks/digital-filter-design)
 * [Circles Sines and Signals - Introduction](https://jackschaedler.github.io/circles-sines-signals/) License : Eclipse Public
 
-## DSP Lectures
+### DSP Lectures
 
 * [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY
 
-## DSP Interactive
+### DSP Interactive
 
 * [Fourier Transform](https://www.jezzamon.com/fourier/index.html)
 * [Premier on Digital Signal Processing](https://jackschaedler.github.io/circles-sines-signals/index.html), [Github](https://github.com/jackschaedler/circles-sines-signals), License: Eclipse Public License
 
-## Software Defined Radio
+### Software Defined Radio
 
 * [PySDR: A Guide to SDR and DSP using Python by Dr. Marc Lichtman](https://pysdr.org/index.html) [GitHub](https://github.com/777arc/textbook) License: -
 * [Software-Defined Radio for Engineers](https://www.analog.com/en/education/education-library/software-defined-radio-for-engineers.html#) [Material Supports](https://sdrforengineers.github.io/) [GitHub](https://github.com/sdrforengineers)
 
-## Music Retrieval Course
+### Music Retrieval Course
 
 * [Music Information Retrieval](https://musicinformationretrieval.com/) License: MIT
 
-## Speech Recognition
+### Speech Recognition
 
 * [Libre ASR](https://github.com/iceychris/LibreASR): An On-Premises, Streaming Speech Recognition System
 
-## Signal Processing Notes
+### Signal Processing Notes
 
 * [Exploring Sound](https://omarshehata.me/notebook/exploring_sound) : Why does an A note on a piano sound different from an A note on a violin?
 * [Everything you need to know about surround sound in headphones - SoundGuys](https://www.soundguys.com/surround-sound-headphones-guide-49389/)
 * [HeSuVi download - SourceForge.net](https://sourceforge.net/projects/hesuvi/)
 * [Headphone 7.1 Surround Comparison (GSX vs SBX vs Atmos vs CMSS vs DH vs DTSH:X vs Sonic vs HRTF) - YouTube](https://www.youtube.com/watch?v=WlqpG2euh50)
 
-## Signal Processing
+### Signal Processing
 
 * [Free Online Audio Tests, Test Tones and Tone Generators](https://www.audiocheck.net/index.php)
 * [Spectro](https://calebj0seph.github.io/spectro/)
 * [img-encode - Convert an image to sound spectrum (image to sound)](https://alexadam.github.io/demos/img-encode/index.html)
 
-## [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
+### [Free Books on Signal Processing](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-signal-processing.html)
 
 **DSP: THEORY**  
 
@@ -160,8 +160,6 @@ draft: false
 13. Using the ADSP-2100 Family [Vol. 1](http://www.analog.com/static/imported-files/processor_manuals/2127342adsp2100vol1.zip) & [Vol. 2](http://www.analog.com/static/imported-files/processor_manuals/60899921adsp2100vol2.zip) -Analog Devices Inc.
 14. [A Technical Tutorial on Digital Signal Synthesis](http://www.analog.com/static/imported-files/tutorials/450968421DDS_Tutorial_rev12-2-99.pdf#xml=http://search.analog.com/search/pdfPainter.aspx?url=http://www.analog.com/static/imported-files/tutorials/450968421DDS_Tutorial_rev12-2-99.pdf&fterm=using&fterm=the&fterm=adsp-2100&fterm=family&fterm=using%20the%20adsp-2100%20family&la=en)-Analog Devices Inc.
 
-  
-
 **DSP: COMMUNICATIONS**  
 
 1. [Signal Processing for Communications](http://www.sp4comm.org/docs/sp4comm_corrected.pdf) -Paolo Prandoni and Martin Vetterli
@@ -171,8 +169,6 @@ draft: false
 5. [Signal Processing with Fractals: A Wavelet-Based Approach](http://www.rle.mit.edu/sia/publications_books.htm)-G. W. Wornell
 6. [Wireless Communications: Signal Processing Perspectives](http://www.rle.mit.edu/sia/publications_books.htm)-Poor and Wornell
 7. [Stochastic Processes, Detection and Estimation](http://www.rle.mit.edu/sia/publications_coursenotes.htm)-A. S. Willsky and G. W. Wornell
-
-  
 
 **DSP: IMAGE PROCESSING**  
 
@@ -223,7 +219,7 @@ draft: false
 3. [The VHDL Cookbook](http://pyfn.com/PDF/electronics_pdfs/noise/controlling_noise.pdf) -Peter Ashenden
 4. [Controlling Noise and Radiation in Mixed-Signal and Digital Systems](http://www.national.com/appinfo/adc/files/controlling_noise.pdf) \- Nicholas Gray
 
-### [Free Books on Signal Processing II](https://free-ebook-download-links.blogspot.com/2008/09/free-books-on-signal-processing-ii.html)
+#### [Free Books on Signal Processing II](https://free-ebook-download-links.blogspot.com/2008/09/free-books-on-signal-processing-ii.html)
 
 1. [Introduction to Digital Signal Processing](http://www.sp4comm.org/docs/sp4comm_corrected.pdf) [](http://lcawww.epfl.ch/papadimitratos/CSS/slides/Paolo-Prandoni-Intro-no-anim.pdf) \- Paolo Prandoni
 2. [Efficient Digital Fiilters](http://media.wiley.com/product_data/excerpt/78/04701315/0470131578.pdf) -Matthew Donadio
@@ -231,7 +227,6 @@ draft: false
 4. [Modern Signal Processing](http://www.msri.org/communications/books/Book46/index.html)\- Edited by Daniel N. Rockmore and Dennis M. Healy, Jr.
 5. [Signals and Systems](http://ocw.mit.edu/OcwWeb/Electrical-Engineering-and-Computer-Science/6-003Fall-2003/LectureNotes/index.htm) \- MIT
 
+### Signal Processing
 
-## Signal Processing
-
-- [Self-Paced Online Courses Signal Processing with Matlab](https://matlabacademy.mathworks.com/details/signal-processing-with-matlab/mlsg?s_eid=PSM_15028)
+* [Self-Paced Online Courses Signal Processing with Matlab](https://matlabacademy.mathworks.com/details/signal-processing-with-matlab/mlsg?s_eid=PSM_15028)

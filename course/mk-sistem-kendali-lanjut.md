@@ -6,14 +6,14 @@ date: 2020-08-31 14:57:57
 draft: false
 ---
 
-# MK Sistem Kendali Lanjut
+## MK Sistem Kendali Lanjut
 
 - Kode: TKE193154
 - SKS: 3
 - Jadwal 2020
     - TKE193154 Sistem Kendali Lanjut A JUMAT 13:20 - 15:50 GEDUNG TEKNIK E 204 - 15 mhs
 
-## Referensi
+### Referensi
 
 - Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
@@ -25,24 +25,24 @@ draft: false
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 - [Ricone Website](https://ricopic.one/control/)
 
-## Software
+### Software
 
 - [GNU Octave](https://www.gnu.org/software/octave/index)
 - [Online Octave](https://octave-online.net/)
 - [Matlab](https://www.mathworks.com/products/matlab.html)
 
-## Online Course
+### Online Course
 
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-## Online Video Course
+### Online Video Course
 
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
 - [The Ryder Project Control Lectures](https://www.youtube.com/playlist?list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-)
 
-## Kuliah
+### Kuliah
 
-### Pekan-1
+#### Pekan-1
 
 - Pendahuluan
 - Steady State Error
@@ -54,7 +54,7 @@ draft: false
     - [Steady-State Error #2, using Error Constants The Ryder Project](https://www.youtube.com/watch?v=AQNk2bydOY4&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=36)
     - [Finding Requirements for SSE The Ryder Project](https://www.youtube.com/watch?v=dJcooAEmOds&list=PLlCDw0ApIeDEOaY5fZHWAL4GNSiZ2IWG-&index=37)
 
-### Pekan-2
+#### Pekan-2
 
 - Analisis Kestabilan Routh Hurwitz
 - Video Pendukung
@@ -74,7 +74,7 @@ equ=[1 2 3] %characteristic equation polynomial
 roots(equ)
 ```
 
-### Pekan-3
+#### Pekan-3
 
 - Root Locus (Tempat Kedudukan Akar)
 - Video Pendukung:
@@ -94,7 +94,7 @@ sys=tf(num,den) %transfer function
 rlocus(sys)
 ```
 
-### Pekan-4
+#### Pekan-4
 
 - Desain Sistem Kendali dengan Root Locus
 - Video Pendukung:
@@ -103,7 +103,7 @@ rlocus(sys)
     - [Root Locus Plot: Common Questions and Answers Brian Douglas](https://www.youtube.com/watch?v=WLBszzT0jp4&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=6)
     - [Gain a better understanding of Root Locus Plots using Matlab Brian Douglas](https://www.youtube.com/watch?v=pG3_b7wuweQ&list=PLUMWjy5jgHK3-ca6GP6PL0AgcNGHqn33f&index=7)
 
-### Tugas
+#### Tugas
 
 - Persiapan  
     - Silakan presensi dulu di Eldiru pada tanggal 26 Desember
@@ -130,7 +130,7 @@ rlocus(sys)
         - Pembahasan. Pembahasan ringkas dari aktivitas yang anda lakukan, jika perlu lengkapi unduhan gambar (screenshot).
     - Simpan setiap berkas dalam nama `NIM-TugasXXX.docx` misalnya `H1A018091-Tugas385.odt`. Gabungkan ketiga berkas penugasan dalam file `.zip` lalu unggah ke laman *Assignment* di Eldiru.
 
-## Istilah Sistem Kendali
+### Istilah Sistem Kendali
 
 - Bandwidth and 3dB. The bandwidth of a band pass filter is the frequency range that is allowed to pass through with minimal attenuation. The frequency at which the power level of the signal decreases by 3 dB from its maximum value is called the 3 dB bandwidth. A 3 dB decrease in power means the signal power becomes half of its maximum value. This occurs when the output voltage has dropped to $1/{\sqrt{2}}$ (~0.707) of the maximum output voltage and the power has dropped by half (since $P=V^2/R$. Exact: $20\\log _{10}\left({\tfrac {1}{\sqrt {2}}}\right)\approx -3.0103\\ \mathrm {dB}$
 - [Half-power point - Wikipedia](https://en.wikipedia.org/wiki/Half-power_point)

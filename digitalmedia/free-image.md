@@ -6,9 +6,9 @@ date: 2022-07-16 12:09:21
 draft: false
 ---
 
-# Free Image
+## Free Image
 
-## Free Illustration
+### Free Illustration
 
 - [Flexiple](https://2.flexiple.com/scale/all-illustrations), with color option
 - [Undraw](https://undraw.co/illustrations)
@@ -22,7 +22,7 @@ draft: false
 - [Artify](https://www.artify.co/illustrations/)
 - [Free SVG Image & Icon. - SVG Silh](https://svgsilh.com/)
 
-## Free Image
+### Free Image
 
 - [Unsplash](https://unsplash.com/) free image
 - [The Noun Project](https://thenounproject.com/) free icon
@@ -39,25 +39,25 @@ draft: false
 - [Free to Use Clip Art Images & Vector Illustrations - ManyPixels](https://www.manypixels.co/gallery)
 - [Free Illustrations Vector Commercial Use - SVG Illustrations](https://lukaszadam.com/illustrations)
 
-## Free Random Image
+### Free Random Image
 
 ``` ![Random Picsum Image](<https://picsum.photos/200/200)> ```  
 ``` ![Random Unsplash Cat](<https://source.unsplash.com/200x200/?cat)> ```  
 ``` ![Random Loremflickr Cat](<https://loremflickr.com/200/200/cat)> ```
 
-## Free Animation Asset
+### Free Animation Asset
 
 - [Piskelapp](https://www.piskelapp.com/) free online editor for animated sprites & pixel art
 - [Free Game art](https://www.gameart2d.com/)
 - [Spriteland](https://www.spriteland.com/)
 
-[[free-icon]]
+[free-icon](free-icon.md)
 
-## Free Image Search
+### Free Image Search
 
 - [Openly Licensed Images, Audio and More - Openverse](https://wordpress.org/openverse/)
 - [Search Can We Image](https://canweimage.com/)
 
-## Free Images
+### Free Images
 
 - [Cool Backgrounds](https://coolbackgrounds.io/)

@@ -6,23 +6,23 @@ date: 2020-08-10 19:35:41
 draft: false
 ---
 
-# Free and Open Books
+## Free and Open Books
 
-## CC0 Licensed Books
+### CC0 Licensed Books
 
 - [An Introduction to Bayesian Thinking A Companion to the Statistics with R Course](https://statswithr.github.io/book/) [Github](https://github.com/StatsWithR/book) License: CC0
 
-## MIT Licensed Books
+### MIT Licensed Books
 
 - [The Hitchhiker's Guide to Compression](https://go-compression.github.io/), [Github](https://github.com/go-compression/go-compression.github.io) License: MIT
 - [Computer Graphics from Scratch](https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html) License: MIT
 
-## BSD Licensed Books
+### BSD Licensed Books
 
 - [Learn Data Science](https://github.com/nborwankar/LearnDataScience) BSD
 - [Robotic Manipulaiton](https://manipulation.csail.mit.edu/) [Github](https://github.com/RussTedrake/manipulation) License: BSD
 
-## CC-BY Licensed Books
+### CC-BY Licensed Books
 
 - [Math in Society](https://www.opentextbookstore.com/mathinsociety/) License: CC-BY
 - [Statistic Done Wrong](https://www.statisticsdonewrong.com/) CC-BY
@@ -49,7 +49,7 @@ draft: false
 - [Web Mapping A Workbook for Interactive Cartography and Visualization on the Open Web](https://github.com/uwcartlab/webmapping) License: CC-BY
 - [Data Journalism](https://datajournalism.com/) License: CC-BY
 
-## CC-BY-NC Licensed Books
+### CC-BY-NC Licensed Books
 
 - [Data+Design](https://github.com/infoactive/data-design/) CC-BY-NC
 - [The Hitchhiker's Guide to Python](https://docs.python-guide.org/) CC-BY-NC
@@ -62,7 +62,7 @@ draft: false
 - [Introduction to Autonomous Robot](https://github.com/correll/Introduction-to-Autonomous-Robots) License: CC BY-NC
 - [Introduction to Computer Graphics](https://math.hws.edu/graphicsbook/) License: CC BY-NC-SA
 
-## CC-BY-NC-ND Licensed Books
+### CC-BY-NC-ND Licensed Books
 
 - [A Brief Introduction to Neural Networks](https://www.dkriesel.com/en/science/neural_networks) CC-BY-NC-ND
 - [Applied Artificial Neural Networks](https://www.mdpi.com/books/pdfview/book/236) CC-BY-NC-ND
@@ -70,7 +70,7 @@ draft: false
 - [R for Data Science by Garrett Grolemund](https://r4ds.had.co.nz/) [Github](https://github.com/hadley/r4ds) License: CC-NC-ND
 - [An Introduction to Computer Networks](https://intronetworks.cs.luc.edu/) License: CC-BY-NC-ND with some permission
 
-## Others
+### Others
 
 - [Community tutorials—pandas 1.2.0 documentation](https://pandas.pydata.org/docs/getting_started/tutorials.html)
 - [Think DSP](https://greenteapress.com/thinkdsp/html/index.html) License: CC-BY-NC
@@ -81,7 +81,7 @@ draft: false
 - [jvns/pandas-cookbook: Recipes for using Python's pandas library](https://github.com/jvns/pandas-cookbook)
 - [Chris Albon](https://chrisalbon.com/) : Notes On Using Data Science & Machine Learning To Fight For Something That Matters
 
-## Open Course
+### Open Course
 
 - [Open Course from Lumen - Lumen Learning](https://lumenlearning.com/courses/), example:
     - [College Success - Simple Book Production](https://courses.lumenlearning.com/lumencollegesuccessxtraining3/)
@@ -93,7 +93,7 @@ draft: false
     - [Lumen OHM - Beginning and Intermediate Algebra (Sections) - Wallace](https://ohm.lumenlearning.com/course/course.php?cid=558&guestaccess=true&utm_referrer=https%3A%2F%2Flumenlearning.com%2F)
     - [Boundless Physics - Simple Book Publishing](https://courses.lumenlearning.com/boundless-physics/)
 
-## Free eBook 2020
+### Free eBook 2020
 
 - [Coconino Community College - Open Source Textbooks](https://www.coconino.edu/open-source-textbooks)
 - [OpenTextBookStore Catalog](https://www.opentextbookstore.com/catalog.php)
@@ -106,7 +106,7 @@ draft: false
 - [HyperPhysics Concepts](http://hyperphysics.phy-astr.gsu.edu/hbase/index.html): free book on Physics, Electricity
 - [OpenIntro: developer and promoter of educational products that are free, transparent, and lower barriers to education.](https://www.openintro.org/)
 
-## Free eBook 2021
+### Free eBook 2021
 
 - [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
 - [Interpretable Machine Learning](https://christophm.github.io/interpretable-ml-book/)
@@ -132,7 +132,7 @@ draft: false
 - [Introduction to Machine Learning Interviews Book · MLIB](https://huyenchip.com/ml-interviews-book/)
 - [Tools and Jewels Computer Security and Internet](https://people.scs.carleton.ca/~paulv/toolsjewels.html)
 
-## eBook
+### eBook
 
 - [Algorithms for Decision Making](https://algorithmsbook.com/) License: CC-BY-NC-ND
 - [Algorithms for Optimization](https://algorithmsbook.com/optimization/#) License: CC-BY-NC-ND
@@ -143,19 +143,19 @@ draft: false
 - [Introduction to Nonlinear Optimization - Society for Industrial and Applied Mathematics](https://epubs.siam.org/doi/book/10.1137/1.9781611973655?mobileUi=0&)
 - [The Design of Approximation Algorithms](http://www.designofapproxalgs.com/)
 
-## Networking eBook
+### Networking eBook
 
 - [High Performance Browser Networking (O'Reilly)](https://hpbn.co/) License: CC-BY-NC-ND
 - [Beej's Guide to Network Programming](https://beej.us/guide/bgnet/) License: CC-BY-NC-ND
 - [Computer Networks: A Systems Approach—Computer Networks: A Systems Approach Version 6.2-dev documentation](https://book.systemsapproach.org/index.html) License: CC-BY
 - [Welcome to The TCP/IP Guide!](http://www.tcpipguide.com/)
 
-## Control eBook
+### Control eBook
 
 - [Introduction to PLC controllers - MikroElektronika](https://www.mikroe.com/ebooks/introduction-to-plc-controllers)
 - [MikroElektronika ebook platform - MikroElektronika](https://www.mikroe.com/ebooks)
 
-## Tech Book for Kids
+### Tech Book for Kids
 
 - [searchableguy/awesome-illustrated-guides: Awesome illustrated guides or children's books on technical topics.](https://github.com/searchableguy/awesome-illustrated-guides)
 - [Learning Machine Learning with a comic](https://cloud.google.com/products/ai/ml-comic-1)
@@ -166,7 +166,7 @@ draft: false
 - [Federated Learning](https://federated.withgoogle.com/)
 - [The Illustrated Children’s Guide to Kubernetes - Cloud Native Computing Foundation](https://www.cncf.io/the-childrens-illustrated-guide-to-kubernetes/)
 
-## 2021 eBook
+### 2021 eBook
 
 - [R for applied epidemiology and public health - The Epidemiologist R Handbook](https://epirhandbook.com/) License: CC-BY-NC
 - [Learn Python the Right way](https://learnpythontherightway.com/) License: GPL
@@ -189,14 +189,14 @@ draft: false
 - [barbagroup/CFDPython: A sequence of Jupyter notebooks featuring the "12 Steps to Navier-Stokes" http://lorenabarba.com/](https://github.com/barbagroup/CFDPython)
 - [The Joy of Cryptography](https://joyofcryptography.com/) License: CC-BY-NC
 
-## CS eBooks
+### CS eBooks
 
 - [Colin Stebbins Gordon Open CS Book List](https://csgordon.github.io/books.html)
 - [Algorithms by Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/) License: CC-BY, excep some lecture notes
 - [Open Data Structures](https://opendatastructures.org/) License: CC-BY
 - [Runestone Interactive Books](https://runestone.academy/runestone/books/index) License: CC-BY
 
-## 2022 eBook
+### 2022 eBook
 
 - [Approved Textbooks - American Inst. of Mathematics](https://aimath.org/textbooks/approved-textbooks/)
 - [DeZero Book](https://koki0702.github.io/dezero-book/en/index.html)

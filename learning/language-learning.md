@@ -6,42 +6,41 @@ date: 2022-10-11 08:30
 draft: false
 ---
 
-# Language Learning
-
 ## Language Learning
+
+### Language Learning
 
 - [Duolingo · Tips and Notes @ duome.eu](https://duome.eu/tips/en)
 - [www.captionpop.com](https://www.captionpop.com/?nl=en)
 
-## IPA : Pronounciation
+### IPA : Pronounciation
 
 - [IPA Chart](https://www.ipachart.com/)
 
 💡 : use IPA chart for map coordinate to word coding/decoding  
 💡 : use IPA chart for standard color to word coding/decoding
 
-## Language Learning with AI
+### Language Learning with AI
 
 - [Quazel](https://talk.quazel.com/chat/try)
 
-## Pronounciation for all languages
+### Pronounciation for all languages
 
 - [Forvo](https://forvo.com/)
 
-## Language Learn
+### Language Learn
 
 - [Felingua · Language Practice Made Easy](https://felingua.com/)
 
-
-## Language
+### Language
 
 - [Word Tips](https://word.tips/)
 - [Language Code](http://www.lingoes.net/en/translator/langcode.htm)
 
-## Linguistics
+### Linguistics
 
 - [Google Book NGram Word Search](https://books.google.com/ngrams)
 
-## Etymology
+### Etymology
 
 - [Etymological Wordnet](http://etym.org/)

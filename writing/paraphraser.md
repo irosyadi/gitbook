@@ -6,9 +6,9 @@ date: 2022-10-17 08:00
 draft: false
 ---
 
-# Sentence Paraphraser
+## Sentence Paraphraser
 
-# Paraphraser
+## Paraphraser
 
 - [Paraphrasing Tool - QuillBot AI](https://quillbot.com/), Free
 - [Writefull - Paraphraser](https://x.writefull.com/paraphraser/index.html#), Free one sentence

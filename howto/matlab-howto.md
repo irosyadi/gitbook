@@ -6,9 +6,9 @@ date: 2020-12-20 21:28:08
 draft: false
 ---
 
-# MATLAB How To
+## MATLAB How To
 
-## Uninstall Toolbox in MATLAB
+### Uninstall Toolbox in MATLAB
 
 - Toolboxes are managed from the Add-On Manager. To open the Add-On Manager:
 - Open the "Add-Ons" menu in the Environment section of the MATLAB toolstrip
@@ -20,7 +20,7 @@ draft: false
 - The MATLAB uninstaller will then launch. In the uninstaller, check the boxes for products you wish to uninstall, and uncheck the boxes for products you wish to keep.
 - Finally, click the "Uninstall" button to uninstall the toolboxes.
 
-## Understanding PID Block on Simulink
+### Understanding PID Block on Simulink
 
 ![PID in Simulink: Native block vs Handmade PID](_v_images/20210408112810129_27254.png)
 
@@ -51,9 +51,9 @@ For N=100, its frequency response is:
 Ideally, N will be as low as possible. The drawback of derivative action is ideal derivative has very high gain for high frequency signals. It means the high frequency measurement noise will generate large variations of the control signal.  
 To prevent this situation, the value of filter coefficient ‘N’ is taken to be low (2 < N < 20)
 
-## PID in MATLAB
+### PID in MATLAB
 
-### pid
+#### pid
 
 Create PID controller in parallel form, convert to parallel-form PID controller
 
@@ -65,7 +65,7 @@ $$
 
 This representation is in *parallel form*. When `Tf = 0`, the controller has no filter on the derivative action.
 
-### pidstd
+#### pidstd
 
 Create a PID controller in standard form, convert to standard-form PID controller
 
@@ -77,14 +77,14 @@ $$
 
 When `Ti = Inf`, the controller has no derivative action. When `Td = 0`, the controller has no derivative action. When `N = Inf`, the controller has no filter on the derivative action. $\frac{T_d}{N}= T_f$
 
-### PID Tuner
+#### PID Tuner
 
 Tune PID controllers.  
 Command: `pidTuner` Open PID Tuner for PID tuning.  
 The PID Tuner app automatically tunes the gains of a PID controller for a SISO plant to achieve a balance between performance and robustness.  
 Form—Controller form in PID Tuner: 'Parallel' - 'Standard'. See `pid` and `pidstd`.
 
-### pidtune
+#### pidtune
 
 PID tuning algorithm for linear plant model.  
 `C=pidtune(sys,type)` designs a PID controller of type `type` for the plant `sys`. If `type` specifies a one-degree-of-freedom (1-DOF) PID controller, then the controller is designed for the unit feedback loop as illustrated:
@@ -99,7 +99,7 @@ PID tuning algorithm for linear plant model.
 - `PID`—Proportional, integral, and derivative
 - `PIDF`—Proportional, integral, and derivative with first-order filter on derivative term
 
-### PID Controller
+#### PID Controller
 
 Continuous-time or discrete-time PID controller in Simulink.  
 The PID Controller block implements a PID controller (PID, PI, PD, P only, or I only).

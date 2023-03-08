@@ -6,7 +6,7 @@ date: 2022-06-02 17:15:49
 draft: false
 ---
 
-# Curated Papers
+## Curated Papers
 
 - [42 Papers](https://42papers.com/) Trending papers in AI and Computer Science
 - [Papers with Code](https://paperswithcode.com/)
@@ -18,17 +18,17 @@ draft: false
 - [ExplainThisPaper- Medical Papers Explained Simply](https://explainthispaper.com/)
 - [Research Digest](https://digest.bps.org.uk/)
 
-# Paper Discussion
+## Paper Discussion
 
 - [ShortScience.org - Making Science Accessible!](https://www.shortscience.org/)
 - [Venues - OpenReview](https://openreview.net/)
 
-## Paper Curation
+### Paper Curation
 
 - [Featured Papers - Read by QxMD](https://read.qxmd.com/)
 - [Top arXiv papers](https://scirate.com/)
 - [arxiv-sanity](https://arxiv-sanity-lite.com/)
 
-## Article
+### Article
 
 - [Papers We Love](https://paperswelove.org/)

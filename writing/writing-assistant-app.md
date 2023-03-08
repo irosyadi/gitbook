@@ -6,7 +6,7 @@ date: 2022-06-03 08:24:13
 draft: false
 ---
 
-# Awesome Writing Assistant Tools
+## Awesome Writing Assistant Tools
 
 Related links:  
 🔗 [Paper and Article Search Tools](../academia/paper-search.md)  
@@ -17,53 +17,53 @@ Related links:
 🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
-## Word-level
+### Word-level
 
-[[grammar-checker|Grammar Checkers]]  
-[[dictionary|Online Dictionaries]]  
-[[thesaurus|Thesaurus]]  
-[[phrase-bank|Word Phrase Banks]]
+[Grammar Checkers](grammar-checker.md)  
+[Online Dictionaries](dictionary.md)  
+[Thesaurus](thesaurus.md)  
+[Word Phrase Banks](phrase-bank.md)
 
-## Sentence-level
+### Sentence-level
 
-[[paraphraser|Sentence Paraphraser]]
+[Sentence Paraphraser](paraphraser.md)
 
-## Content-level
+### Content-level
 
-[[plagiarism-checker|Plagiarism Checkers]]
+[Plagiarism Checkers](plagiarism-checker.md)
 
-## Generator
+### Generator
 
-### Text Generator
+#### Text Generator
 
-- [[GPT-playground|Free GPT Playground]]
+- [Free GPT Playground](GPT-playground.md)
 - [CoAuthor–Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/)
 - [Browse CoAuthor–CoAuthor–Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/browse/)
 
-### Title Generator
+#### Title Generator
 
 - [Writefull - Title Generator](https://x.writefull.com/title-generator/index.html)
 
-### Text Summarizer
+#### Text Summarizer
 
 - [Text Summarizer - QuillBot AI](https://quillbot.com/summarize), Free
 
-## Assistants
+### Assistants
 
-### Book Publication Assistant
+#### Book Publication Assistant
 
-[[book-publication]]
+[book-publication](book-publication.md)
 
-### Publication Assistant
+#### Publication Assistant
 
 - [Trinka - Grammar Checker For Academic & Technical Writing](https://cloud.trinka.ai/editor/) Premium
 - [Writefull Revise—Writefull](https://www.writefull.com/writefull-revise) Free
 
-### Readability Score Checkers
+#### Readability Score Checkers
 
 - [Readability score - Readability test - Reading level calculator - Readable](https://readable.com/)
 
-### Writing Assistant Suites
+#### Writing Assistant Suites
 
 - [QuillBot AI](https://quillbot.com/): paraphraser, grammar checker, plagiarism checker, summarizer, citation generator, extension (Chrome, Google Docs, MS Word). Premium: $9.95 USD/month
 - [Trinka](https://www.trinka.ai/): grammar checker, publication assistant, consistency checker, extension (Browser, MS Word (Premium)). Free Up to 10,000 words/month, Premium: $20 USD/month
@@ -83,11 +83,11 @@ Related links:
 - [Compose AI: Automate Your Writing](https://www.compose.ai/)
 - [how to write well - You.com - The search engine you control.](https://you.com/search?q=how%20to%20write%20well)
 
-## Language Editing Service
+### Language Editing Service
 
 - [List in PNAS](https://www.pnas.org/page/authors/language-editing)
 
-## Other Writing Tools
+### Other Writing Tools
 
 - [ProWritingAid: The AI-Powered Writing Assistant](https://prowritingaid.com/) premium
 - [Linggle - Language Reference Search Engines - NLPLab](https://linggle.com/) English grammar and linguistic search engine. It helps you check word choice, usage and collocations in order to make your writing more natural. . free
@@ -97,7 +97,7 @@ Related links:
 - [Academic Phrasebank - The University of Manchester](https://www.phrasebank.manchester.ac.uk/) free
 - [Voyant Tools](https://voyant-tools.org/). open-source online tool that supports scholarly reading and interpretation of a body of text and corpus. free
 
-## Comparison of Free Writing Assistants
+### Comparison of Free Writing Assistants
 
 - Compose.ai (extension: Chrome, features: autocomplete)
 - Writer.com (extension: Chrome, Word, features: autocorrect, grammar, spelling, punctuation)

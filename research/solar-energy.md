@@ -6,16 +6,16 @@ date: 2022-10-23 21:56
 draft: false
 ---
 
-# Solar Energy
+## Solar Energy
 
-## PV System
+### PV System
 
 - Program PV for Cold Storage
 
-## Solar Powered Water from Air
+### Solar Powered Water from Air
 
 [google/h2e_technical_documentation](https://github.com/google/h2e_technical_documentation)
 
-## Solar Power
+### Solar Power
 
 - [Mobile Solar Power Made Easy! - Mobile Solar Power: Made Easy! DIY Off-grid Solar Power!](https://www.mobile-solarpower.com/)

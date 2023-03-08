@@ -6,9 +6,9 @@ date: 2022-10-25 09:25
 draft: false
 ---
 
-# Classless CSS
-
 ## Classless CSS
+
+### Classless CSS
 
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/)
 - [GDCSS - An accessible alternative to HTML5 CSS resets](https://gdcss.netlify.app/)
@@ -18,13 +18,13 @@ draft: false
 - [holiday.css - a minimalist classless CSS theme](https://holidaycss.js.org/)
 - [Water.css](https://watercss.kognise.dev/)
 
-### List of Clasless CSS
+#### List of Clasless CSS
 
 - [CSS Bed](https://www.cssbed.com/)
 - [Drop-in Minimal CSS](https://dohliam.github.io/dropin-minimal-css/)
 - [https://github.com/dbohdan/classless-css](https://github.com/dbohdan/classless-css)
 
-## Simple CSS
+### Simple CSS
 
 - [Simple.css - A classless CSS framework](https://simplecss.org/)
 - [troxler/awesome-css-frameworks: List of awesome CSS frameworks in 2022](https://github.com/troxler/awesome-css-frameworks)
@@ -38,7 +38,7 @@ draft: false
 - [Home · Marx](https://mblode.github.io/marx/)
 - [sw-yx/spark-joy: ✨😂easy ways to add design flair, user delight, and whimsy to your product.](https://github.com/sw-yx/spark-joy)
 
-## Minimal CSS
+### Minimal CSS
 
 - [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#drop-in-css-frameworks)
 - [CSS Bed](https://www.cssbed.com/)
@@ -83,7 +83,7 @@ draft: false
 - [picocss](https://picocss.com/examples/preview/)
 - [https://github.com/kevquirk/simple.css](https://github.com/kevquirk/simple.css)
 
-## CSS
+### CSS
 
 - [dbohdan/classless-css: A list of classless CSS themes/frameworks with screenshots](https://github.com/dbohdan/classless-css)
 - [Pico.css • Minimal CSS Framework for semantic HTML](https://picocss.com/#examples)

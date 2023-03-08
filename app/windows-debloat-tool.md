@@ -6,9 +6,9 @@ date: 2022-10-11 08:37
 draft: false
 ---
 
-# Windows Debloat Tools
+## Windows Debloat Tools
 
-## Windows Debloat
+### Windows Debloat
 
 * [Sycnex/Windows10Debloater: Script to remove Windows 10 bloatware.](https://github.com/Sycnex/Windows10Debloater)
 * [ROS Explorer FAQ](http://www.foxplanet.de/explorer/)

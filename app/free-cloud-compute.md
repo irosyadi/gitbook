@@ -6,7 +6,7 @@ date: 2020-11-14 08:32:12
 draft: false
 ---
 
-# Free Cloud Compute Infrastructure
+## Free Cloud Compute Infrastructure
 
 - [IBM Cloud Free Tier](https://www.ibm.com/cloud/free/)
 - [Google Cloud Platform Free Tier](https://cloud.google.com/free)
@@ -17,6 +17,6 @@ draft: false
 - [Alibaba Free](https://www.alibabacloud.com/campaign/free-trial)
 - [Red Hat Openshift](https://www.openshift.com/trial/)
 
-## Cloud Computing Comparison
+### Cloud Computing Comparison
 
 - [CloudOptimizer](https://cloudoptimizer.io/)

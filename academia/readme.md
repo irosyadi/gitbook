@@ -6,13 +6,13 @@ date: 2020-06-01 20:09:34
 draft: false
 ---
 
-# Academia
+## Academia
 
-## Academia Generic Tools
+### Academia Generic Tools
 
-- [[paper-tool]]
+- [paper-tool](paper-tool.md)
 
-## Academia Search Tools
+### Academia Search Tools
 
 - [thesis-search](thesis-search.md)
 - [paper-search](paper-search.md)
@@ -21,7 +21,7 @@ draft: false
 - [browser-research-tool](browser-research-tool.md)
 - [dataset](dataset.md)
 
-## Academia Writing Tools
+### Academia Writing Tools
 
 - [ms-words-tool](ms-words-tool.md)
 - [paper-writing-howto](paper-writing-howto.md)
@@ -30,16 +30,16 @@ draft: false
 - [writing-prompt](writing-prompt.md)
 - [latex-tool](latex-tool.md)
 
-## Academia Reading Tools
+### Academia Reading Tools
 
 - [paper-read-howto](paper-read-howto.md)
 - [paper-reading-tool](paper-reading-tool.md)
 
-## Academia Journal Tools
+### Academia Journal Tools
 
 - [journal-tool](journal-tool.md)
 
-## Academia Reading List
+### Academia Reading List
 
 - [funny-paper](funny-paper.md)
 - [paper-curation](paper-curation.md)

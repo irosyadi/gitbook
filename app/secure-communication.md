@@ -6,9 +6,9 @@ date: 2022-10-23 22:02
 draft: false
 ---
 
-# Secure Communications
-
 ## Secure Communications
+
+### Secure Communications
 
 - [HN Discussion](https://news.ycombinator.com/item?id=24031885)
 - [Briar](https://briarproject.org/how-it-works/)

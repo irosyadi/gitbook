@@ -6,24 +6,24 @@ date: 2020-06-29 19:59:38
 draft: false
 ---
 
-# Exobrain Blogs and Digital Gardens
+## Exobrain Blogs and Digital Gardens
 
 > list of interesting exobrain, second brain, zettelkasten or evergreen blogs
 
-## Second Brain
+### Second Brain
 
 [How to build a second brain as a software developer - Aseem Thakar](https://aseemthakar.com/how-to-build-a-second-brain-as-a-software-developer/)
 
-## Digital Garden Platform
+### Digital Garden Platform
 
 - [🎉 Welcome to Innos Note - Innos Note](https://innos.io/space/c1259ea0-2879-b587-916a-766a58fe9441?ps=c1259ea0-2879-b587-916a-766a58fe9441)
 
-## List of Blog with Exobrain (Second Brain) Method
+### List of Blog with Exobrain (Second Brain) Method
 
 - [Nikita Voloboev](https://wiki.nikitavoloboev.xyz) Platform: Gitbook
 - [Brenan Letkeman](https://ltkmn.gitbook.io/brendex/) Platform: Gitbook
 
-## List of Blog with Zettelkasten (Evergreen, Digital Garden) Method
+### List of Blog with Zettelkasten (Evergreen, Digital Garden) Method
 
 - [Andy Matuschak](https://notes.andymatuschak.org/About_these_notes) Platform: ??
 - [Maz Stoibers alias mxstbr](https://notes.mxstbr.com/) Platform: Andy-style
@@ -34,7 +34,7 @@ draft: false
 - [Jethro Kuan](https://braindump.jethro.dev/) Stacks: org-roam
 - [Srid CA](https://www.srid.ca/356bec10.html)
 
-## List of Digital Gardens
+### List of Digital Gardens
 
 1. [Paul Copplestone](https://paul.copplest.one/) Platform: Vuepress
 2. [The Blue Book](https://lyz-code.github.io/blue-book/) Platform: MkDocs
@@ -56,18 +56,18 @@ draft: false
 18. [Mental Nodes](https://www.mentalnodes.com/) Stacks: Tiddlywiki
 19. [Home · Scott Spence](https://scottspence.com/) Stacks: Gatsby
 
-## List of Second Brain Blog
+### List of Second Brain Blog
 
 1. [Second Brain](https://github.com/KasperZutterman/Second-Brain)
 2. [Meta Knowledge](https://github.com/RichardLitt/meta-knowledge)
 3. [Wiki Workflow](https://wiki.nikitavoloboev.xyz/other/wiki-workflow)
 4. [Google Sheet List](https://docs.google.com/spreadsheets/d/1KtEjnuZEHxUmoiA37_MMM4OFyQcbwVUaLBFa12P8cnU/edit#gid=0)
 
-## Apps for Second Brain Blog
+### Apps for Second Brain Blog
 
 - Gitbook
 
-## Apps for Digital Garden Blog
+### Apps for Digital Garden Blog
 
 - [Maggie Appleton](https://github.com/MaggieAppleton/digital-gardeners)
    - [Gatsby Theme Brain](https://github.com/aengusmcmillin/gatsby-theme-brain) [Aengus](https://aengusmcmillin.com/brain)
@@ -78,9 +78,8 @@ draft: false
 - [binyamin/eleventy-garden: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
 - [crisrojas/Zettels: Zettels Hugo Theme](https://github.com/crisrojas/Zettels)
     - [Punto de entrada - crisrojas](https://www.crisrojas.com/notes/)
-    
 
-## Digital Garden Concepts
+### Digital Garden Concepts
 
 - [A Meta-Tour of This Site](https://maggieappleton.com/metatour)
 - [MaggieAppleton/maggieappleton.com-V2: A digital garden built with Next.js, React, and MDX. Featuring loosely opinionated notes, half-formed ideas, and content that is always growing.](https://github.com/MaggieAppleton/maggieappleton.com-V2)

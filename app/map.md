@@ -6,80 +6,80 @@ date: 2020-06-16 19:51:58
 draft: false
 ---
 
-# Awesome List of Maps
+## Awesome List of Maps
 
 Related links:  
 🔗 [app/Awesome List of Maps](/app/map)  
 🔗 [app/Map Tools](/app/map-tool)  
 🔗 [app/Earth Map and Tools](/app/earth-map)  
 
-## General Purpose
+### General Purpose
 
 - [HERE WeGo](https://wego.here.com/) - Maps, navigation and routes.
 - [OpenStreetMap](https://www.openstreetmap.org/) - The free wiki world map.
 - [Open Maps for Europe - Eurogeographics](https://www.mapsforeurope.org/)
 
-## Public Transport
+### Public Transport
 
 - [OpenPTMap](https://openptmap.org/) - Public transport lines.
 - [Mapnificent](https://www.mapnificent.net/) - Dynamic public transport travel time maps.
 
-## Street View
+### Street View
 
 - [Mapillary](https://www.mapillary.com/app/) - Street-level imagery, powered by collaboration and computer vision.
 - [Street View](https://www.google.com/maps/) - 360 degree views of various places.
 - [MapCrunch - Random Street View](https://www.mapcrunch.com/)
 
-## Light Pollution
+### Light Pollution
 
 - [Light pollution map](https://www.lightpollutionmap.info/)
 
-## Mercator projection
+### Mercator projection
 
 - [The True Size Of](https://thetruesize.com/) - Compare the relative size of countries.
 
-## Topography
+### Topography
 
 - [OpenTopoMap](https://opentopomap.org/) - Free topographic maps.
 
-## Cycle
+### Cycle
 
 - [OpenCycleMap](https://www.opencyclemap.org/) - Global cycling map for overview and planning.
 
-## Sea
+### Sea
 
 - [OpenSeaMap](https://map.openseamap.org/) - Free nautical chart.
 
-## Train
+### Train
 
 - [OpenRailwayMap](https://www.openrailwaymap.org/) - Free map of the world's railway infrastructure.
 - [Zugverfolgung.com](https://www.zugverfolgung.com/) - Live train tracking for Germany, Austria, Switzerland Netherlands, and Belgium.
 - [Rail Radar](https://raildar.co.uk/radar.html) - Real time movements of trains in the UK.
 - [Track Your Train Map](https://www.amtrak.com/track-your-train.html) - Live train tracking in the US.
 
-## Airspace
+### Airspace
 
 - [Flightradar24](https://www.flightradar24.com/) - Real time flight tracker map.
 
-## Satellites
+### Satellites
 
 - [ISSTracker](https://www.isstracker.com/) - Real-time location tracking of the international space station.
 - [Satellite Map](https://maps.esri.com/rc/sat2/index.html) - Current position and trajectory of 16,000 manmade objects orbiting the earth.
 
-## Sights
+### Sights
 
 - [OpenTripMap](https://opentripmap.com/) - Map service for sightseeing and travel planning.
 - [Wikimapia](https://wikimapia.org/) - Editable map of marked places.
 
-## Accommodation
+### Accommodation
 
 - [Open Camping Map](https://opencampingmap.org) - World map of camping sites.
 
-## Food
+### Food
 
 - [mundraub](https://mundraub.org/map) - Edible plants and fruits worldwide.
 
-## Weather
+### Weather
 
 - [Windfinder](https://www.windfinder.com/) - Wind forecasts, wind radar, wind force and weather.
 - [Windy](https://www.windy.com/) - Wind map, weather forecast and more than 40 other layers.
@@ -89,14 +89,14 @@ Related links:
 - [Earth Nullschool](https://earth.nullschool.net/) - Wind and weather map.
 - [Dark Sky Map](https://maps.darksky.net/?3d) - map with environmental data layers.
 
-## Wind
+### Wind
 
 - [earth :: a global map of wind, weather, and ocean conditions](https://earth.nullschool.net/#current/wind/surface/level/orthographic=-250.92,-7.28,19601/loc=109.317,-7.423)
 - [Windy: Wind map & weather forecast](https://www.windy.com/?-7.290,109.405,9)
 - [Ventusky - Wind, Rain and Temperature Maps](https://www.ventusky.com/?p=-7.23;109.53;8&l=temperature-2m)
 - [Windfinder - Wind map, wind forecast & weather reports](https://www.windfinder.com/#10/-7.4518/109.3181)
 
-## Catastrophes
+### Catastrophes
 
 - [Earthquake Track](https://earthquaketrack.com/) - Map of earthquakes.
 - [Forest Watch](https://fires.globalforestwatch.org/map) - Monitoring of forest and land fires.
@@ -110,75 +110,75 @@ Related links:
 - [Geofon](https://geofon.gfz-potsdam.de/) earthquake
 - [Shakenet](https://shakenet.raspberryshake.org/) earthquake
 
-## Historic
+### Historic
 
 - [Old Maps Online](https://www.oldmapsonline.org) - Historical maps around the world.
 - [Mapire](https://mapire.eu/) - Portal for historical maps.
 - [Dutch Colonial Maps](https://ubl.webattach.nl/apps/s7)
 - [Indonesia Maps - Perry-Castañeda Map Collection - UT Library Online](https://maps.lib.utexas.edu/maps/indonesia.html)
 
-## 3D Earth
+### 3D Earth
 
 - [Blue Marble](https://bluemarble.nitk.in/static.html)
 
-## Social Humanity
+### Social Humanity
 
 - [Million Neighborhoods](https://millionneighborhoods.org/) - Map of slums or informal settlements.
 - [Sprawl Map](https://sprawlmap.org/) - Mapping the effect of urbanization.
 - [Language Maps](https://langscape.umd.edu/map.php)
 
-## Satellite
+### Satellite
 
 - [Low Earth Orbit Visualization - LeoLabs](https://platform.leolabs.space/visualization)
 
-## Solar Map
+### Solar Map
 
 - [View Shade on a Map - Shade Map](https://shademap.app/#-7.2484,112.7419,10z,1641687803669t,0b,0p)
 - [ShadowCalculator - Show sun shadows on google maps](http://shadowcalculator.eu/#/lat/50.08/lng/19.9)
 
-## Hydrological Map
+### Hydrological Map
 
 - [River Runner Global](https://river-runner-global.samlearner.com/)
 - [Global River Runner - global-river-runner](https://ksonda.github.io/global-river-runner/)
 
-## Geological Map
+### Geological Map
 
 - [Ancient Earth globe](https://dinosaurpictures.org/ancient-earth#260=)
 - [Dinosaur Images & Facts - The Online Database](https://dinosaurpictures.org/)
 
-## Extraterrestrial
+### Extraterrestrial
 
-### Nightsky
+#### Nightsky
 
 - [Stellarium Web](https://stellarium-web.org/) - Virtual online planetarium.
 
-### Moon
+#### Moon
 
 - [Moon Trek](https://trek.nasa.gov/moon/) - NASA exploration portal for the moon.
 - [ArcGIS Web Application](https://carto.maps.arcgis.com/apps/webappviewer3d/index.html) - Moon Map
 
-### Mars
+#### Mars
 
 - [Mars Trek](https://trek.nasa.gov/mars/) - NASA exploration portal for the Mars.
 - [Mars26 - High Resolution Mars Map](https://mars26.com/)
 - [Google Earth Mars](https://www.google.com/mars/)
 
-### Solar System
+#### Solar System
 
 - [3D Solar System Simulator](https://theskylive.com/3dsolarsystem) - Orbits of planets and more than 150 comets and asteroids.
 - [Solar System Scope](https://www.solarsystemscope.com/) - Solar system, night sky and outer space in real time.
 
-### Milky Way
+#### Milky Way
 
 - [100,000 Stars](https://stars.chromeexperiments.com/) - Interactive visualization of the stellar neighborhood.
 
-### Universe
+#### Universe
 
 - [The Universe in 3D](https://in-the-sky.org/ngc3d.php) - Interactive 3D map of the universe.
 
-## Indonesia
+### Indonesia
 
-### Geospatial Indonesia
+#### Geospatial Indonesia
 
 - <https://gis.dukcapil.kemendagri.go.id/peta/>
 - <https://tanahair.indonesia.go.id/portal-web>

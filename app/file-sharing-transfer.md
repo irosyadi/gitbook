@@ -6,13 +6,13 @@ date: 2020-11-20 08:52:22
 draft: false
 ---
 
-# File Sharing, File Transfer and File Sync
+## File Sharing, File Transfer and File Sync
 
-## List
+### List
 
 - [Zack's Notablog - Send a File](https://schollz.github.io/send-a-file/)
 
-## Local Peer to Peer File Sharing - Transfer
+### Local Peer to Peer File Sharing - Transfer
 
 - [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
 - [Snapdrop](https://snapdrop.net/) - Local web based P2P file transfer
@@ -30,7 +30,7 @@ draft: false
 - [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
 - [Share - Zack Scholl](https://schollz.com/blog/share/)
 
-## Cloud based Peer to Peer File Sharing - Transfer
+### Cloud based Peer to Peer File Sharing - Transfer
 
 - [Jirafeu](https://jirafeau.net/) [github](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer
     - example: [rosyadi.com](https://rosyadi.com/send/)
@@ -42,7 +42,7 @@ draft: false
 - [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
 - [cl1p.net - The internet clipboard](https://cl1p.net/)
 
-## Web-RTC File Transfer
+### Web-RTC File Transfer
 
 - [Wormhole](https://wormhole.app/)
 - [Snapdrop](https://snapdrop.net/) (includes messaging)
@@ -57,14 +57,14 @@ draft: false
 - [Fast and secure file transfer - Dropbox](https://www.dropbox.com/transfer)
 - [Send](https://send.vis.ee/)
 
-## Decentralized File Transfer
+### Decentralized File Transfer
 
 - [SkyTransfer](https://skytransfer.hns.siasky.net/#/)
 
-## File Send
+### File Send
 
 - [Sendfiles.online](https://sendfiles.online/?lang=en)
 
-## Sync
+### Sync
 
 - [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)

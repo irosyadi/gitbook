@@ -6,9 +6,9 @@ date: 2022-06-11 10:12:41
 draft: false
 ---
 
-# Deepfake - This Thing Does Not Exist
+## Deepfake - This Thing Does Not Exist
 
-## This Thing Does Not Exist
+### This Thing Does Not Exist
 
 - [This x does not exist](https://thisxdoesnotexist.com/)
 - [This eye does not exist](https://thiseyedoesnotexist.com/story/)
@@ -39,7 +39,7 @@ draft: false
 - [Text To Book Cover (Beta)](https://stockimg.ai/text-to-book-cover)
 - [This Hacker News Does Not Exist](https://coxomb.github.io/This-Hacker-News-Does-Not-Exist/#)
 
-## Text to Image Generation
+### Text to Image Generation
 
 - [lucidrains/deep-daze: Simple command line tool for text to image generation using OpenAI's CLIP and Siren (Implicit neural representation network)](https://github.com/lucidrains/deep-daze)
 - [Weights & Biases–Developer tools for ML](https://wandb.ai/site)
@@ -49,13 +49,13 @@ draft: false
 - [Baseten](https://app.baseten.co/apps/RqgR9PV/operator_views/VBnA4qp)
 - [DALL·E mini - a Hugging Face Space by flax-community](https://huggingface.co/spaces/flax-community/dalle-mini)
 
-## Deepfake Face Photo Generator
+### Deepfake Face Photo Generator
 
 - [Photo Generation for profile pics](https://generated.photos/anonymizer)
 - [Face Generator–Generate Faces Online Using AI](https://generated.photos/face-generator)
 - [iperov/DeepFaceLive](https://github.com/iperov/DeepFaceLive)
 
-## Image Generator
+### Image Generator
 
 - [Object Wake-up: 3-D Object Reconstruction, Animation, and in-situ Rendering from a Single Image](https://arxiv.org/abs/2108.02708)
 - [🤖 🖼 AI Text-To-Image Art Generator - NightCafe Creator](https://creator.nightcafe.studio/text-to-image-art)
@@ -64,7 +64,7 @@ draft: false
 - [Google Colab](https://colab.research.google.com/drive/1Foi0mCSE6NrW9oI3Fhni7158Krz4ZXdH)
 - [Generative Tools - Google Docs](https://docs.google.com/document/d/1N57oAF7j9SuHcy5zg2VZWhttLwR_uEldeMr-VKzlVIQ/edit)
 
-## Generative Art
+### Generative Art
 
 - [Waifu Labs - Welcome to Waifu Labs v2: How do AIs Create?](https://waifulabs.com/blog/ai-creativity)
 - [Waifu Labs - Magical Anime Portraits](https://waifulabs.com/)
@@ -87,7 +87,7 @@ draft: false
 - [Trianglify.io · Low Poly Pattern Generator](https://trianglify.io/)
 - [https://www.artbreeder.com/landing_page/](https://www.artbreeder.com/landing_page/)
 
-## Generative Patterns
+### Generative Patterns
 
 - [Generative Art with Compositional Pattern Producing Networks and GANs - K](https://kwj2104.github.io/2018/cppngan/)
     - [Generative Art with CPPN-GANs Part II - K](https://kwj2104.github.io/2018/cppngan-2/)
@@ -97,22 +97,22 @@ draft: false
 - [Making deep neural networks paint to understand how they work - by Paras Chopra - Towards Data Science](https://towardsdatascience.com/making-deep-neural-networks-paint-to-understand-how-they-work-4be0901582ee)
     - [paraschopra/abstract-art-neural-network: Generating abstract art through neural networks in PyTorch](https://github.com/paraschopra/abstract-art-neural-network)
 
-## Image Generation Detector
+### Image Generation Detector
 
 - [AI Generated Image Detector](https://www.galeras.io/)
 - [Deepfake detection by human crowds, machines, and machine-informed crowds - PNAS](https://www.pnas.org/content/119/1/e2110013119)
 
-## Not Exist
+### Not Exist
 
 - [This Bench Does Not Exist](https://doesnotexist.openbenches.org/)
 
-## Not Exist
+### Not Exist
 
 - [SafeAGI - This AI Does Not Exist](https://thisaidoesnotexist.com/)
 - [thesephist/modelexicon: This AI Does Not Exist: generate realistic descriptions of made-up machine learning models.](https://github.com/thesephist/modelexicon)
 - [The Weird and Wonderful World of AI Art](https://jxmo.notion.site/The-Weird-and-Wonderful-World-of-AI-Art-b9615a2e7278435b98380ff81ae1cf09)
 
-## Not Exist
+### Not Exist
 
 - [This Food Does Not Exist 🍪🍰🍣🍹 - stylegan2-flax-tpu](https://nyx-ai.github.io/stylegan2-flax-tpu/)
 - [Nyx.gallery - AI-generated photography](https://nyx.gallery/)

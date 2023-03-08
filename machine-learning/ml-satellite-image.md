@@ -6,9 +6,9 @@ date: 2020-10-11 21:18:50
 draft: false
 ---
 
-# Machine Learning for Satellite Images
+## Machine Learning for Satellite Images
 
-## Notes
+### Notes
 
 - [Satellite Image Deep Learning](https://github.com/robmarkcole/satellite-image-deep-learning)
 - [Try out deep learning models online on Google Colab](https://github.com/tugstugi/dl-colab-notebooks)
@@ -17,15 +17,15 @@ draft: false
 - [Satellite Imagery Classification](https://www.azavea.com/blog/2020/01/02/how-to-find-the-most-recent-satellite-imagery/)
 - [Machine Learning Satellite Imagery](https://www.azavea.com/blog/2019/11/05/an-introduction-to-satellite-imagery-and-machine-learning/)
 
-## Indonesia Landcover Maps
+### Indonesia Landcover Maps
 
 - [Kementerian LHK](https://geoportal.menlhk.go.id/arcgis/rest/services)
 
-## Open Source GIS Tools
+### Open Source GIS Tools
 
 - [History of Open Source GIS](https://makepath.com/history-of-open-source-gis/)
 
-### SASPlanet
+#### SASPlanet
 
 [SASPlanet at SASGIS](http://www.sasgis.org/sasplaneta/)  
 [SASPlanet FAQ](http://www.sasgis.org/forum/viewtopic.php?f=2&t=986)  

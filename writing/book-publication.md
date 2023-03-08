@@ -6,9 +6,9 @@ date: 2022-10-17 09:48
 draft: false
 ---
 
-# Book Publication
+## Book Publication
 
-## Self-publishing Book
+### Self-publishing Book
 
 - [So you want to self-publish books and courses on programming - CSS-Tricks](https://css-tricks.com/so-you-want-to-self-publish-books-and-courses-on-programming/)
 - [The $61,392 Book Launch That Let Me Quit My Job](https://adamwathan.me/the-book-launch-that-let-me-quit-my-job/)

@@ -6,9 +6,9 @@ date: 2020-10-11 22:31:46
 draft: false
 ---
 
-# Arxiv and Paper Preprint
+## Arxiv and Paper Preprint
 
-## List of Arxiv and Paper Preprint Sites
+### List of Arxiv and Paper Preprint Sites
 
 - [Engrxiv](https://engrxiv.org/) Engineering
 - [Biorxiv](https://www.biorxiv.org/) Biological
@@ -24,7 +24,7 @@ draft: false
 - [List of Preprint Servers](https://asapbio.org/preprint-servers)
 - [Home :: SSRN](https://www.ssrn.com/index.cfm/en/)
 
-## Arxiv Tools
+### Arxiv Tools
 
 - [Arxiv Vanity](https://www.arxiv-vanity.com/) convert arxiv-pdf to html
 - [Arxiv Sanity](https://www.arxiv-sanity.com/) web interface for browsing, search and filtering recent arxiv submissions
@@ -34,17 +34,17 @@ draft: false
 - [arXiv Vanity–Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
 - [ar5iv–Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
 
+### Preprints List
 
-## Preprints List
-https://www.arxiv-vanity.com/
-https://www.ssrn.com/
-https://eartharxiv.org/
-https://osf.io/preprints/
-https://www.preprints.org/
-https://f1000research.com/
-https://www.prepubmed.org/
-https://vixra.org/
-https://arxiv.org/
-https://engrxiv.org/
-https://www.techrxiv.org/
-https://www.authorea.com/
+<https://www.arxiv-vanity.com/>  
+<https://www.ssrn.com/>  
+<https://eartharxiv.org/>  
+<https://osf.io/preprints/>  
+<https://www.preprints.org/>  
+<https://f1000research.com/>  
+<https://www.prepubmed.org/>  
+<https://vixra.org/>  
+<https://arxiv.org/>  
+<https://engrxiv.org/>  
+<https://www.techrxiv.org/>  
+<https://www.authorea.com/>

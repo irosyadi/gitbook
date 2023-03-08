@@ -6,9 +6,9 @@ date: 2022-10-11 08:32
 draft: false
 ---
 
-# Machine Learning Embedded Devices
-
 ## Machine Learning Embedded Devices
+
+### Machine Learning Embedded Devices
 
 - [Edge Impulse](https://www.edgeimpulse.com/)
 - [TinyML Book](https://tinymlbook.com/)

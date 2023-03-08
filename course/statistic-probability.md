@@ -6,7 +6,7 @@ date: 2021-01-01 08:00:30
 draft: false
 ---
 
-# Statistic and Probability
+## Statistic and Probability
 
 - [Statistics 110: Probability](https://projects.iq.harvard.edu/stat110/home)
     - [Stastitics 110 free book - Google Drive](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/view)

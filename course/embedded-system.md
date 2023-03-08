@@ -6,12 +6,12 @@ date: 2021-01-14 19:16:12
 draft: false
 ---
 
-# Embedded Systems
+## Embedded Systems
 
-## Free Book
+### Free Book
 
 - [F(E)](https://f-of-e.org/) Foundations of Embedded Systems
 
-## Free Course
+### Free Course
 
 - [Digital Design Course - edX](https://www.edx.org/course/digital-design-2)

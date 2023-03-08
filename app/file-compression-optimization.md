@@ -6,9 +6,9 @@ date: 2022-10-20 19:13
 draft: false
 ---
 
-# File Compression Optimization
-
 ## File Compression Optimization
+
+### File Compression Optimization
 
 * [8 Best Free Lossless Image Compression Software For Windows](https://listoffreeware.com/free-lossless-image-compression-software-windows/)
 * [Free Online Image Optimizer · Kraken.io](https://kraken.io/web-interface)
@@ -20,11 +20,11 @@ draft: false
 * [FileOptimizer - Software Javier Gutiérrez Chamorro (Guti): FileOptimizer, SumatraPDFOpt, TBClamAV, ClamAVOpt, RealSpeed, RLE64, PatchPE, UPTIME, WinVer, TXT2PDF, Lamark, XPlorer, SMETAR, MEMTRACE, ZEROFILL](https://nikkhokkho.sourceforge.io/static.php?page=FileOptimizer)
 * [Optimized Image Optimization - Recompressor](https://recompressor.com/)
 
-## Compression Tools
+### Compression Tools
 
 * [Compress files online free to reduce size without losing quality](https://products.fileformat.app/compress/)'
 	* filetype PDF, DOCX, JPG
 
-## Audio Compression
+### Audio Compression
 
 * [facebookresearch/encodec: State-of-the-art deep learning based audio codec supporting both mono 24 kHz audio and stereo 48 kHz audio.](https://github.com/facebookresearch/encodec?fbclid=IwAR1006a5Z7litc_jE3NCE_5bGkSiUzaDk-wv1d2hOXN29ZqK22C_yEjYEQg)

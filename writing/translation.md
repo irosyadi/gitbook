@@ -6,9 +6,9 @@ date: 2022-10-17 09:47
 draft: false
 ---
 
-# Translation
+## Translation
 
-## Web-based Translator
+### Web-based Translator
 
 - [DeepL Translator](https://www.deepl.com/en/translator)
 - [WikiTranslator](https://wikitranslator.github.io/)

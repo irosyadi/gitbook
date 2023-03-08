@@ -6,9 +6,9 @@ date: 2020-11-14 08:36:37
 draft: false
 ---
 
-# Spartan and Text Only Websites
+## Spartan and Text Only Websites
 
-## Text Only Newssites
+### Text Only Newssites
 
 - [CSM](https://www.csmonitor.com/layout/set/text/textedition)
 - [Text Only NPR](https://text.npr.org/)
@@ -18,7 +18,7 @@ draft: false
 - [Alterslash, the unofficial Slashdot digest](https://alterslash.org/)
 - [68k.news: Headlines From the Future](http://68k.news/)
 
-## Text Only Websites
+### Text Only Websites
 
 - [Hacker News](https://news.ycombinator.com/news) : forum
 - [Duck Duck Go Lite](https://duckduckgo.com/lite/) : simple search engine
@@ -30,7 +30,7 @@ draft: false
 - [Words and Button](https://wordsandbuttons.online/) : collection of interactive tutorials, demos, and quizzes about math, algorithms, and programming
 - [Txti](https://txti.es/) : make a web page text only
 
-## Text Only Blogs
+### Text Only Blogs
 
 - [Peter Norvig](https://norvig.com/)
 - [Sam Altman](https://blog.samaltman.com/)
@@ -40,13 +40,13 @@ draft: false
 - [Hundred Rabbits](https://100r.co/site/home.html)
 - [Solar Lowtech Megazine](https://solar.lowtechmagazine.com/)
 
-## Lite and Fast Websites
+### Lite and Fast Websites
 
 - [Greater Wrong](https://www.greaterwrong.com/) Lesswrong lite reader
 - [Wikipedia Lite](https://en.m.wikipedia.org/wiki/Main_Page)
 - [Reuters Mobile](https://mobile.reuters.com/)
 
-## List of Spartan Websites
+### List of Spartan Websites
 
 - [1MB Club](https://1mb.club/) : performance-focused web pages found across the internet.
 - [10kb Club](https://10kbclub.com/)
@@ -57,8 +57,6 @@ draft: false
 - [Hyperlinked Text](https://sjmulder.nl/en/textonly.html)
 - [eink.link](https://eink.link/)
 
-## Float Number
+### Float Number
 
 - [Float Toy](https://evanw.github.io/float-toy/)
-
-

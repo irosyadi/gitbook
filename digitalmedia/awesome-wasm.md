@@ -6,20 +6,20 @@ date: 2020-12-14 15:09:46
 draft: false
 ---
 
-# Awesome WASM Apps
+## Awesome WASM Apps
 
 Related links:  
 🔗 [Audio and Music Tools - WASM](audio-tool.md)  
 🔗 [PDF Tools - WASM](/app/pdf-tool)  
 
-## List of WASM Apps
+### List of WASM Apps
 
 - [Awesome WASM](https://github.com/mbasso/awesome-wasm)
 - [WASM by Example](https://wasmbyexample.dev/home.en-us.html)
 - [WASM runtimes](https://github.com/appcypher/awesome-wasm-runtimes)
 - [Made with WASM](https://madewithwebassembly.com/)
 
-## Video Processing
+### Video Processing
 
 - [WebM to GIF converter](https://webmtogif.app/)
 - [FLV Player](https://flvplayer.app/)
@@ -29,34 +29,34 @@ Related links:
 - [Shrink my video!](https://acailly.github.io/shrink-my-video/)
 - [Create amazing videos with our online video editor - Mastershot](https://mastershot.app/)
 
-## Image Processing
+### Image Processing
 
 - [Squoosh by Google](https://squoosh.app/) : image compression
 - [JPEG.rocks: Privacy-aware JPEG optimizer](https://jpeg.rocks/) : jpeg optimizer
 - [redact.photo • Free and private image redaction in the browser](https://redact.photo/) photo redaction
 
-## Text and Document Processing
+### Text and Document Processing
 
 - [SwiftLatex](https://www.swiftlatex.com/) : Latex processing
 - [Markdown Editor](https://rsms.me/markdown-wasm/), [Github Repo](https://github.com/rsms/markdown-wasm)
 
-## File Converter
+### File Converter
 
 - [Fileconverter](https://fileconverter.digital/) : Browser WASM based, local, file converter
 
-## Math
+### Math
 
 - [Notecalc](https://bbodi.github.io/notecalc3/notecalc): in-browser calculator, WASM
 
-## Search Engine
+### Search Engine
 
 - [Stork](https://stork-search.net/) WASM search engine for static web
 
-## Screen Recorder
+### Screen Recorder
 
 - [gifcap](https://gifcap.dev/)
 
-## Others
+### Others
 
 - [A*](https://jakedeichert.github.io/wasm-astar/) : pathfinding in WASM
 - [Web DSP](https://github.com/shamadee/web-dsp) : digital signal processing
@@ -66,10 +66,10 @@ Related links:
     - [rGuiIcons](https://raylibtech.itch.io/rguiicons) : A simple and easy-to-use raygui icons editor, etc.
 - [https://www.runwasm.com](https://www.runwasm.com/) Programming
 
-## WASM Video Editor
+### WASM Video Editor
 
 - [Vididoo](https://vididoo.vercel.app/)
 
-## Signal Processing WASM
+### Signal Processing WASM
 
 - [Signals And Sorcery](https://signalsandsorcery.org/sas/composer)

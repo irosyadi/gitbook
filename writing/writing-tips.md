@@ -6,7 +6,7 @@ date: 2022-10-17 09:47
 draft: false
 ---
 
-# Writing Tips
+## Writing Tips
 
 - [Writing Well](http//www.julian.com/guide/write/intro)
 - [Technical Writing](https://github.com/sixhobbits/technical-writing)

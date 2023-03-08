@@ -6,15 +6,15 @@ date: 2023-01-09 05:03
 draft: false
 ---
 
-# Subdomain Takeover
+## Subdomain Takeover
 
-## What is subdomain takeover?
+### What is subdomain takeover?
 
 A subdomain takeover is when an adversary is able to claim and serve content on a host that points to a third-party service that is no longer in use. For example, let's
 
 A subdomain takeover is when an adversary is able to claim and serve content on a host that points to a third-party service that is no longer in use. For example, let's say that **example.com** has a subdomain, **subdomain.example.com**, that is pointed at a GitHub Pages HTML page. If the team running **example.com** is not actively using this subdomain and has not properly configured it, an adversary may be able to set up their own account on GitHub and add the subdomain to their own repository. This would allow the adversary to serve their own content on **subdomain.example.com**.
 
-## How do you fix a subdomain takeover?
+### How do you fix a subdomain takeover?
 
 To fix this issue, the team running **example.com** should take the following steps:
 
@@ -24,7 +24,7 @@ To fix this issue, the team running **example.com** should take the following 
 
 It is also important for the team running **example.com** to regularly audit their DNS records and ensure that all subdomains are properly configured and in use to prevent future subdomain takeovers.
 
-# Examples of Subdomain Takeover
+## Examples of Subdomain Takeover
 
 Here are a few subdomain takeovers companies paid for:
 

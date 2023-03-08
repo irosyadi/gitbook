@@ -6,9 +6,9 @@ date: 2022-10-11 08:34
 draft: false
 ---
 
-# Python in Browser
-
 ## Python in Browser
+
+### Python in Browser
 
 - Transcrypt
 - Brython, [brython-dev/brython: Brython (Browser Python) is an implementation of Python 3 running in the browser](https://github.com/brython-dev/brython), [Brython interactive mode](https://brython.info/tests/console.html)

@@ -6,16 +6,16 @@ date: 2022-09-13 15:35:09
 draft: false
 ---
 
-# Obsidian How To
+## Obsidian How To
 
-## Obsidian Add-in
+### Obsidian Add-in
 
 - [Obsidian Citation Plugin](https://github.com/hans/obsidian-citation-plugin)
 - [Obsidian Zotero Integration](https://github.com/mgmeyers/obsidian-zotero-integration)
 - [Obsidian Languagetool](https://github.com/Clemens-E/obsidian-languagetool-plugin)
 - [Obsidian Imgur](https://github.com/gavvvr/obsidian-imgur-plugin)
 
-## Obsidian Digital Garden Web
+### Obsidian Digital Garden Web
 
 - [Obsidian - Setup a Digital Garden with GitHub and Cloudflare Pages—Fiction Becomes Fact](https://fictionbecomesfact.com/obsidian-setup-digitalgarden)
 - [How To Create Open Source Obsidian Digital Garden - Hope's Garden](https://garden.umutyildirim.com/docs/tutorials/how%20to%20create%20open%20source%20obsidian%20digital%20garden/)
@@ -37,11 +37,11 @@ draft: false
 - [Quartz 3.](https://quartz.jzhao.xyz/) Hugo
 - [hikerpig/gatsby-project-kb: Developing gatsby-theme-kb, a Gatsby theme for publishing Knowledge Base.](https://github.com/hikerpig/gatsby-project-kb) Gatsby
 
-## Obsidian Markdown
+### Obsidian Markdown
 
 - [secure-77/Perlite: A webbased markdown viewer optimized for Obsidian](https://github.com/secure-77/Perlite)
 
-## Obsidian Publish Alternative
+### Obsidian Publish Alternative
 
 - [Create Your Own Digital Garden • Kez.ie](https://www.kez.ie/notes/choosing%20the%20right%20platform%20to%20create%20a%20public%20digital%20garden/)
 - [10 Obsidian Publish Alternatives to Publish Your Notes Online for Free | Medium](https://beingpax.medium.com/7-obsidian-publish-alternatives-to-publish-your-notes-online-for-free-33db4fb06f5)
@@ -64,18 +64,18 @@ draft: false
 - [binyamin/eleventy-garden: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
 - [Obsidian - Setup a Digital Garden with GitHub and Cloudflare Pages—Fiction Becomes Fact](https://fictionbecomesfact.com/obsidian-setup-digitalgarden)
 
-## Obsidian Template
+### Obsidian Template
 
 - [bramses/bramses-highly-opinionated-vault-2023: A highly opinionated, fully featured Obsidian vault that can get you from Zero to Zettelkasten lickety split!](https://github.com/bramses/bramses-highly-opinionated-vault-2023)
 
-## Alternative of Obsidian Publish
+### Alternative of Obsidian Publish
 
 - [Obsidian Publishing Options | Flowershow](https://flowershow.app/notes/obsidian-publishing-options)
 - [Publish Alternatives](https://kool.casa/notes/aizdxkgbr2lmkosw/)
 - [Comparing note publishing solutions](https://fulcra.design/Notes/Comparing-note-publishing-solutions/)
 
-## Gatsby Obsidian
+### Gatsby Obsidian
 
-- [Gatsby knowledge base theme | gatsby-theme-kb](https://gatsby-project-kb.vercel.app/)  [hikerpig/gatsby-project-kb: Developing gatsby-theme-kb, a Gatsby theme for publishing Knowledge Base.](https://github.com/hikerpig/gatsby-project-kb)
+- [Gatsby knowledge base theme | gatsby-theme-kb](https://gatsby-project-kb.vercel.app/) [hikerpig/gatsby-project-kb: Developing gatsby-theme-kb, a Gatsby theme for publishing Knowledge Base.](https://github.com/hikerpig/gatsby-project-kb)
 - [Obsibian Template for Gatsby Theme Primer Wiki - Obsidian Template for Gatsby Theme Primer Wiki](https://demo-obsidian.owenyoung.com/), [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)
 - [Gatsby Starter for Gatsby Theme Primer Wiki - Gatsby Starter for Gatsby Theme Primer Wiki](https://demo-gatsby-starter-primer-wiki.owenyoung.com/)[gatsby-theme-primer-wiki/external-content at main · theowenyoung/gatsby-theme-primer-wiki · GitHub](https://github.com/theowenyoung/gatsby-theme-primer-wiki)

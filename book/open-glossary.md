@@ -6,7 +6,7 @@ date: 2020-11-28 03:42:30
 draft: false
 ---
 
-# Open Glossary
+## Open Glossary
 
 - [Glossary of State of the Edge Computing](https://github.com/State-of-the-Edge/glossary) License: CC-BY-SA
 - [Glosario](https://carpentries.github.io/glosario/), [Glosario Repo](https://github.com/carpentries/glosario) : open source glossary of terms used in data science, License: CC-BY-SA
@@ -20,7 +20,7 @@ draft: false
 - [JSoT](https://github.com/lyzadanger/JSoT) : Javascript on Things
 - [Government Glossary](https://ben.balter.com/government-glossary/), [Government Glossary Repo](https://github.com/benbalter/government-glossary)
 
-## Tools
+### Tools
 
 - [Pyglossary](https://github.com/ilius/pyglossary) : convert between many glossary/dictionary format
 - [Glossword Repo](https://github.com/glosswordteam/Glossword), [Glossword](http://glossword.biz/) PHP CMS for Glossary App

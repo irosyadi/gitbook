@@ -6,7 +6,7 @@ date: 2020-12-21 09:29:32
 draft: false
 ---
 
-# Awesome List of Data Visualization
+## Awesome List of Data Visualization
 
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
@@ -14,134 +14,134 @@ Related links:
 🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
-## Visualization eBook
+### Visualization eBook
 
 - [Data Visualization by Kieran Healy](https://socviz.co/index.html#preface) License: -
 - [rougier/scientific-visualization-book: An open access book on scientific visualization using python and matplotlib](https://github.com/rougier/scientific-visualization-book) License: CC-BY-NC
 - [Python & OpenGL for Scientific Visualization](https://www.labri.fr/perso/nrougier/python-opengl/) License: CC-BY-NC
 
-## Interesting Web Library
+### Interesting Web Library
 
 - [Knightlab](https://cdn.knightlab.com/)
 - [Datapane Visualization](https://datapane.com/gallery/)
 
-## Text Visualization
+### Text Visualization
 
 - [Textvis](https://textvis.lnu.se/) Text Visualization Browser, A Visual Survey of Text Visualization Techniques
 - [Eurographics: European Association for Computer Graphics](https://diglib.eg.org/handle/10.1111/cgf14034)
 
-## Data Visualization Blog
+### Data Visualization Blog
 
 - [Martin Krzywinski Web](https://mkweb.bcgsc.ca/update/)
 - [Data Visualization and the Modern Imagination - Spotlight at Stanford](https://exhibits.stanford.edu/dataviz/)
 
-## Time Series Visualization
+### Time Series Visualization
 
 - [Plot Juggler](https://github.com/facontidavide/PlotJuggler) : time series visualization
 - [uPlot](https://github.com/leeoniya/uPlot)
 - [KST Plot](https://kst-plot.kde.org/)
 
-## Web Visualization
+### Web Visualization
 
 - [A Visualization Grammar - Vega](https://vega.github.io/vega/)
 - [Charts.css](https://chartscss.org/)
 - [Chartist - Simple responsive charts](https://gionkunz.github.io/chartist-js/)
 - [Altair: Declarative Visualization in Python—Altair 4.1.0 documentation](https://altair-viz.github.io/)
 
-## Visualization Tools
+### Visualization Tools
 
 - [Data Visualization & Infographics Tools Directory—Cool Infographics](https://coolinfographics.com/tools-directory)
 - [https://rougier.github.io/python-visualization-landscape/landscape-colors.html](https://rougier.github.io/python-visualization-landscape/landscape-colors.html)
 - [Riverspirit's MPLG](https://everydayanchovies.github.io/mplg/mplg) MATPLOTLIB GUI
 
-## Data Visualization
+### Data Visualization
 
 - [Superset](https://superset.apache.org/) Open source data visualization and business intelligence
 
-## Visualization Examples
+### Visualization Examples
 
 - [Visualization Periodic Table](https://letsandeepio.github.io/viz-method-table/) or [Visual Literacy](https://www.visual-literacy.org/periodic_table/periodic_table.html#)
 - [Beautiful Data Science and Visualisation | Data Crayon](https://datacrayon.com/)
 
-## Interactive Visualization
+### Interactive Visualization
 
 - [Iceberger](https://joshdata.me/iceberger.html) Draw an iceberg and see how it will float.
 - [Iceberger](https://iceberger.boomla.net/)
 
-## Visualization and Complexity
+### Visualization and Complexity
 
 - [Complexity Explained](https://complexityexplained.github.io/)
 - [Complexity Explorables - Complexity Explorables](https://www.complexity-explorables.org/)
 
-## Visualization and Interactive
+### Visualization and Interactive
 
 - [Nodes–a new way to create with code - https://nodes.io](https://nodes.io/)
 - [cables](https://cables.gl/)
 
-## Visualization
+### Visualization
 
 - [WebPlotDigitizer - Extract data from plots, images, and maps](https://automeris.io/WebPlotDigitizer/index.html) inverse visualization
 - [Moniker–Projects](https://studiomoniker.com/projects)
 - [Introduction to data visualisation–GSS](https://gss.civilservice.gov.uk/policy-store/introduction-to-data-visualisation/)
 
-## Visualization
+### Visualization
 
 - [A High-Level Grammar of Interactive Graphics - Vega-Lite](https://vega.github.io/vega-lite/)
 - [nalgeon/dataviz: Data visualization guide for presentations, reports, and dashboards](https://github.com/nalgeon/dataviz) License: CC-BY Source: [IBCS Standards • IBCS - International Business Communication Standards](https://www.ibcs.com/standards/)
 
-## Visualization
+### Visualization
 
 - [Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 - [Jacob O'Neal](https://jacoboneal.com/)
 - [Explained Visually](https://setosa.io/ev/)
 
-## Visualization
+### Visualization
 
 - [Data Structure Visualization](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
-## Visualization
+### Visualization
 
 - [Scimago Graphica](https://graphica.app/) Visualization Software
 
-## Excel Visualization
+### Excel Visualization
 
 - [Home - RAWGraphs](https://rawgraphs.io/)
 
-## Data Visualization
+### Data Visualization
 
 - [Flourish - Data Visualization & Storytelling](https://flourish.studio/)
 - [TextFrame](https://textframe.app/)
 
-## Math Visualization
+### Math Visualization
 
 - [Fourier Coefficients : MIT Mathlets](https://mathlets.org/mathlets/fourier-coefficients/)
 - [Fourier Cube](https://static.laszlokorte.de/fourier/)
 - [Mafs: React components for math visualization](https://mafs.dev/)
 - [Math Inspector - A visual programming environment for scientific computing with numpy and scipy](https://mathinspector.com/)
 
-## Visualization
+### Visualization
 
 - [The Science of Visual Data Communication: What Works - Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, Jessica Hullman, 2021](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
 
-## Scientific Data Visualization
+### Scientific Data Visualization
 
 - [Data visualization: A view of every Points of View column : Methagora](http://blogs.nature.com/methagora/2013/07/data-visualization-points-of-view.html)
 - [The Science of Visual Data Communication: What Works - Steven L. Franconeri, Lace M. Padilla, Priti Shah, Jeffrey M. Zacks, Jessica Hullman, 2021](https://journals.sagepub.com/stoken/default+domain/10.1177%2F15291006211051956-FREE/full#.YbpbbYlu2Xw.twitter)
 
-## Visualization
+### Visualization
 
 - [Archives - Bartosz Ciechanowski](https://ciechanow.ski/archives/)
 - [3Blue1Brown](https://www.3blue1brown.com/)
 
-## Visualization
+### Visualization
 
 - [Tabletop Whale](http://tabletopwhale.com/index.html)
 
-## Visualization App
+### Visualization App
 
 - [RAWGraphs](https://www.rawgraphs.io/)
 
-## Visualization
+### Visualization
 
 - [Physics Notes](https://landgreen.github.io/physics/index.html)
 - [Math, Physics, and Engineering Applets](http://www.falstad.com/mathphysics.html)
@@ -149,7 +149,7 @@ Related links:
 - [Fowler's Physics Applets](http://galileoandeinstein.physics.virginia.edu/more_stuff/Applets/home.html)
 - [https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype](https://phet.colorado.edu/en/simulations/filter?subjects=biology&type=html,prototype)
 
-## 2D Design Programming
+### 2D Design Programming
 
 - [PixiJS](https://pixijs.com/) Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [Welcome to Processing! / Processing.org](https://processing.org/) Processing is a flexible software sketchbook and a language for learning how to code.
@@ -157,13 +157,13 @@ Related links:
 - [Graphtoy](https://graphtoy.com/) HTML Graph visualization
 - [Shadertoy BETA](https://www.shadertoy.com/)
 
-## Hardware Visualization Animation
+### Hardware Visualization Animation
 
 - [NW.js](https://nwjs.io/)
 - [Involt/Involt: Inject hardware interactions directly into HTML layout.](https://github.com/Involt/Involt)
 - [Involt - Arduino to html prototyping framework for designers.](http://involt.github.io/index.html)
 
-## Data Visualization
+### Data Visualization
 
 - [Marple - Data analysis platform for engineering teams](https://www.marpledata.com/)
 - [FlowingData - Data Visualization and Statistics](https://flowingdata.com/)
@@ -179,7 +179,7 @@ Related links:
 - [Python Graph Gallery](https://www.python-graph-gallery.com/)
 - [Plotly Python Graphing Library](https://plotly.com/python/)
 
-## Online Visualization
+### Online Visualization
 
 - [Pricing - Create charts and maps with Datawrapper](https://www.datawrapper.de/pricing)
 - [Dash Documentation & User Guide - Plotly](https://dash.plotly.com/)

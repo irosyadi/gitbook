@@ -6,7 +6,7 @@ date: 2022-09-30 10:12:41
 draft: false
 ---
 
-# Generative 3D Image
+## Generative 3D Image
 
 - [DreamFusion: Text-to-3D using 2D Diffusion](https://dreamfusion3d.github.io/)
 - [Kaedim - AI for turning 2D images to 3D models](https://www.kaedim3d.com/)

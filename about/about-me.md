@@ -1,13 +1,12 @@
 ---
-aliases: [Hi 👋🏼]
-title: Hi 👋🏼
+aliases: [Imron Rosyadi]
+title: Imron Rosyadi
 tags: ["imron"]
-date: 2025-01-01 00:00:01
+date: 2020-05-01 13:49:51
 draft: false
 ---
-<p align="center">
-  <img src="https://source.unsplash.com/100x100/?cat" />
-</p>
+
+## Hi 👋🏼
 
 I'm _Imron Rosyadi_
 
@@ -31,8 +30,8 @@ I'm _Imron Rosyadi_
 
 ### Digital Garden
 
-- 📘 [imron.netlify.app](https://imron.netlify.app) : blog dalam bahasa Indonesia
-- 📘 [irosyadi-wiki.netlify.app](https://irosyadi-wiki.netlify.app) : digital twin-related notes
+- 📘 [digital-twin.netlify.app](https://irosyadi-wiki.netlify.app) : blog about digital twin
+- 📘 [imron.netlify.app](https://imron.netlify.app) : blog about academia and research, mainly in Indonesian
 
 ### Knowledge Bases
 

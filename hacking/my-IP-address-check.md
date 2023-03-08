@@ -6,11 +6,11 @@ date: 2022-10-18 04:04
 draft: false
 ---
 
-# My IP Address Checkers
+## My IP Address Checkers
 
-## Simple IP Address Checkers
+### Simple IP Address Checkers
 
-## Text Only
+### Text Only
 
 * [https://geocode.xyz/myip](https://geocode.xyz/myip)
 * [https://ipaddress.sh](https://ipaddress.sh/)
@@ -25,7 +25,7 @@ draft: false
 * [HTTPBin](https://httpbin.org/ip)
 * [My Ip Address](https://myipaddress.ru/) : xml, txt, json output
 
-## curl
+### curl
 
 * `curl f3.to/ip/`
 * `curl httpbin.org/ip`
@@ -36,7 +36,7 @@ draft: false
 * `curl ipinfo.io` `(Invoke-WebRequest 'ipinfo.io').Content`
 * `nslookup myip.opendns.com resolver1.opendns.com`
 
-## Extended Information
+### Extended Information
 
 * [WTFismyIP](https://wtfismyip.com/)
 * [Ifconfig.me](https://ifconfig.me/)

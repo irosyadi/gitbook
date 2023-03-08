@@ -6,9 +6,9 @@ date: 2020-12-20 21:43:32
 draft: false
 ---
 
-# Text and Markdown Editor
+## Text and Markdown Editor
 
-## Web based text editor
+### Web based text editor
 
 - [Texteditor](https://texteditor.co/) : open from local and cloud, write, save, donwload to local and cloud, no grammar
 - [Browserpad](https://browserpad.org/#) : read write local file, no grammar
@@ -27,35 +27,35 @@ draft: false
 - `data:text/html,<button onClick="SaveTextArea()">Save</button> <script language="javascript" type="text/javascript"> function SaveTextArea() { window.location = "data:application/octet-stream," + escape(txtBody.value); } </script> <textarea id="txtBody" style="font-size: 1.5em; width: 100%; height: 100%; boarder: none; outline: none" autofocus> </textarea>`: with save button
 - `data:text/html,<pre onkeyup="(function(d,t){d[t]('iframe')[0].contentDocument.body.innerHTML = d[t]('pre')[0].textContent;})(document,'getElementsByTagName')" style="width:100%;height:48%;white-space:pre-wrap;overflow:auto;" contenteditable></pre><iframe style="width:100%;height:48%">` : with live preview
 
-## In Browser Markdown Editor: Progressive Web App
+### In Browser Markdown Editor: Progressive Web App
 
 - [MD Nico](https://md.nico.dev/) : with local access, Chrome only
 - [Marcdown](https://liyasthomas.github.io/marcdown/), [Github](https://github.com/liyasthomas/marcdown) : Import Export, LT supported
 - [BestMarkdownEditor](https://www.bestmarkdowneditor.com/) : Export, LT Supported
 - [Stackedit](https://stackedit.io/app#) Import, Export, LT Supported
 
-## Web based markdown editor
+### Web based markdown editor
 
 - [Stackedit](https://stackedit.io/)
 - [Logseq](https://logseq.com/), note taking web based local only and GitHub-hosted
 
-## WASM markdown editor
+### WASM markdown editor
 
 - [Markdown Editor](https://rsms.me/markdown-wasm/), [Github Repo](https://github.com/rsms/markdown-wasm)
 
-## Native markdown editor
+### Native markdown editor
 
 - [Typora](https://typora.io/), a nicely polished Markdown editor–has the best support for math input I've seen
 - [Obsidian](https://obsidian.md/features), a split-pane Markdown editor focused on bidirectional linking
 - [Zettlr](https://www.zettlr.com/) a Markdown editor focused on publishing / academics
 - VNote
 
-## Markdown Converter
+### Markdown Converter
 
 - [Medium to Markdown Converter](https://medium-to-markdown.com/)
 - [Online Markup Converter](https://markup.rocks/) between markdown, RST, asciidoc, html etc.
 
-## Online Text Editor
+### Online Text Editor
 
 - [Pastebin.com - #1 paste tool since 2002!](https://pastebin.com/)
 - [Edit Pad - Online Text Editor & Wordpad (Notepad) for Notes](https://www.editpad.org/)
@@ -68,7 +68,7 @@ draft: false
 - [Firepad - An open source collaborative code and text editor](https://firepad.io/)
 - `data:text/html, <html contenteditable autofocus>`
 
-## Online Markdown Editor
+### Online Markdown Editor
 
 - [Markdown Live Preview](https://markdownlivepreview.com/)
 - [Online Markdown Editor - Dillinger, the Last Markdown Editor ever.](https://dillinger.io/)

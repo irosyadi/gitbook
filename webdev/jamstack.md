@@ -6,9 +6,9 @@ date: 2020-08-12 22:13:16
 draft: false
 ---
 
-# Jamstack and WebApps
+## Jamstack and WebApps
 
-## What is Jamstack?
+### What is Jamstack?
 
 - Jamstack is Javascript, APIs, and Markup.
 - [Jamstack](https://snipcart.com/blog/jamstack)
@@ -21,14 +21,14 @@ draft: false
     - Deployment
     - [Third Party SaaS](https://github.com/agarrharr/awesome-static-website-services)
 
-### List JavaScript Frontend Frameworks
+#### List JavaScript Frontend Frameworks
 
 - React
 - Vue
 - Angular
 - Svelte
 
-### List Static Site Generators
+#### List Static Site Generators
 
 - Next.js
 - Gatsby
@@ -38,7 +38,7 @@ draft: false
 - Nuxt
 - Docosaurus
 
-### List Headless CMS's
+#### List Headless CMS's
 
 - Contentful
 - Strapi
@@ -51,7 +51,7 @@ draft: false
 - Sanity
 - [Stackbit](https://www.stackbit.com/)
 
-### List of Deployments (Static Hosting)
+#### List of Deployments (Static Hosting)
 
 [Comparison](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
 
@@ -80,11 +80,11 @@ draft: false
 - [Fleek](https://fleek.co/)
 - [CodaSite](https://codasite.app/)
 
-### Host Comparison
+#### Host Comparison
 
 - [CloudFlare Pages, Netlify, Zeit, Github Pages, and Gitlab Pages. Where to host for free?](https://jace.pro/post/2020-12-17-cloudflare-pages-netlify-zeit-github-pages-and-gitlab-pages-where-to-host/)
 
-### Third Party SaaS
+#### Third Party SaaS
 
 - Comments
     - Disqus
@@ -101,7 +101,7 @@ draft: false
     - Snipcart
     - Foxy.io
 
-## Learn Jamstack
+### Learn Jamstack
 
 - [How to host and deploy a static website or JAMstack app to AWS S3 and CloudFront](https://www.freecodecamp.org/news/how-to-host-and-deploy-a-static-website-or-jamstack-app-to-s3-and-cloudfront/) from freeCodeCamp
 - [A Step-by-Step Guide: Gatsby on Netlify](https://www.netlify.com/blog/2016/02/24/a-step-by-step-guide-gatsby-on-netlify/) from Netlify
@@ -114,7 +114,7 @@ draft: false
 - [10 Tips To Host Your Web Apps For Free](https://blog.patricktriest.com/host-webapps-free/)
 - [Deploy A Web App (Golang, Java, ...) To The Cloud For Free - Simply How](https://simply-how.com/free-paas-hosting)
 
-## Gatsby Starters
+### Gatsby Starters
 
 - [BooGi: Gatsby Starter - Gatsby](https://www.gatsbyjs.com/starters/filipowm/boogi)
 - [gatsby-starter-rocket-docs: Gatsby Starter - Gatsby](https://www.gatsbyjs.com/starters/Rocketseat/gatsby-starter-rocket-docs)
@@ -130,7 +130,7 @@ draft: false
 - [Chronoblog/gatsby-theme-chronoblog: ⏳ Chronoblog is a Gatsbyjs theme specifically designed to create a personal website. The main idea of ​​Chronoblog is to allow you not only to write a personal blog but also to keep a record of everything important that you have done.](https://github.com/Chronoblog/gatsby-theme-chronoblog)
 - [codebushi/gatsby-starter-dimension: Gatsby.js V2 starter template based on Dimension, designed by HTML5 UP. Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters.](https://github.com/codebushi/gatsby-starter-dimension)
 
-## Jekyll Themes
+### Jekyll Themes
 
 - [mpa139/allanlab: Allan Lab website](https://github.com/mpa139/allanlab)
 - [liuyxpp/liuyxpp.github.io: Homepage for my research group as an example of LYX Jekyll Theme.](https://github.com/liuyxpp/liuyxpp.github.io)

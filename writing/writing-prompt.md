@@ -4,7 +4,7 @@ title: Writing Prompt
 tags: ["writing"]
 ---
 
-# Writing Prompt
+## Writing Prompt
 
 * [Journal Prompt](https://dailyprompt.org/)
 * [Text Generators](http://www.languageisavirus.com/text-generators/index.php#.WGVcTPkrLcs)
@@ -17,6 +17,6 @@ tags: ["writing"]
 * [Brevity 500](https://brevity500.com/)
 * [Storium](https://storium.com/)
 
-# Writing
+## Writing
 
 * [Journal Prompt](https://dailyprompt.org/)

@@ -6,9 +6,9 @@ date: 2020-11-29 17:33:08
 draft: false
 ---
 
-# Face Mask Detection with Machine Learning
+## Face Mask Detection with Machine Learning
 
-## Github
+### Github
 
 - [AIZOOTech/FaceMaskDetection](https://github.com/AIZOOTech/FaceMaskDetection) : SSD, self model
 - [chandrikadeb7/Face-Mask-Detection](https://github.com/chandrikadeb7/Face-Mask-Detection): MobileNetv2
@@ -24,13 +24,13 @@ draft: false
 - [Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection](https://github.com/Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection): ResNet18 on Jetson Nano
 - [matlab-deep-learning/COVID19-Face-Mask-Detection-using-deep-learning](https://github.com/matlab-deep-learning/COVID19-Face-Mask-Detection-using-deep-learning)
 
-## Dataset
+### Dataset
 
 - [Masked  face  recognition dataset and application](https://arxiv.org/abs/2003.09093) [Github](https://github.com/X-zhangyang/Real-World-Masked-Face-Dataset)
 - [Prajna](https://github.com/prajnasb/observations/tree/master/experiements/data)
 - [Cabani](https://github.com/cabani/MaskedFace-Net)
 
-## Paper
+### Paper
 
 - [A hybrid deep transfer learning model with machine learning methods for face mask detection in the era of the COVID-19 pandemic](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386450/), Loey et. al. : Resnet(+DeepTree, SVN, Ensemble)
 - [Fighting against COVID-19: A novel deep learning model based on YOLO-v2 with ResNet-50 for medical face mask detection](https://pubmed.ncbi.nlm.nih.gov/33200063/), Loey et. al. : Resnet (+Yolo v2)
@@ -49,7 +49,7 @@ draft: false
 - [Detecting masked faces in the wild with lle-cnns](http://openaccess.thecvf.com/content_cvpr_2017/html/Ge_Detecting_Masked_Faces_CVPR_2017_paper.html), [pdf](http://openaccess.thecvf.com/content_cvpr_2017/papers/Ge_Detecting_Masked_Faces_CVPR_2017_paper.pdf), S Ge: LLE CNN
 - Identifying Facemask-Wearing Condition UsingImage Super-Resolution with Classification Networkto Prevent COVID-19, Bosheng Qin : SRCNet
 
-## Ideas
+### Ideas
 
 - Face Mask with Face Presentation Attack Detection (in this case: mask with part of face), with lighting and distance effect analysis on detection, working on handheld devices, video based
 - upgrade [mk-gurucharan/Face-Mask-Detection](https://github.com/mk-gurucharan/Face-Mask-Detection)
@@ -58,7 +58,7 @@ draft: false
 - upgrade [datarootsio/face-mask-detection](https://github.com/datarootsio/face-mask-detection) : RetinaFace (RetinaNetMobileNetV1) for face detection, MobileNetV1 for face classification
 - upgrade [Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection](https://github.com/Rahul24-06/COVID-19-Authorized-Entry-using-Face-Mask-Detection): ResNet18 on Jetson Nano
 
-## Project in Progress (by Rozi)
+### Project in Progress (by Rozi)
 
 - Deep Learning for Face Detection in Real Time
 - Face Detection : SSD ResNet10 dan MTCNN
@@ -76,12 +76,12 @@ draft: false
     - [Face detection benchmark](https://github.com/nodefluxio/face-detector-benchmark), [Medium](https://medium.com/nodeflux/performance-showdown-of-publicly-available-face-detection-model-7c725747094a)
     - [Real-Time Multi-Scale Face Detector on Embedded Devices](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6539187/)
 
-## Object Detection
+### Object Detection
 
 - Object Detection is Object Localization and Object Classification
 - Model for Object Detection: Fast R-CNN, Faster R-CNN, Histogram of Oriented Gradients (HOG), Region-based Convolutional Neural Networks (R-CNN), Region-based Fully Convolutional Network (R-FCN), Single Shot Detector (SSD), Spatial Pyramid Pooling (SPP-net), YOLO (You Only Look Once)
 
-## YOLO
+### YOLO
 
 - Redmond developed YOLO v1, YOLO v2, YOLO v3, but YOLO v4 and YOLO v5 were developed by [others](https://blog.roboflow.ai/yolov4-versus-yolov5/)
 - [Yolo at Darknet](https://pjreddie.com/darknet/yolo/), [Github Repo](https://github.com/pjreddie/darknet/wiki/YOLO:-Real-Time-Object-Detection)
@@ -92,7 +92,7 @@ draft: false
 - [Introduction to Yolo](https://appsilon.com/object-detection-yolo-algorithm/)
 - [High-performance multiple object tracking based on YOLOv4, Deep SORT, and optical flow](https://github.com/GeekAlexis/FastMOT)
 
-## TinyYolo for Mobile App
+### TinyYolo for Mobile App
 
 - [TinyYolo for Knife Detection](http://publication.petra.ac.id/index.php/teknik-informatika/article/view/10527)
 - [TinyYolo for Card](https://www.tooploox.com/blog/card-detection-using-yolo-on-android)
@@ -103,7 +103,7 @@ draft: false
 - [cmdbug/YOLOv5_NCNN](https://github.com/cmdbug/YOLOv5_NCNN)
 - [szaza/android-yolo-v2](https://github.com/szaza/android-yolo-v2)
 
-## Yolo for custom object
+### Yolo for custom object
 
 - [How to Train A Custom Object Detection Model with YOLO v5](https://towardsdatascience.com/how-to-train-a-custom-object-detection-model-with-yolo-v5-917e9ce13208)
 - [Everything you need to know to train your custom object detector model using YOLOv3](https://medium.com/analytics-vidhya/everything-you-need-to-know-to-train-your-custom-object-detector-model-using-yolov3-1bf0640b0905)
@@ -114,18 +114,18 @@ draft: false
 - [A Guide To Build Your Own Custom Object Detector Using YoloV3](https://medium.com/analytics-vidhya/custom-object-detection-with-yolov3-8f72fe8ced79), [Github Repo](https://github.com/TheCaffeineDev/YoloV3-Custom-Object-Detection)
 - [https://github.com/ratulKabir/Custom-Object-Detection-using-Darkflow](https://github.com/ratulKabir/Custom-Object-Detection-using-Darkflow)
 
-## SSD
+### SSD
 
 - [Convolutional SSD](https://medium.com/@amadeusw6/variations-of-ssd-understanding-deconvolutional-single-shot-detectors-c0afb8686d03)
 - [SSD Original Paper](https://arxiv.org/abs/1512.02325)
 - [Sefiks](https://sefiks.com/2020/08/25/deep-face-detection-with-opencv-in-python/)
 - [Sefiks: Face Recognition](https://sefiks.com/2020/05/01/a-gentle-introduction-to-face-recognition-in-deep-learning/)
 
-## Widerface
+### Widerface
 
 - [WiderFace and Comparison](http://shuoyang1213.me/WIDERFACE/index.html)
 
-## Model Zoo
+### Model Zoo
 
 - [Open CV Deep Learning](https://github.com/opencv/opencv/wiki/Deep-Learning-in-OpenCV)
 - [ONNX](https://github.com/onnx/models)

@@ -6,7 +6,7 @@ date: 2020-11-28 08:37:00
 draft: false
 ---
 
-# Libgen - Book Search Engine
+## Libgen - Book Search Engine
 
 - [http://185.39.10.101/](http://185.39.10.101/)
 - [genlib.rus](https://gen.lib.rus.ec)
@@ -27,11 +27,11 @@ draft: false
 - [freeread.org](https://freeread.org/index.html)
 - [Library Genesis](https://libgen.fun/dweb.html)
 
-# Libgen Working Links
+## Libgen Working Links
 
 - [Verts-Luisants](https://vertsluisants.fr/index.php?article4/where-scihub-libgen-server-down)
 
-# Awesome Libgen
+## Awesome Libgen
 
 - [freereadorg/awesome-libgen](https://github.com/freereadorg/awesome-libgen)
 

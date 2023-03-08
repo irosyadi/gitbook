@@ -6,7 +6,7 @@ date: 2022-10-18 05:37
 draft: false
 ---
 
-# Captive Portal Access
+## Captive Portal Access
 
 - [Example](http://example.com/) or [Example](http://example.net/)
 - [NeverSSL](http://neverssl.com/)

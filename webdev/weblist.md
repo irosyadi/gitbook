@@ -6,7 +6,7 @@ date: 2022-10-17 15:53
 draft: false
 ---
 
-# Web List
+## Web List
 
 Knowledge Bases
 
@@ -14,26 +14,26 @@ Knowledge Bases
 - [irosyadi.github.io](https://irosyadi.github.io)
 - [irosyadi.gitbook.io](https://irosyadi.gitbook.io)
 
-## Digital Gardens
+### Digital Gardens
 
 - [irosyadi-garden.netlify.app](https://irosyadi-garden.netlify.app)
 - [irosyadi-wiki.netlify.app](https://irosyadi-wiki.netlify.app)
 
-## Simple Blogs
+### Simple Blogs
 
 - [irosyadi.mataroa.blog](https://irosyadi.mataroa.blog)
 - [irosyadi.bearblog.dev](https://irosyadi.bearblog.dev)
 
-## Landing Page
+### Landing Page
 
 - [irosyadi-web.netlify.app](https://irosyadi-web.netlify.app)
 
-## Portals
+### Portals
 
 - [rosyadi.com](https://rosyadi.com)
 - [ipwt.org](https://ipwt.org)
 
-## Performance Comparison
+### Performance Comparison
 
 | site              | grade | performance | structure | LCP    | TBT   | CLS  | Link                                                                           |
 | ----------------- | ----- | ----------- | --------- | ------ | ----- | ---- | ------------------------------------------------------------------------------ |

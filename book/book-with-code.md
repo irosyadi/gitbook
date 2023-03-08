@@ -6,7 +6,7 @@ date: 2020-08-10 19:36:12
 draft: false
 ---
 
-# Book with Code
+## Book with Code
 
 - [Python Machine Learning](https://github.com/rasbt/python-machine-learning-book-2nd-edition), [Slide](https://github.com/dmitriydligach/PyMLSlides)
 - [Hands-On Machine Learning with R](https://koalaverse.github.io/homlr/)

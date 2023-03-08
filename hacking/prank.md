@@ -6,24 +6,24 @@ date: 2022-10-11 08:34
 draft: false
 ---
 
-# Prank
+## Prank
 
-## Pranx
+### Pranx
 
 - <https://hackertyper.net/>
 - <https://geekprank.com/hacker/>
 - <https://pranx.com/>
 
-## Prank
+### Prank
 
 - [Geek Prank 😈 Windows XP and Other Online Pranks](https://geekprank.com/)
 
-## Fun and Prank
+### Fun and Prank
 
 - [Busy Simulator](https://busysimulator.com/)
 - [All Black Screen - Make Your Screen Black](https://allblackscreen.com/)
 
-## Harmless Prank
+### Harmless Prank
 
 - Handshake left and right
 - Put tape on laser mouse

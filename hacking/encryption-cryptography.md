@@ -6,9 +6,9 @@ date: 2022-10-11 08:23
 draft: false
 ---
 
-# Encryption and Cryptography
+## Encryption and Cryptography
 
-## Cryptography
+### Cryptography
 
 - [Modular conversion, encoding and encryption online—Cryptii](https://cryptii.com/)
 - [RSA Calculator](https://www.cs.drexel.edu/~jpopyack/IntroCS/HW/RSAWorksheet.html)
@@ -18,7 +18,7 @@ draft: false
 - [Cryptography Introduction - GeeksforGeeks](https://www.geeksforgeeks.org/cryptography-introduction/)
 - [Introduction to Cryptography / Tutorials / Knowledge Base - GPGTools Support](https://gpgtools.tenderapp.com/kb/how-to/introduction-to-cryptography)
 
-## Encryption Visualization
+### Encryption Visualization
 
 - [Sha256 Algorithm Explained](https://sha256algorithm.com/)
 - [applied_crypto_2021_fall/sha256 at main · oconnor663/applied_crypto_2021_fall](https://github.com/oconnor663/applied_crypto_2021_fall/tree/main/sha256)

@@ -6,7 +6,7 @@ date: 2020-08-10 19:36:40
 draft: false
 ---
 
-# Interactive Books
+## Interactive Books
 
 Related links:  
 🔗 [Awesome List of Data Visualization](/note/data-visualization)  
@@ -14,7 +14,7 @@ Related links:
 🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
 🔗 [Interactive Books](/book/interactive-book)  
 
-## Interactive Books
+### Interactive Books
 
 - [Immersive Math Linear Algebra](https://immersivemath.com/ila/index.html)
 - [Interactive Linear Algebra](https://textbooks.math.gatech.edu/ila/)
@@ -24,7 +24,7 @@ Related links:
 - [Jeremy Kun Math Blog and Book](https://jeremykun.com/)
 - [Seeing Theory](https://seeing-theory.brown.edu/index.html) A Visual Introduction to Probability and Statistics [Gitub](https://github.com/seeingtheory/Seeing-Theory) License: Apache
 
-## Interactive Books
+### Interactive Books
 
 - [Home - CircuitVerse](https://learn.circuitverse.org/) : Interactive Online Book on Digital Logic Design, License: MIT
     - [CircuitVerse/Interactive-Book: Interactive Online Book on Digital Logic Design](https://github.com/CircuitVerse/Interactive-Book)
@@ -44,7 +44,7 @@ Related links:
     - [py4e/book3 at master · csev/py4e](https://github.com/csev/py4e/tree/master/book3)
     - [Py4e at Trinket](https://books.trinket.io/pfe/index.html) License: CC-NC
 
-## Interactive Books
+### Interactive Books
 
 - [seeingtheory/Seeing-Theory: A visual introduction to probability and statistics.](https://github.com/seeingtheory/Seeing-Theory) License: Apache, except visualization (NC)
     - [Seeing Theory](https://seeing-theory.brown.edu/)
@@ -56,7 +56,7 @@ Related links:
 - [Visual Introduction to Machine Learning](http://www.r2d3.us/)
 - [NASA: Prospect](http://nasaprospect.com/)
 
-## Look Also
+### Look Also
 
 - [Interactive and Explorable Sites](../webapp/interactive-explorable-web.md)
 - [Machine Learning Interactive Visualization](ml-visualization.md)

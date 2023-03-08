@@ -6,9 +6,9 @@ date: 2020-11-14 05:31:42
 draft: false
 ---
 
-# Awesome Google Colab Notebooks
+## Awesome Google Colab Notebooks
 
-## Computer Vision Google Colab Notebooks
+### Computer Vision Google Colab Notebooks
 
 - **Google DayDream** Produce dream-alike imagery [link](https://colab.research.google.com/github/tensorflow/docs/blob/master/site/en/tutorials/generative/deepdream.ipynb)
 - **Big GAN** Produce photorealistic images [link](https://colab.research.google.com/github/tensorflow/hub/blob/master/examples/colab/biggan_generation_with_tf_hub.ipynb)
@@ -64,9 +64,9 @@ draft: false
 - **Image Colorization** Instance aware image colorization [link](https://colab.research.google.com/github/ericsujw/InstColorization/blob/master/InstColorization.ipynb)
 - **Real Image Editing** In-Domain GAN Inversion for Real Image Editing [link](https://colab.research.google.com/github/genforce/idinvert_pytorch/blob/master/docs/Idinvert.ipynb)
 
-## Data Science
+### Data Science
 
-## Jupyter Notebook
+### Jupyter Notebook
 
 - [Data Analysis and Machine Learning Projects](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects)
 - [Kalman and Bayesian Filter](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python)

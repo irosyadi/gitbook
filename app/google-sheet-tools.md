@@ -6,9 +6,9 @@ date: 2020-07-08 20:03:26
 draft: false
 ---
 
-# Google Sheet Tools
+## Google Sheet Tools
 
-## Turn Google Sheet into a Website
+### Turn Google Sheet into a Website
 
 - [SheetUI](https://sheetui.com/)
     - [Sheet UI Free Version](https://sheetui.vercel.app/edit/0)
@@ -34,5 +34,6 @@ draft: false
 - [Spread Simple](https://spreadsimple.com/)
 - [Siteoly](https://siteoly.com/)
 
-## Google Sheet into Services
+### Google Sheet into Services
+
 - [Noloco - Instantly create apps powered by your business data](https://noloco.io/)

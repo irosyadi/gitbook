@@ -6,9 +6,9 @@ date: 2022-10-11 08:22
 draft: false
 ---
 
-# Bookmarklets
-
 ## Bookmarklets
+
+### Bookmarklets
 
 - [41 Bookmarklets to Boost Your Productivity in Chrome, Firefox & Safari - The Tech Basket](https://www.thetechbasket.com/most-useful-bookmarklets/)
 - [100+ Useful Bookmarklets For Better Productivity - Ultimate List - Hongkiat](https://www.hongkiat.com/blog/100-useful-bookmarklets-for-better-productivity-ultimate-list/)

@@ -6,9 +6,9 @@ date: 2020-07-12 19:46:07
 draft: false
 ---
 
-# Pretext Book
+## Pretext Book
 
-## Pretext Markup
+### Pretext Markup
 
 - [Pretext](https://pretextbook.org/index.html)
 - XML vocabulary for authors of research articles, textbooks, and monographs.
@@ -18,9 +18,9 @@ draft: false
 - [Example](https://pretextbook.org/catalog.html) books and its [gallery](https://pretextbook.org/gallery.html) with Pretext
 - Possibly [open book](https://aimath.org/textbooks/approved-textbooks/) written in Pretext also [this](https://jiblm.org/guides/index.php?category=jiblmjournal)
 
-## Book with Pretext
+### Book with Pretext
 
-### GFDL Licensed
+#### GFDL Licensed
 
 - [Pretext Guide](https://pretextbook.org/doc/guide/html/guide.html) License: GFDL
 - [Pretext Author Guide](https://pretextbook.org/doc/author-guide/html/pretext-author-guide.html) License: GFDL
@@ -31,7 +31,7 @@ draft: false
 - [Trigonometry](https://yoshiwarabooks.org/trig/) License: GFDL
 - [Elementary Algebra](https://yoshiwarabooks.org/elem-alg/) License: GFDL
 
-### CC-BY License
+#### CC-BY License
 
 - [Active Prelude to Calculus](https://activecalculus.org/APC.html) License: CC-BY
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
@@ -44,7 +44,7 @@ draft: false
 - [Discrete Mathematics](https://www.jiblm.org/mahavier/discrete/html/index.html) License: CC (?)
 - [Calculus I, II, and III: A Problem-Based Approach with Early Transcendental](https://www.jiblm.org/mahavier/calculus/html/book-1.html) License: CC (?)
 
-### CC-BY-NC License
+#### CC-BY-NC License
 
 - [Business Calculus with Excel](https://mathstat.slu.edu/~may/ExcelCalculus/) License: CC-BY-NC
 - [Differential Calculus](https://www.math.ubc.ca/~CLP/CLP1/) License: CC-BY-NC
@@ -52,7 +52,7 @@ draft: false
 - [Discrete Mathematics for Computer Science](https://icsatkcc.github.io/Discrete-Math-for-Computer-Science/frontmatter.html) License: CC-BY-NC
 - [PCC SLC Math Resources Basic Math](https://spot.pcc.edu/slc/mathresources/output/html/) License: CC-BY
 
-### Other License
+#### Other License
 
 - [The Story of 8](https://mphitchman.com/eight/index.html)
 - [Introduction to Computer Organization: ARM Assembly Language Using the Raspberry Pi](https://bob.cs.sonoma.edu/IntroCompOrg-RPi/intro-co-rpi.html) License: -

@@ -6,9 +6,9 @@ date: 2022-10-11 08:29
 draft: false
 ---
 
-# File Format
-
 ## File Format
+
+### File Format
 
 - [FileInfo.com - The File Information Database](https://fileinfo.com/)
 - [Developer's Guide to File Formats](https://www.fileformat.com/)

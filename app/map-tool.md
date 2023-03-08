@@ -6,14 +6,14 @@ date: 2021-11-16 09:02:50
 draft: false
 ---
 
-# Map Tools
+## Map Tools
 
 Related links:  
 🔗 [app/Awesome List of Maps](/app/map)  
 🔗 [app/Map Tools](/app/map-tool)  
 🔗 [app/Earth Map and Tools](/app/earth-map)  
 
-## OSM OpenStreetMap Tools
+### OSM OpenStreetMap Tools
 
 - [Open Layers](https://openlayers.org/) - App to put a dynamic map in any web page. It can display map tiles, vector data and markers loaded from any source
 - [Switch2OSM](https://switch2osm.org/) - Campaign and help docs for using OSM
@@ -26,7 +26,7 @@ Related links:
 - [A new way to make maps with OpenStreetMap - Protomaps](https://protomaps.com/blog/new-way-to-make-maps/) : display and anotating OSM Map in web
 - [mapschool: a free introduction to geo](https://mapschool.io/) : Map tutorial
 
-## OSM
+### OSM
 
 - [marceloprates/prettymaps: A small set of Python functions to draw pretty maps from OpenStreetMap data. Based on osmnx, matplotlib and shapely libraries.](https://github.com/marceloprates/prettymaps)
 - [gboeing/osmnx: OSMnx: Python for street networks. Retrieve, model, analyze, and visualize street networks and other spatial data from OpenStreetMap.](https://github.com/gboeing/osmnx)
@@ -37,7 +37,7 @@ Related links:
 - [StreetComplete - OpenStreetMap Wiki](https://wiki.openstreetmap.org/wiki/StreetComplete)
 - [OSM In Realtime](https://osm-in-realtime.jwestman.net/)
 
-## Mapping Tools
+### Mapping Tools
 
 - Desktop:
   - [QGIS](https://qgis.org)
@@ -54,19 +54,19 @@ Related links:
   - [Mapbox GLJS](https://www.mapbox.com/mapbox-gljs)
   - [QGis Site](https://www.qgis.org/en/site/) with [Leafletjs](https://leafletjs.com/)
 
-## Map Javascript
+### Map Javascript
 
 - [MapLibre - Open Maps SDKs](https://maplibre.org/) The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 
-## OSM Map
+### OSM Map
 
 - [Homepage - A/B Street](https://a-b-street.github.io/docs/index.html) Traffic simulator on top OSM Map
 
-## Google Map Tools
+### Google Map Tools
 
 - [doersino/google-maps-at-88-mph: Google Maps keeps old satellite imagery around for a while–this tool collects what's available for a user-specified region in the form of a GIF.](https://github.com/doersino/google-maps-at-88-mph)
 
-## Location Encoding
+### Location Encoding
 
 - [J6map](https://j6map.netlify.app/)
 - [shakna](https://git.sr.ht/~shakna/j6)
@@ -79,7 +79,7 @@ Related links:
     - [» What3Words–The Algorithm](https://cybergibbons.com/security-2/what3words-the-algorithm/)
 - [Evaluation of Location Encoding Systems · google/open-location-code Wiki](https://github.com/google/open-location-code/wiki/Evaluation-of-Location-Encoding-Systems)
 
-## Map Location Detection
+### Map Location Detection
 
 - [Where am I net](https://www.where-am-i.net/)
 - [What is my IP and Address](https://esmailelbobdev2.github.io/What-Is-My-IP-Address/)
@@ -87,22 +87,22 @@ Related links:
 - [My Location](https://mylocation.org/)
 - [Street View Net](https://www.street-view.net/)
 
-## City Map Generator
+### City Map Generator
 
 - [City Map Generator](https://maps.probabletrain.com/#/)
 
-## Map Knitter
+### Map Knitter
 
 - [Mapknitter](https://mapknitter.org) : knit aerial map from drone, baloon etc
 
-## Map-based Estimator
+### Map-based Estimator
 
 - [Mapchecking](https://www.mapchecking.com) : check the crowd size estimation on map
 
-## Mapping
+### Mapping
 
 - [Getting started with QGIS, PostgreSQL and PostGIS - CYBERTEC](https://www.cybertec-postgresql.com/en/getting-started-qgis-postgresql-postgis/)
 
-## Map Games
+### Map Games
 
 - [Back Of Your Hand](https://backofyourhand.com/-7.45774,109.29869/XLVHWF)

@@ -6,12 +6,12 @@ date: 2022-10-29 17:14
 draft: false
 ---
 
-# Read Mode Tool
+## Read Mode Tool
 
-## Read without Clutter
+### Read without Clutter
 
 - [Outline.com](https://outline.com/)
 
-## Readability
+### Readability
 
 - [textfrom.website](https://textfrom.website/)

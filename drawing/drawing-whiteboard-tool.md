@@ -6,15 +6,15 @@ date: 2020-09-14 11:04:15
 draft: false
 ---
 
-# Drawing Tools
+## Drawing Tools
 
-## Online Drawing Tools
+### Online Drawing Tools
 
 - [Figma](https://www.figma.com)
 - [Ballpoint IO](https://ballpoint.io/files/examples/gopher)
 - [Aggie](https://aggie.io/)
 
-## Collaborative Online Whiteboard
+### Collaborative Online Whiteboard
 
 - [BeeCanvas](https://beecanvas.com/) - multimedia, invitation only
 - [tldraw](https://www.tldraw.com/) - free, simple, multi user
@@ -51,11 +51,10 @@ draft: false
 - [List of the App](https://zapier.com/blog/best-online-whiteboard/)
 - [Ok! So... Draw online](https://okso.app/)
 
-
-## Whiteboard Sharing
+### Whiteboard Sharing
 
 - [Witeboard](https://witeboard.com/)
 
-## Whiteboard
+### Whiteboard
 
 - [OurBoard](https://www.ourboard.io/)

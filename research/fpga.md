@@ -1,11 +1,12 @@
 ---
+aliases: 
 title: FPGA
 tags: ["fpga"]
 date: 2022-10-18 05:35
 draft: false
 ---
 
-# FPGA
+## FPGA
 
 * [VHDL - FPGA Tutorial](https://www.fpgatutorial.com/vhdl/)
 * [theDataBus.io](https://thedatabus.io/)
@@ -18,8 +19,7 @@ draft: false
 * [GitHub - olofk/fusesoc: Package manager and build abstraction tool for FPGA/ASIC development](https://github.com/olofk/fusesoc)
 * [FPGAwars/icestudio: Visual editor for open FPGA boards](https://github.com/FPGAwars/icestudio)
 
-
-## VHDL
+### VHDL
 
 * [VHDL CLASS](https://web.cecs.pdx.edu/~mperkows/CLASS_VHDL/)
 * [VHDL Online - A Collection of VHDL Related Internet Resources](http://esd.cs.ucr.edu/labs/tutorial/VHDL_Page.html)

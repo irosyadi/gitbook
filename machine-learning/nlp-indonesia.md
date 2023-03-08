@@ -6,9 +6,9 @@ date: 2020-10-11 21:14:37
 draft: false
 ---
 
-# NLP for Bahasa Indonesia
+## NLP for Bahasa Indonesia
 
-## Indonesian NLP Dataset
+### Indonesian NLP Dataset
 
 - [ID-NLP-Resource](https://github.com/kmkurn/id-nlp-resource)
 - [Kirralabs](https://github.com/kirralabs/indonesian-NLP-resources)

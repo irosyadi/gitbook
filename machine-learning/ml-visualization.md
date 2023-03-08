@@ -6,15 +6,15 @@ date: 2020-12-21 09:20:46
 draft: false
 ---
 
-# Awesome List of Machine Learning Visualization
+## Awesome List of Machine Learning Visualization
 
 Related links:  
-🔗 [[data-visualization|Awesome List of Data Visualization]]  
+🔗 [Awesome List of Data Visualization](../data-engineering/data-visualization.md)  
 🔗 [Awesome List of Machine Learning Visualization](ml-visualization.md)  
-🔗 [[interactive-explorable-web|Awesome List of Interactive and Explorable Webs]]  
-🔗 [[interactive-book|Interactive Books]]  
+🔗 [Awesome List of Interactive and Explorable Webs](../webapp/interactive-explorable-web.md)  
+🔗 [Interactive Books](../book/interactive-book.md)  
 
-## Machine Learning Visualization
+### Machine Learning Visualization
 
 - [Distill Pub](https://distill.pub/) : Visualizing AI algorithms
     - [Activation Atlas](https://distill.pub/2019/activation-atlas/)

@@ -6,9 +6,9 @@ date: 2022-10-08 20:32
 draft: false
 ---
 
-# Funny Research Papers
+## Funny Research Papers
 
-## Funny Paper
+### Funny Paper
 
 - [Improbable Research](https://www.improbable.com/ig-about/)
 - [Parachute use to prevent death and major trauma when jumping from aircraft: randomized controlled trial - The BMJ](https://www.bmj.com/content/363/bmj.k5094)

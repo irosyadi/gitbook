@@ -6,7 +6,7 @@ date: 2020-08-31 13:58:37
 draft: false
 ---
 
-# MK Dasar Teknik Elektro
+## MK Dasar Teknik Elektro
 
 - Kode: TKE191113
 - SKS: 2
@@ -14,13 +14,13 @@ draft: false
     - TKE191121 Dasar Teknik Elektro B RABU 10:20 - 12:00 GEDUNG TEKNIK E 104 - 46 mhs
     - TKE191121 Dasar Teknik Elektro A RABU 12:30 - 14:10 GEDUNG TEKNIK E 101 - 44 mhs
 
-## Capaian Pembelajaran Lulusan (CPL) Program Studi
+### Capaian Pembelajaran Lulusan (CPL) Program Studi
 
 - Pengetahuan-PU03 : menguasai pengetahuan keteknikan dan ilmu komputasi untuk menganalisa dan merancang piranti listrik dan elektronik kompleks, perangkat lunak, dan sistem yang terdiri dari komponen perangkat keras dan perangkat lunak;
 - Pengetahuan-PU04 : menguasai pengetahuan inti (core knowledge) bidang teknik elektro meliputi: rangkaian elektrik, sistem dan sinyal, sistem digital, elektromagnetik, dan elektronika, beserta penerapan mereka;
 - Keterampilan Khusus-KK02 : mampu menerapkan pengetahuan matematika, sains dasar, dan topik keteknikan dalam bidang teknik elektro;
 
-## Capaian Pembelajaran Mata Kuliah (CPMK)
+### Capaian Pembelajaran Mata Kuliah (CPMK)
 
 - Memahami pengetahuan matematika dan sains dasar, dan topik keteknikan dalam bidang teknik elektro;
 - Memahami lingkup dasar-dasar keteknikan dan ilmu komputasi yang diperlukan untuk menganalisis dan merancang
@@ -30,7 +30,7 @@ draft: false
     - sistem (perangkat lunak dan perangkat keras);
 - Memahami lingkup pengetahuan inti (core knowledge) bidang teknik elektro meliputi: rangkaian elektrik, sistem dan sinyal, sistem digital, elektromagnetik, dan elektronika, beserta penerapan mereka;
 
-## Bahan Kajian
+### Bahan Kajian
 
 - Ikhtisar pengetahuan matematika dan sains dasar untuk bidang teknik elektro
 - Ikhtisar pengetahuan keteknikan untuk teknik elektro
@@ -43,9 +43,9 @@ draft: false
 - Pengenalan sistem digital dan penerapannya di bidang teknik elektro
 - Pengenalan elektronika dan penerapannya di bidang teknik elektro
 
-## Referensi
+### Referensi
 
-### Referensi Bebas dan Terbuka
+#### Referensi Bebas dan Terbuka
 
 - [Lesson of Electrical Circuit by Tony R. Kuphaldt](https://www.ibiblio.org/kuphaldt/electricCircuits/) or [Lesson of Electrical Circuit in allaboutcircuits.com](https://www.allaboutcircuits.com/textbook/)
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/)
@@ -53,7 +53,7 @@ draft: false
 - [Fundamentals of Electrical Engineering I (PDF) by Don H. Johnson](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) or [Fundamentals of Electrical Engineering in OpenStax](https://cnx.org/contents/d442r0wh@9.72:g9deOnx5@19/Themes)
 - [DOE Fundamentals Handbook Electrical Science Volume (4 volumes)](https://www.standards.doe.gov/standards-documents/1000/1011-bhdbk-1992-v1)
 
-### Referensi Berbayar
+#### Referensi Berbayar
 
 - [Electrical Engineering: Know It All by Clive Maxfield et.al.](https://www.google.com/books/edition/_/BYZT1U-YNQwC?hl=en) : digunakan di kuliah
 - [Electrical and Electronic Principles and Technology by John Bird](https://books.google.com/books/about/Electrical_and_Electronic_Principles_and.html?id=3YUpZ_hNmmwC&redir_esc=y)
@@ -67,16 +67,16 @@ draft: false
 - [The Resource Handbook of Electronics by Jerry C. Whitaker](https://www.google.com/books/edition/_/MUBZDwAAQBAJ?hl=en)
 - [Practical Electrical Engineering by Sergey N. Makarov](https://books.google.com/books/about/Practical_Electrical_Engineering.html?id=xfCKDwAAQBAJ&redir_esc=y)
 
-### Referensi Kuliah Online
+#### Referensi Kuliah Online
 
 - [EdX Electrical Engineering Online Course](https://www.edx.org/learn/electrical-engineering)
 - [Khan Academy on Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)
 - [Electrical Engineering Playlist by Reach](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5)
 - [Electrical Engineering Playlist by Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2)
 
-## Kuliah
+### Kuliah
 
-### Pekan-1
+#### Pekan-1
 
 - Topik
     - Pendahuluan
@@ -90,14 +90,14 @@ draft: false
     - [What Is Electrical Engineering? - Zach Star](https://www.youtube.com/watch?v=QQewdCJTcIU&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=1)
     - [What Can You Really Do As An Electrical Engineer? - Zach Star](https://www.youtube.com/watch?v=M6oXZUtyCJ4&list=PLi5WqFHu_OJMw17TlXTrxNWB3iDkxmEb2&index=2)
 
-### Pekan-2
+#### Pekan-2
 
 - Topik:
     - Ikhtisar Dasar-dasar Keteknikan untuk Teknik Elektro
 - Tugas:
     - Terjemah: Electrical Engineering: Know It All by Clive Maxfield et.al.
 
-### Pekan-3
+#### Pekan-3
 
 - Topik:
     - Pengenalan Sinyal dan Sistem

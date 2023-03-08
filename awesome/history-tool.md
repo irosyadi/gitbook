@@ -6,9 +6,9 @@ date: 2021-11-13 08:14:50
 draft: false
 ---
 
-# History Tools and Apps
+## History Tools and Apps
 
-## Indonesian History
+### Indonesian History
 
 - [Digital Collections - Leiden University Libraries](https://digitalcollections.universiteitleiden.nl/)
 - [Dutch Colonial Maps KIT - Digital Collections](https://digitalcollections.universiteitleiden.nl/view/collection/kitmaps)

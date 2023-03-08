@@ -6,7 +6,7 @@ date: 2020-07-26 19:46:47
 draft: false
 ---
 
-# Free and Open Electrical Engineering Books
+## Free and Open Electrical Engineering Books
 
 - [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) License: Design Science License, [All About Circuit Version](https://www.allaboutcircuits.com/textbook/)
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY

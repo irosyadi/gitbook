@@ -6,26 +6,26 @@ date: 2020-11-28 08:37:00
 draft: false
 ---
 
-# eBook
+## eBook
 
-## Interesting Online Books
+### Interesting Online Books
 
 - [Data Mining in Social Science](https://legacy.gitbook.com/book/lingfeiwu1/data-mining-in-social-science/details)
 - [The Practice of Reproducible Research](https://www.practicereproducibleresearch.org/)
 
-## Online book
+### Online book
 
 - [The Managers Handbook–The Manager's Handbook](https://themanagershandbook.com/)
 
-## eBook
+### eBook
 
 - [Computer Networks from Scratch](https://www.networksfromscratch.com/)
 
-## eBook
+### eBook
 
 - [Elements of Programming](http://elementsofprogramming.com/)
 
-## eBook
+### eBook
 
 - [Free Programming Books–GoalKicker.com](https://books.goalkicker.com/)
 - [Teach Yourself Computer Science](https://teachyourselfcs.com/)
@@ -40,34 +40,33 @@ draft: false
 - [Robotic Manipulation](https://manipulation.csail.mit.edu/)
 - [Foundations of Vision](https://foundationsofvision.stanford.edu/)
 
-## eBook
+### eBook
 
 - [r/all book recommendations - reddit reads](https://www.redditreads.com/r/all)
 
-## Book
+### Book
 
 - [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
-## eBook
+### eBook
 
 - [The Nature of Code](https://natureofcode.com/book/) - CC-BY-NC
 
-## eBook
+### eBook
 
 - [Practical Deep Learning for Coders 2022 · fast.ai](https://www.fast.ai/2022/07/21/dl-coders-22/)
 
-## Machine Learning eBook
+### Machine Learning eBook
 
 - [Machine Learning textbook](http://www.cs.cmu.edu/afs/cs.cmu.edu/user/mitchell/ftp/mlbook.html)
 
-## Ebook
+### Ebook
 
 - [2012 Book Archive](https://2012books.lardbucket.org/)
 - [Saylor Academy - Saylor Academy](https://learn.saylor.org/)
 - [The Feynman Lectures on Physics Website](https://www.feynmanlectures.caltech.edu/info/)
 - [A Data-Centric Introduction to Computing](https://dcic-world.org/2022-08-28/index.html)
 
-
-## Online HTML Book
+### Online HTML Book
 
 - [Flyb](https://flylib.com/) Online HTML CHM Books

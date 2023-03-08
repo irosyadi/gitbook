@@ -6,9 +6,9 @@ date: 2020-12-20 22:10:14
 draft: false
 ---
 
-# Machine Learning for Health
+## Machine Learning for Health
 
-## AI in Healths in Indonesia
+### AI in Healths in Indonesia
 
 - [Niko](https://www.nikoazharihidayat.com/)
 - [Healhtech](healthtech.id)
@@ -20,10 +20,10 @@ draft: false
 - alinamed
 - Lamesia.com
 
-## Deep Learning for Medical Image Segmentation
+### Deep Learning for Medical Image Segmentation
 
 - [How to Choose a Neural Net Architecture for Medical Image Segmentation](https://innolitics.com/articles/medical-image-segmentation-overview/)
 
-## Healthcare Apps
+### Healthcare Apps
 
 - [Awesome Healthcare](https://github.com/kakoni/awesome-healthcare)

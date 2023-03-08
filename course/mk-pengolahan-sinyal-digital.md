@@ -6,7 +6,7 @@ date: 2021-02-21 19:09:01
 draft: false
 ---
 
-# MK Pengolahan Sinyal Digital
+## MK Pengolahan Sinyal Digital
 
 - Kode: TKE192227 Pengolahan Sinyal Digital
 - SKS : 3 SKS
@@ -14,14 +14,14 @@ draft: false
     - Kelas B: Ruang E-101, Rabu 07.00, 35 mhs
     - Kelas A: Ruang E-101, Rabu 09.45, 50 mhs
 
-## Identitas
+### Identitas
 
 - Kode Mata Kuliah: TKE192227
 - SKS Mata Kuliah: 3 SKS
 - Semester Mata Kuliah: 4
 - Sifat Mata Kuliah: Teknik Elektro Inti (TEI)
 
-## Materi
+### Materi
 
 1. Pertemuan 1
 2. Pertemuan 2
@@ -31,11 +31,11 @@ draft: false
 6. Pertemuan 6
 7. Pertemuan 7
 
-## Referensi
+### Referensi
 
 - Li Tan, Digital Signal Processing
 
-## Link
+### Link
 
 - [Octave Online](https://octave-online.net/)
 - [E-learning Unsoed](https://e-learning.unsoed.ac.id/course/view.php?id=626)

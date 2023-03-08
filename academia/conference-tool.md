@@ -6,7 +6,7 @@ date: 2022-06-01 22:49:42
 draft: false
 ---
 
-# Awesome Conferences Tools
+## Awesome Conferences Tools
 
 Related links:  
 🔗 [Paper and Article Search Tools](../academia/paper-search.md)  
@@ -17,7 +17,7 @@ Related links:
 🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](../academia/latex-tool.md)  
 
-## AI-related Conferences
+### AI-related Conferences
 
 - [NIPS](https://nips.cc/)
 - [ICML](https://icml.cc/)
@@ -27,6 +27,6 @@ Related links:
 - NeurIPS
     - [Beyond Backprop @NeurIPS](https://beyondbackprop.github.io/)
 
-## Conference Tools
+### Conference Tools
 
 - [Slide Slive](https://library.slideslive.com/) : Library of Conference Recordings

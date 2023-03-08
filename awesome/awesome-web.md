@@ -6,9 +6,9 @@ date: 2020-07-17 20:30:25
 draft: false
 ---
 
-# Awesome Free Stuffs from Internet
+## Awesome Free Stuffs from Internet
 
-## Awesome Free Services
+### Awesome Free Services
 
 - [Pipe Dream](https://pipedream.com/) like IFTTT-free
 - [Icon Free](https://thenounproject.com/)
@@ -28,7 +28,7 @@ draft: false
 - [Hey Lingo](https://www.heylingo.com/)
 - [Windows 10](https://www.microsoft.com/en-us/software-download/windows10?ranMID=24542&ranEAID=0JlRymcP1YU&ranSiteID=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&epi=0JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ&irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00%29%287593%29%281243925%29%280JlRymcP1YU-2Q.wr1Dja2ftBm7F47HtmQ%29%28%29&irclickid=_kdbi9ct9pckftj3lkk0sohzien2xi1cmxhzm1aks00)
 
-## Free Applications
+### Free Applications
 
 - Nimbletext
 - Lightworks - Video Editor
@@ -64,9 +64,8 @@ draft: false
 - VS Code -free source-code editor.
 - Wavepad -Audio and music editor for Windows and Mac.
 - Wcostream - anime and animated TV-show/movie site with dubs and subs.  
-​
 
-## Free Learning Materials
+### Free Learning Materials
 
 - Codecademy - free sessions and exercises for any coding language.
 - FreeCodeCamp - Learn to code at home.

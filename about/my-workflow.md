@@ -6,9 +6,9 @@ date: 2020-11-22 16:49:22
 draft: false
 ---
 
-# My Workflow
+## My Workflow
 
-## Writing
+### Writing
 
 I write the notes using [VNote](https://tamlok.gitee.io/vnote/en_us/). After comparing some note taking apps (Obsidian, Zettlr, etc.), I choose it for some reasons:
 
@@ -16,7 +16,7 @@ I write the notes using [VNote](https://tamlok.gitee.io/vnote/en_us/). After com
 - markdown with Mathjax plug-in
 - it can be hosted in Github Pages easily with [Viki](https://tamlok.gitee.io/viki/).
 
-## Hosting
+### Hosting
 
 My personal wiki is available in three static host:
 
@@ -34,11 +34,11 @@ My personal wiki is available in three static host:
     - it is integrated with GitHub
     - it supports VNote structure
 
-## Syncing
+### Syncing
 
 So, I need to sync the notes to Gitbook and Netlify repository, and I use [SyncFolder](https://www.microsoft.com/en-us/p/syncfolder/9nc73mjwhsww) for Windows 10.
 
-## Workflow
+### Workflow
 
 So, here are my workflow:
 
@@ -48,7 +48,7 @@ So, here are my workflow:
 - ...
 - Profit
 
-## Problems with Workflow
+### Problems with Workflow
 
 - Ensure to make consistent format between Gitbook and Gatsby Starter Bee
 - index.md in Viki will be displayed as the first page, but it will be displayed as the last page in Gitbook

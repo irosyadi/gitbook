@@ -6,9 +6,9 @@ date: 2020-11-29 14:44:52
 draft: false
 ---
 
-# CT-Scan for Covid-19 Classification using Machine Learning
+## CT-Scan for Covid-19 Classification using Machine Learning
 
-## Dataset
+### Dataset
 
 - [UCSD-AI4H/COVID-CT](https://github.com/UCSD-AI4H/COVID-CT)
     - [Paper](https://www.medrxiv.org/node/76881.external-links.html)
@@ -23,13 +23,13 @@ draft: false
     - [Clara Deploy AI COVID-19 Classification - NVIDIA NGC](https://ngc.nvidia.com/catalog/containers/nvidia:clara:ai-covid-19): two categories (Covid, Normal)
 - [LIDC-IDRI - The Cancer Imaging Archive (TCIA) Public Access - Cancer Imaging Archive Wiki](https://wiki.cancerimagingarchive.net/display/Public/LIDC-IDRI)
 
-## Notes
+### Notes
 
 - [Kaggle](https://www.kaggle.com/azaemon/preprocessed-ct-scans-for-covid19)
 - [Adrian Rosenbrerck](https://www.pyimagesearch.com/2020/03/16/detecting-covid-19-in-x-ray-images-with-keras-tensorflow-and-deep-learning/) [GitHub Repo, work in progress](https://github.com/AleGiovanardi/covidhelper)
 - [PaperswithCode](https://paperswithcode.com/paper/covid-ct-dataset-a-ct-scan-dataset-about)
 
-## Github
+### Github
 
 - [AlexTS1980/COVID-CT-Mask-Net](https://github.com/AlexTS1980/COVID-CT-Mask-Net) : Segmentation and Classification, category (COVID, pneumonia, normal), Mask R-CNN.
     - [Presentation](https://github.com/AlexTS1980/COVID-CT-Mask-Net/blob/master/presentations/COVID_19_Presentation_Kent.pdf)
@@ -57,7 +57,7 @@ draft: false
 - [Paperswithcode](https://paperswithcode.com/paper/automatic-detection-of-coronavirus-disease)
 - [paper/harmony-search-and-otsu-based-system-for](https://paperswithcode.com/paper/harmony-search-and-otsu-based-system-for)
 
-## Paper
+### Paper
 
 - [A Deep Learning System to Screen Novel Coronavirus Disease 2019 Pneumonia](https://www.sciencedirect.com/science/article/pii/S2095809920301636)
     - [Deep learning system to screen coronavirus disease 2019 pneumonia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7175452/) - similar with above paper

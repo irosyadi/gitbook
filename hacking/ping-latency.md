@@ -6,7 +6,7 @@ date: 2021-06-07 03:53:26
 draft: false
 ---
 
-# Web-based Ping and Latency Tools
+## Web-based Ping and Latency Tools
 
 - [Cloudping](https://www.cloudping.info/)
 - [GCPing](https://gcping.com/)
@@ -16,14 +16,13 @@ draft: false
 
 _published in Mataroa and Bearblog_
 
-
-## Ping Tools
+### Ping Tools
 
 - [Blip](https://gfblip.appspot.com/) : visual online ping
 - `pathping`
 - `mtr`
 - `gping` [gping](https://github.com/orf/gping)
 
-## Networks
+### Networks
 
 - [About Pinging](https://www.pinging.net/about)

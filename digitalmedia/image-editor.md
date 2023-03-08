@@ -6,32 +6,32 @@ date: 2020-06-16 16:12:32
 draft: false
 ---
 
-# Awesome List of Image Editors, Converters, and Processors
+## Awesome List of Image Editors, Converters, and Processors
 
-## List of Image Editor
+### List of Image Editor
 
 - [FOSS Photography](https://9bladed.com/post/foss_photography/)
 
-## Cloud Image Editor
+### Cloud Image Editor
 
 - [Photopea](https://www.photopea.com/)
 - [Image Online](https://imageonline.co/) Online Image Manipulation
 - [Filmulator](https://filmulator.org/v0-11-0/)
 
-## GIF Editor
+### GIF Editor
 
 - [Online GIF Tools - Simple, free and easy to use GIF utilities](https://onlinegiftools.com/)
 
-## Raw Processing
+### Raw Processing
 
 - [Rawtherapee](https://rawtherapee.com/)
 - [Darktable](https://www.darktable.org/)
 
-## Offline
+### Offline
 
 - GIMP
 
-## Background Removal
+### Background Removal
 
 - [Remove BG](https://www.remove.bg/) : remove background with AI
 - [Erase BG](https://erase.bg/) : remove background with AI
@@ -39,22 +39,22 @@ draft: false
 - [Online Background Remover 100% Free - PicWish](https://picwish.com/)
 - [Background remover: Remove your image background for free](https://www.photoroom.com/background-remover/)
 
-## Dithering
+### Dithering
 
 - [Dithering Image](https://ditherit.com/)
 - [Dithermark](https://app.dithermark.com/)
 - [Dither Me](https://doodad.dev/dither-me-this/)
 - [Dither Me This - Image Dithering Tool](https://doodad.dev/dither-me-this/)
 
-## Image Forensic
+### Image Forensic
 
 - [Fotoforensic](http://fotoforensics.com/)
 
-## Fast Converter
+### Fast Converter
 
 - [Vector Magic](https://vectormagic.com/) image to vector (convert JPG, PNG, BMP, and GIF bitmap images to true SVG, EPS, and PDF vector images)
 
-## Image Compressor
+### Image Compressor
 
 - [TinyPNG](https://tinypng.com/) compress PNG to APNG
 - [Squoosh](https://squoosh.app/)
@@ -62,7 +62,7 @@ draft: false
 - [JPG/JPEG/PNG/GIF/WebP compression to the smallest file size possible - Compress-Or-Die](https://compress-or-die.com/)
 - [Online Image Сompressor](https://imagecompressor.com/)
 
-## Background Removal
+### Background Removal
 
 - [BackgroundRemover.app](https://backgroundremover.app/)
 - [nadermx/backgroundremover: BackgroundRemover lets you Remove Background from images and video with a simple command line interface](https://github.com/nadermx/backgroundremover)
@@ -71,18 +71,18 @@ draft: false
 - [Cleanup.pictures - Remove objects, people, text and defects from any picture for free](https://cleanup.pictures/)
 - [Remove Image Backgrounds, Free HD, No Signup - Pixian.AI](https://pixian.ai/)
 
-## Image Generation
+### Image Generation
 
 - [Bruzu: Image Generation API](https://bruzu.com/)
 - [Hypnogram](https://hypnogram.xyz/)
 
-## Image Super Resolution
+### Image Super Resolution
 
 - [SR3: Iterative Image Enhancement](https://iterative-refinement.github.io/)
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement: Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
 
-## Image Processing: Contect Aware Resizing
+### Image Processing: Contect Aware Resizing
 
 - [Content-aware image resizing in JavaScript - Trekhleb](https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/)
 - [esimov/caire: Content aware image resize library](https://github.com/esimov/caire)
@@ -90,32 +90,32 @@ draft: false
 - [Improved seam carving with forward energy](https://avikdas.com/2019/07/29/improved-seam-carving-with-forward-energy.html)
 - [3D Photography using Context-aware Layered Depth Inpainting](https://shihmengli.github.io/3D-Photo-Inpainting/)
 
-## Image Cloaking
+### Image Cloaking
 
 - [Fawkes](https://sandlab.cs.uchicago.edu/fawkes/) : prevent photo identification by AI
 - [Betaface API - Open API for face recognition](https://www.betafaceapi.com/wpa/) : free face identification
 
-## Image Search
+### Image Search
 
 - [Evertrove - The Semantic Image API](https://evertrove.co/)
 - [PimEyes: Face Recognition Search Engine and Reverse Image Search](https://pimeyes.com/en)
 
-## Social Media
+### Social Media
 
 - [23 Tools and Resources to Create Images for Social Media](https://buffer.com/library/tools-create-images-for-social-media/)
 
-## Image Hosting
+### Image Hosting
 
 - [IMGbb](https://imgbb.com/)
 
-## Photo Forensic
+### Photo Forensic
 
 - [Forensically, free online photo forensics tools - 29a.ch](https://29a.ch/photo-forensics/#noise-analysis)
 
-## Multitools Image Editor
+### Multitools Image Editor
 
 - [aiTransformer: generate beautiful artworks directly from photos/videos](https://aitransformer.net/)
 
-## Image Editors
+### Image Editors
 
 - [Gimel Studio–Open source, non-destructive 2D image graphics editor](https://gimelstudio.github.io/)

@@ -6,17 +6,17 @@ date: 2021-11-21 08:14:50
 draft: false
 ---
 
-# Awesome Microcontroller and Microcomputer
+## Awesome Microcontroller and Microcomputer
 
-## Arduino Android
+### Arduino Android
 
 - [targist/ardui: This project aims to simplify creation of basic Arduino programs by just editing a UI on Android.](https://github.com/targist/ardui)
 
-## Arduino
+### Arduino
 
 - [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
-## ESP
+### ESP
 
 - [whitecatboard/Lua-RTOS-ESP32: Lua RTOS for ESP32](https://github.com/whitecatboard/Lua-RTOS-ESP32)
 - [ESP-Now](https://www.survivingwithandroid.com/esp-now-esp32-esp8266/)

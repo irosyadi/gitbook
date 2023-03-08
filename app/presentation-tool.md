@@ -6,9 +6,9 @@ date: 2021-04-04 16:54:52
 draft: false
 ---
 
-# Presentation Apps and Tools
+## Presentation Apps and Tools
 
-## Cloud Presentation Apps
+### Cloud Presentation Apps
 
 * [Fusuma · ✍️ Makes slides with Markdown easily.](https://hiroppy.github.io/fusuma/)
 * [Cleaver](http://jdan.github.io/cleaver/)
@@ -27,11 +27,11 @@ draft: false
 * [adamzap/landslide: Generate HTML5 slideshows from markdown, ReST, or textile](https://github.com/adamzap/landslide)
 * Google Slides
 
-## Desktop Presentation Apps
+### Desktop Presentation Apps
 
 * Microsoft Powerpoint
 * Libreoffice Impress
 
-## Presentation Tools
+### Presentation Tools
 
 * [Free Apps for PowerPoint Files](https://products.fileformat.app/presentation/)

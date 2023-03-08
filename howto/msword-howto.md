@@ -6,9 +6,9 @@ date: 2022-09-12 15:35:09
 draft: false
 ---
 
-# Microsoft Word How To
+## Microsoft Word How To
 
-## Word Add-in
+### Word Add-in
 
 - LanguageTool
 - Grammarly
@@ -16,7 +16,6 @@ draft: false
 - Power Thesaurus
 - Paperpal
 
-
-## MS Word Tools
+### MS Word Tools
 
 - [Convert Office Images](https://convert-office.pics/) Reduce Office Images

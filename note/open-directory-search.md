@@ -6,11 +6,11 @@ date: 2020-08-12 08:18:07
 draft: false
 ---
 
-# Open Directory Search
+## Open Directory Search
 
 Open Directories are unprotected directories of pics, videos, music, software and otherwise interesting files.
 
-## Google Manual Search
+### Google Manual Search
 
 For videos/movies/tvshows :
 
@@ -36,7 +36,7 @@ Books :
 intitle:"Search Term" (pdf|epub|mob) "name or title" -inurl:(jsp|pl|php|html|aspx|htm|cf|shtml)
 ```
 
-## Google Drive Search
+### Google Drive Search
 
 You can also find Google Drive shared files similarly.  
 [Shared folders](https://www.google.com/search?q=site%3Adrive.google.com+%2B%22drive%2Ffolders%22)  
@@ -45,7 +45,7 @@ Works with other domains too.
 
 Some info about google search operators can be found [here](https://web.archive.org/web/20180729112702/https://moz.com/learn/seo/search-operators)
 
-## Open Directory Search Engines
+### Open Directory Search Engines
 
 - [Filechef](https://www.filechef.com/)
 - [Eyedex](https://eyedex.org/)
@@ -72,7 +72,7 @@ Some info about google search operators can be found [here](https://web.archive.
 - [Calishot](https://calishot-eng-1.herokuapp.com/index-eng/summary) : Calibre Library Search Engine, link is monthly [updated](https://old.reddit.com/r/opendirectories/search?q=calishot&restrict_sr=on&sort=relevance&t=all)
 - [OD Movie](https://laundromat.github.io/odMovieSearch/?section=search)
 
-## Java Scriptlets
+### Java Scriptlets
 
 Save the following code as a bookmark, then you can open the bookmark to run the desired action.  
 Download all files with a specific extension :
@@ -108,7 +108,7 @@ javascript:void(window.open('https://fusker.the-eye.eu/url.php?url='+encodeURICo
 Another [Linked Images Bookmarklet](https://web.archive.org/web/20180803113222/https://fuseki.net/home/linked-images-bookmarklet.html).  
 [More bookmarklets](https://www.squarefree.com/bookmarklets/).
 
-## Softwares
+### Softwares
 
 - [wget project](https://www.gnu.org/software/wget/) [page](https://www.gnu.org/software/wget/)
 - [wget for Windows](https://eternallybored.org/misc/wget/)
@@ -131,20 +131,20 @@ Other download helpers you should try :
 
 You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is made by a redditor who posted it [here](https://www.reddit.com/r/opendirectories/comments/913ojc/i_wrote_a_fuse_filesystem_that_allows_you_to/?utm_content=comments&utm_medium=user&utm_source=reddit&utm_name=frontpage) to mount the remote directory as mountpoint. It even appears to be somewhat faster than "rclone mount".
 
-### OpenDirectoryDownloader
+#### OpenDirectoryDownloader
 
 - [OpenDirectoryDownloader](https://github.com/KoalaBear84/OpenDirectoryDownloader) Indexes open directories listings in 75+ supported formats.
 
-## Sites
+### Sites
 
 - [The-Eye](https://the-eye.eu/)
 - [Archive.org](https://archive.org)
 - [The Trove](https://thetrove.net)
 - [Telegram Channel](https://t.me/r_OpenDirectories)
 
-## Search Tools
+### Search Tools
 
-### Search And index Engines DDLs :-
+#### Search And index Engines DDLs :-
 
 [https://filepursuit.com/](https://filepursuit.com/)  
 [https://weboas.is/](https://weboas.is/)  
@@ -152,14 +152,14 @@ You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is m
 [https://www.filesearch.link/](https://www.filesearch.link/)  
 [https://ipfs-search.com/](https://ipfs-search.com/)
 
-### Search GDrive:-
+#### Search GDrive:-
 
 [https://www.dedigger.com/](https://www.dedigger.com/)  
 [https://whatintheworld.xyz/](https://whatintheworld.xyz/)  
 [https://w3abhishek.github.io/torrentables/](https://w3abhishek.github.io/torrentables/)  
 [https://eyedex.org/](https://eyedex.org/) (Search The Eye)
 
-### Search Open Directory DDLs :-
+#### Search Open Directory DDLs :-
 
 [https://odcrawler.xyz/](https://odcrawler.xyz/)  
 [https://www.filechef.com/](https://www.filechef.com/)  
@@ -172,14 +172,14 @@ You can also use [httpdirfs](https://github.com/fangfufu/httpdirfs/), which is m
 [https://sites.google.com/view/l33tech/tools/ods](https://sites.google.com/view/l33tech/tools/ods)  
 [https://lendx.org/](https://lendx.org/)
 
-### Archiving And Searching Engines:-
+#### Archiving And Searching Engines:-
 
 [https://the-eye.eu/](https://the-eye.eu/) (archives and indexes Web Pages)  
 [https://archive.ph/](https://archive.ph/) (archives web snapshots)  
 [https://archive.org/](https://archive.org/) ( The Internet Archive)  
 [https://archive.org/web/](https://archive.org/web/) (The Wayback Machine)
 
-### FTP Indexers:-
+#### FTP Indexers:-
 
 [https://www.mmnt.ru/int/](https://www.mmnt.ru/int/)  
 [https://www.catfiles.net/](https://www.catfiles.net/)  

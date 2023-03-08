@@ -6,11 +6,11 @@ date: 2020-06-19 19:37:43
 draft: false
 ---
 
-# Python Books, Tutorials, and Courses
+## Python Books, Tutorials, and Courses
 
-## Python Tutorials
+### Python Tutorials
 
-### Open Licensed Python Tutorials
+#### Open Licensed Python Tutorials
 
 - [Akuli](https://github.com/Akuli/python-tutorial) License: ZLIB
 - [Python 3 Workshop](https://github.com/ishpreet-singh/python3-workshop) License: MIT
@@ -31,7 +31,7 @@ draft: false
 - [Python 101](https://www.davekuhlman.org/python_101.html) License: MIT
 - [2700 slides for programming with 1000 slides for Python](https://marko-knoebl.github.io/slides/) [GitHub](https://github.com/marko-knoebl/slides) License: CC-BY
 
-## Python Tutorials
+### Python Tutorials
 
 - [zhiyzuo](https://github.com/zhiyzuo/python-tutorial) License: -
 - [in28minutes](https://github.com/in28minutes/python-tutorial-for-beginners) License: -
@@ -43,9 +43,9 @@ draft: false
 - [Python for You and Me](https://pymbook.readthedocs.io/en/py3/) or [Python for You and Me](https://pymbook.readthedocs.io/en/latest/)
 - [Python Tutorial with Repl.it](https://www.codewithrepl.it/)
 
-## Python Books
+### Python Books
 
-### CC-BY Python Books
+#### CC-BY Python Books
 
 - [Python for Everybody](https://www.py4e.com/book) License: CC BY (NC for some case)
 - [Dive into Python](https://diveintopython3.problemsolving.io/) License: CC-BY
@@ -55,7 +55,7 @@ draft: false
 - [A Byte of Python](https://python.swaroopch.com/), [Indonesian Version](https://github.com/asofyan/byte_of_python) License: CC-BY
 - [Learning with Python 2nd Edition (Using Python 2.x) by Jeffrey Elkner](https://www.openbookproject.net/thinkcs/python/english2e/#) License: GFDL
 
-### CC-BY-NC Python Books
+#### CC-BY-NC Python Books
 
 - [Think Python](https://greenteapress.com/wp/think-python-2e/) License: CC-BY-NC
 - [Think Stats](https://greenteapress.com/thinkstats2/html/index.html) License: CC-BY-NC
@@ -70,7 +70,7 @@ draft: false
 - [Practical into Python Programming](https://www.brianheinold.net/python/python_book.html) License: CC-BY-NC
 - [Hands on Python Tutorial](https://anh.cs.luc.edu/handsonPythonTutorial/ch-html) License: CC-BY-NC
 
-### CC-BY-NC-ND Python Books
+#### CC-BY-NC-ND Python Books
 
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/) License: CC-BY-NC-ND
 - [Introduction to Computer Networks](https://intronetworks.cs.luc.edu/current/html/) License: CC-BY-NC-ND
@@ -78,7 +78,7 @@ draft: false
 - [MIT Programming with Python](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/) License: CC-BY-NC
 - [Bayesian Methods for Statistical Analysis](https://press.anu.edu.au/publications/bayesian-methods-statistical-analysis) License: CC-BY-NC-ND [Alternative](https://library.oapen.org/handle/20.500.12657/32424)
 
-### Unknown License Python Books
+#### Unknown License Python Books
 
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python) License:
 - [Problem Solving with Python](https://runestone.academy/runestone/books/published/pythonds/index.html)
@@ -87,7 +87,7 @@ draft: false
 - [Python Tutorial](https://www.w3schools.com/python/default.asp)
 - [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-## List of Python Books
+### List of Python Books
 
 - [List of Python Books](https://pythonbooks.revolunet.com/)
 - [Legally Free Python Book](https://www.pythonkitchen.com/legally-free-python-books-list/)
@@ -95,11 +95,11 @@ draft: false
 - [Free Python Books](https://github.com/oddsun/Free-Python-Books)
 - [pamoroso/free-python-books: Python books free to read online or download](https://github.com/pamoroso/free-python-books)
 
-## Python Documentation and Tools
+### Python Documentation and Tools
 
 - [First Python Notebook—First Python Notebook 1.0 documentation](https://www.firstpythonnotebook.org/)
 - [Python Library Search](https://www.pythonstacks.com/python-packages/)
 
-## Python Program Learn
+### Python Program Learn
 
 - [futurecoder: learn python from scratch](https://futurecoder.io/)

@@ -6,13 +6,13 @@ date: 2022-10-23 21:56
 draft: false
 ---
 
-# Linux Resources
+## Linux Resources
 
-## Linux
+### Linux
 
 - [The Linux Command Handbook](https://www.freecodecamp.org/news/the-linux-commands-handbook/)
 
-## Basic Linux
+### Basic Linux
 
 Note that these suggestions are *off the top of my head* and surely biased by my own needs.
 

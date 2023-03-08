@@ -6,9 +6,9 @@ date: 2020-08-31 13:57:57
 draft: false
 ---
 
-# Control Systems
+## Control Systems
 
-## Reference
+### Reference
 
 - Norman S. Nise, Control Systems Engineering \[[website](https://bcs.wiley.com/he-bcs/Books?action=index&bcsId=11568&itemId=1119474221)\]
 - Katsuhiko Ogata, Modern Control Engineering
@@ -19,37 +19,37 @@ draft: false
 - Karl J. Åström and Richard M. Murray, Feedback Systems: An Introduction for Scientists and Engineers \[[website](https://www.cds.caltech.edu/~murray/amwiki/index.php?title=Main_Page)\]
 - R.V. Dukkipati, Analysis and Design of Control Systems using MATLAB
 
-## Online Book
+### Online Book
 
 - [CSA - Your Controls Resource](https://www.controlsystemsacademy.com/)
 - [Book: Introduction to Control Systems (Iqbal) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Introduction_to_Control_Systems_(Iqbal)) License: CC-BY-NC
 - [Book: Chemical Process Dynamics and Controls (Woolf) - Engineering LibreTexts](https://eng.libretexts.org/Bookshelves/Industrial_and_Systems_Engineering/Book%3A_Chemical_Process_Dynamics_and_Controls_(Woolf)) License: CC-BY
 - [Linear Physical Systems Analysis](https://lpsa.swarthmore.edu/)
 
-## Interactive Learning
+### Interactive Learning
 
 - [Interactive Course for Control Theory](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-## Specific Topics
+### Specific Topics
 
 - [Linear Physical Systems - Erik Cheever](https://lpsa.swarthmore.edu/)
 - [Root Locus Overview - Erik Cheever](https://lpsa.swarthmore.edu/Root_Locus/RootLocus.html)
 
-## Control Theory Map
+### Control Theory Map
 
 ![Control Theory Map](https://static1.squarespace.com/static/5b2d76525cfd790c4a218093/t/5f3845ab3384b2337c3214b9/1597523382325/Control_Map_ver4.png)
 
-## Software
+### Software
 
 - [Octave Online](https://octave-online.net/)
 
-## Interactive Control Systems Learning
+### Interactive Control Systems Learning
 
 - [ICCT: Interactive course for control theory](https://icct.cafre.unipi.it/home), [ICCT Interactive Course in Jupyter](https://icct.riteh.hr/hub/login)
 - [Umich Control Tutorials](https://ctms.engin.umich.edu/CTMS/index.php?aux=Home)
 
-## Online Video Course
+### Online Video Course
 
 - [Brian Douglas Youtube Control System Lectures](https://www.youtube.com/user/ControlLectures/playlists)
     - [Routh Horwitz Criterion](https://www.youtube.com/watch?v=WBCZBOB3LCA&list=PLUMWjy5jgHK0zTjna57eZX4RoZlJtG3L4)
@@ -64,13 +64,13 @@ draft: false
 - [MATLAB Channel: Understanding Control System](https://www.youtube.com/playlist?list=PLn8PRpmsu08q8CE0pbZ-cSrMm_WYJfVGd)
 - [MATLAB Channel: Understanding PID Control](https://www.youtube.com/playlist?list=PLn8PRpmsu08pQBgjxYFXSsODEF3Jqmm-y)
 
-## Control Learning Videos
+### Control Learning Videos
 
 - [Christopher Lum - YouTube](https://www.youtube.com/c/ChristopherLum/videos)
 - [katkimshow - YouTube](https://www.youtube.com/c/katkimshow/featured)
 - [Control Theory in Practice - YouTube](https://www.youtube.com/channel/UCV3CS_ygnzwGzjBXKjVdQIQ)
 
-## Control Theory Interactive
+### Control Theory Interactive
 
 [ICCT](https://icct.cafre.unipi.it/)
 
@@ -80,18 +80,18 @@ draft: false
 - Python in Education (Institute of Control Theory): <https://tu-dresden.de/ing/elektrotechnik/rst/studium/python-in-der-lehre?set_language=en>  
 [Computational Methods for Control of Infinite-dimensional Systems - Institute for Mathematics and its Applications](https://www.ima.umn.edu/2015-2016/W3.14-18.16#schedule)
 
-## Python Control
+### Python Control
 
 - [Python Control Systems Library—Python Control Systems Library dev documentation](https://python-control.readthedocs.io/en/latest/)
 - [mpc.pytorch: A fast and differentiable MPC solver for PyTorch](https://locuslab.github.io/mpc.pytorch/)
 
-## Intelligent Control
+### Intelligent Control
 
 - [About the Book - DATA DRIVEN SCIENCE & ENGINEERING](https://www.databookuw.com/)
     - [dynamicslab/databook_matlab: Matlab files with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton https://www.databookuw.com/](https://github.com/dynamicslab/databook_matlab)
     - [dylewsky/Data_Driven_Science_Python_Demos: IPython notebooks with demo code intended as a companion to the book "Data-Driven Science and Engineering: Machine Learning, Dynamical Systems, and Control" by J. Nathan Kutz and Steven L. Brunton](https://github.com/dylewsky/Data_Driven_Science_Python_Demos)
 
-## Control Systems Online Curriculum
+### Control Systems Online Curriculum
 
 **Level 1:**
 
@@ -112,7 +112,6 @@ draft: false
 3. MATLAB Basics:
     
     1. [https://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/index.htm](https://ocw.mit.edu/courses/mathematics/18-s997-introduction-to-matlab-programming-fall-2011/index.htm)
-        
 
 **Level 2:**
 
@@ -131,7 +130,6 @@ draft: false
     3. Waves and vibrations: [https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/index.htm](https://ocw.mit.edu/courses/physics/8-03-physics-iii-spring-2003/index.htm)
         
 3. Intro to Simulink: [https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkModeling](https://ctms.engin.umich.edu/CTMS/index.php?example=Introduction&section=SimulinkModeling)
-    
 
 **Level 3:**
 
@@ -162,7 +160,6 @@ draft: false
         1. Beginning dynamics: [https://ocw.mit.edu/courses/mechanical-engineering/2-003sc-engineering-dynamics-fall-2011/syllabus/](https://ocw.mit.edu/courses/mechanical-engineering/2-003sc-engineering-dynamics-fall-2011/syllabus/)
             
         2. More Dynamics and intro to control: [https://ocw.mit.edu/courses/mechanical-engineering/2-003j-dynamics-and-control-i-spring-2007/index.htm](https://ocw.mit.edu/courses/mechanical-engineering/2-003j-dynamics-and-control-i-spring-2007/index.htm)
-            
 
 **Level 4:**
 
@@ -193,7 +190,6 @@ draft: false
         2. Brian Douglas Control System Lectures: [https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L](https://www.youtube.com/playlist?list=PLUMWjy5jgHK3j74Z5Tq6Tso1fSfVWZC8L)
             
         3. Steve Brunton Control Bootcamp: [https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m](https://www.youtube.com/playlist?list=PLMrJAkhIeNNR20Mz-VpzgfQs5zrYi085m)
-            
 
 **Level 5:**
 
@@ -216,7 +212,6 @@ draft: false
     3. Slightly higher level control: [https://ocw.mit.edu/courses/mechanical-engineering/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/index.htm](https://ocw.mit.edu/courses/mechanical-engineering/2-14-analysis-and-design-of-feedback-control-systems-spring-2014/index.htm)
         
     4. Multi-variable control systems: [https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/index.htm](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-245-multivariable-control-systems-spring-2004/index.htm)
-        
 
 **Level 6:**
 
@@ -233,7 +228,6 @@ draft: false
     2. More practice based: [https://www.youtube.com/watch?v=9xDZy5mE-3I&list=PLrxYXaxBXgRoqgaBlitaAA_sgVZ8V6Teg](https://www.youtube.com/watch?v=9xDZy5mE-3I&list=PLrxYXaxBXgRoqgaBlitaAA_sgVZ8V6Teg) (note, videos in english except introduction)
         
         1. Resources for these videos: [https://sites.google.com/a/g2.nctu.edu.tw/nonlinear-control-systems-2017-fall/course-materials](https://sites.google.com/a/g2.nctu.edu.tw/nonlinear-control-systems-2017-fall/course-materials)
-            
 
 **Level 7:**
 
@@ -249,8 +243,7 @@ draft: false
         
     2. Optimal and Robust control: [https://www.youtube.com/watch?v=z64cXTZKw4I&list=PLMLojHoA\_QPmRiPotD\_TnfdUkglTexuqm](https://www.youtube.com/watch?v=z64cXTZKw4I&list=PLMLojHoA_QPmRiPotD_TnfdUkglTexuqm)\
 
-
-## Control eBook
+### Control eBook
 
 - [calcmogul/controls-engineering-in-frc: Controls Engineering in the FIRST Robotics Competition: Graduate-level control theory for high schoolers.](https://github.com/calcmogul/controls-engineering-in-frc) License: CC-BY
 - [https://github.com/calcmogul/control-theory-poster](https://github.com/calcmogul/control-theory-poster)

@@ -6,9 +6,9 @@ date: 2021-04-10 17:53:41
 draft: false
 ---
 
-# Shortcut How To
+## Shortcut How To
 
-## Chrome
+### Chrome
 
 - Incognito : Ctrl + Shift + N
 - Open Last Closed Tab : Ctrl + Shift + T
@@ -19,7 +19,7 @@ draft: false
 - Snap Your Cursor to the Search Bar : Ctrl + L
 - Clear Browsing Data : Ctrl + Shift + Delete
 
-## Vimium
+### Vimium
 
 - Help : ?
 - scroll up : j , scroll down : k

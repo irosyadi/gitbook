@@ -6,10 +6,10 @@ date: 2022-10-29 17:13
 draft: false
 ---
 
-# Interesting Story
+## Interesting Story
 
 - [One Red Paperclip](https://en.wikipedia.org/wiki/One_red_paperclip)
 
-## Fun
+### Fun
 
 - Pet Rock

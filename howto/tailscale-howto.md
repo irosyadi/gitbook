@@ -6,7 +6,7 @@ date: 2022-09-12 15:35:09
 draft: false
 ---
 
-# Tailscale How To
+## Tailscale How To
 
 - [Configuring SFTP (SSH FTP) Server on Windows - Windows OS Hub](http://woshub.com/installing-sftp-ssh-ftp-server-on-windows-server-2012-r2/)
 - VNC:

@@ -1,14 +1,14 @@
 ---
 aliases: [Cloud GPU]
 title: Cloud GPU
-tags: ["cloud"]
+tags: ["cloud", "gpu"]
 date: 2022-10-11 08:30
 draft: false
 ---
 
-# Cloud GPU
+## Cloud GPU
 
-## GPU Rental
+### GPU Rental
 
 * [Vast.ai](https://console.vast.ai/create)
 * [Lambda](https://lambdalabs.com/service/gpu-cloud)
@@ -21,12 +21,12 @@ draft: false
 * [Crusoe Cloud](https://crusoecloud.com/pricing/)
 * [Paperspace - Gradient Pricing](https://www.paperspace.com/gradient/pricing) Monthly
 
-## Cloud Comparison
+### Cloud Comparison
 
 * [CloudOptimizer](https://cloudoptimizer.io/)
 * [Cloud GPUs](https://cloud-gpus.com/)
 
-## GPU Rent Price Comparison per hour
+### GPU Rent Price Comparison per hour
 
 1xA100, 40GB, Vast, $0.828-$1.372  
 1xA100, 40GB, Jarvis, $1.29  
@@ -62,12 +62,12 @@ draft: false
 1xV100, 16GB, Datacrunch, $0.89  
 1xV100, 16GB, Fluidstack. $0.8
 
-## Storage Price per month
+### Storage Price per month
 
 Runpod $0.20/GB  
 Coreweave $0.04/GB
 
-## Best Bang to Bucks GPU for ML
+### Best Bang to Bucks GPU for ML
 
 [GPU Benchmarks for Deep Learning - Lambda](https://lambdalabs.com/gpu-benchmarks)  
 [AI-Benchmark](https://ai-benchmark.com/ranking_deeplearning)  
@@ -80,10 +80,9 @@ Coreweave $0.04/GB
 * 24 GB RTX 3090 (two times performances of 3060) start form Rp12.000.000
 * used Tesla V100 32GB
 
-## GPU Rank
+### GPU Rank
 
-RTX 3090 > Tesla V100 32GB > (RTX 3080 = RTX 6000) 
-
+RTX 3090 > Tesla V100 32GB > (RTX 3080 = RTX 6000)
 
 * 1.6: RTX A100 40GB > RTX 4090 > RTX A6000
 * 1: RTX 3090 Ti 24 GB = V100 32 GB
@@ -97,7 +96,7 @@ RTX 3090 > Tesla V100 32GB > (RTX 3080 = RTX 6000)
 * 0.35: GTX 1080, RTX 3060, RTX 3050
 * 0.25: GTX 1070
 
-## Machine Learning Deployment
+### Machine Learning Deployment
 
 * [DataCrunch - A100 80GB GPU Servers](https://datacrunch.io/)
 * [Towhee - Out-of-box Pipelines - Towhee](https://towhee.io/pipelines?limit=30&page=1)

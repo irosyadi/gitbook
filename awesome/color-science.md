@@ -6,9 +6,9 @@ date: 2020-10-11 21:00:05
 draft: false
 ---
 
-# Color Science and Tools
+## Color Science and Tools
 
-## Color Palette Tools
+### Color Palette Tools
 
 - [Dopely Colors - A Free Solution to all your Color Problems](https://colors.dopely.top/)
 - [Paletton](https://paletton.com/) color palette tools
@@ -28,7 +28,7 @@ draft: false
 - [Color Brewer](https://colorbrewer2.org) Color for Cartography
 - [I want Hue](https://medialab.github.io/iwanthue/) Good Site for Color Naming
 
-## Color Format Converter
+### Color Format Converter
 
 - [Colorizer](https://colorizer.org/) online color format converter
 - [Convert a Color](https://convertacolor.com) : HEX, RGB, CMYK, HSL
@@ -53,7 +53,7 @@ draft: false
 - [Acute Components](https://colors.acutecomponents.com/)
 - [Coolors](https://coolors.co/bd3848)
 
-### Note on LCH to RGB Conversion
+#### Note on LCH to RGB Conversion
 
 - [Converting Color](https://convertingcolors.com/), clamping if outside RGB gamut
 - [Unitpedia](https://www.unitpedia.com/color-converter/), clamping if outside RGB gamut
@@ -64,7 +64,7 @@ draft: false
 - [Colorhexa](https://www.colorhexa.com/), clamping if outside RGB gamut
 - [Acute Components](https://colors.acutecomponents.com/)
 
-### LCH Color Picker
+#### LCH Color Picker
 
 - [LCH Color](https://codepen.io/leaverou/pen/YzPGwZp)
 - [HCL Color PIcker](https://hclwizard.org/hclcolorpicker/)
@@ -77,7 +77,7 @@ draft: false
 - [Comigo](https://comigo.itch.io/palettes)
 - GIMP
 
-## Color Naming
+### Color Naming
 
 - [C0ffee](https://c0ffee.surge.sh/) Color name in leet code
 - [Bada55](https://bada55.io/) Color name in leet code
@@ -106,7 +106,7 @@ draft: false
 - [Handpicked Color Names](https://github.com/meodai/color-names)
 - [Colorize](https://alexbeals.com/projects/colorize/) Color name mapped to color
 
-## Colorimetry Notes
+### Colorimetry Notes
 
 - HSV/HSL are cylindrical representation of RGB
 - Problem of RGB: discontinuity of luminance, it is also not based on how the human eye perceive colors. See [here](https://hclwizard.org/why-hcl/) or [here](https://cscheid.github.io/lux/demos/hcl/hcl.html) or [example of the effect here](https://colorspace.r-forge.r-project.org/articles/endrainbow.html) and the [problem of rainbow color](https://eagereyes.org/basics/rainbow-color-map)
@@ -121,7 +121,7 @@ draft: false
 - [LCH Color in CSS](https://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/)
 - [Colorblind and LCH](https://laptrinhx.com/around-the-world-in-80-shades-building-color-blind-accessible-dataviz-3818144432/)
 
-## Learn Color
+### Learn Color
 
 - [Coursera: Information Vizualization](https://www.coursera.org/lecture/information-visualization-applied-perception/)
 - [Color by Nasa](https://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/)
@@ -132,7 +132,7 @@ draft: false
 - [Color Notes](https://helpful.knobs-dials.com/index.php/Color_notes_-_color_spaces)
 - [Colorgen Color for Programmer](https://peteroupc.github.io/colorgen.html) and [this](https://peteroupc.github.io/suppcolor.html)
 
-## Article about Color
+### Article about Color
 
 - [How to pick more beautiful colors for your data visualizations](https://blog.datawrapper.de/beautifulcolors/)
 - [Rules for using Color](https://www.perceptualedge.com/articles/visual_business_intelligence/rules_for_using_color.pdf)
@@ -153,11 +153,11 @@ draft: false
 - [handprint : the geometry of color perception](https://www.handprint.com/HP/WCL/color2.html)
 - [All 16,777,216 RGB colours « David Naylor: Blog](http://davidnaylor.org/blog/2005/02/all-16777216-rgb-colours/)
 
-## Ebook
+### Ebook
 
 - [COLOR EXPERIENCE](https://www.handprint.com/CE/book.html)
 
-## Color
+### Color
 
 - [Two new color spaces for color picking - Okhsv and Okhsl](https://bottosson.github.io/posts/colorpicker/)
 - [An interactive review of Oklab - Raph Levien’s blog](https://raphlinus.github.io/color/2021/01/18/oklab-critique.html)
@@ -168,12 +168,12 @@ draft: false
 - [FarbVélo——Random Color Cycler](https://farbvelo.elastiq.ch/)
 - [Towards richer colors on the Web - Darker Ink](https://darker.ink/writings/Towards-richer-colors-on-the-Web)
 
-## Colormap
+### Colormap
 
 - [How Bad Is Your Colormap? - Pythonic Perambulations](https://jakevdp.github.io/blog/2014/10/16/how-bad-is-your-colormap/)
 - [Google AI Blog: Turbo, An Improved Rainbow Colormap for Visualization](https://ai.googleblog.com/2019/08/turbo-improved-rainbow-colormap-for.html)
 
-## Color Palette
+### Color Palette
 
 - [Colormind - the AI powered color palette generator](http://colormind.io/)
 - [Color Hunt](https://colorhunt.co/palette/00a19dfff8e5ffb344e05d5d)
@@ -186,12 +186,11 @@ draft: false
 - [Color wheel, a color palette generator - Adobe Color](https://color.adobe.com/create/color-wheel/)
 - [joowani/colorpedia: Command-line tool for looking up colors, shades and palettes.](https://github.com/joowani/colorpedia)
 
-## Color
+### Color
 
 - [Which color scale to use when visualizing data - Chartable](https://blog.datawrapper.de/which-color-scale-to-use-in-data-vis/)
 - [Sorted CSS Colors](https://enes.in/sorted-colors/)
 
-
-## Color
+### Color
 
 - [Huemint - Generate 7 shades and colors for a web illustration](https://huemint.com/)

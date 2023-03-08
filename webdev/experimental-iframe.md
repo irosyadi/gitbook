@@ -6,9 +6,9 @@ date: 2022-10-17 18:32
 draft: false
 ---
 
-# Experimental iFrame
+## Experimental iFrame
 
-## Iframe Code
+### Iframe Code
 
 ```
 <iframe src="https://wttr.in" frameborder="0" width="500" height="300" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
@@ -21,7 +21,7 @@ draft: false
 </div>
 ```
 
-## Iframe Test with Div
+### Iframe Test with Div
 
 <div style="border: 1px solid rgb(255, 255, 255); overflow: hidden; margin: 15px auto; max-width: 350px; max-height:125px;">
 <iframe scrolling="no" src="https://wttr.in/" style="border: 0px none; margin-left: 0px; height: 135px; margin-top: 0px; width: 360px;">
@@ -48,7 +48,7 @@ draft: false
 </iframe>
 </div>
 
-## Iframe Test
+### Iframe Test
 
 <iframe scrolling="no" src="https://cloudflare.com/cdn-cgi/trace" style="border: 0px none; width: 360px; margin-left: 0px; margin-right: 0px; height: 340px; margin-top: 0px; margin-bottom: 0px">
 </iframe>

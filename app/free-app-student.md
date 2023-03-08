@@ -6,9 +6,9 @@ date: 2020-09-14 10:41:48
 draft: false
 ---
 
-# Free Apps for Students
+## Free Apps for Students
 
-## Free Student Software List
+### Free Student Software List
 
 - [Free Student Software](https://freestudentsoftware.com/) - dead
 - [Free Software for Student](https://onthehub.com/product-category/free-software/)
@@ -18,7 +18,7 @@ draft: false
 - [School Choice Week](https://schoolchoiceweek.com/keep-learning/)
 - [Hacker Promos](https://www.hackerpromos.com/)
 
-## Free Software for Student
+### Free Software for Student
 
 - [Auto Desk Education](https://www.autodesk.com/education/free-software/featured) : Autocad, Autodesk, Inventor
 - [Ansys](https://www.ansys.com/academic)

@@ -6,24 +6,24 @@ date: 2020-12-04 21:54:47
 draft: false
 ---
 
-# Awesome Scientific Journal Tools
+## Awesome Scientific Journal Tools
 
 Related links:  
 🔗 [Paper and Article Search Tools](paper-search.md)  
 🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)  
 🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
-🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
-🔗 [Awesome Scientific Journal Tools](journal-tool.md)  
+🔗 [Awesome Science Blogs and Forums](../research/science-blog.md)  
+🔗 [Awesome Scientific Journal Tools](.md)  
 🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
-## Impact Factor
+### Impact Factor
 
 - [Scimago JR](https://www.scimagojr.com/journalrank.php) Journal Rank
 - [Clarivate Impact Factor](https://clarivate.com/webofsciencegroup/essays/impact-factor/), [Search](https://mjl.clarivate.com/search-results)
 - [Guide2Research](http://www.guide2research.com/)
 
-### Impact Factor for Specific Publishers
+#### Impact Factor for Specific Publishers
 
 - [Annual Reviews](https://www.annualreviews.org/about/impact-factors)
 - [Hindawi](https://www.hindawi.com/journals/)
@@ -33,7 +33,7 @@ Related links:
 - [OAJ Impact Factor](https://www.omicsonline.org/open-access-journals-impact-factors.php)
 - [Frontiers](https://www.frontiersin.org/about/journal-impact-factors)
 
-## Article Processing Charge (APC) for Open Access Paper
+### Article Processing Charge (APC) for Open Access Paper
 
 - [APC for IOP](https://publishingsupport.iopscience.iop.org/questions/article-publication-charge-pricing-and-the-costs-of-open-access-publishing/)
 - [APC for MDPI](https://www.mdpi.com/apc)
@@ -45,14 +45,14 @@ Related links:
 - [IEEE Open](https://open.ieee.org/index.php/about-ieee-open-access/faqs/)
 - [Open Access Journal Processing Fee](https://www.openaccess.cam.ac.uk/publishing-open-access/how-much-do-publishers-charge-open-access)
 
-### APC and IF relationship
+#### APC and IF relationship
 
 - [APC and IF Tables](http://csircentral.net/oa_j-2015-sci-e-only-new.pdf)
 - [APC and IF Tables](https://docs.google.com/spreadsheets/d/e/2PACX-1vSCfhHbtTQhnjdd0LmUwUZ6lMGSbCDQC_cx2qFjmw2v983pccv9k3yHJooQEcZNIn4BTOLV-9mGBpRM/pubhtml)
 - [Article: Processing Charge Hyperinflation and Price Insensitivity: An Open Access Sequel to the Serials Crisis](https://www.liberquarterly.eu/articles/10.18352/lq.10280/)
 - [Article: BMC sharp APC](https://sustainingknowledgecommons.org/2019/04/30/biomed-central-in-2019-sharp-increase-in-article-processing-charge/)
 
-## Journal Search
+### Journal Search
 
 - [Tandfonline Open Journal Search](https://www.tandfonline.com/openaccess/openjournals)
 - [OpenDOAR](https://v2.sherpa.ac.uk/opendoar/) OpenDOAR is the quality-assured, global Directory of Open Access Repositories.
@@ -61,7 +61,7 @@ Related links:
 - [Find journals - Elsevier® JournalFinder](https://journalfinder.elsevier.com/)
 - [Internet Archive Scholar](https://scholar.archive.org/) Scholar Archive
 
-## Journal Keyword Alert and RSS
+### Journal Keyword Alert and RSS
 
 - [Academic feeds & alerts - RSS, email, & table of contents alerts - LibGuides at MIT Libraries](https://libguides.mit.edu/c.php?g=175947&p=1158942)
 - [Journal alerts - Staying current with your research - All guides at RMIT University](https://rmit.libguides.com/c.php?g=336183&p=2262276)
@@ -73,7 +73,7 @@ Related links:
 - [JournalTOCs](https://www.journaltocs.ac.uk/)
 - [Journal Alerts](https://webofscience.help.clarivate.com/en-us/Content/journal-alerts.html)
 
-## Journal Publisher List
+### Journal Publisher List
 
 - [MDPI - Publisher of Open Access Journals](https://www.mdpi.com/)
 - [SAGE Journals: Your gateway to world-class research journals](https://journals.sagepub.com/)
@@ -81,11 +81,11 @@ Related links:
 - [Data in Brief - Journal - Elsevier](https://www.journals.elsevier.com/data-in-brief)
 - [Heliyon - Journal - ScienceDirect.com by Elsevier](https://www.sciencedirect.com/journal/heliyon)
 
-## Journal Notes
+### Journal Notes
 
 - [Publikasi Jurnal](https://teddit.net/r/indonesia/comments/myo5iq/faq_tentang_publikasi_ke_jurnal_dan_conferences/)
 
-## Journal Article Tools
+### Journal Article Tools
 
 - [JournalGuide - Home](https://www.journalguide.com/)
 - [JournalSeek - A Searchable Database of Online Scholarly Journals](http://journalseek.net/)

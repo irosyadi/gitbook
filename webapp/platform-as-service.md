@@ -6,16 +6,17 @@ date: 2022-10-06 09:55
 draft: false
 ---
 
-# Platform as a Service
+## Platform as a Service
 
-PLATFORM and its FREE TIER FEATURES
+PLATFORM and its FREE TIER FEATURES  
 The best alternative to Heroku is a cheap VPS with Digital Ocean or Linode. Throw on the open source PAAS software 
 
-## PAAS Software
+### PAAS Software
+
 - [mardix/sailor: Sailor is a tiny PaaS to install on your servers/VPS that uses git push to deploy micro-apps, micro-services, sites with SSL, on your own servers or VPS](https://github.com/mardix/sailor)
 - [https://dokku.com/](https://dokku.com/)
 
-## Platform
+### Platform
 
 [GitPod](https://gitpod.io/)
 

@@ -6,7 +6,7 @@ date: 2022-10-18 05:33
 draft: false
 ---
 
-# Kalman Filters
+## Kalman Filters
 
 - [How a Kalman filter works, in pictures - Bzarg](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 - [Special Topics - The Kalman Filter (1 of 55) What is a Kalman Filter? - YouTube](https://www.youtube.com/watch?v=CaCcOwJPytQ)

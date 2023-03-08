@@ -6,31 +6,31 @@ date: 2021-12-23 11:30:28
 draft: false
 ---
 
-# Machine Learning Teaching
+## Machine Learning Teaching
 
-## Teaching Deep Learning
+### Teaching Deep Learning
 
 - [Note by P Migdal](https://p.migdal.pl/2017/04/30/teaching-deep-learning.html)
 
-## Machine Learning : Visual Coding
+### Machine Learning : Visual Coding
 
 - [Kobra - A visual programming language for machine learning (in beta)](https://kobra.dev/)
 - [PerceptiLabs](https://www.perceptilabs.com/)
 
 💡 : Kid's machine learning tutorial
 
-## Machine Learning on Spreadsheet
+### Machine Learning on Spreadsheet
 
 - [Magicsheets: Machine Learning in your spreadsheet](https://www.magicsheets.io/#templates-page-anchor)
 - [Prediction Labs](https://predictionlaboratory.com/)
 - [mljar-supervised · PyPI](https://pypi.org/project/mljar-supervised/) Automated Machine Learning Python package that works with tabular data
 - [Magicsheets: Machine Learning in your spreadsheet](https://www.magicsheets.io/)
 
-## Machine Learning Visualization
+### Machine Learning Visualization
 
 - [Experiments with Google](https://experiments.withgoogle.com/)
 
-## Machine Learning
+### Machine Learning
 
 - [The First Rule of Machine Learning: Start without Machine Learning](https://eugeneyan.com/writing/first-rule-of-ml/)
 - [Machine Learning: The High Interest Credit Card of Technical Debt–Google Research](https://research.google/pubs/pub43146/)  
@@ -40,7 +40,7 @@ Career lesson: Ask a lot of questions early in a project's life. If you're worki
 
 [Rules of Machine Learning:  -  ML Universal Guides  -  Google Developers](https://developers.google.com/machine-learning/guides/rules-of-ml)
 
-## Machine Learning
+### Machine Learning
 
 - [Ai creative tools that help bring ideas to life](https://www.vizcom.co/static/media/weapons.143795cb.png)
 - [Machine Learning Engineer](https://arxiv.org/abs/1709.02840)

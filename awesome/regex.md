@@ -6,9 +6,9 @@ date: 2020-11-14 20:12:07
 draft: false
 ---
 
-# Regex
+## Regex
 
-## Regex Lesson
+### Regex Lesson
 
 - [Regexone](https://regexone.com/) : interactive regex lesson
 - [Regex 101](https://regex101.com/) : online interactive regex checker
@@ -20,7 +20,7 @@ draft: false
 - [py_regular_expressions/interactive_exercises at master · learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions/tree/master/interactive_exercises)
 - [Rubular: a Ruby regular expression editor](https://rubular.com/)
 
-## Regex Testing
+### Regex Testing
 
 - [Debuggex](https://www.debuggex.com/)
 - [I hate Regex](https://ihateregex.io/)
@@ -36,20 +36,20 @@ draft: false
 - [Regexpal](https://www.regexpal.com/)
 - [Txt2Re](https://www.txt2re.com/index_php3.html)
 
-## Regex Generator
+### Regex Generator
 
 - [Regex Inginf](https://regex.inginf.units.it/)
 - [GitHub - pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases](https://github.com/pemistahl/grex)
 
-## Regex Learn List
+### Regex Learn List
 
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
 
-## Regex Games
+### Regex Games
 
 - [Regex Crossword](https://m.regexcrossword.com/)
 
-## Regex Books and Tutorials
+### Regex Books and Tutorials
 
 - [Learn by Example](https://learnbyexample.github.io/books/)
 - [Refrf](https://refrf.shreyasminocha.me/), [GitHub](https://github.com/shreyasminocha/regex-for-regular-folk) License: CC-BY
@@ -60,12 +60,12 @@ draft: false
 - [Python Regex Cheat sheet](https://learnbyexample.github.io/python-regex-cheatsheet/)
 - [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)
 
-## Regex Alternative
+### Regex Alternative
 
 - [Nevod](https://nevod.io/#/playground)
     - [nezaboodka/nevod: Nevod is a language and technology for pattern-based text search.](https://github.com/nezaboodka/nevod)
 
-## Regex
+### Regex
 
 - [Regex Visualization](https://regex-vis.com/)
 - [RegexGo | AI-Powered Regex Generator | Create Custom Regex Patterns with Explanations](https://www.regexgo.com/)

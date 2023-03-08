@@ -6,13 +6,13 @@ date: 2022-05-11 19:35:33
 draft: false
 ---
 
-# How to Write Research Paper
+## How to Write Research Paper
 
-## Tips
+### Tips
 
-### Simple Steps
+#### Simple Steps
 
-## Resource
+### Resource
 
 - [Strunk, William, Jr. 1918. The Elements of Style](https://www.bartleby.com/141/index.html)
     - [The Elements of Style - Wikisource, the free online library](https://en.wikisource.org/wiki/The_Elements_of_Style)
@@ -31,7 +31,7 @@ draft: false
 - [Purdue OWL // Purdue Writing Lab](https://owl.purdue.edu/owl/purdue_owl.html)
 - [ALL GUIDES Alphabetically - LibGuides at University of Reading](https://libguides.reading.ac.uk/)
 
-## Academic Writing Tools
+### Academic Writing Tools
 
 - [Power Thesaurus](https://www.powerthesaurus.org/)
 - [100+ Strong Verbs That Will Make Your Research Writing Amazing - Wordvice](https://blog.wordvice.com/recommended-verbs-for-research-writing/)
@@ -42,14 +42,14 @@ draft: false
 - [How to Use Zotero and Scrivener for Research-Driven Writing - JSTOR Daily](https://daily.jstor.org/how-to-use-zotero-and-scrivener-for-research-driven-writing/)
 - [Manuskript–Open-source tool for writers](http://www.theologeek.ch/manuskript/)
 
-## Research Proposal Writing Tips
+### Research Proposal Writing Tips
 
 - <https://owll.massey.ac.nz/assignment-types/research-proposal-structure.php>
 - <https://research.com/research/how-to-write-a-research-proposal>
 - <https://www.scribbr.com/dissertation/research-proposal/>
 - <https://www.monash.edu/rlo/graduate-research-writing/write-the-thesis/writing-a-research-proposal>
 
-## Research Writing Tips
+### Research Writing Tips
 
 - [Research Tools](https://openmetric.org/tool/#be-organized)
 - [A Research to Engineering Workflow - Dustin Tran](http://dustintran.com/blog/a-research-to-engineering-workflow)
@@ -59,7 +59,7 @@ draft: false
 - [195 Best Writing Tools And Resources Every Student Needs](https://ivypanda.com/blog/best-writing-tools-and-resources/)
 - [Essay Structure.docx - Table of Contents](https://www.brad.ac.uk/T4-css-corporate/wimba-test/index.htm)
 
-## Newspaper Writing
+### Newspaper Writing
 
 - [Writing Tips from The Economics](https://builtbywords.substack.com/p/writing-tools-i-learned-from-the)
     - Getting to it

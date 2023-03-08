@@ -6,11 +6,11 @@ date: 2020-07-29 20:33:36
 draft: false
 ---
 
-# Vexillology
+## Vexillology
 
 Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and usage of flags or, by extension, any interest in flags in general.
 
-## Books
+### Books
 
 - [The World Encyclopedia of Flags](https://www.goodreads.com/book/show/15932248-the-world-encyclopedia-of-flags) - [Albert Znamierowski](https://en.wikipedia.org/wiki/Alfred_Znamierowski) (2013)
 - [Flag, Nation and Symbolism in Europe and America](https://www.amazon.com/Flag-Nation-Symbolism-Europe-America/dp/0415458544), collection of research papers about the symbolism of flags.
@@ -20,13 +20,13 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Alfred Znamierowski](https://www.google.co.id/search?tbm=bks&q=inauthor:%22Alfred+Znamierowski%22)
 - [Good Flag Bad Flag](https://nava.org/good-flag-bad-flag/)
 
-## Journal
+### Journal
 
 - [Raven](https://nava.org/raven-a-journal-of-vexillology/)
 - [Flag Research Quarterly](https://nava.org/flag-research-quarterly/)
 - [Flags in Context: A Discussion of Design, Genre, and Aesthetics by Perry Dane](https://nava.org/digital-library/raven/Raven_v15_2008_p043-080.pdf)
 
-## Web
+### Web
 
 - [r/vexillology](https://old.reddit.com/r/vexillology/)
 - [FIAV](https://fiav.org/)
@@ -38,7 +38,7 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Vexilla Mundi](https://www.vexilla-mundi.com/)
 - [All Flags World](https://www.all-flags-world.com/)
 
-## Dataset
+### Dataset
 
 - [Flags](https://www.flags.net/)
 - [Wikipedia Flag](https://data.world/pbi/country-flag-database-from-wikipedia)
@@ -48,7 +48,7 @@ Vexillology (/ˌvɛksɪˈlɒlədʒi/) is the study of the history, symbolism and
 - [Kaggle](https://www.kaggle.com/skrzym/world-flags)
 - [Wikipedia List of Flags](https://www.wikiwand.com/en/Lists_of_flags)
 
-## Flag Design
+### Flag Design
 
 - [Nava](https://nava.org/navanews/Commission-Report-Final-US.pdf)
 - [Good Flag Bad Flag](https://nava.org/digital-library/design/GFBF_English.pdf)

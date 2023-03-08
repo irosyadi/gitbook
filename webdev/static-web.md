@@ -6,14 +6,14 @@ date: 2020-07-06 20:01:55
 draft: false
 ---
 
-# List of Static Web Generator
+## List of Static Web Generator
 
-## List of List
+### List of List
 
 - [Staticgen](https://www.staticgen.com/)
 - [Booktree Alternatives](https://booktree.github.io/alternatives/)
 
-## Fast Static Site Generator
+### Fast Static Site Generator
 
 - [hugo](https://github.com/gohugoio/hugo) (Apache 2.0)  
 - [hugonews](https://github.com/spaghettiwews/hugonews) (GPL 2.0), HN-like with Hugo ([demo](https://themes.gohugo.io/theme/hugonews/))  
@@ -27,23 +27,23 @@ draft: false
 - [SSG Comparison](https://www.ionos.com/digitalguide/websites/website-creation/the-best-static-site-generators/)
 - [Vercel](https://vercel.com/templates)
 
-## Static Site Client Side Rendering
+### Static Site Client Side Rendering
 
 - MDWiki : javascript
 - VNote : javascript
 - [Grav](https://getgrav.org/) : PHP
 - Bludit
 
-## Static Site with PHP
+### Static Site with PHP
 
 - [Jigsaw](https://jigsaw.tighten.co/)
 
-## Jekyll Theme
+### Jekyll Theme
 
 - [Home - Just the Docs](https://just-the-docs.github.io/just-the-docs/)
 - [Docsy Jekyll Theme](https://vsoch.github.io/docsy-jekyll/)
 
-## Hugo Theme
+### Hugo Theme
 
 - [nodejh/hugo-theme-mini: A fast, minimalist and responsive hugo theme for bloggers.](https://github.com/nodejh/hugo-theme-mini)
 - [dillonzq/LoveIt: ❤️A clean, elegant but advanced blog theme for Hugo 一个简洁、优雅且高效的 Hugo 主题](https://github.com/dillonzq/LoveIt)

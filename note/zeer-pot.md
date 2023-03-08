@@ -6,9 +6,9 @@ date: 2022-10-11 08:38
 draft: false
 ---
 
-# Zeer Evaporation Pot
-
 ## Zeer Evaporation Pot
+
+### Zeer Evaporation Pot
 
 - [Build an evaporative refrigerator - no moving parts, no electricity - Rebuilding Civilization](http://rebuildingcivilization.com/content/build-evaporative-refrigerator-no-moving-parts-no-electricity)
 - [Busting myths about the Zeer pot - Rebuilding Civilization](http://rebuildingcivilization.com/content/busting-myths-about-zeer-pot)

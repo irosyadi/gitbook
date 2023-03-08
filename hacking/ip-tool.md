@@ -6,11 +6,11 @@ date: 2021-06-07 03:53:26
 draft: false
 ---
 
-# IP Tools
+## IP Tools
 
-[[my-IP-address-check]]
+[my-IP-address-check](my-IP-address-check.md)
 
-## Reverse IP
+### Reverse IP
 
 Input: Domain Name  
 Output: IP
@@ -28,54 +28,54 @@ Output: IP
 - [host.io](https://host.io/)
 - [Ping, mtr, dig and TCP port check from multiple locations](http://ping.pe/)
 
-## Privacy Check
+### Privacy Check
 
 Input: -  
 Output: List data gathered
 
 - [IP Info](https://ipinfo.info/html/privacy-check.php)
 
-## IP Address Lookup
+### IP Address Lookup
 
 Input: IP  
 Output: Geolocation, Ownership
 
 - [IP-Address](https://www.ip-address.org/lookup/ip-locator.php)
 
-## Email IP Checker
+### Email IP Checker
 
 - [IP-Address](https://www.ip-address.org/verify/email-checker.php)
 
-## Email IP Tracer
+### Email IP Tracer
 
 - [IP-Address](https://www.ip-address.org/tracker/trace-email.php)
 
-## IPv6 Check
+### IPv6 Check
 
 - [IPv6 Test Google](https://ipv6test.google.com/)
 - [Test your IPv6.](https://test-ipv6.com/)
 - [IPv6 test - IPv6/4 connectivity and speed test](https://ipv6-test.com/)
 
-## Internet IP Scanner
+### Internet IP Scanner
 
 - [Home - Censys](https://censys.io/)
 - [Shodan](https://www.shodan.io/)
 
-## IP Catfishing and Locator
+### IP Catfishing and Locator
 
 - Grabify
 - [The 32 Best Grabify Alternatives (2021): Log and Track IP Address](https://phreesite.com/grabify-alternatives/)
 
 💡 : to catfish fraudsters (push them to click a link and get their location)
 
-## IP Tools
+### IP Tools
 
 - [Find Website IP](https://www.ipvoid.com/find-website-ip/)
 - [Check Host](https://check-host.net/ip-info)
 - [IP Address](https://www.ip-adress.com/ip-address/lookup)
 - [Format and Minify Your Code Online](https://www.cleancss.com/)
 
-## Web Tools
+### Web Tools
 
 - [WMTips](https://www.wmtips.com/tools/)
 - [IPVoid](https://www.ipvoid.com/)

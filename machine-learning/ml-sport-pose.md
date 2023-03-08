@@ -6,13 +6,13 @@ date: 2020-10-11 21:21:34
 draft: false
 ---
 
-# Machine Learning for Sport Pose Analysis
+## Machine Learning for Sport Pose Analysis
 
-## Pose Estimation
+### Pose Estimation
 
 - [Pose Estimation in Jetson Device](https://github.com/NVIDIA-AI-IOT/deepstream_pose_estimation) [Blog](https://developer.nvidia.com/blog/creating-a-human-pose-estimation-application-with-deepstream-sdk/)
 
-## Sport Pose Analysis
+### Sport Pose Analysis
 
 - [Badminton Pose Analysis](https://github.com/deepaktalwardt/badminton-pose-analysis)
 - [Action Dataset (Tennis and Badminton)](https://www.cvssp.org/acasva/Downloads)
@@ -25,9 +25,9 @@ draft: false
 - [Ref-7](https://deepai.org/publication/coachai-a-project-for-microscopic-badminton-match-data-collection-and-tactical-analysis)
 - [Ref-8](https://ieeexplore.ieee.org/document/8686917)
 
-## Pose Estimation
+### Pose Estimation
 
-### Methods
+#### Methods
 
 - HRNet
 - OpenPose
@@ -37,7 +37,7 @@ draft: false
 - Densepose
 - Personlab
 
-### Datasets
+#### Datasets
 
 - [COCO](https://cocodataset.org/#home) (Common Objects in Context)
     - Benchmark; Images from Flickr

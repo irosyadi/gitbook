@@ -6,9 +6,9 @@ date: 2022-10-11 08:32
 draft: false
 ---
 
-# Neural Network
+## Neural Network
 
-## Simple Neural Network
+### Simple Neural Network
 
 - [Neural Network From Scratch](https://sirupsen.com/napkin/neural-net)
 - [eriklindernoren/ML-From-Scratch: Machine Learning From Scratch. Bare bones NumPy implementations of machine learning models and algorithms with a focus on accessibility. Aims to cover everything from linear regression to deep learning.](https://github.com/eriklindernoren/ML-From-Scratch)
@@ -25,23 +25,22 @@ draft: false
 - [3Blue1Brown](https://www.3blue1brown.com/topics/neural-networks)
 - [module0—MiniTorch 0.1 documentation](https://minitorch.github.io/)
 
-## Neural Network with Resistor
+### Neural Network with Resistor
 
 - [Demonstration of Decentralized, Physics-Driven Learning](https://arxiv.org/abs/2108.00275)
 - [Learning Without a Global Clock: Asynchronous Learning in a Physics-Driven Learning Network](https://arxiv.org/abs/2201.04626)
 - [Simple electrical circuit learns on its own—with no help from a computer - Science - AAAS](https://www.science.org/content/article/simple-electrical-circuit-learns-its-own-no-help-computer)
 
-## Neural Network
+### Neural Network
 
 - [A Neural Network Playground](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.94939&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 
-## Neural Network
+### Neural Network
 
 - [Neural Networks from Scratch](https://aegeorge42.github.io/)
 - [Neural Networks from Scratch](https://nnfs.io/)
 - [Neural Networks, Manifolds, and Topology -- colah's blog](https://colah.github.io/posts/2014-03-NN-Manifolds-Topology/)
 
-
-## Physical Neural Network
+### Physical Neural Network
 
 - [Deep physical neural networks trained with backpropagation - Nature](https://www.nature.com/articles/s41586-021-04223-6)

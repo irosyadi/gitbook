@@ -6,9 +6,9 @@ date: 2020-08-09 19:48:29
 draft: false
 ---
 
-# Math Books, Tutorials, and Courses
+## Math Books, Tutorials, and Courses
 
-## Free
+### Free
 
 - [Mathematics for Machine Learning](https://mml-book.github.io/) with Tutorial
 - [Multivariable Calculus](https://mathinsight.org/thread/multivar)
@@ -18,13 +18,13 @@ draft: false
 - [Elementary Calculus](https://www.math.wisc.edu/~keisler/calc.html)
 - [Free Mathematics Books](http://www.e-booksdirectory.com/mathematics.php)
 
-### GPL/GFDL
+#### GPL/GFDL
 
 - [Modeling, Functions, and Graphs Algebra for College Students](https://yoshiwarabooks.org/mfg/) License: GFDL
 - [Trigonometry](https://yoshiwarabooks.org/trig/) License: GFDL
 - [Elementary Algebra](https://yoshiwarabooks.org/elem-alg/) License: GFDL
 
-## CC-BY
+### CC-BY
 
 - [Active Prelude to Calculus](https://activecalculus.org/APC.html) License: CC-BY
 - [Active Calculus Multivariable](https://activecalculus.org/ACM.html) License: CC-BY
@@ -32,7 +32,7 @@ draft: false
 - [Calculus Lab Manual](https://spaces.pcc.edu/display/MS/Calculus+Lab+Manuals) or [this](https://spot.pcc.edu/math/clm/clm.html) License: CC-BY
 - [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 
-## Open Math Coursenote
+### Open Math Coursenote
 
 - [Paul Dawkins Math Notes](https://tutorial.math.lamar.edu/) License: Free
     - Algebra
@@ -41,7 +41,7 @@ draft: false
     - Calculus III
     - Differential Equations
 
-## List of Free Math Book
+### List of Free Math Book
 
 - [Awesome Math Book](https://github.com/rossant/awesome-math)
 - [UPS Edu](https://linear.ups.edu/curriculum.html)

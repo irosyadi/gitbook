@@ -6,39 +6,39 @@ date: 2020-11-21 09:00:27
 draft: false
 ---
 
-# Object Detection
-
 ## Object Detection
+
+### Object Detection
 
 - [Object detection in an hour - Stray Robots Blog](https://www.strayrobots.io/blog/object-detection-in-an-hour)
 
-## Object Detection and Segmentation
+### Object Detection and Segmentation
 
 - [facebookresearch/detectron2: Detectron2 is FAIR's next-generation platform for object detection and segmentation.](https://github.com/facebookresearch/detectron2)
 - [Speed up your image segmentation workflow with model-assisted labeling - Segments](https://segments.ai/blog/speed-up-image-segmentation-with-model-assisted-labeling)
 - [Image segmentation with a U-Net-like architecture](https://keras.io/examples/vision/oxford_pets_image_segmentation/)
 
-## In-Browser Pose Identification
+### In-Browser Pose Identification
 
 - [Handsfree.js](https://handsfree.js.org/)
     - [MIDIBlocks/handsfree: Integrate face, hand, and/or pose tracking to web](https://github.com/MIDIBlocks/handsfree)
 - [jeeliz/jeelizWeboji: JavaScript/WebGL real-time face tracking and expression detection library](https://github.com/jeeliz/jeelizWeboji)
 
-## Rooftop Detection Machine Learning
+### Rooftop Detection Machine Learning
 
 - [Improved Rooftop Detection in Aerial Images with Machine Learning - SpringerLink](https://link.springer.com/article/10.1023/A:1025623527461)
 - [Novel Approach for Rooftop Detection Using Support Vector Machine](https://www.hindawi.com/journals/isrn/2013/819768/)
 - [Deep-learning: Rooftop type detection with Keras and TensorFlow–fractalytics](https://fractalytics.io/rooftop-detection-with-keras-tensorflow)
 - [Increasing Solar adoption in the developing world through Machine Learning image segmentation - by Rudradeb Mitra - Towards Data Science](https://towardsdatascience.com/using-image-segmentation-to-identify-rooftops-in-low-resolution-satellite-images-c791975d91cc)
 
-## Hand Detection and Hand Tracking
+### Hand Detection and Hand Tracking
 
 - [victordibia/handtrack.js: A library for prototyping realtime hand detection (bounding box), directly in the browser.](https://github.com/victordibia/handtrack.js)
 - [tfjs-models/handpose at master · tensorflow/tfjs-models](https://github.com/tensorflow/tfjs-models/tree/master/handpose)
 - [handtracking.io](https://handtracking.io/)
 - [Robust Computer Vision-Based Detection of Pinching for One and Two-Handed Gesture Input - Microsoft Research](https://www.microsoft.com/en-us/research/publication/robust-computer-vision-based-detection-pinching-one-two-handed-gesture-input/)
 
-## Browser based Face/Pose Identification
+### Browser based Face/Pose Identification
 
 - [Handsfree.js](https://handsfree.js.org/)
     - [MIDIBlocks/handsfree: Quickly integrate face, hand, and/or pose tracking to your frontend projects in a snap ✨👌](https://github.com/midiblocks/handsfree)
@@ -48,7 +48,7 @@ draft: false
     - [mediapipe/mediapipe/models at master · google/mediapipe](https://github.com/google/mediapipe/tree/master/mediapipe/models)
     - [Google AI Blog: MediaPipe Iris: Real-time Iris Tracking & Depth Estimation](https://ai.googleblog.com/2020/08/mediapipe-iris-real-time-iris-tracking.html)
 
-## In-browser Object Detection
+### In-browser Object Detection
 
 - [In-Browser object detection using YOLO and TensorFlow.js - DEV Community 👩‍💻👨‍💻](https://dev.to/skalskip/in-browser-object-detection-using-yolo-and-tensorflow-js-4c9h)
 - [TensorFlow.js: Make a smart webcam in JavaScript with a pre-trained Machine Learning model](https://codelabs.developers.google.com/codelabs/tensorflowjs-object-detection#0)
@@ -62,7 +62,7 @@ draft: false
     - [Demos](https://nanonets.com/object-detection-with-tensorflowjs-demo/)
 - [Custom object detection in the browser using TensorFlow.js—The TensorFlow Blog](https://blog.tensorflow.org/2021/01/custom-object-detection-in-browser.html)
 
-## YOLO
+### YOLO
 
 - [Object Detection and Image Classification with YOLO - KDnuggets](https://www.kdnuggets.com/2018/09/object-detection-image-classification-yolo.html) : YOLO is based on regression not classification
 - [Real-time Object Detection with YOLO, YOLOv2 and now YOLOv3 - by Jonathan Hui - Medium](https://jonathan-hui.medium.com/real-time-object-detection-with-yolo-yolov2-28b1b93e2088)

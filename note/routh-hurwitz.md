@@ -6,7 +6,7 @@ date: 2022-10-18 05:34
 draft: false
 ---
 
-# Routh-Hurwitz
+## Routh-Hurwitz
 
 - [RHCalc](https://www.muchen.ca/RHCalc/)
 - [crclayton - routh-hurwitz](http://crclayton.com/projects/routhhurwitz/index.html)

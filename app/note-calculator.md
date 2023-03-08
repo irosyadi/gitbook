@@ -6,7 +6,7 @@ date: 2022-10-15 20:16
 draft: false
 ---
 
-# Note Calculator
+## Note Calculator
 
 - [Math Notepad](https://mathnotepad.com/)
 - [Recomputer](https://xixixao.github.io/recomputer/)
@@ -18,21 +18,20 @@ draft: false
 - [Numbr](https://numbr.dev/)
 - [NumPad](https://numpad.io/)
 
-# Calculator
+## Calculator
 
 - [figr.app - Your notepad calculator](https://www.figr.app/)
 
-# Calculator
+## Calculator
 
 - [Calca - The Text Editor that Loves Math](http://calca.io/)
 - [SpeQ Mathematics](https://speqmath.com/)
 
-# Calculator
+## Calculator
 
 - [Notepad Calculator](http://notepadcalculator.com/)
 
-
-## Engineering Notes
+### Engineering Notes
 
 - [Blockpad](https://blockpad.net/) : Word processor with calculation field
 - [Atlas](http://atlasengineering.io/)

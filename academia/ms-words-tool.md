@@ -6,16 +6,16 @@ date: 2022-06-03 21:05:13
 draft: false
 ---
 
-# Awesome Document Research Tools
+## Awesome Document Research Tools
 
-## MS Word Add-ons
+### MS Word Add-ons
 
-### Citation Manager
+#### Citation Manager
 
 - Zotero
 - Mendeley
 
-### Grammar
+#### Grammar
 
 - Grammarly
 - Writely
@@ -23,7 +23,7 @@ draft: false
 - WriteBetter
 - Power Thesaurus
 
-### Research
+#### Research
 
 - Keenious
 - Data Finder

@@ -6,9 +6,9 @@ date: 2020-08-15 04:10:11
 draft: false
 ---
 
-# QR Code and Barcode Apps
+## QR Code and Barcode Apps
 
-## QR Code Generator
+### QR Code Generator
 
 - [QR Picture](https://www.qrpicture.com/) - make QR Code from realistic picture
 - [QR Code JS](https://www.bitcat.cc/webapp/awesome-qr/#) - QR Code with realistic picture background
@@ -20,7 +20,7 @@ draft: false
 - [My-Qr.art - Create custom QR codes for free!](https://my-qr.art/)
 - [QROSSCODES](https://qrosscodes.com/)
 
-## QR Code Decoder
+### QR Code Decoder
 
 - [Zxing](https://zxing.org/w/decode.jspx)
 - [BarcodeReader](https://www.onlinebarcodereader.com/)
@@ -31,11 +31,11 @@ draft: false
 - [ImgOnline](https://www.imgonline.com.ua/eng/scan-qr-bar-code.php)
 - [Firefox Addon](https://addons.mozilla.org/en-US/firefox/addon/qrcode-generator-and-reader/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search)
 
-## QR Code
+### QR Code
 
 - [QRImage](https://hughchen.github.io/qr_image/)
 
-## Barcode Tools
+### Barcode Tools
 
 - [Apps for Barcode generation](https://products.fileformat.app/barcode/)
 	- format QR, UPC, EAN, ISBN, ITF, ISSN, OPC

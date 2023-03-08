@@ -6,9 +6,9 @@ date: 2020-10-11 21:39:17
 draft: false
 ---
 
-# Hosted Open Source Services
+## Hosted Open Source Services
 
-## Open Source Service Hosted
+### Open Source Service Hosted
 
 - [Fossdaily](https://fossdaily.xyz/)
     - [IP Check](https://ip.fossdaily.xyz/)
@@ -81,7 +81,7 @@ draft: false
     - Librespeed
     - Element by Matrix
 
-## Instances
+### Instances
 
 - [List Bibliogram Instances](https://git.sr.ht/~cadence/bibliogram-docs/tree/master/docs/Instances.md)
 - [List Invidious Instances](https://github.com/iv-org/invidious/wiki/Invidious-Instances) and [This List](https://instances.invidio.us/)

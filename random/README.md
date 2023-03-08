@@ -6,7 +6,7 @@ date: 2020-06-01 20:09:34
 draft: false
 ---
 
-# Random Notes
+## Random Notes
 
 This folder contains my random notes for everything I found and thought. They will be messed notes since my approach is *just write*. So they are just like semi-*zettelkasten* or even just bookmark handlers. Sometimes I will write in English, in the other times it will in Indonesian.
 

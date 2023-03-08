@@ -6,8 +6,8 @@ date: 2022-09-30 08:12:41
 draft: false
 ---
 
-# Generative Text
-
 ## Generative Text
+
+### Generative Text
 
 * [Semiotic, transparent AI :: semiosis—Signs, Natural Language and Coding](https://semiosis.github.io/about/)

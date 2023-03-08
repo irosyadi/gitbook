@@ -6,9 +6,9 @@ date: 2021-02-26 13:10:49
 draft: false
 ---
 
-# Time Series Forecasting
+## Time Series Forecasting
 
-## LSTM for Time Series Forecasting
+### LSTM for Time Series Forecasting
 
 - Univariate LSTM Models : one observation time-series data, predict the next value in the sequence
 - Multivariate LSTM Models : two or more observation time-series data, predict the next value in the sequence
@@ -19,7 +19,7 @@ draft: false
     - Multiple Input Multi-Step Output.
     - Multiple Parallel Input and Multi-Step Output.
 
-## Machine Learning for Multivariate Input
+### Machine Learning for Multivariate Input
 
 - [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 - [Multi-Step LSTM Time Series Forecasting Models for Power Usage](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/), [dhamvi01/Multivariate-Time-Series-Using-LSTM](https://github.com/dhamvi01/Multivariate-Time-Series-Using-LSTM), [ManishPrajapat/Household-Energy-MultiVariate-LSTM-: Data - Multivariate time series data of a house is provided](https://github.com/ManishPrajapat/Household-Energy-MultiVariate-LSTM-)
@@ -36,7 +36,7 @@ draft: false
 - [dafrie/lstm-load-forecasting: Electricity load forecasting with LSTM (Recurrent Neural Network)](https://github.com/dafrie/lstm-load-forecasting) Dataset : Electricity Load ENTSO, Model : LSTM, Type: Multivariate
 - [AIStream-Peelout/flow-forecast: Deep learning PyTorch library for time series forecasting, classification, and anomaly detection (originally for flood forecasting).](https://github.com/AIStream-Peelout/flow-forecast), Dataset: river flow [FlowDB Dataset - Flow Forecast - Flow Forecast](https://flow-forecast.atlassian.net/wiki/spaces/FF/pages/33456135/FlowDB+Dataset), flood severity, Model: LSTM, Transformer, Simple Multi-Head Attention, Transformer with a linear decoder, DA-RNN, Transformer XL, Informer, DeepAR
 
-## Statistical Method for Multivariate Input
+### Statistical Method for Multivariate Input
 
 - [Multivariate Time Series - Vector Auto Regression (VAR)](https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/) : VAR
 - [Vector Autoregression (VAR) - Comprehensive Guide with Examples in Python - ML+](https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/) : VAR
@@ -45,7 +45,7 @@ draft: false
 - [A Real-World Application of Vector Autoregressive (VAR) model - by Mohammad Masum - Towards Data Science](https://towardsdatascience.com/multivariate-time-series-forecasting-456ace675971) : VAR
 - [ZahraNabilaIzdihar/Backpropagation-Neural-Network-for-Multivariate-Time-Series-Forecasting: Backpropagation Neural Network for Multivariate Time Series Forecasting (multi input single output: 2 inputs and 1 output)](https://github.com/ZahraNabilaIzdihar/Backpropagation-Neural-Network-for-Multivariate-Time-Series-Forecasting) : NN
 
-## Machine Learning for Univariate Input
+### Machine Learning for Univariate Input
 
 - [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/) : LSTM
  - [rishikksh20/LSTM-Time-Series-Analysis: Using LSTM network for time series forecasting](https://github.com/rishikksh20/LSTM-Time-Series-Analysis) Dataset: Sunspot Zurich, Model: LSTM
@@ -60,7 +60,7 @@ draft: false
  - [3springs/attentive-neural-processes: implementing "recurrent attentive neural processes" to forecast power usage (w. LSTM baseline, MCDropout)](https://github.com/3springs/attentive-neural-processes) Dataset: English power consumption, Model: ANP-RNN "Recurrent Attentive Neural Process for Sequential Data", ANP: Attentive Neural Processes, NP: Neural Processes, LSTM
 - [Housiadas/forecasting-energy-consumption-LSTM: Development of a machine learning application for IoT platform to predict electric energy consumption in smart building environment in real time.](https://github.com/Housiadas/forecasting-energy-consumption-LSTM), Dataset: Kaggle energy consuption, Model: LSTM, Seq2Seq
 
-## Statistical Method for Univariate Input
+### Statistical Method for Univariate Input
 
 - [Time Series Forecasting—ARIMA, LSTM, Prophet with Python - by Caner Dabakoglu - Medium](https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887) : LSTM, ARIMA, Prophet
 - [pyaf/load_forecasting: Load forcasting on Delhi area electric power load using ARIMA, RNN, LSTM and GRU models](https://github.com/pyaf/load_forecasting) Dataset: Electricity, Model: Feed forward Neural Network FFNN, Simple Moving Average SMA, Weighted Moving Average WMA,  
@@ -73,9 +73,9 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
  - [stxupengyu/load-forecasting-algorithms: 使用多种算法（线性回归、随机森林、支持向量机、BP神经网络、GRU、LSTM）进行电力系统负荷预测/电力预测。通过一个简单的例子。A variety of algorithms (linear regression, random forest, support vector machine, BP neural network, GRU, LSTM) are used for power system load forecasting / power forecasting.](https://github.com/stxupengyu/load-forecasting-algorithms) Dataset: Power usage, Model: linear regression, random forest, support vector machine, BP neural network, GRU, LSTM
  - [Abhishekmamidi123/Time-Series-Forecasting: Rainfall analysis of Maharashtra - Season/Month wise forecasting. Different methods have been used. The main goal of this project is to increase the performance of forecasted results during rainy seasons.](https://github.com/Abhishekmamidi123/Time-Series-Forecasting) Dataset: precipitation, Model: ARIMA, LSTM, FNN(Feed forward Neural Networks), TLNN(Time lagged Neural Networks), SANN(Seasonal Artificial Neural Networks
 
-## Jupyter Notebook Examples
+### Jupyter Notebook Examples
 
-### Univariate ARIMA
+#### Univariate ARIMA
 
 `import statsmodels`
 
@@ -87,7 +87,7 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [mborysiak/Time-Series-Forecasting-with-ARIMA-and-LSTM](https://github.com/mborysiak/Time-Series-Forecasting-with-ARIMA-and-LSTM)
 - [Time Series Forecasting—ARIMA, LSTM, Prophet with Python - by Caner Dabakoglu - Medium](https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887)
 
-### Univariate LSTM
+#### Univariate LSTM
 
 `import keras`
 
@@ -98,7 +98,7 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Time Series Forecasting with the Long Short-Term Memory Network in Python](https://machinelearningmastery.com/time-series-forecasting-long-short-term-memory-network-python/)
 - [Time Series Forecasting—ARIMA, LSTM, Prophet with Python - by Caner Dabakoglu - Medium](https://medium.com/@cdabakoglu/time-series-forecasting-arima-lstm-prophet-with-python-e73a750a9887)
 
-### Multivariate VAR
+#### Multivariate VAR
 
 (Note: VAR should only for [Stationary process - Wikipedia](https://en.wikipedia.org/wiki/Stationary_process))
 
@@ -108,7 +108,7 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Vector Autoregressive for Forecasting Time Series - by Sarit Maitra - Towards Data Science](https://towardsdatascience.com/vector-autoregressive-for-forecasting-time-series-a60e6f168c70) : VAR
 - [A Real-World Application of Vector Autoregressive (VAR) model - by Mohammad Masum - Towards Data Science](https://towardsdatascience.com/multivariate-time-series-forecasting-456ace675971) : VAR
 
-### Multivariate LSTM
+#### Multivariate LSTM
 
 - [How to Develop LSTM Models for Time Series Forecasting](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/)
 - [Multi-Step LSTM Time Series Forecasting Models for Power Usage](https://machinelearningmastery.com/how-to-develop-lstm-models-for-multi-step-time-series-forecasting-of-household-power-consumption/)
@@ -117,7 +117,7 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM](https://github.com/Shiv-Kumar-Yadav9/Stock-Price-Prediction-by-Multivariate-Multistep-LSTM)
 - [How to Develop Multivariate Multi-Step Time Series Forecasting Models for Air Pollution](https://machinelearningmastery.com/how-to-develop-machine-learning-models-for-multivariate-multi-step-air-pollution-time-series-forecasting/)
 
-## Prophet and Kats from Facebook
+### Prophet and Kats from Facebook
 
 - [Time-Series Forecasting with Facebook Prophet and OmniSci](https://www.omnisci.com/blog/time-series-forecasting-with-facebook-prophet-and-omnisci?utm_source=reddit&utm_medium=social&utm_campaign=technical-content&utm_term=time-series-forecasting-with-facebook-prophet-and-omnisci&utm_content=blog)
 - [Is Facebook's "Prophet" the Time-Series Messiah, or Just a Very Naughty Boy?](https://www.microprediction.com/blog/prophet), [HN Discussion](https://news.ycombinator.com/item?id=27695574)
@@ -125,31 +125,31 @@ Simple Exponential Smoothing SES, Holts Winters HW, Autoregressive Integrated Mo
 - [ourownstory/neural_prophet: NeuralProphet: A simple forecasting package](https://github.com/ourownstory/neural_prophet)
 - [NeuralProphet: The neural evolution of Meta’s Prophet](https://ai.facebook.com/blog/neuralprophet-the-neural-evolution-of-facebooks-prophet/)
 
-## Note on Multivariate and Univariate
+### Note on Multivariate and Univariate
 
 - [On the Suitability of Long Short-Term Memory Networks for Time Series Forecasting](https://machinelearningmastery.com/suitability-long-short-term-memory-networks-time-series-forecasting/)
 - [A Comparative Study between Univariate and Multivariate Linear Stationary Time Series Models](http://article.sapub.org/10.5923.j.ajms.20160605.02.html)
 - [Alro10/deep-learning-time-series: List of papers, code and experiments using deep learning for time series forecasting](https://github.com/Alro10/deep-learning-time-series) Collection of papers
 
-## Software
+### Software
 
 - [Gekko Timeseries and Modeling Software - Timeseries handling, and solving of large-scale economic models](http://t-t.dk/gekko/)
 
-## Other Time Series
+### Other Time Series
 
 - [Time Series Forecasting with Regression and LSTM - Paperspace Blog](https://blog.paperspace.com/time-series-forecasting-regression-and-lstm/?ref=mlnews)
 - [Kats - Kats](https://facebookresearch.github.io/Kats/) One stop shop for time series analysis in Python
 - [chlubba/catch22: catch-22: CAnonical Time-series CHaracteristics](https://github.com/chlubba/catch22)
 - [blue-yonder/tsfresh: Automatic extraction of relevant features from time series:](https://github.com/blue-yonder/tsfresh)
 
-## Precipitation Forecasting
+### Precipitation Forecasting
 
 - Nowcasting, Upsampling, Interpolation, Super resolution
 - [hydrogo/rainnet: RainNet: a convolutional neural network for radar-based precipitation nowcasting](https://github.com/hydrogo/rainnet)
 - [1706.03458 Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model](https://arxiv.org/abs/1706.03458)
     - [sxjscience/HKO-7: Source code of paper "NIPS2017 Deep Learning for Precipitation Nowcasting: A Benchmark and A New Model"](https://github.com/sxjscience/HKO-7)
 
-## Deep Learning for Forecasting
+### Deep Learning for Forecasting
 
 top open source deep learning for time series forecasting frameworks.
 
@@ -158,7 +158,7 @@ top open source deep learning for time series forecasting frameworks.
 3. [sktime dl](https://github.com/sktime/sktime-dl) This is another time series forecasting repository. Unfortunately it looks like particularly recent activity has diminished on it.
 4. [PyTorch-TS](https://github.com/zalandoresearch/pytorch-ts) Another framework, written in PyTorch, this repository focuses more on probabilistic models. The repository isn’t that active (last commit was in November).
 
-## eBook Forecasting
+### eBook Forecasting
 
 - [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/index.html)
@@ -167,7 +167,7 @@ top open source deep learning for time series forecasting frameworks.
 - [Time Series: A Data Analysis Approach Using R](https://www.stat.pitt.edu/stoffer/tsda/)
 - [NIST/SEMATECH e-Handbook of Statistical Methods](https://www.itl.nist.gov/div898/handbook/index.htm) engineering statistics
 
-## Timeseries Forecasting
+### Timeseries Forecasting
 
 - [linkedin/greykite: A flexible, intuitive and fast forecasting library](https://github.com/linkedin/greykite)
 - [alan-turing-institute/sktime: A unified framework for machine learning with time series](https://github.com/alan-turing-institute/sktime)
@@ -175,14 +175,14 @@ top open source deep learning for time series forecasting frameworks.
 - [Time Series Forecasting - Machine Learning - Amazon Forecast](https://aws.amazon.com/forecast/?nc1=h_ls)
 - [Prophet - Forecasting at scale.](https://facebook.github.io/prophet/)
 
-## Timeseries Forecasting Book
+### Timeseries Forecasting Book
 
 - [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)
 - [Introduction to Time Series and Forecasting - SpringerLink](https://link.springer.com/book/10.1007/978-3-319-29854-2)
 - [Amazon.com: Practical Time Series Analysis: Prediction with Statistics and Machine Learning: 9781492041658: Nielsen, Aileen: Books](https://www.amazon.com/Practical-Time-Analysis-Prediction-Statistics/dp/1492041653/?language=en_US)
 - [Amazon.com: An Introduction to High-Frequency Finance: 9780122796715: Gençay, Ramazan, Dacorogna, Michel, Muller, Ulrich A., Pictet, Olivier, Olsen, Richard: Books](https://www.amazon.com/Introduction-High-Frequency-Finance-Ramazan-Gen%C3%A7ay/dp/0122796713/?currency=USD&language=en_US)
 
-## Timeseries Forecasting Reading
+### Timeseries Forecasting Reading
 
 - [Time Series Analysis and Forecasting with ARIMA - kanoki](https://kanoki.org/2020/04/30/time-series-analysis-and-forecasting-with-arima-python/)
 - [Makridakis Competitions - Wikipedia](https://en.wikipedia.org/wiki/Makridakis_Competitions)
@@ -199,11 +199,11 @@ top open source deep learning for time series forecasting frameworks.
 - [Introduction—statsmodels](https://www.statsmodels.org/stable/index.html)
 - [Benchmarking Facebook’s Prophet–Nikolaos Kourentzes](https://kourentzes.com/forecasting/2017/07/29/benchmarking-facebooks-prophet/)
 
-## Timeseries RNN
+### Timeseries RNN
 
 - [Spice.ai](https://github.com/spiceai)
 
-## Timeseries Forecasting
+### Timeseries Forecasting
 
 - [Forecasting: Principles and Practice (3rd ed)](https://otexts.com/fpp3/)
 - [Principles of Econometrics with R](https://bookdown.org/ccolonescu/RPoE4/)
@@ -211,12 +211,12 @@ top open source deep learning for time series forecasting frameworks.
 - [Time Series Forecasting Using Recurrent Neural Network and Vector Autoregressive Model: When and How - Databricks](https://databricks.com/session/time-series-forecasting-using-recurrent-neural-network-and-vector-autoregressive-model-when-and-how)
 - [Economics 312 Reading List - Economics - Reed College](https://www.reed.edu/economics/parker/s10/312/readings.html)
 
-## Time-series Forecasting
+### Time-series Forecasting
 
 - [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)
 - [statsforecast - Statistical ⚡️ Forecast](https://nixtla.github.io/statsforecast/)
 
-## VAR
+### VAR
 
 - [Vector Autoregression (VAR) - Comprehensive Guide with Examples in Python - Machine Learning Plus](https://www.machinelearningplus.com/time-series/vector-autoregression-examples-python/)
 - [Time-series Analysis with VAR & VECM: Statistical approach - by Sarit Maitra - Towards Data Science](https://towardsdatascience.com/vector-autoregressions-vector-error-correction-multivariate-model-a69daf6ab618)
@@ -224,7 +224,7 @@ top open source deep learning for time series forecasting frameworks.
 - [Vector autoregression models](https://kevinkotze.github.io/ts-7-var/)
 - [A vector autoregression weather model for electricity supply and demand modeling - SpringerLink](https://link.springer.com/article/10.1007/s40565-017-0365-1#Tab5)
 
-## time Series
+### time Series
 
 - [Time-Series Analysis Course](https://www.intel.com/content/www/us/en/developer/learn/course-time-series-analysis.html)
 - [Online DSS: Time Series Analysis for Business Forecasting with Python - Algoritma](https://algorit.ma/ds-course/forecasting-python/#toggle-id-5-closed)
@@ -233,11 +233,11 @@ top open source deep learning for time series forecasting frameworks.
 - [Time Series Lab - Advanced Time Series Forecasting Software](https://timeserieslab.com/)
 - [NCAR Command Language (NCL)](https://www.ncl.ucar.edu/index.shtml)
 
-## LSTM
+### LSTM
 
 - [LSTM on Pytorch](https://cnvrg.io/pytorch-lstm/)
 
-## Time Series Toolbox
+### Time Series Toolbox
 
 - Prophet [Prophet | Forecasting at scale.](https://facebook.github.io/prophet/)
 - [Forecasting Models for Tidy Time Series • fable](https://fable.tidyverts.org/) in R
@@ -264,11 +264,11 @@ top open source deep learning for time series forecasting frameworks.
 - statsmodels
 - [https://github.com/fraunhoferportugal/tsfel](https://github.com/fraunhoferportugal/tsfel)
 
-## Books
+### Books
 
 - [Forecasting: Principles and Practice (2nd ed)](https://otexts.com/fpp2/)
 
-## Forecasting Comparison
+### Forecasting Comparison
 
 - [statsforecast/experiments/m3 at main · Nixtla/statsforecast](https://github.com/Nixtla/statsforecast/tree/main/experiments/m3) # Statistical vs Deep Learning forecasting methods
 - [Nixtla/statsforecast: Lightning ⚡️ fast forecasting with statistical and econometric models.](https://github.com/Nixtla/statsforecast)

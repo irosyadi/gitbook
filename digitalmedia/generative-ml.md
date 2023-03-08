@@ -6,20 +6,20 @@ date: 2022-06-11 09:12:41
 draft: false
 ---
 
-# Generative Machine Learning GAN
+## Generative Machine Learning GAN
 
-## GAN
+### GAN
 
 The dataset was web-scraped for an original 20k samples, then a custom MRCNN model was trained for image segmentation and cropping before being fed into the 128 DCGAN, trained on local hardware, 1660
 
 - [Collections of GANs : Pytorch implementation of unsupervised GANs.](https://github.com/w86763777/pytorch-gan-collections)
 
-## Generative Model Course
+### Generative Model Course
 
 - [CSE 599](https://courses.cs.washington.edu/courses/cse599i/20au/)
 - [deepgenerativemodels](https://deepgenerativemodels.github.io/notes/index.html)
 
-## GAN Course
+### GAN Course
 
 - [Deep Learning Specialization - DeepLearning.AI](https://www.deeplearning.ai/program/deep-learning-specialization/)
 - [Machine Learning for Musicians - Berklee](https://college.berklee.edu/courses/mtec-345)
@@ -30,14 +30,14 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [Machine Learning for Musicians and Artists - an Online Machine Art Course at Kadenze](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists/info)
 - [Artificial Images - YouTube](https://www.youtube.com/user/bustbright/playlists)
 
-## GAN Project/Paper
+### GAN Project/Paper
 
 - [NVlabs/stylegan3: Official PyTorch implementation of StyleGAN3](https://github.com/NVlabs/stylegan3)
 - [AI Demos - NVIDIA Research](https://www.nvidia.com/en-us/research/ai-demos/) GAN
 - [HyperStyle](https://yuval-alaluf.github.io/hyperstyle/) StyleGAN Inversion
 - [Pollinations.AI](https://old.pollinations.ai/)
 
-## Style GAN
+### Style GAN
 
 - [Making Anime Faces With StyleGAN · Gwern.net](https://www.gwern.net/Faces?ref=mlnews#examples)
 - [cedricoeldorf/ConditionalStyleGAN: Conditional implementation for NVIDIA's StyleGAN architecture](https://github.com/cedricoeldorf/ConditionalStyleGAN)
@@ -48,23 +48,23 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [StyleGAN versions](https://nvlabs.github.io/stylegan2/versions.html)
 - [t04glovern/stylegan-pokemon: Generating Pokemon cards using a mixture of StyleGAN and RNN to create beautiful & vibrant cards ready for battle!](https://github.com/t04glovern/stylegan-pokemon)
 
-## Paper
+### Paper
 
 - [2011.05552End-to-End Chinese Landscape Painting Creation Using Generative Adversarial Networks](https://arxiv.org/abs/2011.05552)
 - [1812.04948 A Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948)
 - [EditGAN](https://nv-tlabs.github.io/editGAN/)
 
-## GAN Image Superresolution
+### GAN Image Superresolution
 
 - [Cupscale](https://github.com/n00mkrad/cupscale)
 - [Real-ESRGAN](https://github.com/xinntao/Real-ESRGAN)
 - [hi, generate with your photo](https://filter.mot.omg.lol/)
 
-## GAN
+### GAN
 
 - [Making Anime Faces With StyleGAN · Gwern.net](https://www.gwern.net/Faces)
 
-## Style-GAN
+### Style-GAN
 
 - [junyanz/CycleGAN: Software that can generate photos from paintings, turn horses into zebras, perform style transfer, and more.](https://github.com/junyanz/CycleGAN)
 - [kaonashi-tyc/zi2zi: Learning Chinese Character style with conditional GAN](https://github.com/kaonashi-tyc/zi2zi)
@@ -80,15 +80,15 @@ The dataset was web-scraped for an original 20k samples, then a custom MRCNN mod
 - [schrum2/GameGAN: Interactive GAN evolution of Mario and Zelda levels.](https://github.com/schrum2/GameGAN)
 - [changebo/HCCG-CycleGAN: Handwritten Chinese Characters Generation](https://github.com/changebo/HCCG-CycleGAN)
 
-## Research
+### Research
 
 - [An enhanced 3D model and generative adversarial network for automated generation of horizontal building mask images and cloudless aerial photographs - ScienceDirect](https://www.sciencedirect.com/science/article/pii/S1474034621001336?via%3Dihub)
 
-## Research
+### Research
 
 - [Realless](https://realless.glitch.me/) Generative webs with blinking eyes
 
-## GAN
+### GAN
 
 - [Gradio demo for GFP-GAN: Towards Real-World Blind Face Restoration with Generative Facial Prior](https://huggingface.co/spaces/akhaliq/GFPGAN)
 

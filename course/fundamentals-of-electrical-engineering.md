@@ -6,21 +6,21 @@ date: 2020-08-31 13:57:15
 draft: false
 ---
 
-# Fundamentals of Electrical Engineering
+## Fundamentals of Electrical Engineering
 
-## Free and Open References
+### Free and Open References
 
 - [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/), [All About Circuit Version](https://www.allaboutcircuits.com/textbook/) License: Design Science License
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/), [original worksheet](https://ibiblio.org/kuphaldt/socratic/doc/topical.html) License: CC-BY
 - [Modular Electronics Learning Project](https://ibiblio.org/kuphaldt/socratic/model/index.html) License: CC-BY
 - [Fundamentals of Electrical Engineering I (PDF) by Don H. Johnson](https://www.ece.rice.edu/~dhj/courses/elec241/col10040.pdf) or [Fundamentals of Electrical Engineering in OpenStax](https://cnx.org/contents/d442r0wh@9.72:g9deOnx5@19/Themes) License: CC-BY
 
-## Free References
+### Free References
 
 - [Navy Electricity and Electronics Training](https://www.fcctests.com/neets/Neets.htm)
 - [DOE Fundamentals Handbook Electrical Science Volume (4 volumes)](https://www.standards.doe.gov/standards-documents/1000/1011-bhdbk-1992-v1)
 
-## Proprietary References
+### Proprietary References
 
 - [Electrical and Electronic Principles and Technology by John Bird](https://books.google.com/books/about/Electrical_and_Electronic_Principles_and.html?id=3YUpZ_hNmmwC&redir_esc=y)
 - [Principles and Applications of Electrical Engineering by Giorgio Rizzoni](https://highered.mheducation.com/sites/0072962984/information_center_view0/index.html)
@@ -33,12 +33,12 @@ draft: false
 - [The Electrical Engineering Handbook by Wai Kai Chen](https://www.google.com/books/edition/_/qhHsSlazGrQC?hl=en)
 - [The Resource Handbook of Electronics by Jerry C. Whitaker](https://www.google.com/books/edition/_/MUBZDwAAQBAJ?hl=en)
 
-## MOOC Course
+### MOOC Course
 
 - [EdX Electrical Engineering Online Course](https://www.edx.org/learn/electrical-engineering)
 - [Khan Academy on Electrical Engineering](https://www.khanacademy.org/science/electrical-engineering)
 
-## Related Videos
+### Related Videos
 
 - [History of Electrical Engineering](https://www.youtube.com/watch?v=NUUeGianTKM)
 - [Electrical Engineering Playlist by Reach](https://www.youtube.com/watch?v=1zmlPU_wXaQ&list=PLsLmnMXzXl082peVyg2M9LQtqtnH7QHF5)

@@ -6,9 +6,9 @@ date: 2022-10-17 08:00
 draft: false
 ---
 
-# Grammar Checkers
+## Grammar Checkers
 
-## Web-based Grammar Checkers
+### Web-based Grammar Checkers
 
 - [Writer](https://writer.com/)
 - [Hemingway](https://www.hemingwayapp.com/) : Free web based app, spellchecker with style and readability grading.
@@ -61,18 +61,18 @@ draft: false
 - [English POS Tagger](http://erg.delph-in.net/logon)
 - [Vale.sh - A linter for prose](https://vale.sh/) `vale --config=C:\vale text.md`
 
-## Browser Extension Grammar Checkers
+### Browser Extension Grammar Checkers
 
 - [Grammar and Spell Checker - LanguageTool](https://addons.mozilla.org/en-US/firefox/addon/languagetool)
 - [Grammarly for Firefox](https://addons.mozilla.org/en-US/firefox/addon/grammarly-1/)
 - [Linguix](https://addons.mozilla.org/en-US/firefox/addon/linguix/)
 
-## MS Word Add In Grammar Checkers
+### MS Word Add In Grammar Checkers
 
 - [Writefull](https://writefull.com/)
 - [Grammarly](https://app.grammarly.com/)
 
-## Grammar
+### Grammar
 
 - [Free Grammar Checker - QuillBot AI](https://quillbot.com/grammar-check)
 - [Typosaur](https://typosaur.com/) Check grammar on website

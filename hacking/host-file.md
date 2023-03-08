@@ -6,16 +6,16 @@ date: 2022-10-11 08:26
 draft: false
 ---
 
-# Hosts File Management
+## Hosts File Management
 
-## Hosts File
+### Hosts File
 
 - Manually edit `C:\Windows\System32\drivers\etc` [etc](file:///C:/Windows/System32/drivers/etc)
 - [Hosts File Editor](https://github.com/scottlerch/HostsFileEditor) : edit hosts file
 - [HostsMan](http://abelhadigital.com/hostsman/#downloads) : import hosts file
 - [Hosts Switcher](https://github.com/svejdo1/HostsSwitcher) : switch between many hosts files
 
-## Hosts List
+### Hosts List
 
 - [StevenBlack/hosts: 🔒 Consolidating and extending hosts files from several well-curated sources. Optionally pick extensions for porn, social media, and other categories.](https://github.com/StevenBlack/hosts)
 - [jerryn70/GoodbyeAds](https://github.com/jerryn70/GoodbyeAds)
@@ -26,12 +26,10 @@ draft: false
 - [AdAway/AdAway: AdAway is a free and open source ad blocker for Android.](https://github.com/AdAway/AdAway)
 - [oisd - downloads](https://oisd.nl/downloads)
 
-
-
-## Host HTML file
+### Host HTML file
 
 - [Tiiny Host](https://tiiny.host/)
 
-## Host Markdown file
+### Host Markdown file
 
 - [dochost](https://dochost.me/)

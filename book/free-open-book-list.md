@@ -6,9 +6,9 @@ date: 2020-06-28 19:20:37
 draft: false
 ---
 
-# Free and Open Books Repository and Provider
+## Free and Open Books Repository and Provider
 
-## Repository of Open Books
+### Repository of Open Books
 
 - [Freetechbooks](https://www.freetechbooks.com/), [search by license](https://www.freetechbooks.com/licenses?page=1)
 - [Freecomputerbooks](https://freecomputerbooks.com/)
@@ -38,7 +38,7 @@ draft: false
 - [de Gruyter](https://www.degruyter.com/)
 - [Saylor Academy Open Textbooks - Saylor Academy](https://www.saylor.org/books/), [Saylor Academy Github](https://github.com/saylordotorg)
 
-## Repository of Free Books
+### Repository of Free Books
 
 - [Learn Anything](https://github.com/learn-anything/books)
 - [Free Programming Books](https://github.com/EbookFoundation/free-programming-books)
@@ -57,9 +57,7 @@ And some git repositories :
 1. [https://github.com/EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books)
 2. [https://github.com/ab-anand/programming-books](https://github.com/ab-anand/programming-books)
 
-​
-
-## CC-BY Books Provider
+### CC-BY Books Provider
 
 - [Data Journalism](https://datajournalism.com/) CC-BY
 - [Openstax Books](https://openstax.org/) and [CNX Books](https://cnx.org/) CC-BY
@@ -77,22 +75,22 @@ And some git repositories :
   - [Recurrent Neural Networks for Temporal Data Processing](https://www.intechopen.com/books/recurrent-neural-networks-for-temporal-data-processing)
   - [Recurrent Neural Networks](https://www.intechopen.com/books/recurrent_neural_networks)
 
-## CC-BY-NC Books Provider
+### CC-BY-NC Books Provider
 
 - [Intech Open Books](https://www.intechopen.com/) CC-BY-NC (before 2011)
 
-## List of Open Book
+### List of Open Book
 
 - [Open Text Books UMN](https://open.umn.edu/opentextbooks/)
 - [CC Python Books](https://mksaad.wordpress.com/2019/04/03/open-source-python-programming-books-licensed-under-creative-commons/)
 - [EbookFoundation/free-science-books: Inspired by free-programming-books, here's free-science-books](https://github.com/EbookFoundation/free-science-books)
 
-## Out of Copyright Books
+### Out of Copyright Books
 
 - [Ebook Fondation](https://ebookfoundation.org/)
 - [Gitenberg](https://www.gitenberg.org/) Old Books as a GitHub Projects
 - [Standard Ebooks](https://standardebooks.org) Old Books rewritten as new epub/pdf books
 
-## Free eBook
+### Free eBook
 
 - [Principle of Management](https://github.com/miks98/Principle-of-Management-Spring2020)

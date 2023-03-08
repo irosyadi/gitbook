@@ -6,16 +6,16 @@ date: 2021-04-04 17:43:36
 draft: false
 ---
 
-# Spreadshseet (Sheet) Apps and Tools
+## Spreadshseet (Sheet) Apps and Tools
 
-## Desktop Presentation Apps
+### Desktop Presentation Apps
 
 - Microsoft Excel
 - Libreoffice Calc
 
-## Sheet Alternatives
+### Sheet Alternatives
 
-## Cloud Spreadsheet
+### Cloud Spreadsheet
 
 - [revolist/revogrid: Powerful virtual data grid smartsheet with advanced customization. Best features from excel plus incredible performance 🔋](https://github.com/revolist/revogrid)
     - [RevoGrid - Excel like data grid component](https://revolist.github.io/revogrid/)
@@ -28,7 +28,7 @@ draft: false
 - [Baserow: Open source online database tool](https://baserow.io/)
 - [NocoDB - Turns your SQL database into a Nocode platform. Free & Open Source.](https://nocodb.com/)
 
-## Spreadsheet Tools
+### Spreadsheet Tools
 
 - [Free Viewer, Conversion, Splitter Apps for SpreadSheet](https://products.fileformat.app/spreadsheet/)
 	- filetype XLS, XLSX, ODS, CSV

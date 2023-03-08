@@ -6,11 +6,11 @@ date: 2020-11-26 21:10:40
 draft: false
 ---
 
-# Markdown for This Blog
+## Markdown for This Blog
 
 Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
 
-## 1. h2 Heading
+### 1. h2 Heading
 
 ***markdown***
 
@@ -25,15 +25,15 @@ Common markdown format for Gitbook, gatsby-starter-bee, and VNote.
 
 ***display***
 
-### h3 Heading
+#### h3 Heading
 
-#### h4 Heading
+##### h4 Heading
 
-##### h5 Heading
+###### h5 Heading
 
 ###### h6 Heading
 
-## 2. Paragraphs
+### 2. Paragraphs
 
 ***markdown***
 
@@ -49,7 +49,7 @@ This is the first paragraph.
 
 This is the second paragraph
 
-## 3 Line Break
+### 3 Line Break
 
 ***markdown***
 
@@ -65,7 +65,7 @@ This is the first line.
 And this is the second line.<br>
 And finally this is the last line.
 
-## 4. Emphasis
+### 4. Emphasis
 
 ***markdown***
 
@@ -85,7 +85,7 @@ This text is ___really important___
 *This is italic text*  
 This text is ***really important***  
 
-## 5. Blockquotes
+### 5. Blockquotes
 
 ***markdown***
 
@@ -115,9 +115,7 @@ This text is ***really important***
 >
 >
 > >
-> >
 > > > ...or with spaces between arrows.
-> >
 > >
 >
 > >
@@ -128,9 +126,9 @@ This text is ***really important***
 > - list
 > - with **bold** and *italic* text
 
-## 6. Lists
+### 6. Lists
 
-### 6.1. Unordered
+#### 6.1. Unordered
 
 ***markdown***
 
@@ -163,7 +161,7 @@ This is a text under an item. Notice that there are two spaces at the end above.
 
 To end a list, there should be one empty line above.  
 
-### 6.2. Ordered
+#### 6.2. Ordered
 
 ***markdown***
 
@@ -191,7 +189,7 @@ Notice that there are two spaces at the end above to make a new text under item.
     2. Item 3b
 4. Any number for item 4
 
-### 6.3. Offset in Oredered List
+#### 6.3. Offset in Oredered List
 
 - didn't work in Gitbook
 
@@ -209,7 +207,7 @@ Notice that there are two spaces at the end above to make a new text under item.
 2. so it will be 58
 3. this is 59
 
-## 7. Elements in Lists
+### 7. Elements in Lists
 
 ***markdown***
 
@@ -282,7 +280,7 @@ Notice that there are two spaces at the end above to make a new text under item.
 
 6. So okay for now
 
-## 8. Code
+### 8. Code
 
 ***markdown***
 
@@ -322,7 +320,7 @@ This is inline `code`.
         <title>HTML code with four spaces</title>
       </head>
 
-## 9. Links
+### 9. Links
 
 ***markdown***
 
@@ -352,7 +350,7 @@ But `https://www.example.com`
 but be careful with [%20 link](https://www.example.com/my%20great%20page)  
 example [without %20](<https://www.example.com/my> great page)
 
-### 9.1. Email Linkify
+#### 9.1. Email Linkify
 
 - didn't work in Gatsby and Gitbook
 
@@ -368,7 +366,7 @@ fake@example.com didn't work in Gatsby and Gitbook
 fake@example.com didn't work in Gatsby and Gitbook  
 <fake@example.com> is okay  
 
-## 10. Reference-style Links
+### 10. Reference-style Links
 
 ***markdown***
 
@@ -396,7 +394,7 @@ It doesn't have [hobbit-hole][hh].
 [3]: <https://en.wikipedia.org/wiki/Indonesia#History> 'History of Indonesia'
 [hh]: <https://en.wikipedia.org/wiki/Hobbit#Lifestyle> "Hobbit lifestyles"
 
-## 11. Images
+### 11. Images
 
 ***markdown***
 
@@ -414,7 +412,7 @@ It doesn't have [hobbit-hole][hh].
 
 [id1]: <https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Wikipedia_Logo_1.0.png/240px-Wikipedia_Logo_1.0.png> "Optional Text"
 
-## 12. Escaping Characters
+### 12. Escaping Characters
 
 ***markdown***
 
@@ -434,11 +432,11 @@ It doesn't have [hobbit-hole][hh].
 \{ \} curly braces  
 \! exclamation mark
 
-## 13. HTML Code
+### 13. HTML Code
 
 - very restricted in Gitbook
 
-### 13.1. HTML: Bold, Italic, Strikethrough
+#### 13.1. HTML: Bold, Italic, Strikethrough
 
 ***markdown***
 
@@ -454,7 +452,7 @@ This <em>word</em> is italic.
 This <strong>word</strong> is bold.  
 This <del>word</del> is deleted with strikethorouugh.
 
-### 13.2. Others HTML Code
+#### 13.2. Others HTML Code
 
 - didn't work in Gitbook
 
@@ -480,7 +478,7 @@ H<sub>2</sub>O
 x<sup>2</sup>+y<sup>2</sup>=0  
 Variable of triangle area: 1/2 x <var>b</var> x <var>h</var>, where <var>b</var> is the base, and <var>h</var> is the vertical height.
 
-## 14. Horizontal Rules
+### 14. Horizontal Rules
 
 - didn't work in Gitbook
 
@@ -504,7 +502,7 @@ ___
 
 ***
 
-## 15. Heading ID
+### 15. Heading ID
 
 - didn't work for Gatsby
 
@@ -518,11 +516,11 @@ Link to [Heading IDs](#heading-ids)
 
 ***display***
 
-### My Great Heading {#heading-ids}
+#### My Great Heading {#heading-ids}
 
 Link to [Heading IDs](#heading-ids)
 
-## 16. Code Fencing and Highlighting
+### 16. Code Fencing and Highlighting
 
 ***markdown***
 
@@ -581,7 +579,7 @@ markdown = Redcarpet.new("ruby syntax highlighting")
 puts markdown.to_html
 ```
 
-## 17. Tables
+### 17. Tables
 
 ***markdown***
 
@@ -599,9 +597,9 @@ puts markdown.to_html
 | [Example](https://www.example.com/) |  **Title**  | `Here's this  is` |
 | Paragraph                           |    Text     |          And more |
 
-## 18. Text Formatting
+### 18. Text Formatting
 
-### 18.1. Strikethrough
+#### 18.1. Strikethrough
 
 ***markdown***
 
@@ -613,7 +611,7 @@ puts markdown.to_html
 
 ~~strikethrough~~  
 
-### 18.2. Highlighting and Underline
+#### 18.2. Highlighting and Underline
 
 - didn't work in Gitbook and Gatsby
 
@@ -627,7 +625,7 @@ _underline, fail in Gitbook and Gatsby_
 ==highlight, fail in Gitbook and Gatsby==  
 *underline, fail in Gitbook and Gatsby*  
 
-## 19. Task Lists (Checkbox, Tick Mark)
+### 19. Task Lists (Checkbox, Tick Mark)
 
 ***markdown***
 
@@ -643,9 +641,9 @@ _underline, fail in Gitbook and Gatsby_
 - [ ] Update the website
 - [ ] Contact the media
 
-## 20. Emojies
+### 20. Emojies
 
-### 20.1. Copy Pasted Emojies
+#### 20.1. Copy Pasted Emojies
 
 ***markdown***
 
@@ -659,7 +657,7 @@ That is so funny! 😂
 Gone camping! ⛺ Be back soon.  
 That is so funny! 😂  
 
-### 20.2. Shortcode Emoji
+#### 20.2. Shortcode Emoji
 
 - didn't work in Gitbook
 - in Gatsby and VNote, use Github Emoji Shortcode
@@ -674,7 +672,7 @@ Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 
 Shortcode emoji examples :grinning: :smiley: :smile: :grin: :laughing: :joy:
 
-## 21. Typographic Replacements, Superscript, Subscript
+### 21. Typographic Replacements, Superscript, Subscript
 
 - dind't work in Gatsby and Gitbook
 
@@ -690,7 +688,7 @@ superscript x^2^ and subscript H~2~O
 autoreplacement of (c) (C) (r) (R) (tm) (TM) (p) (P) +-  
 superscript x^2^ and subscript H~2~O
 
-## 22. HTML Entities and Character Codes
+### 22. HTML Entities and Character Codes
 
 ***markdown***
 
@@ -710,9 +708,9 @@ x&sup2; y&sup3; &frac34; &frac14; &times; &divide; &raquo; &#124;
 
 ---
 
-## 23. Latex
+### 23. Latex
 
-### 23.1. Inline Equation
+#### 23.1. Inline Equation
 
 - Equation with one dollar sign `$` works inline in VNote
 - Equation with two dollar signs `$$` works inline in Jekyll and Gitbook, but not in VNote
@@ -729,7 +727,7 @@ Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and G
 Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
 Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
 
-### 23.2. Newline Equation
+#### 23.2. Newline Equation
 
 ***markdown***
 
@@ -745,11 +743,11 @@ Newline equation with two dollar signs.
 
 $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 
-## 24. Specific HTML Code
+### 24. Specific HTML Code
 
 - didn't work in Gitbook
 
-### 24.1. Drop Down List
+#### 24.1. Drop Down List
 
 ***markdown***
 
@@ -779,7 +777,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
   </p>
 </details>
 
-### 24.2. Summary
+#### 24.2. Summary
 
 ***markdown***
 
@@ -797,7 +795,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
   <p>Term is explanation of something</p>
 </details>
 
-### 24.3. Definition
+#### 24.3. Definition
 
 ***markdown***
 
@@ -821,7 +819,7 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 <dd>This is another definition of the second term.</dd>
 </dl>
 
-### 24.4. Abbreviation
+#### 24.4. Abbreviation
 
 ***markdown***
 
@@ -833,9 +831,9 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 
 The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is maintained by the <abbr title="World Wide Web Consortium">W3C</abbr>.
 
-## 26. Admonition Styles
+### 26. Admonition Styles
 
-### 26.1. Admonition with CSS
+#### 26.1. Admonition with CSS
 
 - CSS delivered from: <https://cdn.jsdelivr.net/gh/irosyadi/irosyadi@master/alert.css>
 - didn't work in Gitbook
@@ -860,7 +858,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 <div class="alert alert-warning"><strong>⚠️ WARNING!</strong> <br> Warning text. </div>  
 <div class="alert alert-danger"><strong>⛔ DANGER!</strong> <br> Success text. </div>  
 
-### 26.2. Admonition with Quote
+#### 26.2. Admonition with Quote
 
 - worked in everywhere
 
@@ -877,7 +875,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 >
 > > This is a warning for you...
 
-### 26.3. Admonition with Table
+#### 26.3. Admonition with Table
 
 - worked in everywhere
 
@@ -895,7 +893,7 @@ The <abbr title="Hyper Text Markup Language">HTML</abbr> specification is mainta
 | :--------------------------- |
 | This is a warning for you... |
 
-## 27. Footnote
+### 27. Footnote
 
 - didn't work in Gitbook
 

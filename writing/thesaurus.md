@@ -6,7 +6,7 @@ date: 2022-10-17 08:02
 draft: false
 ---
 
-# Thesaurus
+## Thesaurus
 
 - [Synonyms and Antonyms of Words - Thesaurus.com](https://www.thesaurus.com/), Free
 - [De-Jargonizer](http://scienceandpublic.com/), Free
@@ -16,6 +16,6 @@ draft: false
 - [Thesaurus by Merriam-Webster: More Than Synonyms and Antonyms](https://www.merriam-webster.com/thesaurus) Free
 - [Careful Words](https://carefulwords.com/)
 
-## thesaurus
+### thesaurus
 
 - [Power Thesaurus](https://www.powerthesaurus.org/)

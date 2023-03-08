@@ -6,7 +6,7 @@ date: 2020-08-31 13:58:32
 draft: false
 ---
 
-# MK Matematika Teknik
+## MK Matematika Teknik
 
 - Kode: TKE191113
 - SKS: 3
@@ -14,11 +14,11 @@ draft: false
     - TKE191113 Matematika Teknik A KAMIS 07:00 - 09:30 GEDUNG TEKNIK C 101 - 65 mhs
     - TKE191113 Matematika Teknik B KAMIS 09:30 - 12:00 GEDUNG TEKNIK C 101 - 44 mhs
 
-## Capaian Pembelajaran Lulusan (CPL) Program Studi
+### Capaian Pembelajaran Lulusan (CPL) Program Studi
 
 - Pengetahuan-PU01 : menguasai pengetahuan matematika lanjut meliputi kalkulus integral­diferensial, persamaan diferensial, aljabar linier, variable kompleks, probabilitas dan statistik, dan matematika diskret serta penerapan mereka di bidang teknik elektro;
 
-## Capaian Pembelajaran Mata Kuliah
+### Capaian Pembelajaran Mata Kuliah
 
 - Menguasai metode penyelesaian persamaan linear secara analitis dan numeris
 - Menguasai operasi terhadap matriks dan penerapannya
@@ -26,7 +26,7 @@ draft: false
 - Menguasai konsep vektor dan ruang vektor serta penerapannya
 - Menguasai konsep transformasi linear dan penerapannya
 
-## Bahan Kajian
+### Bahan Kajian
 
 - Sistem Persamaan Linear
 - Matriks dan Operasi Matriks
@@ -38,14 +38,14 @@ draft: false
 - Transformasi Linear
 - Aplikasi Aljabar Linear di bidang Teknik Elektro
 
-## Referensi
+### Referensi
 
-### Referensi Berbayar
+#### Referensi Berbayar
 
 - [Elementary Linear Algebra: Application Version by Howard Anton](https://books.google.co.id/books?id=loRbAgAAQBAJ&redir_esc=y)
 - [Linear Algebra and Its Applications by David C. Lay](https://books.google.co.id/books?id=apXfrQEACAAJ&redir_esc=y)
 
-### Referensi Bebas Terbuka
+#### Referensi Bebas Terbuka
 
 - [Interactive Linear Algebras by Dan Margalit](https://textbooks.math.gatech.edu/ila/index.html)
     - [PDF File](https://textbooks.math.gatech.edu/ila/ila.pdf)
@@ -60,21 +60,21 @@ draft: false
 - [A First Course in LInear Algebra by Robert A. Beezer](https://linear.ups.edu/linear.ups.edu/html/)
 - [Systems of equations by David Austin](https://davidaustinm.github.io/ula/chap1.html)
 
-## Kuliah Online
+### Kuliah Online
 
 - [edX - Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-to-frontiers)
 - [MIT OCW - Linear Algebra by Gilbert Strang](https://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/) [Youtube](https://www.youtube.com/watch?v=YrHlHbtiSM0).
 - [Algebra 1 - Khan Academy](https://www.khanacademy.org/math/algebra) and [Algebra 2 - Khan Academy](https://www.khanacademy.org/math/algebra2)
 
-## Youtube
+### Youtube
 
 - [3Blue1Brown Youtube](https://www.youtube.com/watch?v=fNk_zzaMoSs&list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 - [MathTheBeautiful Youtube](https://www.youtube.com/c/MathTheBeautiful/playlists?view=50&sort=dd&shelf_id=2)
 - [Grant Sanderson Youtube](https://www.youtube.com/playlist?list=PLZHQObOWTQDPD3MizzM2xVFitgF8hE_ab)
 
-## Software
+### Software
 
-### PC
+#### PC
 
 - [SpeedCrunch](https://speedcrunch.org/)–open source software, fast, simple
 - [GNU Octave](https://www.gnu.org/software/octave/index)–open source software
@@ -82,14 +82,14 @@ draft: false
 - [Matlab](https://www.mathworks.com/products/matlab.html)–proprietary
 - [Anaconda for Python Data Science Programming](https://www.anaconda.com/products/individual)
 
-### Android
+#### Android
 
 - [Madona](https://play.google.com/store/apps/details?id=com.krazeapps.octaveprogrammingcompiler)
 - [Anoc Octave Editor](https://play.google.com/store/apps/details?id=verbosus.anoclite)
 
-## Kuliah
+### Kuliah
 
-### Pekan-1
+#### Pekan-1
 
 - Topik:
     - Pendahuluan
@@ -103,12 +103,12 @@ draft: false
     - [DLA -  Chapter 3 Using systems of equations](https://sites.ualberta.ca/~jsylvest/books/DLA1/chapter-applications.html)
     - [FCLA - Chapter 1](https://linear.ups.edu/linear.ups.edu/html/chapter-SLE.html)
 
-### Pekan-2
+#### Pekan-2
 
 - Topik:
     - Matriks : Operasi
 
-### Pekan-3
+#### Pekan-3
 
 - Topik:
     - Matriks : Invers dan Dekomposisi LU

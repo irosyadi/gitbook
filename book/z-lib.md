@@ -6,9 +6,9 @@ date: 2020-11-28 08:37:00
 draft: false
 ---
 
-# z-lib - Book Search Engine
+## z-lib - Book Search Engine
 
-Z-lib portal https://singlelogin.me/
+Z-lib portal <https://singlelogin.me/>
 
 - [z-lib.org](https://z-lib.org)
 - [booksc.org](https://booksc.org)
@@ -28,7 +28,7 @@ Z-lib portal https://singlelogin.me/
 
 _published in Mataroa and Bearblog_
 
-## z-lib in IPFS
+### z-lib in IPFS
 
 - [Anna’s Archive](https://annas-archive.org/)
 - [zlib searcher](https://zlib.zu1k.com/)

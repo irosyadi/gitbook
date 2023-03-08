@@ -6,8 +6,8 @@ date: 2021-04-04 19:17:55
 draft: false
 ---
 
-# Statistics Books, Tutorials, and Courses
+## Statistics Books, Tutorials, and Courses
 
-## eBook
+### eBook
 
 - [Random: Probability, Mathematical Statistics, Stochastic Processes](http://www.randomservices.org/random/) License: CC

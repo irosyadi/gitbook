@@ -6,7 +6,7 @@ date: 2021-03-23 06:08:47
 draft: false
 ---
 
-# Op-Amp
+## Op-Amp
 
 - [Why Does an Op Amp Have a High Input Impedance and a Low Output Impedance?](https://www.learningaboutelectronics.com/Articles/Why-does-an-op-amp-need-a-high-input-impedance-and-a-low-output-impedance#:~:text=The%20high%20impedance%20ensures%20that,a%20higher%2Dvoltage%20output%20signal.&text=Low%20impedance%20circuits%20can%20be,having%20very%20high%20input%20impedance.)
     - **Op Amp is a Voltage Gain Device**. Op amps have high input impedance and low output impedance because of the concept of a voltage divider, which is how voltage is divided in a circuit depending on the amount of impedance present in given parts of a circuit. Op amps are voltage gain devices. They amplify a voltage fed into the op amp and give out the same signal as output with a much larger gain. In order for an op amp to receive the voltage signal as its input, the voltage signal must be dropped across the op amp.

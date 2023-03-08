@@ -1,12 +1,12 @@
 ---
-aliases: [Imron Rosyadi]
-title: Imron Rosyadi
+aliases: [Imron Rosyadi CV]
+title: Imron Rosyadi CV
 tags: ["imron"]
 date: 2020-05-01 13:49:51
 draft: false
 ---
 
-# Imron Rosyadi
+## Imron Rosyadi
 
 **Imron Rosyadi**  
 Jurusan Teknik Elektro (Electrical Engineering Department)  
@@ -15,12 +15,11 @@ Universitas Jenderal Soedirman
 Jl. Mayjen Sungkono Km. 5, Blater, Kalimanah, Purbalingga, Jawa Tengah, Indonesia 53371  
 Telp/Fax: 0281-6596700  
 Email: [imron.rosyadi@unsoed.ac.id](mailto:imron.rosyadi@unsoed.ac.id)  
-Email (for students): [pak.imron@gmail.com](mailto:pak.imron@gmail.com)  
 Page:  
 [1] <http://elektro.ft.unsoed.ac.id/imron-rosyadi/>  
-[2] <https://irosyadi-lp.netlify.app/>
+[2] <https://s.id/irosyadi>
 
-## Academic Profiles
+### Academic Profiles
 
 * [ORCID-ID](https://orcid.org/0000-0002-4367-4166)
 * [Google Scholar](https://scholar.google.co.id/citations?hl=en&user=PXnDWH4AAAAJ)
@@ -33,7 +32,7 @@ Page:
 * [Sinta](https://sintadev.ristekdikti.go.id/authors/detail?id=5981458&view=overview)
 * [Forlap Dikti](https://forlap.dikti.go.id/dosen/detail/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2) / [PDDikti](https://pddikti.ristekdikti.go.id/data_dosen/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2)
 
-## Personal Links
+### Personal Links
 
 * [Page at University](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
 * [Landing Page](https://irosyadi-lp.netlify.app/)
@@ -47,7 +46,7 @@ Page:
 * [Twitter](https://twitter.com/irosyadi)
 * [Youtube Channel](https://www.youtube.com/channel/UCE7mh_jnoH13OdwFernjr-w)
 
-## Kuliah (Courses)
+### Kuliah (Courses)
 
 * [Machine Learning](https://irosyadi.netlify.app/course/mk-machine-learning/)
 * [Sistem Kendali Lanjut (Advanced of Control Systems)](https://irosyadi.netlify.app/course/mk-sistem-kendali-lanjut/)
@@ -62,13 +61,13 @@ Page:
 * Sistem Kendali Digital (Digital Control System)
 * Proyek Keteknikan (Capstone Design)
 
-## Kelompok Riset (Research Groups)
+### Kelompok Riset (Research Groups)
 
 * [Soedirman Machine Learning Research Group](https://soedirman-machine-learning.github.io/)
 * [Soedirman Internet of Things Research Group](https://soedirman-iot.github.io/)
 * Image and Signal Processing Research Group
 
-## Penelitian (Research Projects)
+### Penelitian (Research Projects)
 
 * [Machine Learning for Image Classification](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 * [Machine Learning for Agricultural Appilication](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
@@ -82,13 +81,13 @@ Page:
 * [Computational Intelligence for Prediction and Forecasting](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 * [PIR-based Object Identification](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 
-## Pengabdian kepada Masyarakat (Community Services)
+### Pengabdian kepada Masyarakat (Community Services)
 
 * Adaptive Solar Street Lamp for Villages
 * Historical Image Digitization
 * Open Map for Disaster Mitigation
 
-## Publikasi (Publications)
+### Publikasi (Publications)
 
 * Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Fahmi Khoerullatif, 2021, [_Penerapan DevOps pada Sistem Tertanam dengan ESP8266 menggunakan Mekanisme Over The Air_](https://ejurnal.itenas.ac.id/index.php/elkomika/article/view/4376), Elkomika, Volume 9, Number 3, pp: 1-9. \[[DOI](https://doi.org/10.26760/elkomika.v9i3.678)\]
 * Purnama Eka Wijaya, **Imron Rosyadi**, Acep Taryana, 2019, [_An attempt to adopt DevOps on embedded system development: empirical evidence_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://dx.doi.org/10.1088/1742-6596/1367/1/012078)\]
@@ -103,7 +102,7 @@ Page:
 * **Imron Rosyadi**, Ridha A. Djemal, Saleh A. Alshebeili, 2010, [_Design and implementation of real-time automatic censoring system on chip for radar detection_](https://publications.waset.org/14878/design-and-implementation-of-real-time-automatic-censoring-system-on-chip-for-radar-detection), International Journal of Electronics and Communication Engineering Vol: 4, No: 2, 2010, pp 275-281, World Academy of Science, Engineering and Technology. \[[DOI](https://doi.org/10.5281/zenodo.1083791)\]
 * **Imron Rosyadi**, Ridlwan Kamaluddin, 2009, [_Perancangan Sistem Pakar Kesehatan Anak berbasis Handphone menggunakan Java 2 Micro Edition_](https://jos.unsoed.ac.id/index.php/kesmasindo/article/view/94), Jurnal Ilmiah Kesehatan Masyarakat (Kesmas Indonesia) Volume 2 No. 1, pp 36-51.
 
-## Seminar (Conferences)
+### Seminar (Conferences)
 
 * **Imron Rosyadi**, Vidi Fitriansyah Hidarlan, Farida Asriani, and Rifah Ediati, 2020. _A Deep Learning for Varieties Classification of Bulk Samples of Rice_, 2020 International Conference on Engineering, Technology and Innovative Researches (ICETIR).
 * **Imron Rosyadi**, Fendy Prayogi, Farida Asriani, Rifah Ediati, 2020. _Rice Fields Classification among Google Earth Sattelite Images using Convolutional Neural Network_, 2020 The 2nd International Conference On Sustainable Agriculture For Rural Development (2nd ICSARD).
@@ -119,7 +118,7 @@ Page:
 * **Imron Rosyadi**, Azis Wisnu Widhi Nugraha, 2012, [_Purwarupa Jaringan Sensor Nirkabel untuk Pemantauan Pergeseran Tanah pada Wilayah Rawan Longsor Berbasis Perangkat Keras Open Source_](https://www.researchgate.net/publication/337705511_Purwarupa_Jaringan_Sensor_Nirkabel_untuk_Pemantauan_Pergeseran_Tanah_Pada_Wilayah_Rawan_Longsor_Berbasis_Perangkat_Keras_Opensource). Seminar Nasional Teknologi Berkelanjutan 2012, ISBN 9789799204615, Hal. 41–45. ([alternative link](https://ee.unsoed.ac.id/~awwn/publikasi/seminar/02%202012%20Purwarupa%20Jaringan%20Sensor%20Nirkabel%20untuk%20Pemantauan%20Pergeseran%20Tanah%20Pada%20Wilayah%20Rawan%20Longsor%20Berbasis%20Perangkat%20Keras%20Opensource.pdf))
 * **Imron Rosyadi**, 2012, [_An FPGA Implementation of Automatic Censoring Algorithms for Radar Target Detection_](https://www.researchgate.net/publication/337705203_An_FPGA_Implementation_of_Automatic_Censoring_Algorithms_for_Radar_Target_Detection). Proceeding of International Conference on Information Technology and Electrical Engineering (CITEE) 2012, pp 187-194, ISSN: 2088-6578.
 
-## Hak Kekayaan Intelektual (Intellectual Properties)
+### Hak Kekayaan Intelektual (Intellectual Properties)
 
 * **Imron Rosyadi**, 2020, _Metode Penamaan Warna (Color Naming) untuk Komunikasi Warna Bahasa Indonesia_. Paten (No Pendaftaran [P00202009614](https://pdki-indonesia.dgip.go.id/detail/P00202009614?type=patent&keyword=))
 * **Imron Rosyadi**, 2020, _Metode Penyandian (Encoding) dan Pengawasandian (Decoding) Koordinat Lokasi dengan Sandi Suku Kata dan Angka_. Paten (No Pendaftaran S00202005863)
@@ -129,7 +128,7 @@ Page:
 * Winasis, **Imron Rosyadi**, Irfan Ahmad Faqih, 2019, _Software Pemantauan Debit Air Saluran Terbuka dengan Sensor Ultrasonik dan Rotary Encoder Berbasis Web Menggunakan Arduino_. Hak Cipta (No Pencatatan: 000163870).
 * Acep Taryana, Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Priswanto, 2019, _Desain Platform DevOps sebagai Alat Bantu Pengembangan Skripsi Bidang Sistem Tertanam di Jurusan Teknik Elektro_. Hak Cipta (No Pencatatan: 000163408).
 
-## Pemberitaan (News)
+### Pemberitaan (News)
 
 * [UNY Raih Juara Umum Kontes Robot Indonesia Regional 3](https://edukasi.kompas.com/read/2019/04/28/15094351/uny-raih-juara-umum-kontes-robot-indonesia-regional-3), 28 April 2019
 * [UNY Raih Juara Umum Kontes Robot Indonesia Regional 3](https://kupang.tribunnews.com/2019/04/28/uny-raih-juara-umum-kontes-robot-indonesia-regional-3), 28 April 2019
@@ -137,5 +136,3 @@ Page:
 * [Desa Kaligondang Juara Tertib Administrasi Desa 2013](https://www.purbalinggakab.go.id/v1/desa-kaligondang-juara-tertib-administrasi-desa-2013/), 16 April 2013
 * [Dua Robot Unsoed Pincut Pengunjung Ekspo](https://news.okezone.com/read/2012/05/21/373/632934/dua-robot-unsoed-pincut-pengunjung-ekspo), 22 Mei 2012
 * [Pemilihan Mahasiswa Berprestasi UNSOED 2011](https://blog.djarumbeasiswaplus.org/yusranadhityakurniawan/2011/06/13/pemilihan-mahasiswa-berprestasi-unsoed-2011/), 13 Juni 2011  
-
-    

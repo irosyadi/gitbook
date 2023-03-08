@@ -6,7 +6,7 @@ date: 2021-03-02 06:10:34
 draft: false
 ---
 
-# Convolution
+## Convolution
 
 - Why calculation of convolution include reversing its input (or its impulse response)?
     - [How can output sequence be equal to the sum of copies of the impulse response, scaled and time-shifted signals? - Signal Processing Stack Exchange](https://dsp.stackexchange.com/questions/3482/how-can-output-sequence-be-equal-to-the-sum-of-copies-of-the-impulse-response-s/3495#3495)

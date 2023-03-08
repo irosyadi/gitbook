@@ -6,7 +6,7 @@ date: 2022-10-26 19:39
 draft: false
 ---
 
-# Digitizer - Converting Graph into Data
+## Digitizer - Converting Graph into Data
 
 - [WebPlotDigitizer - Extract data from plots, images, and maps](https://automeris.io/WebPlotDigitizer/)
 	- [ankitrohatgi/WebPlotDigitizer: HTML5 based online tool to extract numerical data from plot images.](https://github.com/ankitrohatgi/WebPlotDigitizer)

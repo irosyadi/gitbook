@@ -6,7 +6,7 @@ date: 2020-07-03 20:26:29
 draft: false
 ---
 
-# About Compiler and Interpreter
+## About Compiler and Interpreter
 
 An *interpreter* for language **X** is a program (or a machine, or just some kind of mechanism in general) that executes any program **p** written in language **X** such that it performs the effects and evaluates the results as prescribed by the specification of **X**. CPUs are usually interpreters for their respective instructions sets, although modern high-performance workstation CPUs are actually more complex than that; they may actually have an underlying proprietary private instruction set and either translate (compile) or interpret the externally visible public instruction set.
 

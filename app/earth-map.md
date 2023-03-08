@@ -6,14 +6,14 @@ date: 2021-04-16 09:02:50
 draft: false
 ---
 
-# Earth Map and Tools
+## Earth Map and Tools
 
 Related links:  
 🔗 [app/Awesome List of Maps](/app/map)  
 🔗 [app/Map Tools](/app/map-tool)  
 🔗 [app/Earth Map and Tools](/app/earth-map)  
 
-## Earth Map
+### Earth Map
 
 - [Sentinel Hub EO Browser](https://apps.sentinel-hub.com/eo-browser/)
 - [EarthTime](https://earthtime.org/explore)
@@ -22,7 +22,7 @@ Related links:
 - [Planet Explorer](https://www.planet.com/explorer/) - Daily map, paid.
 - [Zoom Earth](https://zoom.earth/) : daily satellite map, historical map (Bing and Esri)
 
-## Earth Datasets
+### Earth Datasets
 
 - [Google Earth Engine](https://developers.google.com/earth-engine/datasets)
 - [Landsat Free Map](https://registry.opendata.aws/landsat-8/)
@@ -30,11 +30,11 @@ Related links:
 - [Raster Vision](https://docs.rastervision.io/en/0.12/)
 - [LandCoverNet - Radiant MLHub Training Data Registry](http://registry.mlhub.earth/10.34911/rdnt.d2ce8i/)
 
-## Earth Map Desktop Apps
+### Earth Map Desktop Apps
 
 - Google Earth
 - [SASPlanet at SASGIS](http://www.sasgis.org/sasplaneta/)
 
-## Google Earth Tools
+### Google Earth Tools
 
 - [doersino/earthacrosstime: Twitter bot that posts videos showcasing how random locations in the world have changed since 1984.](https://github.com/doersino/earthacrosstime)

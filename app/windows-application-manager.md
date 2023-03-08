@@ -6,9 +6,9 @@ date: 2022-10-29 17:15
 draft: false
 ---
 
-# Windows Application Manager
-
 ## Windows Application Manager
+
+### Windows Application Manager
 
 - [Scoop](https://scoop.sh/) alternative to chocolatey
 - [Chocolatey](https://chocolatey.org/)

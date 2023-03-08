@@ -6,7 +6,7 @@ date: 2020-07-11 20:29:35
 draft: false
 ---
 
-# Machine Learning Glossary
+## Machine Learning Glossary
 
 These are references for an upcoming book about terms in machine learning.
 

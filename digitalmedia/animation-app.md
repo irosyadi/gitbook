@@ -6,13 +6,13 @@ date: 2020-09-12 21:08:05
 draft: false
 ---
 
-# Awesome List of Animation Apps
+## Awesome List of Animation Apps
 
 Related links:  
 🔗 [App/Awesome List of Animation Apps](animation-app.md)  
 🔗 [App/Face and Pose Animation](face-pose-animation.md)
 
-## 3D Animation
+### 3D Animation
 
 - [Blender](https://www.blender.org/) : Motion Capture, Keyframe Animation
 - [Clara.io](https://clara.io/) : Web-based Keyframe Animation
@@ -24,43 +24,43 @@ Related links:
     - [doersino/tixyz: A minimalist three-dimensional coding environment. Control 8x8x8 dots with a single JavaScript function.](https://github.com/doersino/tixyz)
 - [Zdog · Round, flat, designer-friendly pseudo-3D engine for canvas and SVG](https://zzz.dog/)
 
-## Stop Motion Animation
+### Stop Motion Animation
 
 - [Boats Animator](https://www.charlielee.uk/boats-animator/) : Stop Motion
 
-## 2D Animation
+### 2D Animation
 
 - [Pencil2D](https://www.pencil2d.org/) : 2D Animation
 - [Synfig Studio](https://www.synfig.org/) : 2D Animation
 - [Houdini Apprentice](https://www.sidefx.com/) : Motion Capture, Keyframe Animation
 
-## Animation Engine for Interactive Math
+### Animation Engine for Interactive Math
 
 - [Manim](https://github.com/3b1b/manim) [Tutorial](https://talkingphysics.wordpress.com/2019/01/08/getting-started-animating-with-manim-and-python-3-7/) [Docs](https://eulertour.com/docs/)
 - [Mathbox](https://github.com/unconed/mathbox) Animation engine for explanatory math videos
 - [Manim Community](https://github.com/ManimCommunity/manim) Community fork of manim
 - [Vega-Lite–A Grammar of Interactive Graphics](https://vega.github.io/vega-lite/)
 
-## Online Animation Editor
+### Online Animation Editor
 
 - [Animatron](https://www.animatron.com/) Online Animation Editor
 - [Tween UI](https://tweenui.com/animator/)
 - [vizzuhq/vizzu-lib: Library for animated data visualizations and data stories.](https://github.com/vizzuhq/vizzu-lib)
 
-## Animation from Drawing
+### Animation from Drawing
 
 - [Animated Drawings](https://sketch.metademolab.com/)
 
-## Animation
+### Animation
 
 - [Animatize - animations the easy way](https://animatize.com/)
 - [de-stillary: Animated Paintings](https://sketchy.cs.brown.edu/textures/#/textures/)
 
-## Review
+### Review
 
 - [Best Animation Software](https://all3dp.com/1/best-20-3d-animation-software/#smartbody)
 
-## Animation and Visualization
+### Animation and Visualization
 
 - [ManimCommunity/manim: A community-maintained Python framework for creating mathematical animations.](https://github.com/ManimCommunity/manim)
 - [Mafs: React components for math visualization](https://mafs.dev/)
@@ -72,22 +72,22 @@ Related links:
 - [Wikunia/Javis.jl: Julia Animations and Visualizations](https://github.com/Wikunia/Javis.jl)
 - [leetanim](https://leetanim.com/)
 
-## Animation
+### Animation
 
 - [Mechanical Movement Animations](http://507movements.com/)
 - [Animations of Electrical Machines](http://people.ece.umn.edu/users/riaz/animations/listanimations.html)
 
-## Animation in SVG
+### Animation in SVG
 
 - [Bestsnip Animation Studio](https://bestsnip.com/mobile/)
 - [Bestsnip Animation Studio](https://bestsnip.com/svg_animation/)
 
-## Online Animation and Visualization Apps
+### Online Animation and Visualization Apps
 
 - [msgviz](https://www.msgviz.com/edit/VZbEOj49U)
 - [Nodes.io](https://nodes.io/)
 - [BlockStudio 3](https://www.blockstud.io/)
 
-## Animation Examples
+### Animation Examples
 
 - [Brushless DC Motor Simulator](https://simulators.drbasheers.com/UCI/x497.6/motor/open_loop_no_pwm.html)

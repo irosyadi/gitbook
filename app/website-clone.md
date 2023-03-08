@@ -6,9 +6,9 @@ date: 2022-10-11 08:42
 draft: false
 ---
 
-# Website Cloning
+## Website Cloning
 
-## Web Copy
+### Web Copy
 
 - [chowderman/hyperfiler: HyperFiler: Bundle web pages into hyper minified single HTML files.](https://github.com/chowderman/hyperfiler)
 - [Y2Z/monolith: ⬛️ CLI tool for saving complete web pages as a single HTML file](https://github.com/Y2Z/monolith)

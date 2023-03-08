@@ -6,9 +6,9 @@ date: 2021-06-11 01:34:34
 draft: false
 ---
 
-# Standford CS231n 2017 Summary
+## Standford CS231n 2017 Summary
 
-## Table of contents
+### Table of contents
 
 * [Standford CS231n 2017 Summary](#standford-cs231n-2017-summary)
    * [Table of contents](#table-of-contents)
@@ -30,7 +30,7 @@ draft: false
    * [15. Efficient Methods and Hardware for Deep Learning](#15-efficient-methods-and-hardware-for-deep-learning)
    * [16. Adversarial Examples and Adversarial Training](#16-adversarial-examples-and-adversarial-training)
 
-## Course Info
+### Course Info
 
 * Website: <http://cs231n.stanford.edu/>
 * Lectures link: <https://www.youtube.com/playlist?list=PLC1qU-LWwrF64f4QKQT-Vg5Wr4qEE1Zxk>
@@ -40,7 +40,7 @@ draft: false
 * Course description:
   * > Computer Vision has become ubiquitous in our society, with applications in search, image understanding, apps, mapping, medicine, drones, and self-driving cars. Core to many of these applications are visual recognition tasks such as image classification, localization and detection. Recent developments in neural network (aka “deep learning”) approaches have greatly advanced the performance of these state-of-the-art visual recognition systems. This course is a deep dive into details of the deep learning architectures with a focus on learning end-to-end models for these tasks, particularly image classification. During the 10-week course, students will learn to implement, train and debug their own neural networks and gain a detailed understanding of cutting-edge research in computer vision. The final assignment will involve training a multi-million parameter convolutional neural network and applying it on the largest image classification dataset (ImageNet). We will focus on teaching how to set up the problem of image recognition, the learning algorithms (e.g. backpropagation), practical engineering tricks for training and fine-tuning the networks and guide the students through hands-on assignments and a final course project. Much of the background and materials of this course will be drawn from the [ImageNet Challenge](http://image-net.org/challenges/LSVRC/2014/index).
 
-## 01. Introduction to CNN for visual recognition
+### 01. Introduction to CNN for visual recognition
 
 * A brief history of Computer vision starting from the late 1960s to 2017.
 * Computer vision problems includes image classification, object localization, object detection, and scene understanding.
@@ -48,7 +48,7 @@ draft: false
 * Starting 2012 in the Imagenet competition, CNN (Convolutional neural networks) is always winning.
 * CNN actually has been invented in 1997 by [Yann Lecun](http://ieeexplore.ieee.org/document/726791/).
 
-## 02. Image classification
+### 02. Image classification
 
 * Image classification problem has a lot of challenges like illumination and viewpoints.
   * ![](https://raw.githubusercontent.com/mbadry1/CS231n-2017-Summary/master/Images/39.jpeg)
@@ -77,21 +77,17 @@ draft: false
   * shape of `x` is `oldX+1` and `w` is the same as `x`
 * We need to know how can we get `w`'s and `b`'s that makes the classifier runs at best.
 
-## 03. Loss function and optimization
+### 03. Loss function and optimization
 
 * In the last section we talked about linear classifier but we didn't discussed how we could **train** the parameters of that model to get best `w`'s and `b`'s.
 * We need a loss function to measure how good or bad our current parameters.
 
   *
-
-
   * ```python
     Loss = L[i] =(f(X[i],W),Y[i])
     Loss_for_all = 1/N * Sum(Li(f(X[i],W),Y[i]))      # Indicates the average
     ```
   *
-
-
 
 * Then we find a way to minimize the loss function given some parameters. This is called **optimization**.
 * Loss function for a linear **SVM** classifier:
@@ -109,30 +105,19 @@ draft: false
 * We add **regularization** for the loss function so that the discovered model don't overfit the data.
 
   *
-
-
   * ```python
     Loss = L = 1/N * Sum(Li(f(X[i],W),Y[i])) + lambda * R(W)
     ```
   *
 
-
-
   * Where `R` is the regularizer, and `lambda` is the regularization term.
 * There are different regularizations techniques:
-
-  *
-
-
-  * | Regularizer           | Equation                            | Comments               |
-    | --------------------- | ----------------------------------- | ---------------------- |
-    | L2                    | `R(W) = Sum(W^2)`                   | Sum all the W squared  |
-    | L1                    | `R(W) = Sum(lWl)`                   | Sum of all Ws with abs |
-    | Elastic net (L1 + L2) | `R(W) = beta * Sum(W^2) + Sum(lWl)` |                        |
-    | Dropout               |                                     | No Equation            |
-  *
-
-
+  * | Regularizer | Equation | Comments |  
+    | --------------------- | ----------------------------------- | ---------------------- |  
+    | L2 | `R(W) = Sum(W^2)` | Sum all the W squared |  
+    | L1 | `R(W) = Sum(lWl)` | Sum of all Ws with abs |  
+    | Elastic net (L1 + L2) | `R(W) = beta * Sum(W^2) + Sum(lWl)` | |  
+    | Dropout |                                     | No Equation |
 
 * Regularization prefers smaller `W`s over big `W`s.
 * Regularizations is called weight decay. biases should not included in regularization.
@@ -140,35 +125,25 @@ draft: false
   * Softmax function:
 
     *
-
-
     * ```python
       A[L] = e^(score[L]) / sum(e^(score[L]), NoOfClasses)
       ```
     *
 
-
-
   * Sum of the vector should be 1.
   * Softmax loss:
 
     *
-
-
     * ```python
       Loss = -logP(Y = y[i]|X = x[i])
       ```
     *
-
-
 
     * Log of the probability of the good class. We want it to be near 1 thats why we added a minus.
     * Softmax loss is called cross-entropy loss.
   * Consider this numerical problem when you are computing Softmax:
 
     *
-
-
     * ```python
       f = np.array([123, 456, 789]) # example with 3 classes and each having large scores
       p = np.exp(f) / np.sum(np.exp(f)) # Bad: Numeric problem, potential blowup
@@ -178,8 +153,6 @@ draft: false
       p = np.exp(f) / np.sum(np.exp(f)) # safe to do, gives the correct answer
       ```
     *
-
-
 
 * **Optimization**:
   * How we can optimize loss functions we discussed?
@@ -195,20 +168,16 @@ draft: false
     * After we compute the gradient of our parameters, we compute the gradient descent:
 
       *
-
-
       * ```python
         W = W - learning_rate * W_grad
         ```
       *
 
-
-
     * learning_rate is so important hyper parameter you should get the best value of it first of all the hyperparameters.
     * stochastic gradient descent:
       * Instead of using all the date, use a mini batch of examples (32/64/128 are commonly used) for faster results.
 
-## 04. Introduction to Neural network
+### 04. Introduction to Neural network
 
 * Computing the analytic gradient for arbitrary complex functions:
   * What is a Computational graphs?
@@ -219,8 +188,6 @@ draft: false
     * Then graph can be represented this way:
 
     *
-
-
     * ```
       X         
         \
@@ -233,27 +200,19 @@ draft: false
       ```
     *
 
-
-
     * We made an intermediate variable `q` to hold the values of `x+y`
     * Then we have:
 
       *
-
-
       * ```python
         q = (x+y)              # dq/dx = 1 , dq/dy = 1
         f = qz                 # df/dq = z , df/dz = q
         ```
       *
 
-
-
     * Then:
 
       *
-
-
       * ```python
         df/dq = z
         df/dz = q
@@ -261,8 +220,6 @@ draft: false
         df/dy = df/dq * dq/dy = z * 1 = z       # Chain rule
         ```
       *
-
-
 
   * So in the Computational graphs, we call each operation `f`. For each `f` we calculate the local gradient before we go on back propagation and then we compute the gradients in respect of the loss function using the chain rule.
   * In the Computational graphs you can split each operation to as simple as you want but the nodes will be a lot. if you want the nodes to be smaller be sure that you can compute the gradient of this node.
@@ -272,8 +229,6 @@ draft: false
   * Modularized implementation: forward/ backward API (example multiply code):
 
     *
-
-
     * ```python
       class MultuplyGate(object):
         """
@@ -292,8 +247,6 @@ draft: false
       ```
     *
 
-
-
   * If you look at a deep learning framework you will find it follow the Modularized implementation where each class has a definition for forward and backward. For example:
     * Multiplication
     * Max
@@ -309,7 +262,7 @@ draft: false
   * And so on..
 * Neural networks is a stack of some simple operation that forms complex operations.
 
-## 05. Convolutional neural networks (CNNs)
+### 05. Convolutional neural networks (CNNs)
 
 * Neural networks history:
   * First perceptron machine was developed by Frank Rosenblatt in 1957. It was used to recognize letters of the alphabet. Back propagation wasn't developed yet.
@@ -403,7 +356,7 @@ draft: false
 * Also example of pooling is average pooling.
   * In this case it might be learnable.
 
-## 06. Training neural networks I
+### 06. Training neural networks I
 
 * As a revision here are the Mini batch stochastic gradient descent algorithm steps:
   * Loop:
@@ -455,8 +408,6 @@ draft: false
   * Exponential linear units (ELU):
 
     *
-
-
     * ```
       ELU(x) = { x                                           if x > 0
       		   alpah *(exp(x) -1)		                   if x <= 0
@@ -464,8 +415,6 @@ draft: false
       }
       ```
     *
-
-
 
     * It has all the benefits of RELU
     * Closer to zero mean outputs and adds some robustness to noise.
@@ -486,8 +435,6 @@ draft: false
   * Normalize the data:
 
   *
-
-
   * ```python
     # Zero centered data. (Calculate the mean for every input).
     # On of the reasons we do this is because we need data to be between positive and negative and not all the be negative or positive. 
@@ -497,8 +444,6 @@ draft: false
     X /= np.std(X, axis = 1)
     ```
   *
-
-
 
   * To normalize images:
     * Subtract the mean image (E.g. Alexnet)
@@ -512,55 +457,39 @@ draft: false
   * First idea is to initialize the w's with small random numbers:
 
     *
-
-
     * ```python
       W = 0.01 * np.random.rand(D, H)
       # Works OK for small networks but it makes problems with deeper networks!
       ```
     *
 
-
-
     * The standard deviations is going to zero in deeper networks. and the gradient will vanish sooner in deep networks.
 
     *
-
-
     * ```python
       W = 1 * np.random.rand(D, H) 
       # Works OK for small networks but it makes problems with deeper networks!
       ```
     *
 
-
-
     * The network will explode with big numbers!
   * ***Xavier initialization***:
 
     *
-
-
     * ```python
       W = np.random.rand(in, out) / np.sqrt(in)
       ```
     *
-
-
 
     * It works because we want the variance of the input to be as the variance of the output.
     * But it has an issue, It breaks when you are using RELU.
   * ***He initialization*** (Solution for the RELU issue):
 
     *
-
-
     * ```python
       W = np.random.rand(in, out) / np.sqrt(in/2)
       ```
     *
-
-
 
     * Solves the issue with RELU. Its recommended when you are using RELU
   * Proper initialization is an active area of research.
@@ -619,7 +548,7 @@ draft: false
   * Adjust your ranges and try again.
   * Its better to try random search instead of grid searches (In log space)
 
-## 07. Training neural networks II
+### 07. Training neural networks II
 
 * **Optimization algorithms**:
   * Problems with stochastic gradient descent:
@@ -637,8 +566,6 @@ draft: false
     * Build up velocity as a running mean of gradients:
 
     *
-
-
     * ```python
       # Computing weighted average. rho best is in range [0.9 - 0.99]
       V[t+1] = rho * v[t] + dx
@@ -646,16 +573,12 @@ draft: false
       ```
     *
 
-
-
     * `V[0]` is zero.
     * Solves the saddle point and local minimum problems.
     * It overshoots the problem and returns to it back.
   * **Nestrov momentum**:
 
     *
-
-
     * ```python
       dx = compute_gradient(x)
       old_v = v
@@ -664,14 +587,10 @@ draft: false
       ```
     *
 
-
-
     * Doesn't overshoot the problem but slower than SGD + momentum
   * **AdaGrad**
 
     *
-
-
     * ```python
       grad_squared = 0
       while(True):
@@ -684,13 +603,9 @@ draft: false
       ```
     *
 
-
-
   * **RMSProp**
 
     *
-
-
     * ```python
       grad_squared = 0
       while(True):
@@ -702,8 +617,6 @@ draft: false
         x -= (learning_rate*dx) / (np.sqrt(grad_squared) + 1e-7)
       ```
     *
-
-
 
     * People uses this instead of AdaGrad
   * **Adam**
@@ -788,21 +701,14 @@ draft: false
     3. Not only the last layer maybe trained again, you can fine tune any number of layers you want based on the number of data you have
 
   * Guide to use transfer learning:
-
-    *
-
-
-    * |                         | Very Similar dataset               | very different dataset                   |
-      | ----------------------- | ---------------------------------- | ---------------------------------------- |
-      | **very little dataset** | Use Linear classifier on top layer | You're in trouble.. Try linear classifier from different stages |
-      | **quite a lot of data** | Finetune a few layers              | Finetune a large layers                  |
-    *
-
-
+    * | | Very Similar dataset | very different dataset |  
+      | ----------------------- | ---------------------------------- | ---------------------------------------- |  
+      | **very little dataset** | Use Linear classifier on top layer | You're in trouble.. Try linear classifier from different stages |  
+      | **quite a lot of data** | Finetune a few layers | Finetune a large layers |
 
   * Transfer learning is the normal not an exception.
 
-## 08. Deep learning software
+### 08. Deep learning software
 
 * This section changes a lot every year in CS231n due to rabid changes in the deep learning softwares.
 * CPU vs GPU
@@ -909,7 +815,7 @@ draft: false
 * Caffe2 uses static graphs and can train model in python also works on IOS and Android
 * Tensorflow/Caffe2 are used a lot in production especially on mobile.
 
-## 09. CNN architectures
+### 09. CNN architectures
 
 * This section talks about the famous CNN architectures. Focuses on CNN architectures that won [ImageNet](www.image-net.org/) competition since 2012.
   * ![](https://raw.githubusercontent.com/mbadry1/CS231n-2017-Summary/master/Images/43.png)
@@ -1040,15 +946,11 @@ draft: false
       * ![](https://raw.githubusercontent.com/mbadry1/CS231n-2017-Summary/master/Images/45.png)
 
     *
-
-
     * ```python
       # Instead of us trying To learn a new representation, We learn only Residual
       Y = (W2* RELU(W1x+b1) + b2) + X
       ```
     *
-
-
 
     * Say you have a network till a depth of N layers. You only want to add a new layer if you get something extra out of adding that layer.
     * One way to ensure this new (N+1)th layer learns something new about your network is to also provide the input(x) without any transformation to the output of the (N+1)th layer. This essentially drives the new layer to learn something different from what the input has already encoded.
@@ -1102,7 +1004,7 @@ draft: false
   * Trend towards extremely deep networks
   * In the last couple of years, some models all using the shortcuts like "ResNet" to eaisly flow the gradients.
 
-## 10. Recurrent Neural networks
+### 10. Recurrent Neural networks
 
 * Vanilla Neural Networks "Feed neural networks", input of fixed size goes through some hidden units and then go to output. We call it a one to one network.
 * Recurrent Neural Networks RNN Models:
@@ -1129,28 +1031,20 @@ draft: false
   * We can process a sequence of vectors x by applying a recurrence formula at every time step:
 
     *
-
-
     * ```python
       h[t] = fw (h[t-1], x[t])			# Where fw is some function with parameters W
       ```
     *
 
-
-
     * The same function and the same set of parameters are used at every time step.
   * (Vanilla) Recurrent Neural Network:
 
     *
-
-
     * ```
       h[t] = tanh (W[h,h]*h[t-1] + W[x,h]*x[t])    # Then we save h[t]
       y[t] = W[h,y]*h[t]
       ```
     *
-
-
 
     * This is the simplest example of a RNN.
   * RNN works on a sequence of related data.
@@ -1205,7 +1099,7 @@ draft: false
 * Better understanding (both theoretical and empirical) is needed.
 * RNN is used for problems that uses sequences of related inputs more. Like NLP and Speech recognition.
 
-## 11. Detection and Segmentation
+### 11. Detection and Segmentation
 
 * So far we are talking about image classification problem. In this section we will talk about Segmentation, Localization, Detection.
 * **<u>Semantic Segmentation</u>**
@@ -1230,14 +1124,12 @@ draft: false
     * Upsampling is like "Nearest Neighbor" or "Bed of Nails" or "Max unpooling"
       * **Nearest Neighbor** example:
 
- 
  ```
           Input:   1  2               Output:   1  1  2  2
                    3  4                         1  1  2  2
                                                 3  3  4  4
                                                 3  3  4  4
  ```
- 
 
       - **Bed of Nails** example:
 
@@ -1315,7 +1207,7 @@ draft: false
     * It sums all the things that we have discussed in this lecture.
     * Performance of this seems good.
 
-## 12. Visualizing and Understanding
+### 12. Visualizing and Understanding
 
 * We want to know what’s going on inside ConvNets?
 * People want to trust the black box (CNN) and know how it exactly works and give and good decisions.
@@ -1363,15 +1255,11 @@ draft: false
   * We want to maximize the neuron with the input image. So here instead we are trying to learn the image that maximize the activation:
 
     *
-
-
     * ```python
       # R(I) is Natural image regularizer, f(I) is the neuron value.
       I *= argmax(f(I)) + R(I)
       ```
     *
-
-
 
   * Steps of gradient ascent
     * Initialize image to zeros.
@@ -1433,23 +1321,16 @@ draft: false
   * Gradients: Saliency maps, class visualization, fooling images, feature inversion
   * Fun: DeepDream, Style Transfer
 
-## 13. Generative models
+### 13. Generative models
 
 * Generative models are type of Unsupervised learning.
 * Supervised vs Unsupervised Learning:
-
-  *
-
-
-  * |                | Supervised Learning                      | Unsupervised Learning                    |
-    | -------------- | ---------------------------------------- | ---------------------------------------- |
-    | Data structure | Data: (x, y), and x is data, y is label  | Data: x, Just data, no labels!           |
-    | Data price     | Training data is expensive in a lot of cases. | Training data are cheap!                 |
-    | Goal           | Learn a function to map x -> y           | Learn some underlying hidden structure of the data |
-    | Examples       | Classification, regression, object detection, semantic segmentation, image captioning | Clustering, dimensionality reduction, feature learning, density estimation |
-  *
-
-
+  * | | Supervised Learning | Unsupervised Learning |  
+    | -------------- | ---------------------------------------- | ---------------------------------------- |  
+    | Data structure | Data: (x, y), and x is data, y is label | Data: x, Just data, no labels! |  
+    | Data price | Training data is expensive in a lot of cases. | Training data are cheap! |  
+    | Goal | Learn a function to map x -> y | Learn some underlying hidden structure of the data |  
+    | Examples | Classification, regression, object detection, semantic segmentation, image captioning | Clustering, dimensionality reduction, feature learning, density estimation |
 
 * Autoencoders are a Feature learning technique.
   * ![](https://raw.githubusercontent.com/mbadry1/CS231n-2017-Summary/master/Images/24.png)
@@ -1558,7 +1439,7 @@ draft: false
   * Tips and tricks for using GANs: <https://github.com/soumith/ganhacks>
   * NIPS 2016 Tutorial GANs: <https://www.youtube.com/watch?v=AJVyzd0rqdc>
 
-## 14. Deep reinforcement learning
+### 14. Deep reinforcement learning
 
 * This section contains a lot of math.
 * Reinforcement learning problems are involving an agent interacting with an environment, which provides numeric reward signals.
@@ -1660,7 +1541,7 @@ draft: false
 * A good article
   * <https://www.kdnuggets.com/2017/09/5-ways-get-started-reinforcement-learning.html>
 
-## 15. Efficient Methods and Hardware for Deep Learning
+### 15. Efficient Methods and Hardware for Deep Learning
 
 * The original lecture was given by Song Han a PhD Candidate at standford.
 * Deep Conv nets, Recurrent nets, and deep reinforcement learning are shaping a lot of applications and changing a lot of our lives.
@@ -1802,7 +1683,7 @@ draft: false
     * One of our new large-scale translation models used to take a full day to train on 32 of the best commercially-available GPUs—now it trains to the same accuracy in an afternoon using just one eighth of a TPU pod.
 * We have moved from PC Era ==> Mobile-First Era ==> AI-First Era
 
-## 16. Adversarial Examples and Adversarial Training
+### 16. Adversarial Examples and Adversarial Training
 
 * **<u>What are adversarial examples?</u>**
   * Since 2013, deep neural networks have matched human performance at..

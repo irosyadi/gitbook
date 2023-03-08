@@ -6,7 +6,7 @@ date: 2020-11-29 18:28:53
 draft: false
 ---
 
-# Emotion Detection with Machine Learning
+## Emotion Detection with Machine Learning
 
 - [Deep learning for robust feature generation in audiovisual emotion recognition](https://ieeexplore.ieee.org/abstract/document/6638346/), [pdf](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.428.5585&rep=rep1&type=pdf), Yelin Kim : DBN
 - [Learning deep features for image emotion classification](https://ieeexplore.ieee.org/abstract/document/7351656/), Ming Chen : CNN
@@ -29,7 +29,7 @@ draft: false
 - [Facial emotion recognition using deep learning: review and insights](https://www.sciencedirect.com/science/article/pii/S1877050920318019) [pdf](https://www.sciencedirect.com/science/article/pii/S1877050920318019/pdf?md5=3c78317460f155fd1f670f3737598a3a&pid=1-s2.0-S1877050920318019-main.pdf)
 - [Facial emotion recognition from videos using deep convolutional neural networks](http://www.ijmlc.org/vol9/759-L0179.pdf)
 
-## Github
+### Github
 
 - [atulapra/Emotion-detection](https://github.com/atulapra/Emotion-detection) : haar cascade +CNN
 - [MauryaRitesh/Facial-Expression-Detection](https://github.com/MauryaRitesh/Facial-Expression-Detection) : haar cascade + ?
@@ -44,14 +44,14 @@ draft: false
 - [serengil/deepface](https://github.com/serengil/deepface) : A Lightweight Deep Face Recognition and Facial Attribute Analysis (Age, Gender, Emotion and Race) Framework for Python
 - [mayanktolani19/RealTimeEmotionDetection: A flask based web app which utilizes your webcam to capture real time video and display your facial emotion.](https://github.com/mayanktolani19/RealTimeEmotionDetection)
 
-## Ideas
+### Ideas
 
 - Real Time Facial Feature Extraction : Emotional + others, video based, handheld based.
 - upgrade [juan-csv/Face_info](https://github.com/juan-csv/Face_info) approach
 - upgrade [weblineindia/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction](https://github.com/weblineindia/AIML-Human-Attributes-Detection-with-Facial-Feature-Extraction) approach
 - upgrade [m-elkhou/Facial_Expression_Detection](https://github.com/m-elkhou/Facial_Expression_Detection)
 
-## Library
+### Library
 
 - [Jeeliz](https://jeeliz.com/) [Github](https://github.com/jeeliz/jeelizWeboji): open source, web app
     - for **Drowsiness detection**, by [Abhilash26](https://github.com/abhilash26) aka [Dinodroid](https://ko-fi.com/dinodroid): Be sure to don't fall asleep when driving thanks to this webapp! You can try it here: [dont-drive-drowsy.glitch.me](https://dont-drive-drowsy.glitch.me/), [view the source code](https://github.com/abhilash26/dont-drive-drowsy) or a [demo video](https://www.youtube.com/watch?v=FjqySZE8CTY)

@@ -6,9 +6,9 @@ date: 2021-04-04 19:35:46
 draft: false
 ---
 
-# Programming for Kids Books, Tutorials, and Courses
+## Programming for Kids Books, Tutorials, and Courses
 
-## Learn Programming for Kids
+### Learn Programming for Kids
 
 - [Hedy](https://www.hedycode.com/hedy?lang=en)
     - [Felienne/hedy: Hedy is a gradual programming language, which increases in syntactic elements level by level.](https://github.com/Felienne/hedy)
@@ -25,26 +25,25 @@ draft: false
         - [Hellow World 3rd](https://livebook.manning.com/book/hello-world-third-edition/about-this-book/1)
         - [Hello World 1st](https://livebook.manning.com/book/hello-world/chapter-1?origin=product-toc)
 
-
-## Programming
+### Programming
 
 - [Codeguppy](https://codeguppy.com/index.html) Coding playground for children
 
-## Programming Learning for Kids
+### Programming Learning for Kids
 
 - [Code Shrew](https://shrew.app/)
 
-## Programming
+### Programming
 
 - [programming time for kids](https://punkjazz.org/programming-time/)
 - [Code with Replit - Python projects for beginners](https://www.codewithreplit.com/index.html)
 
-## Coding for Child
+### Coding for Child
 
 - [Pickcode](https://www.pickcode.io/)
 
-## Coding for Kids
+### Coding for Kids
 
-* [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
-* [Learn - Code.org](https://code.org/learn)
-* [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)
+- [Stencyl: Make iPhone, iPad, Android & Flash Games without code](http://www.stencyl.com/)
+- [Learn - Code.org](https://code.org/learn)
+- [Scratch - Imagine, Program, Share](https://scratch.mit.edu/)

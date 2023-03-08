@@ -6,9 +6,9 @@ date: 2022-07-03 12:50:53
 draft: false
 ---
 
-# Reinforcement Learning
+## Reinforcement Learning
 
-# Reinfocement Learning Course
+## Reinfocement Learning Course
 
 * [Sutton & Barto Book: Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book.html)
 * [CS 285](http://rail.eecs.berkeley.edu/deeprlcourse/)
@@ -19,7 +19,7 @@ draft: false
 * [Introduction to Reinforcement Learning with David Silver](https://www.deepmind.com/learning-resources/introduction-to-reinforcement-learning-with-david-silver)
 * [The Fast Deep RL Course - Dibya's School](https://courses.dibya.online/p/fastdeeprl)
 
-# Algorithm
+## Algorithm
 
 * [reinforcement learning algorithms](https://github.com/TianhongDai/reinforcement-learning-algorithms) This repository contains most of pytorch implementation based classic deep reinforcement learning algorithms, including - DQN, DDQN, Dueling Network, DDPG, SAC, A2C, PPO, TRPO.
 * [AI4Finance-Foundation/FinRL: FinRL: The first open-source project for financial reinforcement learning. Please star. 🔥](https://github.com/AI4Finance-Foundation/FinRL)

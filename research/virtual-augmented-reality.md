@@ -6,12 +6,12 @@ date: 2022-10-23 22:06
 draft: false
 ---
 
-# Virtual Reality and Augmented Reality
+## Virtual Reality and Augmented Reality
 
-## Augmented Reality
+### Augmented Reality
 
 - [veggiedefender/projectordino: Play the Chrome T-Rex game by physically jumping](https://github.com/veggiedefender/projectordino)
 
-## Virtual Reality
+### Virtual Reality
 
 - [Assemblr](https://www.assemblrworld.com/)

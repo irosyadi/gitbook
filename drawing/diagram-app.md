@@ -6,13 +6,13 @@ date: 2020-12-21 09:52:27
 draft: false
 ---
 
-# Awesome List of Diagram Apps
+## Awesome List of Diagram Apps
 
 List of Diagram Apps  
 
 - [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#general-purpose-diagramming)
 
-## Cloud-based Diagram App
+### Cloud-based Diagram App
 
 - [Excalidraw](https://excalidraw.com/) : [Github link](https://github.com/excalidraw/excalidraw) hand-draw-like diagram tools
 - [Sketchviz](https://sketchviz.com/new) : [Graphviz](https://www.graphviz.org/) hand-draw-like diagram tools
@@ -35,11 +35,12 @@ List of Diagram Apps
     - [jgraph/drawio: Source to app.diagrams.net](https://github.com/jgraph/drawio)
 - [GoJS Diagram and Graph Library for JavaScript and TypeScript](https://gojs.net/latest/index.html)
 
-## Math based Diagram
+### Math based Diagram
+
 - [Matcha](https://www.mathcha.io/) plus desktop app
 - Geogebra
 
-## Diagram as Code (Programmable Diagram)
+### Diagram as Code (Programmable Diagram)
 
 - [Plant UML](https://plantuml.com/)
 - [PlantText UML Editor](https://www.planttext.com/)
@@ -63,13 +64,13 @@ List of Diagram Apps
 - [tldraw](https://www.tldraw.com/)
 - [minimator](https://minimator.app/)
 
-## Neural Network Diagram
+### Neural Network Diagram
 
 - [NN-SVG](https://alexlenail.me/NN-SVG/index.html) : neural network and deep learning architecture diagram
 - [HarisIqbal88/PlotNeuralNet: Latex code for making neural networks diagrams](https://github.com/HarisIqbal88/PlotNeuralNet)
 - [NN SVG](https://alexlenail.me/NN-SVG/)
 
-## Diagram
+### Diagram
 
 - [ivanceras/svgbob: Convert your ascii diagram scribbles into happy little SVG](https://github.com/ivanceras/svgbob) ASCII to SVG
     - [Svgbob editor](https://ivanceras.github.io/svgbob-editor/)
@@ -79,21 +80,21 @@ List of Diagram Apps
 - [Mœbius ANSI Art Editor](https://blocktronics.github.io/moebius/)
 - [Kroki!](https://kroki.io/) Programmable Diagram
 
-## Diagram
+### Diagram
 
 - [penrose/penrose: Create beautiful diagrams just by typing mathematical notation in plain text.](https://github.com/penrose/penrose)
 
-## Diagrams
+### Diagrams
 
 - [Stately Editor public beta](https://stately.ai/blog/stately-editor-public-beta)
 
-
-## Diagram Tools
+### Diagram Tools
 
 - [Free Apps for Microsoft Visio Files](https://products.fileformat.app/diagram/)
 	- filetype VSD, VSDX
 
-## Text to Diagram
+### Text to Diagram
+
 - [spark-joy/README.md at master · sw-yx/spark-joy](https://github.com/sw-yx/spark-joy/blob/master/README.md#code-based-graph-tools)
 - [mlajtos/moniel: Interactive Notation for Computational Graphs](https://github.com/mlajtos/moniel)
 - [Diagrams · Diagram as Code](https://diagrams.mingrammer.com/)

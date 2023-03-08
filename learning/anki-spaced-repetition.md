@@ -6,9 +6,9 @@ date: 2022-10-11 08:34
 draft: false
 ---
 
-# Anki and Spaced Repetition
+## Anki and Spaced Repetition
 
-## Spaced Repetition
+### Spaced Repetition
 
 - [Anki - powerful, intelligent flashcards](https://apps.ankiweb.net/)
 - [Mochi—Spaced repetition made easy](https://mochi.cards/)
@@ -18,10 +18,10 @@ draft: false
 - Logseq, Obsidian and Roam with community plugins
 - [RemNote - The Best Way to Remember and Organize What You Learn](https://www.remnote.io/)
 
-## Spaced repetition systems
+### Spaced repetition systems
 
 - [andymatuschak/orbit](https://github.com/andymatuschak/orbit)
 
-## Anki
+### Anki
 
 - [Save All](https://saveall.ai/landing)

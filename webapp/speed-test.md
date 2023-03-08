@@ -6,9 +6,9 @@ date: 2020-10-11 21:50:29
 draft: false
 ---
 
-# Network Speed Test Apps
+## Network Speed Test Apps
 
-## Global
+### Global
 
 - [fast.com](https://fast.com/) : by Netflix, directly measure
 - [cloudflare](https://speed.cloudflare.com/) : by Cloudflare, directly measure
@@ -17,11 +17,11 @@ draft: false
 - [openspeedtest](https://openspeedtest.com/)
 - [speed of me](https://speedof.me/)
 
-## Global, self-hosted
+### Global, self-hosted
 
 - [Librespeed](https://librespeed.org/) : open source
 
-## Indonesia
+### Indonesia
 
 - [librespeed at unsoed](https://st3d.unsoed.ac.id/) : hosted librespeed, by Unsoed
 - [speedtest at CBN](https://speedtest.cbn.id/) : hosted speedtest by CBN.id

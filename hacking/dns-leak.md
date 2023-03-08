@@ -6,9 +6,9 @@ date: 2020-06-01 20:09:34
 draft: false
 ---
 
-# DNS Leak Checkers
-
 ## DNS Leak Checkers
+
+### DNS Leak Checkers
 
 * [dnscheck.tools](https://dnscheck.tools/#results)
 * [ipleak.net](https://ipleak.net/)
@@ -17,12 +17,12 @@ draft: false
 * [DNS leak test](https://www.dnsleaktest.com/)
 * [DNS Leak](https://dnsleak.com/)
 
-## Specific DNS Service Checkers
+### Specific DNS Service Checkers
 
 * [1.1.1.1](https://cloudflare-dns.com/help/)
 * [AdGuard](https://adguard.com/en/test.html)
 
-## List of DNS Leak Checkers
+### List of DNS Leak Checkers
 
 * [Test Your DNS Servers](https://routersecurity.org/testdns.php)
 

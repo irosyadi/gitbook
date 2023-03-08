@@ -6,13 +6,13 @@ date: 2022-09-14 15:35:09
 draft: false
 ---
 
-# Zotero How To
+## Zotero How To
 
-## Plug in
+### Plug in
 
 - [Zotero中文社区](https://zotero-chinese.gitee.io/zotero-plugins/#/)
 
-## Zotero PDF Sync
+### Zotero PDF Sync
 
 - [sync Zotero Documentation](https://www.zotero.org/support/sync)
 - [kb:webdav services Zotero Documentation](https://www.zotero.org/support/kb/webdav_services)
@@ -22,11 +22,11 @@ draft: false
 - [Reference Extractor](https://rintze.zelle.me/ref-extractor/) from MS Word
 - The best attacchment sync: 4shared (<https://webdav.4shared.com/zotero),> 15 GB. Alternative: GDrive with this hack: [Zotero hacks: unlimited synced storage and its smooth use with rmarkdown / Habr](https://habr.com/en/post/443798/)
 
-## Mendeley to Zotero Import
+### Mendeley to Zotero Import
 
 - [Mendeley to Zotero](https://www.zotero.org/support/kb/mendeley_import)
 
-## Zotero Add-in
+### Zotero Add-in
 
 - [Zotero Scihub](https://github.com/ethanwillis/zotero-scihub)
 - [ZotFile](http://zotfile.com/)
@@ -40,7 +40,7 @@ draft: false
 - [ZoteroTheme](https://github.com/iShareStuff/ZoteroTheme)
 - [Zotero Night](https://github.com/tefkah/zotero-night)
 
-## Zotero Howto
+### Zotero Howto
 
 - Get zotero local link.
 	- Install zutilo

@@ -6,21 +6,21 @@ date: 2020-06-29 20:00:31
 draft: false
 ---
 
-# Notetaking Tools
+## Notetaking Tools
 
-## Web-based
+### Web-based
 
 - [Collected Notes](https://collectednotes.com/) : atomic markdown note taking and blogging, support youtube embedding
 - [Emvi](https://emvi.com/)
 - [Supernotes](https://supernotes.app)
 
-## Offline with Web Support
+### Offline with Web Support
 
 - VNote and Viki
 - [Standard Notes](https://standardnotes.org/)
 - TiddlyWiki
 
-## Offline
+### Offline
 
 - Roam
 - Notable
@@ -46,7 +46,7 @@ draft: false
 - [novelWriter–A markdown-like editor for writing novels](https://novelwriter.io/) ideal for novel
 - [Manuskript–Open-source tool for writers](https://www.theologeek.ch/manuskript/) ideal for novel
 
-## Notetaking
+### Notetaking
 
 - [MonsterWriter - A Pleasant Way to Write a Thesis or Article](https://www.monsterwriter.app/)
 - [Drift using Tiddly Wiki—Collect. Organize. Grow.](https://akhater.github.io/drift/)
@@ -62,16 +62,16 @@ draft: false
 - [Blaze Mark ⚡](https://rabbithols.github.io/blazemark/)
 - [Super Simple Offline Markdown Editor—Notes](https://notes.cx/ZkZNL9vFr)
 
-## Markdown Note
+### Markdown Note
 
 - [Bangle.io](https://bangle.io/)
 - [Typora—a markdown editor, markdown reader.](https://typora.io/)
 - [Markdown to Slideshow : MarkShow](https://mark.show/#)
 
-## Zettelkasten
+### Zettelkasten
 
 - [Zettelkasten, Linking Your Thinking, and Nick Milo's Search for Ground - The Daily Pony](https://writing.bobdoto.computer/zettelkasten-linking-your-thinking-and-nick-milos-search-for-ground/)
 
-## Notetaking HTML Generator
+### Notetaking HTML Generator
 
 - [Triplelog Writer](https://triplelog.com/writer/)

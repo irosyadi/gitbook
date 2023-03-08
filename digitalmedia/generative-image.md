@@ -6,9 +6,9 @@ date: 2022-09-30 09:12:41
 draft: false
 ---
 
-# Generative Image
+## Generative Image
 
-## Machine Learning: Image Generator
+### Machine Learning: Image Generator
 
 * [Same Energy Beta](https://same.energy/about)
 * [CLIP: Connecting Text and Images](https://openai.com/blog/clip/)
@@ -18,11 +18,11 @@ draft: false
 * [GhostlyStock](https://www.ghostlystock.com/) Image Stock
 * [Generate Images and Art with the help of AI](https://imageai.app/)
 
-## DALL-E Text to Image Generation
+### DALL-E Text to Image Generation
 
 * [saharmor/dalle-playground: A playground to generate images from any text prompt using DALL-E Mini and based on OpenAI's DALL-E https://openai.com/blog/dall-e/](https://github.com/saharmor/dalle-playground)
 
-## Generative Art
+### Generative Art
 
 * [Drivey.js - GL on Wheels](https://rezmason.github.io/drivey/)
 * [Shadertoy BETA](https://www.shadertoy.com/)
@@ -36,11 +36,11 @@ draft: false
 * [HealthyDiffusion](https://healthydiffusion.com/)
 * [VectorArt.ai](https://vectorart.ai/)
 
-## Text to Image
+### Text to Image
 
 * [Build Your Own Imagen Text-to-Image Model](https://www.assemblyai.com/blog/build-your-own-imagen-text-to-image-model/)
 
-## Generative Arts
+### Generative Arts
 
 * [Lexica](https://lexica.art/)
 * [Stable Diffusion - a Hugging Face Space by stabilityai](https://huggingface.co/spaces/stabilityai/stable-diffusion)
@@ -48,11 +48,11 @@ draft: false
 * [GuyTevet/motion-diffusion-model: The official PyTorch implementation of the paper "Human Motion Diffusion Model"](https://github.com/GuyTevet/motion-diffusion-model)
 * [invoke-ai/InvokeAI: This version of Stable Diffusion features a slick WebGUI, an interactive command-line script that combines text2img and img2img functionality in a "dream bot" style interface, and multiple features and other enhancements. For more info, see the website link below.](https://github.com/invoke-ai/InvokeAI)
 
-## AI Art
+### AI Art
 
 * [Unique AI Art](https://uniqueaiart.com/)
 
-## AI Generation Prompt
+### AI Generation Prompt
 
 * [Stable Diffusion Prompt Book - OpenArt | OpenArt](https://openart.ai/promptbook)
 * [Control your AI images with these must-know parameters | Sagio Dev](https://www.sagiodev.com/blog/stable_diffusion_parameters/)
@@ -71,6 +71,6 @@ draft: false
 * [Stable Diffusion tutorials, prompts and resources - Stable Diffusion Art](https://stable-diffusion-art.com/)
 * [Clio Sketch ✍️](https://clio.so/)
 
-## Generative Anime
+### Generative Anime
 
 * [niji・journey](https://nijijourney.com/en/)

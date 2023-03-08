@@ -6,11 +6,11 @@ date: 2021-01-06 03:57:09
 draft: false
 ---
 
-# Machine Learning Andrew Ng Quizzes
+## Machine Learning Andrew Ng Quizzes
 
-## Week 1
+### Week 1
 
-### Introduction
+#### Introduction
 
 1. A computer program is said to learn from experience E with respect to some task T and some performance measure P if its performance on T, as measured by P, improves with experience E. Suppose we feed a learning algorithm a lot of historical weather data, and have it learn to predict weather. **What would be a reasonable choice for P?**
     - 🗹 The probability of it correctly predicting a future date’s weather.
@@ -63,23 +63,20 @@ draft: false
     - ☐ Machine learning is the field of allowing robots to act intelligently.
     - 🗹 Machine learning is the field of study that gives computers the ability to learn without being explicitly programmed.
 
-### Linear Regression with One Variable :
+#### Linear Regression with One Variable :
 
 1. Consider the problem of predicting how well a student does in her second year of college/university, given how well she did in her first year. Specifically, let x be equal to the number of “A” grades (including A-. A and A+ grades) that a student receives in their first year of college (freshmen year). We would like to predict the value of y, which we define as the number of “A” grades they get in their second year (sophomore year).  
     Here each row is one training example. Recall that in linear regression, our hypothesis is $h_\theta(x)=\theta_0+\theta_1x$ to denote the number of training examples.  
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253270_20210106042809097_6366.png)  
     For the training set given above (note that this training set may also be referenced in other questions in this $m$)? In the box below, please enter your answer (which should be a number between 0 and 10).  
-    
+
     ```
     4 
     ```
-    
+
 2. Many substances that can burn (such as gasoline and alcohol) have a chemical structure based on carbon atoms; for this reason they are called hydrocarbons. A chemist wants to understand how the number of carbon atoms in a molecule affects how much energy is released when that molecule combusts (meaning that it is burned). The chemist obtains the dataset below. In the column on the right, “kJ/mol” is the unit measuring the amount of energy released.  
-      
 
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253268_20210106042807663_5970.png)  
-
-      
 
      You would like to use linear regression $h_\theta(x) = \theta_0 + \theta_1x$ to estimate the amount of energy released (y) as a function of the number of carbon atoms (x). Which of the following do you think will be the values you obtain for $\theta_0$ and $\theta_1$ ? You should be able to select the right answer without actually implementing linear regression.  
 
@@ -92,23 +89,23 @@ draft: false
     Recall our definition of the cost function was $J(\theta_0, \theta_1 ) = \frac{1}{2m} \sum_{i=1}^{m} (h (x^{(i)} ) - y^{(i)})^2$  
     What is $J(0,1)$? In the box below,  
     please enter your answer (Simplify fractions to decimals when entering answer, and ‘.’ as the decimal delimiter e.g., 1.5).  
-    
+
     ```
     0.5
     ```
-    
+
 4. Suppose we set $\theta_0 = 0, \theta_1 = 1.5$ in the linear regression hypothesis from Q1. What is $h_\theta(2)$ ?  
-    
+
     ```
     3
     ```
-    
+
 5. Suppose we set $\theta_0 = -2, \theta_1 = 0.5$ in the linear regression hypothesis from Q1. What is $h_\theta(6)$?  
-    
+
     ```
     1
     ```
-    
+
 6. Let $f$ be some function so that $f(\theta_0 , \theta_1 )$ outputs a number. For this problem, f is some arbitrary/unknown smooth function (not necessarily the cost function of linear regression, so f may have local optima).  
 Suppose we use gradient descent to try to minimize $f(\theta_0 , \theta_1 )$ as a function of $\theta_0$ and $\theta_1$.  
 Which of the following statements are true? (Check all that apply.)
@@ -131,9 +128,9 @@ so that $h_{\theta}(x) = 0$
     - ☐ For this to be true, we must have $y^{(i)} = 0$ for every value of $i = 1, 2,…,m$.
     - 🗹 Our training set can be fit perfectly by a straight line, i.e., all of our training examples lie perfectly on some straight line.
 
-## Week 4
+### Week 4
 
-### Logistic Regression :
+#### Logistic Regression :
 
 1. Suppose that you have trained a logistic regression classifier, and it outputs on a new example a prediction $h_\theta(x) = 0.2$. This means (check all that apply):
     - ☐ Our estimate for P(y = 1|x; θ) is 0.8.
@@ -168,7 +165,7 @@ Which of the following are true? Check all that apply.
     - ☐ Figure:  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253280_20210106084222258_31191.png)
 
-### Regularization
+#### Regularization
 
 1. You are training a classification model with logistic regression. Which of the following statements are true? Check all that apply.
     - ☐ Introducing regularization to the model always results in equal or better performance on the training set.
@@ -207,9 +204,9 @@ Which of the following are true? Check all that apply.
     - ☐ Figure:  
     ![enter image description here](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253286_20210106085457521_31575.png)
 
-## Week 5
+### Week 5
 
-### Neural Networks - Representation :
+#### Neural Networks - Representation :
 
 1. Which of the following statements are true? Check all that apply.
     - 🗹 Any logical function over binary-valued (0 or 1) inputs $x_1$ and $x_2$ can be (approximately) represented using some neural network.
@@ -254,7 +251,7 @@ that apply.
     - ☐ It will decrease
     - ☐ Insufficient information to tell: it may increase or decrease.
 
-### Neural Networks: Learning :
+#### Neural Networks: Learning :
 
 1. You are training a three layer neural network and would like to use backpropagation to compute the gradient of the cost function. In the backpropagation algorithm, one of the steps is to update $\Delta_{ij}^{(2)} := \Delta_{ij}^{(2)} + \delta_i^{(3)} * (a^{(2)})_j$  
 for every i,j. Which of the following is a correct vectorization of this step?
@@ -284,9 +281,9 @@ for every i,j. Which of the following is a correct vectorization of this step?
     - 🗹 Suppose you are training a neural network using gradient descent. Depending on your random initialization, your algorithm may converge to different local optima (i.e., if you run the algorithm twice with different random initializations, gradient descent may converge to two different solutions).
     - ☐ If we initialize all the parameters of a neural network to ones instead of zeros, this will suffice for the purpose of “symmetry breaking” because the parameters are no longer symmetrically equal to zero.
 
-## Week 6
+### Week 6
 
-### Advice for Applying Machine Learning :
+#### Advice for Applying Machine Learning :
 
 1. You train a learning algorithm, and find that it has unacceptably high error on the test set. You plot the learning curve, and obtain the figure below. Is the algorithm suffering from high bias, high variance, or neither?  
 ![](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1610253301_20210106114811822_23068.png)
@@ -333,7 +330,7 @@ NOTE: Since the hypothesis performs poorly on the training set, it is suffering 
     - 🗹 When debugging learning algorithms, it is useful to plot a learning curve to understand if there is a high bias or high variance problem.
     - ☐ If a neural network has much lower training error than test error, then adding more layers will help bring the test error down because we can fit the test set better.
 
-## Links
+### Links
 
 - [Coursera-Machine-Learning/Week1Quiz.md at master · LiMengyang990726/Coursera-Machine-Learning](https://github.com/LiMengyang990726/Coursera-Machine-Learning/blob/master/Machine-Learning/Week1Quiz.md)
 - [atinesh-s/Coursera-Machine-Learning-Stanford: Machine learning-Stanford University](https://github.com/atinesh-s/Coursera-Machine-Learning-Stanford)

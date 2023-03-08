@@ -6,13 +6,13 @@ date: 2022-10-17 09:54
 draft: false
 ---
 
-# Text Manipulation and Expansion
+## Text Manipulation and Expansion
 
-## Text Manipulation
+### Text Manipulation
 
 - [NimbleText Data Manipulation, Text Manipulation, Code Generation and Automation](https://nimbletext.com/)
 
-## Text Expansion
+### Text Expansion
 
 - Espanso
 - [Text Blaze: Snippets and Templates for Chrome](https://blaze.today/)

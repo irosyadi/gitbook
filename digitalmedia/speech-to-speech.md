@@ -6,14 +6,14 @@ date: 2022-05-05 06:14:38
 draft: false
 ---
 
-# Speech to Speech (Fake Voice Generator)
+## Speech to Speech (Fake Voice Generator)
 
 Related links:  
 🔗 [Speech to Text Apps](speech-to-text.md)  
 🔗 [Text to Speech Apps](text-to-speech.md)  
 🔗 [Speech to Speech (Fake Voice Generator)](speech-to-speech.md)  
 
-## Fake Voice Generator Apps
+### Fake Voice Generator Apps
 
 - [15.ai: Natural TTS with minimal viable data](https://15.ai/)
 - [Uberduck](https://uberduck.ai/#mode=tts-basic)

@@ -6,11 +6,11 @@ date: 2022-09-30 12:12:41
 draft: false
 ---
 
-# Generative Audio Music
+## Generative Audio Music
 
 [AudioGen: Textually Guided Audio Generation](https://felixkreuk.github.io/text2audio_arxiv_samples/)
 
-## Music Generation
+### Music Generation
 
 - [deepjazz: deep learning for jazz](https://deepjazz.io/) [jisungk/deepjazz: Deep learning driven jazz generation using Keras & Theano!](https://github.com/jisungk/deepjazz)
 - [KarthikNayak/DeepRock: Rock Music using Deep Learning](https://github.com/KarthikNayak/DeepRock)
@@ -22,9 +22,8 @@ draft: false
 - [Real-time Performance RNN in the Browser](https://magenta.tensorflow.org/performance-rnn-browser)
 - [GRUV: Algorithmic Music Generation using Recurrent Neural Networks - Aran Nayebi](https://sites.google.com/site/anayebihomepage/cs224dfinalproject)
     - [MattVitelli/GRUV: GRUV is a Python project for algorithmic music generation.](https://github.com/MattVitelli/GRUV)
-    
 
-## Generative Musics
+### Generative Musics
 
 - [Generative.fm - Play](https://play.generative.fm/browse)
 - [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)

@@ -6,9 +6,9 @@ date: 2022-09-30 13:12:41
 draft: false
 ---
 
-# Generative Color Colorization
+## Generative Color Colorization
 
-## Colorization
+### Colorization
 
 - Pix2pix vs CycleGAN
     - Cycle-GAN can work in an 'unpaired' manner and various architectural differences. Unpaired image translation is much harder, as you demand the model to learn objects of different shapes, size, angle, texture, location in different scenes and settings on top of the actual task (coloring in this case). Requires more data and you don't have fine control on the learning. Formulating the coloring problem as a paired task makes more sense as you simply decrease the complexity of the problem without increasing data collection/annotation work.

@@ -6,9 +6,9 @@ date: 2020-11-29 19:37:58
 draft: false
 ---
 
-# Safety Helmet and Plate Detection
+## Safety Helmet and Plate Detection
 
-## Safety Helmet Detection Github Repos
+### Safety Helmet Detection Github Repos
 
 - [njvisionpower/Safety-Helmet-Wearing-Dataset](https://github.com/njvisionpower/Safety-Helmet-Wearing-Dataset): safety helmet dataset, segmented by Yolo
 - [wujixiu/helmet-detection](https://github.com/wujixiu/helmet-detection) : SSD-MobileNet, Faster-RCNN, TinyYOLO etc. [Paper](https://authors.elsevier.com/c/1ZOzK_L4MYHLYO)
@@ -32,7 +32,7 @@ draft: false
 - [Tejaswini1399/Detection-of-Motorcyclists-without-helmet](https://github.com/Tejaswini1399/Detection-of-Motorcyclists-without-helmet)
 - [PardeshiSourabh/ObjectDetectionHaar: Object Detection using Haar-like features to enforce helmet check for motorcyclists and improve rider safety](https://github.com/PardeshiSourabh/ObjectDetectionHaar)
 
-## License Plate Detection Github Repos
+### License Plate Detection Github Repos
 
 - [openalpr/openalpr](https://github.com/openalpr/openalpr): OpenALPR is an open-source Automatic License Plate Recognition library written in C++ with bindings in C#, Java, Node.js, Go, and Python. The library analyzes images and video streams to identify license plates.
 - [xuexingyu24/License_Plate_Detection_Pytorch](https://github.com/xuexingyu24/License_Plate_Detection_Pytorch): This is a two-stage lightweight and robust license plate recognition in MTCNN and LPRNet using Pytorch. MTCNN is a very well-known real-time detection model primarily designed for human face recognition. It is modified for license plate detection. LPRNet, another real-time end-to-end DNN, is utilized for subsequent recognition.
@@ -57,7 +57,7 @@ draft: false
 - [muskan269/License-Plate-Detection: This project detects and recognizes license plate of vehicles from an image or a video.](https://github.com/muskan269/License-Plate-Detection)Video
 - [AKowshik/License-Plate-Detection-Using-YOLO: A license plate detector that extracts plate information in real-time.](https://github.com/AKowshik/License-Plate-Detection-Using-YOLO) Yolo-Tasseract
 
-## Ideas
+### Ideas
 
 - Real-Time Helmet Detection: video-based, handheld based.
 - upgrade [wujixiu/helmet-detection](https://github.com/wujixiu/helmet-detection) : SSD-MobileNet, Faster-RCNN, TinyYOLO etc. [Paper](https://authors.elsevier.com/c/1ZOzK_L4MYHLYO)
@@ -68,7 +68,7 @@ draft: false
 - upgrade [mohanrajmit/Safety_Detection](https://github.com/mohanrajmit/Safety_Detection): realtime, YOLO
 - combined with plate identification?
 
-## Safety Helmet Detection Paper
+### Safety Helmet Detection Paper
 
 - [An Enhanced Approach for Detecting Helmet on Motorcyclists Using Image Processing and Machine Learning Techniques](https://link.springer.com/chapter/10.1007/978-981-13-0680-8_11) [Github Repo](https://github.com/abhijeet-talaulikar/Automatic-Helmet-Detection)
 - [Machine vision techniques for motorcycle safety helmet detection](https://ieeexplore.ieee.org/abstract/document/6726989/) [pdf](https://www.researchgate.net/profile/Rattapoom_Waranusast/publication/271464053_Machine_vision_techniques_for_motorcycle_safety_helmet_detection/links/56c6812a08ae03b93dda7198/Machine-vision-techniques-for-motorcycle-safety-helmet-detection.pdf)
@@ -107,7 +107,7 @@ draft: false
 - [Helmet violation processing using deep learning](https://ieeexplore.ieee.org/abstract/document/8369734/)
 - [Automatic Helmet Detection System on Motorcyclists Using YOLOv3](https://www.academia.edu/download/63648243/46420200616-19575-gumfbd.pdf)
 
-## Safety Helmet and Plate Detection Papers
+### Safety Helmet and Plate Detection Papers
 
 - [Automatic Detection of License Number Plate of Motorcyclists Without Helmet](http://jst.org.in/wp-content/uploads/2019/11/Automatic-Detection-of-License-Number-Plate-of-Motorcyclists-Without-Helmet.pdf) [pdf](http://jst.org.in/wp-content/uploads/2019/11/Automatic-Detection-of-License-Number-Plate-of-Motorcyclists-Without-Helmet.pdf)
 - [Smart Surveillance System for Automatic Detection of License Plate Number of Motorcyclists without Helmet](https://www.researchgate.net/profile/Jignyasa_Sanghavi/publication/325777319_Smart_Surveillance_System_for_Automatic_Detection_of_License_Plate_Number_of_Motorcyclists_without_Helmet/links/5b52919c0f7e9b240ff5162c/Smart-Surveillance-System-for-Automatic-Detection-of-License-Plate-Number-of-Motorcyclists-without-Helmet.pdf) [pdf](https://www.researchgate.net/profile/Jignyasa_Sanghavi/publication/325777319_Smart_Surveillance_System_for_Automatic_Detection_of_License_Plate_Number_of_Motorcyclists_without_Helmet/links/5b52919c0f7e9b240ff5162c/Smart-Surveillance-System-for-Automatic-Detection-of-License-Plate-Number-of-Motorcyclists-without-Helmet.pdf)

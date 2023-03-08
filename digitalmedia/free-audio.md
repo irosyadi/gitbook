@@ -6,7 +6,7 @@ date: 2021-05-23 12:09:21
 draft: false
 ---
 
-# Free Audio and Music
+## Free Audio and Music
 
 Free downloadable audio and music files.
 
@@ -15,7 +15,7 @@ Related links:
 🔗 [Audio and Music Tools](audio-tool.md)  
 🔗 [Free Audio and Music](free-audio.md)  
 
-## Free Audio
+### Free Audio
 
 - [Freesound.org](https://freesound.org/)
     - [Freesound Lab](https://labs.freesound.org/)
@@ -50,8 +50,7 @@ Related links:
 - [Royalty Free Background Music Downloads - Fesliyan Studios](https://www.fesliyanstudios.com/)
 - [Find sounds (Free Sound Effects) • BigSoundBank.com](https://bigsoundbank.com/search)
 
-
-## Free Ambient Music
+### Free Ambient Music
 
 - [Flowful - Boost productivity with customizable ambient music](https://www.flowful.app/)
 - [lofi.co - relax & focus](https://lofi.co/)
@@ -61,11 +60,11 @@ Related links:
 - [Macroblank - YouTube](https://www.youtube.com/c/Macroblank)
 - [Rainwave Video Game Music Radio](https://rainwave.cc/all/)
 
-## Free Birdsong
+### Free Birdsong
 
 - [xeno-canto :: Sharing bird sounds from around the world](https://www.xeno-canto.org/)
 
-## Creative Commons Licensed Music
+### Creative Commons Licensed Music
 
 - [CC Hound](https://cchound.com/)
 - [Starfrosch](https://starfrosch.com/)
@@ -74,6 +73,6 @@ Related links:
 - [Fangchia](https://media.fangchia.com/)
 - [Incompetech](https://incompetech.filmmusic.io/search/)
 
-## Free Licensed Music
+### Free Licensed Music
 
 - [BBC Sound Effect](https://bbcsfx.acropolis.org.uk/) License: free for educational use

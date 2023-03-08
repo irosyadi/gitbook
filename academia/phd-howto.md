@@ -6,7 +6,7 @@ date: 2022-06-20 08:24:13
 draft: false
 ---
 
-# PhD How To
+## PhD How To
 
 - [The Thesis Whisperer](https://thesiswhisperer.com/)
 - [DoctoralWriting SIG](https://doctoralwriting.wordpress.com/)
@@ -15,7 +15,6 @@ draft: false
 - [Raul Pacheco-Vega, PhD](http://www.raulpacheco.org/)
 - [patter - research education, academic writing, public engagement, funding, other eccentricities.](https://patthomson.net/)
 
-
-## PhD
+### PhD
 
 - [On being a PhD student of Robert Harper - Journal of Functional Programming - Cambridge Core](https://www.cambridge.org/core/journals/journal-of-functional-programming/article/on-being-a-phd-student-of-robert-harper/B68BCF31384084D9FDCB17A7DF1DE7A0)

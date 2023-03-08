@@ -6,9 +6,9 @@ date: 2021-01-13 14:47:30
 draft: false
 ---
 
-# Open Source Apps
+## Open Source Apps
 
-## Contents
+### Contents
 
 - [Front End](#front-end)
 - [Back End](#back-end)
@@ -16,7 +16,7 @@ draft: false
 - [Tools](#tools)
 - [Mobile](#mobile)
 
-## Front End
+### Front End
 
    - css
        - [postcss](https://github.com/postcss/postcss) - [POPULAR] Transforming styles with JS plugins
@@ -138,9 +138,7 @@ draft: false
        - [jekyll](https://github.com/jekyll/jekyll) - A blog-aware static site generator in Ruby
        - [hexo](https://github.com/hexojs/hexo) - A fast, simple & powerful blog framework, powered by Node.js
 
-       
-
-## Back End
+### Back End
 
    - containers
        - [kubernetes](https://github.com/kubernetes/kubernetes) - Production-Grade Container Scheduling and Management
@@ -210,7 +208,7 @@ draft: false
        - [requests](https://github.com/psf/requests) - A simple, yet elegant HTTP library.
        - [request](https://github.com/request/request) - Simplified HTTP request client.
 
-## Design
+### Design
 
   - icons
        - [Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
@@ -245,7 +243,7 @@ draft: false
    - admin
        - [AdminLTE](https://github.com/ColorlibHQ/AdminLTE) - Free admin dashboard template based on Bootstrap 4
 
-## Tools
+### Tools
 
    - editors
        - [vscode](https://github.com/microsoft/vscode) - Visual Studio Code
@@ -293,7 +291,7 @@ draft: false
        - [ansible](https://github.com/ansible/ansible) - a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain
        - [core](https://github.com/home-assistant/core) - Open source home automation that puts local control and privacy first
 
-## Mobile
+### Mobile
 
    - ios
        - [swift](https://github.com/apple/swift) - The Swift Programming Language

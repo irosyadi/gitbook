@@ -6,13 +6,13 @@ date: 2020-12-28 04:06:07
 draft: false
 ---
 
-# Electronics
+## Electronics
 
-## Electronic Blog
+### Electronic Blog
 
 * [Evil Mad Scientist Laboratories - Making the world a better place, one Evil Mad Scientist at a time.](https://www.evilmadscientist.com/)
 
-## Electronic Simulator
+### Electronic Simulator
 
 * [Everycircuit](https://everycircuit.com/app/)
 * [Online circuit simulator & schematic editor - CircuitLab](https://www.circuitlab.com/)
@@ -26,26 +26,26 @@ draft: false
 * [Home - QucsStudio](https://qucsstudio.de/)
 * [Digital Logic Sim by Sebastian Lague](https://sebastian.itch.io/digital-logic-sim)]
 
-## Electronic Diagram
+### Electronic Diagram
 
 * [Circuit Diagram Web Editor](https://www.circuit-diagram.org/editor/)
 * [Electrical CAD Software](https://www.proficad.com/)
 
-## EDA Simulator
+### EDA Simulator
 
 * [EDA Playground](https://www.edaplayground.com/) : Verilog, VHDL
 
-## Electronic Forum
+### Electronic Forum
 
 * [Electronic Lab](https://www.electronics-lab.com/) : Electronic Forum
 * [Forum for Electronics](https://www.edaboard.com/)
 
-## Electronic Book
+### Electronic Book
 
 * [Ultimate Electronics Book](https://ultimateelectronicsbook.com/)
 * [Socratic Electronics](https://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
-## Electronic Tutorial
+### Electronic Tutorial
 
 * [Electronic Tutorials](https://www.electronics-tutorials.ws/)
 * [Learn Sparkfun](https://learn.sparkfun.com/)

@@ -6,36 +6,36 @@ date: 2020-06-27 19:56:20
 draft: false
 ---
 
-# Alternative Frontend of Popular Websites
+## Alternative Frontend of Popular Websites
 
 💡 Alternative frontends offer ad-free and light browsing experiences.  
 💡 Alternative frontends also offer better user experiences than their original apps.
 
-## Collection
+### Collection
 
 - [digitalblossom/alternative-frontends: 🔐🌐 Privacy-respecting web frontends for popular services](https://github.com/digitalblossom/alternative-frontends#quora)
 - [Farside](https://farside.link/)
 - [mendel5/alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 
-## Tools
+### Tools
 
 - [LibRedirect](https://libredirect.github.io/) Redirector
 
-## Medium
+### Medium
 
 - [Scribe](https://scribe.rip/)
 
-## List
+### List
 
 - [mendel5/alternative-front-ends: Overview of alternative open source front-ends for popular internet platforms (e.g. YouTube, Twitter, etc.)](https://github.com/mendel5/alternative-front-ends)
 - [digitalblossom/alternative-frontends: Alternative privacy-respecting frontends for popular services](https://github.com/digitalblossom/alternative-frontends)
 - [Simple Web](https://simple-web.org/)
 
-## Redirector
+### Redirector
 
 - [einaregilsson/Redirector: Browser extension (Firefox, Chrome, Opera, Edge) to redirect urls based on regex patterns, like a client side mod_rewrite.](https://github.com/einaregilsson/Redirector)
 
-## List Redirection
+### List Redirection
 
 Twitter to nitter:
 
@@ -45,8 +45,6 @@ Twitter to nitter:
 4. Redirect to: <https://nitter.net/$1>
 5. Pattern type: Wildcard
 6. Pattern description is also optional.
-
- 
 
 YouTube to Invidious:
 
@@ -58,8 +56,6 @@ Redirect to: <https://invidious.snopyta.org/$1>
 5. Pattern type: Wildcard
 6. Pattern description is also optional.
 
- 
-
 Instagram to bibliogram:
 
 1. Description is optional but I use Instagram to bibliogram for understandability of Redirect.
@@ -69,8 +65,6 @@ Instagram to bibliogram:
 5. Pattern type: Wildcard
 6. Pattern description is also optional.
 
- 
-
 Reddit to old reddit:
 
 1. Description is optional but I use reddit to old reddit for understandability of Redirect.
@@ -79,8 +73,6 @@ Reddit to old reddit:
 4. Redirect to: <https://old.reddit.com/$1>
 5. Pattern type: Wildcard
 6. Pattern description is also optional.
-
- 
 
 Bonus: Removal of annoying popup of signin/signup for viewing any question on Quora website
 
@@ -126,12 +118,12 @@ Example: <https://www.reddit.com/> → <https://teddit.net/>
 Applies to: Main window (address bar)  
 Pattern type: Wildcard
 
-## Alternative Frontends
+### Alternative Frontends
 
 - [libredirect/libredirect: A web extension that redirects popular sites to alternative frontends and backends](https://github.com/libredirect/libredirect)
 - [Farside](https://farside.link/)
 - [Simple Web](https://simple-web.org/)
 
-## Privacy Redirector
+### Privacy Redirector
 
 - [LibRedirect](https://libredirect.github.io/)

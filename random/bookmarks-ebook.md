@@ -6,9 +6,9 @@ date: 2020-12-28 06:31:39
 draft: false
 ---
 
-# Bookmarks on Ebooks
+## Bookmarks on Ebooks
 
-## Ebook
+### Ebook
 
 * [Top Hacker News Books of All Time](https://hackernewsbooks.com/top-books-on-hacker-news)
 * [Introduction to Information Retrieval](https://nlp.stanford.edu/IR-book/)
@@ -16,9 +16,9 @@ draft: false
 * [Ebookee: Free Download eBooks Search Engine!](https://www.ebookee.com/)
 * [hypertextbook](https://hypertextbook.com/)
 
-## Free Ebook
+### Free Ebook
 
-### Free Book on Neural Network (Artificial Intelligence)
+#### Free Book on Neural Network (Artificial Intelligence)
 
 * [Neural Nets](https://www.inf.ed.ac.uk/teaching/courses/nlu/assets/reading/Gurney_et_al.pdf)[,](http://www.shef.ac.uk/psychology/gurney/notes/download.html) Kevin Gurney
 * [An Introduction to Artificial Neural Networks](http://arxiv.org/PS_cache/astro-ph/pdf/0102/0102224v1.pdf), C.A.L. Bailer-Jones berg, R. Gupta, H.P. Singh
@@ -63,9 +63,8 @@ draft: false
 19. [Practical Artificial Intelligence Programming in Java](https://archive.org/download/PracticalArtificialIntelligenceProgrammingWithJava/JavaAI3rd.pdf), Mark Watson
     
 20. [Prolog and Natural-Language Analysis](http://www.mtome.com/Publications/PNLA/prolog-digital.pdf), Fernando C. N. Pereira, Stuart M. Shieber
-    
 
-### [Free Books on Information Theory and Communication System](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-wireless-communication.html)
+#### [Free Books on Information Theory and Communication System](https://free-ebook-download-links.blogspot.com/2008/06/free-book-on-wireless-communication.html)
 
 1. [F**undamentals of Wireless Communication**](http://www.eecs.berkeley.edu/~dtse/book.html), David Tse and Pramod Viswanath
 2. [An Introduction to Wireless Technology](http://www.redbooks.ibm.com/redbooks/pdfs/sg244465.pdf), IBM
@@ -102,7 +101,7 @@ draft: false
 33. [Primer on Information Theory](ftp://ftp.ncifcrf.gov/pub/delila/primer.ps) by Thomas Schneider
 34. [Stochastic Processes, Detection and Estimation](https://www.rle.mit.edu/sia/courses/stochastic-processes-detection-and-estimation/)-A. S. Willsky and G. W. Wornell
 
-## eBook
+### eBook
 
 * [Learn Python the Hard Way](https://learnpythonthehardway.org/book/)
 * [22 Free Data Science Books](http://www.wzchen.com/data-science-books/)

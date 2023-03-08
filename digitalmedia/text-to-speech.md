@@ -6,14 +6,14 @@ date: 2022-05-05 05:14:38
 draft: false
 ---
 
-# Text to Speech Apps
+## Text to Speech Apps
 
 Related links:  
 🔗 [Speech to Text Apps](speech-to-text.md)  
 🔗 [Text to Speech Apps](text-to-speech.md)  
 🔗 [Speech to Speech (Fake Voice Generator)](speech-to-speech.md)  
 
-## Text to Speech Apps
+### Text to Speech Apps
 
 - [Modern Google-level STT Models Released](https://habr.com/en/post/519562/)
 - [codeforequity-at/botium-speech-processing: Botium Speech Processing](https://github.com/codeforequity-at/botium-speech-processing) : open source
@@ -36,7 +36,7 @@ Related links:
 - [Introducing Mimic 3 by Mycroft](https://mycroft.ai/blog/introducing-mimic-3/)
 - [snakers4/silero-models: Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple](https://github.com/snakers4/silero-models)
 
-## Research
+### Research
 
 - [Audio samples related to Tacotron, an end-to-end speech synthesis system by Google.](https://google.github.io/tacotron/)
 - [Kyubyong/speaker_adapted_tts: Making a TTS model with 1 minute of speech samples within 10 minutes](https://github.com/Kyubyong/speaker_adapted_tts)
@@ -49,7 +49,7 @@ Related links:
 - [CorentinJ/Real-Time-Voice-Cloning: Clone a voice in 5 seconds to generate arbitrary speech in real-time](https://github.com/CorentinJ/Real-Time-Voice-Cloning)
 - [r9y9/tacotron_pytorch: PyTorch implementation of Tacotron speech synthesis model.](https://github.com/r9y9/tacotron_pytorch)
 
-## Text to Speech
+### Text to Speech
 
 - [TinyGem.org - bookmarking and content recommendations for people who love to read Hacker News.](https://tinygem.org/listen/)
 - [https://www.locserendipity.com/TTS.html](https://www.locserendipity.com/TTS.html)
@@ -57,7 +57,7 @@ Related links:
 - [Matter - Chrome Web Store](https://chrome.google.com/webstore/detail/matter/knjbgabkeojmfdhindppcmhhfiembkeb)
 - [Balabolka](http://www.cross-plus-a.com/balabolka.htm)
 
-## Rank
+### Rank
 
 - [Murf AI](https://murf.ai/) ⭐⭐⭐⭐⭐
 - [Coqui](https://coqui.ai/) with speed 1.2 ⭐⭐⭐
@@ -66,7 +66,7 @@ Related links:
 - [FakeYou](https://fakeyou.com/) ⭐⭐⭐
 - [Flowtron: an Autoregressive Flow-based Generative Network for Text-to-Speech Synthesis - NVIDIA ADLR](https://nv-adlr.github.io/Flowtron)
 
-## Rank Indonesian
+### Rank Indonesian
 
 - [Murf AI](https://murf.ai/) ⭐⭐⭐
 - [Micmonster](https://micmonster.com/text-to-speech/indonesian-indonesia/) ⭐⭐⭐⭐⭐

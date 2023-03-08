@@ -6,30 +6,30 @@ date: 2020-07-25 20:32:39
 draft: false
 ---
 
-# Book and Tutorial Plan
+## Book and Tutorial Plan
 
 My upcoming planned books and tutorials.
 
-## Monographs
+### Monographs
 
 - Rooftop Solar System
 - Soft sensor
 - Rice Classification
 - DevOps for Embedded Systems
 
-## Popular Books
+### Popular Books
 
 - Markdown
 - A book about flags
 
-## Tutorials
+### Tutorials
 
 - Instrumentation Lab with Arduino
 - Deep Learning with Android
 
-## Tutorial Translation
+### Tutorial Translation
 
-### Machine Learning
+#### Machine Learning
 
 - [ML from Scratch](https://github.com/eriklindernoren/ML-From-Scratch#supervised-learning), License: MIT
 - [Machine Learning Experiments](https://github.com/trekhleb/machine-learning-experiments), License: MIT
@@ -41,15 +41,15 @@ My upcoming planned books and tutorials.
 - [STAT 453: Intro to Deep Learning @ UW-Madison (Spring 2020)](https://github.com/rasbt/stat453-deep-learning-ss20) License: MIT
 - [Get SH*T Done with PyTorch](https://github.com/curiousily/Getting-Things-Done-with-Pytorch) License: Apache
 
-### Python
+#### Python
 
 - [Python The No Theory Guide](https://github.com/iArunava/Python-TheNoTheoryGuide) License: MIT
 - [Python Awesome](https://github.com/gautam1858/python-awesome) License: MIT
 - [Practical Machine Learning with Python](https://github.com/dipanjanS/practical-machine-learning-with-python) License: Apache
 
-## Books Translation
+### Books Translation
 
-### Python
+#### Python
 
 - [Full Speed Python](https://github.com/joaoventura/full-speed-python/releases/) License: CC-BY
 - [Dive Into Python 3](https://diveintopython3.net/) CC-BY
@@ -65,7 +65,7 @@ My upcoming planned books and tutorials.
 - [Python in a Notebook](https://github.com/leriomaggio/python-in-a-notebook) License: CC-BY
 - [Python 3: from None to Machine](https://github.com/AstroMatt/book-python) [Web](https://python.astrotech.io/) License: CC-BY
 
-### Machine Learning
+#### Machine Learning
 
 - [Practical Deep Learning for Coders, v3](https://course.fast.ai/), [GitHub](https://github.com/fastai/course-v3), License: Apache
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning), License: MIT
@@ -92,12 +92,12 @@ My upcoming planned books and tutorials.
 - [Hacker's Guide to Machine Learning with Python](https://github.com/curiousily/Deep-Learning-For-Hackers) License: MIT
 - [A walk with fastai2](https://github.com/muellerzr/Practical-Deep-Learning-for-Coders-2.0) License: MIT
 
-### Data Science
+#### Data Science
 
 - [Learn Data Science](https://github.com/nborwankar/LearnDataScience) License: BSD
 - [Python Data Science](https://github.com/leriomaggio/python-data-science) License: LGPL
 
-### Maths
+#### Maths
 
 - [Interactive Linear Algebras](https://textbooks.math.gatech.edu/ila/index.html) License: GPL/GFDL
 - [Discover Linear Algebra](https://sites.ualberta.ca/~jsylvest/books/dla.html) License: GFDL
@@ -111,27 +111,27 @@ My upcoming planned books and tutorials.
 - [Calculus Lab Manual](https://spaces.pcc.edu/display/MS/Calculus+Lab+Manuals) or [this](https://spot.pcc.edu/math/clm/clm.html) License: CC-BY
 - [Discrete Mathematics](https://discrete.openmathbooks.org/dmoi3.html) License: CC-BY
 
-### Digital Signal Processing
+#### Digital Signal Processing
 
 - [Kalman and Bayesian Filter in Python](https://github.com/rlabbe/Kalman-and-Bayesian-Filters-in-Python) License: CC-BY
 - [Digital Signal Processing Lecture](https://github.com/spatialaudio/digital-signal-processing-lecture) License: CC-BY
 - [A Compact Primer on Digital Signal Processing](https://github.com/jackschaedler/circles-sines-signals) [Web](https://jackschaedler.github.io/circles-sines-signals/) License: Eclipse Public License
 
-### Education
+#### Education
 
 - [Teaching and Learning with Jupyter](https://jupyter4edu.github.io/jupyter-edu-book/) License: CC-BY
 
-### Computer Science
+#### Computer Science
 
 - [Algorithms and Data Structures](https://github.com/Bradfield/algos) [Web](https://bradfieldcs.com/algos/) License: CC0
 
-### Electrical Engineering
+#### Electrical Engineering
 
 - [Lesson of Electrical Circuit](https://www.ibiblio.org/kuphaldt/electricCircuits/) License: Design Science License, [All About Circuit Version](https://www.allaboutcircuits.com/textbook/)
 - [All about Circuits Worksheets](https://www.allaboutcircuits.com/worksheets/) License: CC-BY
 - [Fundamentals of Electrical Engineering I](https://open.umn.edu/opentextbooks/textbooks/fundamentals-of-electrical-engineering-1) License: CC-BY
 - [Socratic Electronics](https://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
-### Others
+#### Others
 
 - [Working-with-Climate-Data-in-Python](https://github.com/MarieHofmann/Working-with-Climate-Data-in-Python) License: CC-BY

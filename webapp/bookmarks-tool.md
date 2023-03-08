@@ -6,7 +6,7 @@ date: 2022-10-29 17:13
 draft: false
 ---
 
-# Bookmarks Tool
+## Bookmarks Tool
 
 - [LinkAce - Your self-hosted bookmark archive. Free and open source.](https://www.linkace.org/)
 - [Archivy](https://archivy.github.io/)

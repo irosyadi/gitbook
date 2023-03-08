@@ -6,50 +6,50 @@ date: 2022-06-03 21:05:13
 draft: false
 ---
 
-# Awesome Research and Academic Writing Assistant Tools
+## Awesome Research and Academic Writing Assistant Tools
 
 Related links:  
 🔗 [Paper and Article Search Tools](paper-search.md)  
 🔗 [Awesome Writing Assistant Tools](/app/writing-assitant-app)  
-🔗 [Awesome Research and Academic Writing Assistant Tools](paper-tool.md)  
-🔗 [Awesome Science Blogs and Forums](/research/science-blog)  
-🔗 [Awesome Scientific Journal Tools](../academia/journal-tool.md)  
+🔗 [Awesome Research and Academic Writing Assistant Tools](.md)  
+🔗 [Awesome Science Blogs and Forums](../research/science-blog.md)  
+🔗 [Awesome Scientific Journal Tools](journal-tool.md)  
 🔗 [Awesome Conferences Tools](conference-tool.md)  
 🔗 [Awesome Latex Apps](latex-tool.md)  
 
-## Reference Tools
+### Reference Tools
 
 - [Anystyle](https://anystyle.io/) : parse academic references
 - [Citation Finder](https://citation-finder.now.sh/) : parse academic references
     - [Citation Finder (Old Version)](http://git.macropus.org/citation-finder/)
 - [Makebib](http://www.snowelm.com/~t/doc/tips/makebib.perl.cgi)
 
-## Article/Paper Reading
+### Article/Paper Reading
 
 - [Ten Simple Rules for Reading a Scientific Paper](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1008032)
 
-## Web Annotation
+### Web Annotation
 
 - [Brainer • research easier • free Chrome extension](https://brainer.app/)
 - [Home : Hypothesis](https://web.hypothes.is/)
 
-## Research Open Data
+### Research Open Data
 
 - [Microsoft Research Open Data](https://msropendata.com/)
 - [Academic Torrents](https://academictorrents.com/)
 
-## List of Researcher and Academia Tools
+### List of Researcher and Academia Tools
 
 - [Scolary](https://scolary.com/)
 - [Tools for Academic Research - Tools for Academic Research - KausalFlow](https://tools.kausalflow.com/)
 - [emptymalei/awesome-research: a curated list of tools to help you with your research/life](https://github.com/emptymalei/awesome-research)
 
-## Research/Academia Forums
+### Research/Academia Forums
 
 - [Research Code](https://researchcode.com/)
 - Papers with Code
 - [DeepAI: The front page of A.I. - DeepAI](https://deepai.org/) AI Forum
 
-## Paper
+### Paper
 
 - [Fermat's Library - Home](https://fermatslibrary.com/) software to help illuminate academic papers

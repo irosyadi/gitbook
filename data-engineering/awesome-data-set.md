@@ -6,9 +6,9 @@ date: 2020-11-14 05:55:08
 draft: false
 ---
 
-# Awesome Data Set
+## Awesome Data Set
 
-## List of Dataset
+### List of Dataset
 
 - [Tensorflow Open Dataset](https://www.tensorflow.org/datasets/catalog/overview)
 - [Lionbridge](https://lionbridge.ai/datasets/)
@@ -36,11 +36,11 @@ draft: false
 - [Datasets for Data Mining, Data Science, and Machine Learning](https://www.kdnuggets.com/datasets/index.html)
 - [Harvard Dataverse](https://dataverse.harvard.edu/)
 
-## Dataset Tool
+### Dataset Tool
 
 - [Datasette](https://datasette.io/) An open-source multi-tool for exploring and publishing data
 
-## Specific Dataset
+### Specific Dataset
 
 - [TED Talk Data Set](https://www.kaggle.com/thegupta/ted-talk) [Scraper](https://github.com/The-Gupta/TED-Scraper/blob/master/Scraper.ipynb)
 - [MediaPipe Objectron by Google](https://ai.googleblog.com/2020/03/real-time-3d-object-detection-on-mobile.html) The model was designed for real-time 3D object detection for mobile devices. This model was trained on a fully annotated, real-world 3D dataset and could predict objects' 3D bounding boxes. [GitHub](https://github.com/google-research-datasets/Objectron/)

@@ -6,20 +6,20 @@ date: 2020-06-01 20:09:34
 draft: false
 ---
 
-# Hacking, Privacy, and Security
+## Hacking, Privacy, and Security
 
-## Security
+### Security
 
 - [2FA](2FA.md)
 - [encryption-cryptography](encryption-cryptography.md)
 - [privacy-security-anonymity](privacy-security-anonymity.md)
 
-## Privacy
+### Privacy
 
 - [email-alias](email-alias.md)
 - [vpn-wireguard](vpn-wireguard.md)
 
-## Hacking
+### Hacking
 
 - [adblock-app](adblock-app.md)
 - [host-file](host-file.md)
@@ -30,11 +30,11 @@ draft: false
 - [paywall-bypass](paywall-bypass.md)
 - [prank](prank.md)
 
-## Automation
+### Automation
 
 - [desktop-automation](desktop-automation.md)
 
-## OSINT
+### OSINT
 
 - [dns-tool](dns-tool.md)
 - [ip-tool](ip-tool.md)
@@ -44,7 +44,8 @@ draft: false
 - [web-testing](web-testing.md)
 - [website-monitoring](website-monitoring.md)
 
-## Network Tools
+### Network Tools
+
 - Password Generator
 - Data Breach Check
 - Screen Resolution Check

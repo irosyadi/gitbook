@@ -6,16 +6,16 @@ date: 2023-02-27 23:55
 draft: false
 ---
 
-# Symbolic Math Solver
+## Symbolic Math Solver
 
-## Online Math Solver
+### Online Math Solver
 
 - [Step-by-Step Calculator - Symbolab](https://www.symbolab.com/solver/step-by-step/)
 - [Wolfram Alpha](https://www.wolframalpha.com/) : also numerical computation, search engine, visualization
 - Microsoft Solver
 - Google Solver
 
-## Offline Math Solver
+### Offline Math Solver
 
 - [Mathics](https://mathics.org/)
 - [idanpa/calcpy: Calculator and advanced math solver in the comfort of your terminal, with familiar python.](https://github.com/idanpa/calcpy)
