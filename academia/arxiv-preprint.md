@@ -33,6 +33,7 @@ draft: false
 - [Scirate: Top arXiv Papers](https://scirate.com/)
 - [arXiv Vanity–Read academic papers from arXiv as web pages](https://www.arxiv-vanity.com/)
 - [ar5iv–Articles from arXiv.org as responsive HTML5 web documents](https://ar5iv.org/)
+- [search the arXiv](https://searchthearxiv.com/)
 
 ### Preprints List
 

@@ -77,3 +77,10 @@ Related links:
 - [Voicemaker](https://voicemaker.in/) ⭐⭐⭐⭐⭐
 - [Free TTS](https://freetts.com/) ⭐⭐
 - [Notevibes](https://notevibes.com/) ⭐⭐
+
+#### Text to Speech
+
+- [ElevenLabs || Prime Voice AI](https://beta.elevenlabs.io/)
+- [VALL-E](https://valle-demo.github.io/)
+- [AI Voice Generator: Versatile Text to Speech Software | Murf AI](https://murf.ai/)
+- [Play.ht dashboard](https://play.ht/app/audio-files)

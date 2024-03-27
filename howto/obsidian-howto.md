@@ -79,3 +79,7 @@ draft: false
 - [Gatsby knowledge base theme | gatsby-theme-kb](https://gatsby-project-kb.vercel.app/) [hikerpig/gatsby-project-kb: Developing gatsby-theme-kb, a Gatsby theme for publishing Knowledge Base.](https://github.com/hikerpig/gatsby-project-kb)
 - [Obsibian Template for Gatsby Theme Primer Wiki - Obsidian Template for Gatsby Theme Primer Wiki](https://demo-obsidian.owenyoung.com/), [theowenyoung/obsidian-template-gatsby-theme-primer-wiki](https://github.com/theowenyoung/obsidian-template-gatsby-theme-primer-wiki)
 - [Gatsby Starter for Gatsby Theme Primer Wiki - Gatsby Starter for Gatsby Theme Primer Wiki](https://demo-gatsby-starter-primer-wiki.owenyoung.com/)[gatsby-theme-primer-wiki/external-content at main · theowenyoung/gatsby-theme-primer-wiki · GitHub](https://github.com/theowenyoung/gatsby-theme-primer-wiki)
+
+### Obsidian AI
+
+- [AI Assistant for Obsidian | Christian B. B. Houmann](https://bagerbach.com/blog/obsidian-ai)

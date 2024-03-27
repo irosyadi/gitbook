@@ -1,5 +1,5 @@
 ---
-aliases: [Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors, Awesome List of Image Editors, Converters, and Processors]
+aliases: [Awesome List of Image Editor]
 title: Awesome List of Image Editors, Converters, and Processors
 tags: ["image", "editor", "converter"]
 date: 2020-06-16 16:12:32
@@ -31,13 +31,12 @@ draft: false
 
 - GIMP
 
-### Background Removal
+## AI Segmentation
 
-- [Remove BG](https://www.remove.bg/) : remove background with AI
-- [Erase BG](https://erase.bg/) : remove background with AI
-- [RemoveBackground.app](https://removebackground.app/)
-- [Online Background Remover 100% Free - PicWish](https://picwish.com/)
-- [Background remover: Remove your image background for free](https://www.photoroom.com/background-remover/)
+- [Segment Anything](https://segment-anything.com/demo)
+- [Cleanup.pictures](https://cleanup.pictures/#)
+
+[background-removal](background-removal.md)
 
 ### Dithering
 
@@ -81,6 +80,7 @@ draft: false
 - [SR3: Iterative Image Enhancement](https://iterative-refinement.github.io/)
 - [Janspiry/Image-Super-Resolution-via-Iterative-Refinement: Unoffical implementation about Image Super-Resolution via Iterative Refinement by Pytorch](https://github.com/Janspiry/Image-Super-Resolution-via-Iterative-Refinement)
 - [Gigapixel AI](https://www.topazlabs.com/gigapixel-ai)
+- [Bigjpg - AI Super-Resolution lossless image enlarging / upscaling tool using Deep Convolutional Neural Networks](https://bigjpg.com/en)
 
 ### Image Processing: Contect Aware Resizing
 

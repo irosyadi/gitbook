@@ -27,3 +27,9 @@ Related links:
 - [15.ai: Waifu Voice Generator](https://15.ai/about)
 - [Coqui](https://coqui.ai/) Wonder what you sound like speaking a foreign language?
 - [YourTTS](https://edresson.github.io/YourTTS/)
+- [Play.ht dashboard](https://play.ht/app/audio-files)
+
+
+### Voice Generation
+
+* [This Voice Doesn't Exist - Generative Voice AI](https://blog.elevenlabs.io/enter-the-new-year-with-a-bang/)

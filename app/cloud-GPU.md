@@ -96,6 +96,8 @@ RTX 3090 > Tesla V100 32GB > (RTX 3080 = RTX 6000)
 * 0.35: GTX 1080, RTX 3060, RTX 3050
 * 0.25: GTX 1070
 
+A100 > V100 > T4
+
 ### Machine Learning Deployment
 
 * [DataCrunch - A100 80GB GPU Servers](https://datacrunch.io/)

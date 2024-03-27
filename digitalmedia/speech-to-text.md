@@ -60,3 +60,10 @@ Related links:
 - [Audio/Video Transcription | 99% Accuracy, 12-HR Turnaround](https://scribie.com/)
 - [Transcription](https://www.read.ai/transcription)
 - [AssemblyAI | #1 API Platform for AI Models](https://www.assemblyai.com/)
+
+## Whisper
+
+- [Talk - GPT-2 meets Whisper in WebAssembly](https://whisper.ggerganov.com/talk/)
+- [whisper.cpp : WASM example](https://whisper.ggerganov.com/)
+- [Transcribe File](https://freesubtitles.ai/)
+- 

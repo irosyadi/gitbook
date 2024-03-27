@@ -115,6 +115,20 @@ draft: false
 ### Others
 
 - Screen Ruler : screen ruler (inferior to Picpick)
+- BlueStacks : Android Emulator
+- AppFlowy : Beautiful Markdown Notetaking
+- Accurate Times by Mohammad Odeh : Calculate New Moon for Hijri Calendar Calculation
+- GlassWire : Network logging and monitoring
+- FreeFileSync : File Syncronization
+- Malwarebytes : Anti Malware
+- Mobile Partner : Modem Software
+- Modern CSV : CSV editor
+- CSVed : CSV editor
+- Progress Telerik Fiddler : Network logging and monitoring
+- SMath Studio: to perform mathematical calculations and create graphs and plots.
+- tp-note
+- Microsoft Network Monitor: Network logging and monitoring
+- tp-note by Jens Getreu: Folder and file notetaking
 
 ### My Old Computer Specs
 

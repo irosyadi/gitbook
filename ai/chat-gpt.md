@@ -32,3 +32,8 @@ draft: false
 * [TypingMind — A better UI for ChatGPT](https://www.typingmind.com/)
 * [dminGod/CallGPT: A dead simple way to call the ChatGPT API from your machine](https://github.com/dminGod/CallGPT)
 * [ChatGPT on Telegram | Access ChatGPT anywhere on Telegram](https://chatgptontelegram.com/)
+* [FMInference/FlexGen: Running large language models on a single GPU for throughput-oriented scenarios.](https://github.com/FMInference/FlexGen)
+* [traghav/auto-redteam: Redteaming LLMs using other LLMs](https://github.com/traghav/auto-redteam)
+- [Promptly: Build AI Apps & Chatbots in Minutes | No-code AI App Builder](https://trypromptly.com/)
+- [https://libraria.dev](https://libraria.dev/)
+- [nomic-ai/gpt4all: gpt4all: a chatbot trained on a massive collection of clean assistant data including code, stories and dialogue](https://github.com/nomic-ai/gpt4all)
