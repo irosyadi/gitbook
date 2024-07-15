@@ -8,6 +8,8 @@ draft: false
 
 ## Imron Rosyadi
 
+![](https://i.vgy.me/pEzjRp.jpg)
+
 **Imron Rosyadi**  
 Jurusan Teknik Elektro (Electrical Engineering Department)  
 Fakultas Teknik (College of Engineering)  
@@ -16,35 +18,32 @@ Jl. Mayjen Sungkono Km. 5, Blater, Kalimanah, Purbalingga, Jawa Tengah, Indonesi
 Telp/Fax: 0281-6596700  
 Email: [imron.rosyadi@unsoed.ac.id](mailto:imron.rosyadi@unsoed.ac.id)  
 Page:  
-[1] <http://elektro.ft.unsoed.ac.id/imron-rosyadi/>  
-[2] <https://s.id/irosyadi>
+[1] <https://s.id/irosyadi>  
+[2] <http://elektro.ft.unsoed.ac.id/imron-rosyadi/>  
 
 ### Academic Profiles
 
 * [ORCID-ID](https://orcid.org/0000-0002-4367-4166)
 * [Google Scholar](https://scholar.google.co.id/citations?hl=en&user=PXnDWH4AAAAJ)
-* [Microsoft Academic](https://academic.microsoft.com/profile/j906g5ig-h38j-4e8h-9914-91g71fj6ii77/ImronRosyadi/publication/search?q=Imron%20Rosyadi&qe=%2540%2540%2540USER.PUBLICATIONS%253Df906c5ec-d38f-4a8d-9914-91c71bf6ee77&f=&orderBy=0)
 * [Academia](https://unsoed.academia.edu/ImronRosyadi)
 * [Researchgate](https://www.researchgate.net/profile/Imron_Rosyadi2)
-* [Mendeley](https://www.mendeley.com/profiles/imron-rosyadi1/)
 * [Scopus](https://www.scopus.com/authid/detail.uri?authorId=57211970447)
-* [Plubons](https://publons.com/researcher/3296025/imron-rosyadi)
+* [Web of Science](https://www.webofscience.com/wos/author/record/3365650)
 * [Sinta](https://sintadev.ristekdikti.go.id/authors/detail?id=5981458&view=overview)
-* [Forlap Dikti](https://forlap.dikti.go.id/dosen/detail/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2) / [PDDikti](https://pddikti.ristekdikti.go.id/data_dosen/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2)
+* [PDDikti](https://pddikti.kemdikbud.go.id/data_dosen/REIyQTcxNzMtQTM5Ri00OUZBLUEyNjgtMDJDNTE1MjQyNjY2)
 
 ### Personal Links
 
-* [Page at University](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
-* [Landing Page](https://irosyadi-lp.netlify.app/)
-* [Blog at Netlify](https://irosyadi.netlify.app/)
-* [Knowledge Base at Gitbook](https://irosyadi.gitbook.io/)
-* [Knowledge Base at Github](https://irosyadi.github.io/)
-* [Blog at Unsoed (not maintained)](https://irosyadi.blog.unsoed.ac.id/)
+* [Unsoed](https://elektro.ft.unsoed.ac.id/imron-rosyadi/)
+* [Github](https://github.com/irosyadi)
+* [Personal Portal](https://s.id/irosyadi)
 * [Linkedin](https://www.linkedin.com/in/irosyadi)
 * [Matlab Central](https://www.mathworks.com/matlabcentral/profile/authors/1778067-imron-rosyadi)
-* [Github](https://github.com/irosyadi), [Github Page](https://irosyadi.github.io/)
-* [Twitter](https://twitter.com/irosyadi)
-* [Youtube Channel](https://www.youtube.com/channel/UCE7mh_jnoH13OdwFernjr-w)
+
+## Education
+
+* B.Eng. from [Electrical Engineering Department, Gadjah Mada University](https://jteti.ugm.ac.id/)
+* M.Sc. from [Master of Science Program in Electrical Engineering, King Saud University](https://engineering.ksu.edu.sa/en/master_EE)
 
 ### Kuliah (Courses)
 
@@ -80,6 +79,7 @@ Page:
 * [Analysis and System Design for LoRa-based Networks](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 * [Computational Intelligence for Prediction and Forecasting](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
 * [PIR-based Object Identification](https://elektro.ft.unsoed.ac.id/imron-rosyadi/research/)
+* [Digital Twin for Rotating Machines](https://digital-twin.netlify.app/)
 
 ### Pengabdian kepada Masyarakat (Community Services)
 
@@ -89,6 +89,7 @@ Page:
 
 ### Publikasi (Publications)
 
+* Imron Rosyadi, Arief Wisnu Wardhana, M. Syuiful Aliim, Rifah Ediati, Dwi Ristiawan, 2023, [Multivariate soft sensor for product monitoring in the debutanizer column with deep learning](http://jos.unsoed.ac.id/index.php/eprocicma/article/view/7762)
 * Azis Wisnu Widhi Nugraha, **Imron Rosyadi**, Fahmi Khoerullatif, 2021, [_Penerapan DevOps pada Sistem Tertanam dengan ESP8266 menggunakan Mekanisme Over The Air_](https://ejurnal.itenas.ac.id/index.php/elkomika/article/view/4376), Elkomika, Volume 9, Number 3, pp: 1-9. \[[DOI](https://doi.org/10.26760/elkomika.v9i3.678)\]
 * Purnama Eka Wijaya, **Imron Rosyadi**, Acep Taryana, 2019, [_An attempt to adopt DevOps on embedded system development: empirical evidence_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012078), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://dx.doi.org/10.1088/1742-6596/1367/1/012078)\]
 * Eko Murdyantoro, Ridlo Setiawan, **Imron Rosyadi**, Azis WW Nugraha, Hesti Susilawati, Yogi Ramadhani, 2019, [_Prototype weather station uses LoRa wireless connectivity infrastructure_](https://iopscience.iop.org/article/10.1088/1742-6596/1367/1/012089), Journal of Physics: Conference Series, Volume 1367, Number 1, pp: 1-9. \[[DOI](https://doi.org/10.1088/1742-6596/1367/1/012089)\]

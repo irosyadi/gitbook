@@ -8,9 +8,7 @@ draft: false
 
 ## Zotero How To
 
-### Plug in
-
-- [Zotero中文社区](https://zotero-chinese.gitee.io/zotero-plugins/#/)
+### 
 
 ### Zotero PDF Sync
 

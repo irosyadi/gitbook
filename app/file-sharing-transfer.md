@@ -8,63 +8,58 @@ draft: false
 
 ## File Sharing, File Transfer and File Sync
 
+### Local P2P File Transfer, Browser-based
+
+- [Sharedrop](https://www.sharedrop.io/)
+- [Snapdrop](https://snapdrop.net/) (+ text)
+- [PairDrop](https://pairdrop.net/)
+- [FilePizza](https://file.pizza/)
+- [SSAVR](https://www.ssavr.com/) (+ text)
+- [Toffeeshare](https://toffeeshare.com/) (+ cloud-based, apps)
+- [WebDrop](https://webdrop.space/#/) (+ text)
+- [drop.lol](https://drop.lol/) (+ text)
+- [SendFiles](https://sendfiles.dev/)
+- [LANDrop](https://landrop.app/)
+- [WebWormhole](https://webwormhole.io/)
+- [Send Anywhere](https://send-anywhere.com/) (+ cloud-based, apps)
+
+### Local P2P File Transfer, Apps
+
+- [Nearby Share](https://www.android.com/better-together/nearby-share-app/) Android, Windows
+- [Warpinator](https://github.com/linuxmint/warpinator)Android, Windows, Linux
+- [Localsend](https://github.com/localsend/localsend) Android, iOS, Windows, Mac, Linux
+- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) Android, iOS, Windows, Mac, Linux
+
+### Local P2P File Transfer, Command Line
+
+- `python -m https.server` with python and access it in `https://localhost:8000` or `https://localIP:8000`
+- [Croc](https://github.com/schollz/croc) Windows, Linux, Mac
+- [Magic Wormhole](https://github.com/psanford/wormhole-william) Windows, Linux, Mac
+- [zget](https://github.com/nils-werner/zget)
+
+### Cloud P2P File Transfer
+
+- [Schollz](https://share.schollz.com/)
+- [Jirafeu](https://jirafeau.net/) (+ self-hosted)
+- [Wormhole](https://wormhole.app/)
+- [tnxfr](https://tnxfr.com/)
+- [JustBeamIt](https://justbeamit.com/)
+- [cl1p.net](https://cl1p.net/) (- text only)
+- [Sendfiles](https://sendfiles.online/)
+- [Send](https://send.vis.ee/)
+- [Tresorit Send](https://send.tresorit.com/)
+- [Dropbox Transfer](https://www.dropbox.com/transfer)
+
+### Bittorent-based P2P File Transfer
+
+- [Instant.io](https://instant.io/)
+
+### File Sync
+
+- [FreeFileSync](https://freefilesync.org/)
+- Sycnthing
+- Rclone
+
 ### List
 
 - [Zack's Notablog - Send a File](https://schollz.github.io/send-a-file/)
-
-### Local Peer to Peer File Sharing - Transfer
-
-- [Sharedrop](https://www.sharedrop.io/) - Local web based P2P file transfer
-- [Snapdrop](https://snapdrop.net/) - Local web based P2P file transfer
-- `python -m https.server` with python and access it in `https://localhost:8000` or `https://localIP:8000`
-- [SSAVR](https://www.ssavr.com/) - Local web based P2P text and file transfer
-- [Send Anywhere](https://send-anywhere.com/)
-- [Flying Carpet](https://github.com/spieglt/FlyingCarpet) - Local P2P file transfer
-- [Toffeeshare](https://toffeeshare.com/) - Local P2P file transfer
-- [FilePizza - Your files, delivered.](https://file.pizza/) - over BitTorrent over WebRTC
-- [WebDrop - Easily share files across devices!](https://webdrop.space/#/) WebTorrent trackers
-- [drop.lol](https://drop.lol/) - Local WebRTC
-- [SendFiles](https://sendfiles.dev/) with WebRTC
-- [LANDrop - Drop any files to any devices on your LAN](https://landrop.app/)
-- [Vegh - Fast P2P File Transfer](https://vegh.openode.io/)
-- [schollz/croc: Easily and securely send things from one computer to another](https://github.com/schollz/croc)
-- [Share - Zack Scholl](https://schollz.com/blog/share/)
-
-### Cloud based Peer to Peer File Sharing - Transfer
-
-- [Jirafeu](https://jirafeau.net/) [github](https://github.com/SocksPls/Jirafeau)- Self hosted, cloud based P2P file transfer
-    - example: [rosyadi.com](https://rosyadi.com/send/)
-- [WebWormhole](https://webwormhole.io/)
-- [Magic Wormhole](https://github.com/psanford/wormhole-william)
-- [Croc](https://github.com/schollz/croc)
-- [helloele](https://github.com/prakis/helloele)
-- [LBRY - Content Freedom](https://lbry.com/)
-- [mustakimali/just-an-email: App to share files & texts between your devices without installing anything](https://github.com/mustakimali/just-an-email), [tnxfr](https://tnxfr.com/)
-- [cl1p.net - The internet clipboard](https://cl1p.net/)
-
-### Web-RTC File Transfer
-
-- [Wormhole](https://wormhole.app/)
-- [Snapdrop](https://snapdrop.net/) (includes messaging)
-- [File.pizza](https://file.pizza/)(p2p)
-- [WEBWORMHOLE](https://webwormhole.io/)(p2p, has cli)
-- [Instant.io](https://instant.io/)
-- [ShareDrop](https://www.sharedrop.io/) (p2p, qr codes)
-- [JustBeamIt](https://justbeamit.com/) (p2p, 10 min)
-- [(Third-Party) Firefox Send](https://send.vis.ee/)
-- [Kipp](https://kipp.6f.io/) (24h, 150MB)
-- [Tresorit Send](https://send.tresorit.com/)
-- [Fast and secure file transfer - Dropbox](https://www.dropbox.com/transfer)
-- [Send](https://send.vis.ee/)
-
-### Decentralized File Transfer
-
-- [SkyTransfer](https://skytransfer.hns.siasky.net/#/)
-
-### File Send
-
-- [Sendfiles.online](https://sendfiles.online/?lang=en)
-
-### Sync
-
-- [FreeFileSync: Open Source File Synchronization & Backup Software](https://freefilesync.org/)

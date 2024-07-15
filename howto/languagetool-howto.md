@@ -11,7 +11,7 @@ draft: false
 - [LanguageTool](https://languagetool.org/) : open source, self-hosted, integration with VSCode
     - [Language Tools Community](https://community.languagetool.org/)
     - Language tools local HTTP server, [help](https://dev.languagetool.org/http-server):
-        - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin "*"`
+        - start with `java -cp languagetool-server.jar org.languagetool.server.HTTPServer --port 8081 --allow-origin`
         - Test the server with [http://localhost:8081/v2/check?language=en-US&text=my+text](http://localhost:8081/v2/check?language=en-US&text=my+text)
         - In windows, run on `cmd` not `powershell`.
 

@@ -94,19 +94,20 @@ Related links:
 
 - [Audiomass](https://audiomass.co/), [Github](https://github.com/pkalogiros/audiomass)Audio Editor
 
-### Other Audio Tools
+### Virtual Audio Tools
 
 - [VB-Audio Virtual Apps](https://vb-audio.com/Cable/) audio output to audio input
+- [Virtual Audio Cable](https://vac.muzychenko.net/en/download.htm)
 
 ### Working with Virtual Audio Tools
 
 #### Audio Recording - Transcription
 
+![](https://i.vgy.me/dseXwK.png)
+
 Benefits/drawbacks:
 
 - We cannot listen the audio output from playback apps
-
-![VAC Audio Recording](_v_images/20211023055131420_4883.png)
 
 Use cases:
 
@@ -114,21 +115,21 @@ Use cases:
 
 #### Audio Input Mixing
 
-![Audio Input Mixing](_v_images/20211023055947660_4903.png)
+![](https://i.vgy.me/0ySNH7.png)
 
 Use cases:
 
-- Record with multip<https://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023055947660_4903.pngP)> to Audacity
+- Record with multiple input to Audacity
 - Broadcast with multiple input (our voice + music from AIMP) to Zoom, Youtube etc.
 
 #### Audio Output Mixing
 
-![Audio Output Mixing](_v_images/20211023060503358_26770.png)
+![](https://i.vgy.me/TPqaWD.png)
 
 Setting:
 
 - OS Sound Setting
-    - Outp<https://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023060503358_26770.pngine> 1 VAC Microphone
+    - Output 1 VAC Microphone
 - VAC Repeater Setting
     - Wave in: Line 1 VAC Microphone
     - Wave out: Speaker/Headphone
@@ -141,11 +142,11 @@ Use cases:
 
 #### Zoom Audio Recording/Transcription
 
-![Zoom Recording Transcription](_v_images/20211023061101034_12558.png)
+![](https://i.vgy.me/xtHYpP.png)
 
 #### Google Meet Audio Transcription
 
-- Open Google Meet, usi<https://raw.githubusercontent.com/irosyadi/vnote.image/master/vnotebook/app/music-audio-tool.md/20211023061101034_12558.pngsing> default Mic
+- Open Google Meet, using default Mic
 
 But we cannot do both Speechtexter and Google Docs  
 We cannot do both Speechtexter and Voice Note  

@@ -23,3 +23,4 @@ draft: false
 - [Harvard CS109A - Syllabus](https://harvard-iacs.github.io/2021-CS109A/pages/syllabus.html)
 - [Harvard CS109A - CS109a: Introduction to Data Science](https://harvard-iacs.github.io/2021-CS109A/)
 - [2021-CS109A/content at master · Harvard-IACS/2021-CS109A](https://github.com/Harvard-IACS/2021-CS109A/tree/master/content)
+- [CS50's Introduction to Artificial Intelligence with Python](https://cs50.harvard.edu/ai/2023/)

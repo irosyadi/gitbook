@@ -11,7 +11,7 @@ draft: false
 ### Online
 
 - [SimPDF](https://simpdf.com/), [Github](https://github.com/shashanoid/Simpdf)
-- [Tools PDF24](https://tools.pdf24.org/en/)
+- [Tools PDF24](https://tools.pdf24.org/en/) merge, split, compress, extract, edit, protect
 - [Smallpdf](https://smallpdf.com/)
 - [Foxit PDF Tools](https://www.foxitsoftware.com/pdf-converter/)
 - [Free PDF sign, combine and merge tool, split or reorder pages of multiple documents. Sign the document](https://pdfwrench.com/)
@@ -28,6 +28,11 @@ draft: false
 - [Diff PDFs - ParePdf](https://parepdf.com/) : Compare two PDFs
 - [PDFTRon](https://www.pdftron.com/webviewer/demo/) : document manipulation
 - [https://kc0bfv.github.io/WASM-PDF-Combiner/](https://kc0bfv.github.io/WASM-PDF-Combiner/)
+- [PDF Tool](https://www.pdftool.org/en) : encrypt, decrypt, rotate, remove, optimize, split, merge
+- [Human Tools](https://humantools.io/) combine, split, convert
+- [PDF Annotator - Sign & Annotate PDF Files without sacrificing your privacy](https://pdf-annotator.repeat.day/) : annotate
+- [SimplePDF - A free PDF editor to easily edit documents and fill in forms](https://simplepdf.eu/) annotate
+- [pdfModer: mod your PDF](https://timothebarbe.github.io/pdfModer/)
 
 ### PDF Reader
 
